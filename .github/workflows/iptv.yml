@@ -1,0 +1,35 @@
+name: Global Database Updater
+
+on:
+  schedule:
+    # 12:00 AM IST = 18:30 UTC (Previous Day)
+    # Cron format: Minute Hour Day Month DayOfWeek
+    - cron: '30 18 * * *'
+  workflow_dispatch: # Allows manual trigger button
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Fetcher Script
+        run: python scripts/fetcher.py
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-Update: Global Database Refresh"
+          file_pattern: 'database/* database_by_countries_list/*'

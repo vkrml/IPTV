@@ -373,7 +373,9 @@
   {
     "id": "LanaTV.lb",
     "name": "Lana TV",
-    "alt_names": [],
+    "alt_names": [
+      "LTV"
+    ],
     "network": null,
     "owners": [],
     "country_code": "LB",
@@ -399,15 +401,17 @@
       "site_name": "Lana TV",
       "lang": "fr"
     },
-    "website": "https://lanacanal.tv/",
+    "website": "https://ltv.com.lb/",
     "launched": null,
     "closed": null
   },
   {
-    "id": "MTV.lb",
-    "name": "MTV",
-    "alt_names": [],
-    "network": null,
+    "id": "MTVLebanon.lb",
+    "name": "MTV Lebanon",
+    "alt_names": [
+      "Murr Television"
+    ],
+    "network": "MTV Lebanon",
     "owners": [
       "MTV SAL"
     ],
@@ -426,49 +430,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "MTV.lb",
-      "feed": "SD",
-      "site": "shahid.mbc.net",
-      "site_id": "49923518527492",
-      "site_name": "MTV Lebanon",
-      "lang": "fr"
-    },
-    "website": "http://www.mtv.com.lb/",
-    "launched": "2009-04-07",
-    "closed": null
-  },
-  {
-    "id": "MTV.lb",
-    "name": "MTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "MTV SAL"
-    ],
-    "country_code": "LB",
-    "country_name": "Lebanon",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png",
-    "stream_url": "https://shls-live-enc.edgenextcdn.net/out/v1/45ad6fbe1f7149ad9f05f8aefc38f6c0/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MTV.lb",
-      "feed": "SD",
-      "site": "shahid.mbc.net",
-      "site_id": "49923518527492",
-      "site_name": "MTV Lebanon",
-      "lang": "fr"
-    },
+    "tv_guide": null,
     "website": "http://www.mtv.com.lb/",
     "launched": "2009-04-07",
     "closed": null
@@ -786,10 +748,12 @@
   {
     "id": "OneFM.lb",
     "name": "OneFM",
-    "alt_names": [],
-    "network": null,
+    "alt_names": [
+      "One FM 99.1"
+    ],
+    "network": "MTV Lebanon",
     "owners": [
-      "MTV Lebanon"
+      "MTV SAL"
     ],
     "country_code": "LB",
     "country_name": "Lebanon",
@@ -800,7 +764,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://imgur.com/O4DuR9G",
+    "logo": "https://i.ibb.co/Vp2G9wTz/onefmlb.png",
     "stream_url": "https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,

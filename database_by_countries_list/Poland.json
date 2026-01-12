@@ -210,34 +210,6 @@
     "closed": null
   },
   {
-    "id": "BTBHD.pl",
-    "name": "BTB HD",
-    "alt_names": [
-      "Bombaska Telewizja Boża"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/U8mcRal.png",
-    "stream_url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://sites.google.com/view/btb-bom",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "BuzzfeedUnsolved.pl",
     "name": "Buzzfeed Unsolved",
     "alt_names": [],
@@ -1845,6 +1817,32 @@
     "closed": null
   },
   {
+    "id": "SzlagierTV.pl",
+    "name": "Szlagier TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/VQk19Ng.png",
+    "stream_url": "http://80.53.89.117:29980/SzlagierTV/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.szlagiertv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TBNPolska.pl",
     "name": "TBN Polska",
     "alt_names": [],
@@ -3141,39 +3139,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.postimg.cc/NMHjPBCf/tvpinfo.png",
-    "stream_url": "https://turbotv.tv/play/link/8e4dcd78-bdc3-4d41-b361-13c8e8ae0efc/eyJpdiI6IlJmaEs3c2orL2JvblhSeU9oNTh6QlE9PSIsInZhbHVlIjoiMm5JOWNzYll1MXc3Mk1PNnFsTk5MR3VrRUlPQXZNWDJaT3BKcTY3UThkVWZTQjdBZm03NklVVjhpS1lLN3E2VjBoT25MYzhPL09kdnRJUGRNR3EzWVpubHlDNXNGOWh2Mlk3Rzd2TGhLbVE9IiwibWFjIjoiZmY1MTNiYzc1MDkxOWIwYWM4NWU4Y2U4YTFiZmM1MzMwMDhhMDcwYmRhMWEwYWIwNDM5YjEwNGQ3ZmE1YTgyYyIsInRhZyI6IiJ9.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPInfo.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-info-462",
-      "site_name": "TVP Info",
-      "lang": "pl"
-    },
-    "website": "https://www.tvp.info/",
-    "launched": "2007-10-06",
-    "closed": null
-  },
-  {
-    "id": "TVPInfo.pl",
-    "name": "TVP Info",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/NMHjPBCf/tvpinfo.png",
     "stream_url": "https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -3287,109 +3252,6 @@
       "lang": "de"
     },
     "website": "https://polonia.tvp.pl/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVPRozrywka.pl",
-    "name": "TVP Rozrywka",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/05Vx5px.png",
-    "stream_url": "https://turbotv.tv/play/link/9fa40d4c-2056-435b-9cfd-a3f8a6557776/eyJpdiI6Imx3cWVqNjcvMlR6aWs0WEdLeGROc1E9PSIsInZhbHVlIjoiei8zcm12aW45YUpwWGx3Q21aZHRKYkN4RzZRenFHT000YmRMOXZyK0V6NVp0M2s1ajdNZ0lpc3hWSmlGUi80TlJLYml5Y3g1ekk1RnJDakVVOFNoL3k5TXdFcTA5dHQxbzVHQTdWSnFsZ2M9IiwibWFjIjoiYzFjMTNkYzA2NTQ4ZjhkNzZjNTQyMzVmN2E4YzkzMmI3YzM4YTQ0ZWFiMjg1ZWIxY2U0NzFiMzI2YTE2NzZmZSIsInRhZyI6IiJ9.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPRozrywka.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-rozrywka-159",
-      "site_name": "TVP Rozrywka",
-      "lang": "pl"
-    },
-    "website": "https://tvprozrywka.tvp.pl/",
-    "launched": "2013-04-15",
-    "closed": null
-  },
-  {
-    "id": "TVPSeriale.pl",
-    "name": "TVP Seriale",
-    "alt_names": [],
-    "network": "TVP",
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/MuRtvXk.png",
-    "stream_url": "https://turbotv.tv/play/link/f1314272-bb13-4b53-bdee-d265a3627a8e/eyJpdiI6InZNakpxclQyeXNIaG9XWmg2b3RjZlE9PSIsInZhbHVlIjoiNmUvMitoYlYydm40VVNCaS82Mmlub08zazQ0d3FXakE0aWp6YWdXTHpIaDFGZEQycW45RkJKR2pXeHVkZEJYUXgyWkM3em5wTUJLaHU3QTJTMUNIWlR3blFaUm1VNm5WaENzNnN4WTZGOUE9IiwibWFjIjoiNTM2ZTdiZWE4MDcwNjhkNWM0NWExZmI3NWZiMjBhYzIxOTY5NGVjYjI5OGU1OGQwZDMzMDk2OGU1NmMyOGEyMiIsInRhZyI6IiJ9.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPSeriale.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-seriale-130",
-      "site_name": "TVP Seriale",
-      "lang": "pl"
-    },
-    "website": "https://seriale.tvp.pl/",
-    "launched": "2010-12-06",
-    "closed": null
-  },
-  {
-    "id": "TVPSport.pl",
-    "name": "TVP Sport",
-    "alt_names": [],
-    "network": "TVP",
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/JUZDOCO.png",
-    "stream_url": "https://turbotv.tv/play/link/c28f5f5d-8830-4768-9452-733a1d80646f/eyJpdiI6Ik02dExRMUpoVThnUUFDYXZnSm5QbXc9PSIsInZhbHVlIjoiR2E3cysyRTJnQXVUanhsR3hxdXdHUGlkSzZsZFJiSkZ5b00xdjVTckIwTDV5cW53OE03WW9tRmg2RGxDZWZtTm9BSXZsVnVwSHpRK0Y1UnlnK3hOZGUxSVN6azlBNzI2N2FvdHBUQnlXUFk9IiwibWFjIjoiYzRhOTZhY2Y1ZjBmMzFkMWQzODJlNGY0ZjIzYWFmMjVlNDBmNjhjYmM1YzJhODQxNGY4ZjNmZTJmOTFhZTU1MiIsInRhZyI6IiJ9.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPSport.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-sport-40",
-      "site_name": "TVP Sport",
-      "lang": "pl"
-    },
-    "website": "https://sport.tvp.pl/",
     "launched": null,
     "closed": null
   },

@@ -210,6 +210,34 @@
     "closed": null
   },
   {
+    "id": "BTBMusic.pl",
+    "name": "BTB Music",
+    "alt_names": [],
+    "network": "Telewizja BTB",
+    "owners": [
+      "Telewizja BTB"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://btb.j00r.us/images/logo_BTBMusic.webp",
+    "stream_url": "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://btb.j00r.us",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BuzzfeedUnsolved.pl",
     "name": "Buzzfeed Unsolved",
     "alt_names": [],
@@ -289,6 +317,41 @@
     },
     "website": "https://www.rakuten.tv/pl/live_channels/cartoon-classics",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DisneyChannel.pl",
+    "name": "Disney Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "The Walt Disney Company Limited"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/854KwmH1/disneychannel.png",
+    "stream_url": "https://liveovh011.cda.pl/enc103/disneychannelhdraw/disneychannelhdraw.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyChannel.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "disney-channel-478",
+      "site_name": "Disney Channel",
+      "lang": "pl"
+    },
+    "website": "http://www.disney.pl/",
+    "launched": "2010-08-01",
     "closed": null
   },
   {
@@ -914,6 +977,30 @@
     "is_nsfw": false,
     "logo": "https://i.ibb.co/bR80zsz5/7701.jpg",
     "stream_url": "https://app.viloud.tv/hls/channel/e32c100fc7304040b61e6cc98b041f93.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Pogoda24TV.pl",
+    "name": "Pogoda24 TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/d0GfMcSs/114731.jpg",
+    "stream_url": "http://80.53.89.117:29980/Pogoda24/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -2306,6 +2393,61 @@
     "closed": null
   },
   {
+    "id": "TVC.pl",
+    "name": "TVC",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/1Wmib2f.png",
+    "stream_url": "http://80.53.89.117:29980/TVC/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVC.pl",
+      "feed": "SD",
+      "site": "m.tv.sms.cz",
+      "site_id": "TVC",
+      "site_name": "TVC",
+      "lang": "cs"
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVCSuper.pl",
+    "name": "TVC Super",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/6pRQ69fs/tvcsuper.png",
+    "stream_url": "http://80.53.89.117:29980/TVCSuper/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVKStella.pl",
     "name": "TVK Stella",
     "alt_names": [
@@ -3659,6 +3801,39 @@
       "lang": "pl"
     },
     "website": "https://www.wp.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WTK.pl",
+    "name": "WTK",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/RG8X3to.png",
+    "stream_url": "http://80.53.89.117:29980/WTK/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "WTK.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "wtk-492",
+      "site_name": "WTK",
+      "lang": "pl"
+    },
+    "website": "https://wtk.pl/",
     "launched": null,
     "closed": null
   },

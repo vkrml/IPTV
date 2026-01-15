@@ -1773,7 +1773,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMAND_TV_HD/images/LOGO_HD/LOGO_HD_image.png",
     "stream_url": "http://103.167.255.18:8085/play/a0mc/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -1808,7 +1808,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMAND_TV_HD/images/LOGO_HD/LOGO_HD_image.png",
     "stream_url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -1843,7 +1843,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMAND_TV_HD/images/LOGO_HD/LOGO_HD_image.png",
     "stream_url": "http://103.182.170.32:8888/play/a03v",
     "stream_quality": "576p",
     "stream_format": null,
@@ -7589,8 +7589,10 @@
     "id": "GoodNewsTV.in",
     "name": "GoodNews TV",
     "alt_names": [],
-    "network": null,
-    "owners": [],
+    "network": "GoodNews",
+    "owners": [
+      "Goodnews Channel Pvt. Ltd."
+    ],
     "country_code": "IN",
     "country_name": "India",
     "subdivision": null,
@@ -7615,7 +7617,7 @@
       "lang": "en"
     },
     "website": "https://goodnewstelevision.com/",
-    "launched": null,
+    "launched": "2016-01-01",
     "closed": null
   },
   {
@@ -16387,13 +16389,17 @@
     "id": "ShubhsandeshTV.in",
     "name": "Shubhsandesh TV",
     "alt_names": [],
-    "network": null,
-    "owners": [],
+    "network": "GoodNews",
+    "owners": [
+      "Goodnews Channel Pvt. Ltd."
+    ],
     "country_code": "IN",
     "country_name": "India",
     "subdivision": null,
     "city": null,
-    "categories": [],
+    "categories": [
+      "religious"
+    ],
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/hfk5jKE.png",
@@ -16411,7 +16417,7 @@
       "lang": "en"
     },
     "website": "https://www.shubhsandeshtv.com/",
-    "launched": null,
+    "launched": "2012-01-01",
     "closed": null
   },
   {
@@ -18363,14 +18369,16 @@
     "id": "SubhavaarthaTV.in",
     "name": "Subhavaartha TV",
     "alt_names": [],
-    "network": null,
-    "owners": [],
+    "network": "GoodNews",
+    "owners": [
+      "Goodnews Channel Pvt. Ltd."
+    ],
     "country_code": "IN",
     "country_name": "India",
     "subdivision": null,
     "city": null,
     "categories": [
-      "news"
+      "religious"
     ],
     "languages": [],
     "is_nsfw": false,
@@ -18389,7 +18397,7 @@
       "lang": "en"
     },
     "website": "http://www.subhavaarthatv.com/",
-    "launched": null,
+    "launched": "2007-01-01",
     "closed": null
   },
   {

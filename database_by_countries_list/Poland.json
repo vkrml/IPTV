@@ -981,6 +981,42 @@
     "closed": null
   },
   {
+    "id": "Polsat.pl",
+    "name": "Polsat",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/xff6zGN.png",
+    "stream_url": "https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Polsat.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-38",
+      "site_name": "Polsat",
+      "lang": "pl"
+    },
+    "website": "https://www.polsat.pl/",
+    "launched": "1992-12-05",
+    "closed": null
+  },
+  {
     "id": "PolsatNews.pl",
     "name": "Polsat News",
     "alt_names": [],
@@ -1037,6 +1073,42 @@
     "logo": "https://i.imgur.com/sx1yPuc.png",
     "stream_url": "https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatNews.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-news-100",
+      "site_name": "Polsat News",
+      "lang": "pl"
+    },
+    "website": "https://www.polsatnews.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PolsatNews.pl",
+    "name": "Polsat News",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sx1yPuc.png",
+    "stream_url": "https://cdn-s-playnow-live.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -2043,6 +2115,37 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png",
     "stream_url": "https://lb2-e2-32.pluscdn.pl/ch/1502601/309/hls/84c3557b/masterlist.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TV4.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tv-4-360",
+      "site_name": "TV 4",
+      "lang": "pl"
+    },
+    "website": "https://www.tv4.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TV4.pl",
+    "name": "TV4",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png",
+    "stream_url": "https://cdn-s-playnow-live.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

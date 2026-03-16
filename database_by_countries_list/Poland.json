@@ -1,5 +1,29 @@
 [
   {
+    "id": "2x2.pl",
+    "name": "2x2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.tvpolsat.info/wp-content/uploads/2023/03/2x2-logo.png",
+    "stream_url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc117/2x2hdraw/2x2hdraw.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "4FunKids.pl",
     "name": "4 Fun Kids",
     "alt_names": [],
@@ -178,6 +202,30 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://btb.j00r.us/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BTBInternational.pl",
+    "name": "BTB International",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://kononopedia.ru/lib/exe/fetch.php?cache=&w=700&h=700&tok=dbc35d&media=kanaly:btbinternational.png",
+    "stream_url": "https://emisja.btb.j00r.us/iptv/channel/2.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -842,32 +890,6 @@
     "closed": null
   },
   {
-    "id": "Mazowszetv.pl",
-    "name": "Mazowsze.tv",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/0j2DbB1z/m6-1.jpg",
-    "stream_url": "https://live20.bozztv.com/giatvplayout7/giatv-211328/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://mazowsze.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Moconomy.pl",
     "name": "Moconomy",
     "alt_names": [
@@ -939,6 +961,41 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NatGeoPeople.pl",
+    "name": "Nat Geo People",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "National Geographic Partners"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/960px-New_NatGeo_People_logo.svg.png",
+    "stream_url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc024/natgeopeoplehdraw/natgeopeoplehdraw.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NatGeoPeople.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "nat-geo-people-625",
+      "site_name": "Nat Geo People",
+      "lang": "pl"
+    },
+    "website": null,
+    "launched": "2015-10-01",
     "closed": null
   },
   {
@@ -1467,6 +1524,32 @@
     "closed": null
   },
   {
+    "id": "PorucznikKaburaTV.pl",
+    "name": "Porucznik Kabura TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/jvdkBbQw/light-9992.png",
+    "stream_url": "https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc127/porucznikkaburaraw/porucznikkaburaraw.mpd",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.cda.pl/tv/porucznik_kabura",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Puls2.pl",
     "name": "Puls 2",
     "alt_names": [],
@@ -1873,6 +1956,41 @@
     "closed": null
   },
   {
+    "id": "SundanceTV.pl",
+    "name": "Sundance TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "AMC Networks Inc."
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/960px-SundanceTV_2014.svg.png",
+    "stream_url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc108/sundancehdraw/sundancehdraw.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SundanceTV.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "sundance-channel-237",
+      "site_name": "Sundance TV",
+      "lang": "pl"
+    },
+    "website": "http://www.sundancetv.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SuperExpressTV.pl",
     "name": "Super Express TV",
     "alt_names": [
@@ -1899,32 +2017,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://tv.se.mediateka.pl/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SzlagierTV.pl",
-    "name": "Szlagier TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/VQk19Ng.png",
-    "stream_url": "https://vefgpbwcjjjbxfng.naszatv.pl/tracks-v1a1/mono.ts.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.szlagiertv.com/",
     "launched": null,
     "closed": null
   },
@@ -2655,39 +2747,6 @@
     },
     "website": "https://hd.tvp.pl/",
     "launched": "2008-08-06",
-    "closed": null
-  },
-  {
-    "id": "TVPHistoria.pl",
-    "name": "TVP Historia",
-    "alt_names": [],
-    "network": "TVP",
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Bc4QZiy.png",
-    "stream_url": "https://lowa8026-cmyk.github.io/tvpvod/399702.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPHistoria.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-historia-74",
-      "site_name": "TVP Historia",
-      "lang": "pl"
-    },
-    "website": "https://historia.tvp.pl/",
-    "launched": "2007-05-03",
     "closed": null
   },
   {

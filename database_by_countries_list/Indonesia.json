@@ -1,33 +1,5 @@
 [
   {
-    "id": "AKTV.id",
-    "name": "AKTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Akwan Media"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/DUY5WXf.png",
-    "stream_url": "https://e.siar.us/live/aktv.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.aktv.co.id/",
-    "launched": "2016-12-30",
-    "closed": null
-  },
-  {
     "id": "AlBahjahTV.id",
     "name": "Al-Bahjah TV",
     "alt_names": [],
@@ -1501,6 +1473,34 @@
     "tv_guide": null,
     "website": "http://www.dhohotv.com/",
     "launched": "2004-01-01",
+    "closed": null
+  },
+  {
+    "id": "DMITV.id",
+    "name": "DMI TV",
+    "alt_names": [
+      "Tawaf TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/VvVgb6dN/logo-tawaf.png",
+    "stream_url": "https://tvstreamcast.com/tawaftv.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.dmitv.id/",
+    "launched": null,
     "closed": null
   },
   {

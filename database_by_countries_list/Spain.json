@@ -1034,6 +1034,41 @@
     "closed": null
   },
   {
+    "id": "Antena3Internacional.es",
+    "name": "Antena 3 Internacional",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Atresmedia Corporación de Medios de Comunicación SA"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png",
+    "stream_url": "http://187.190.55.136:5501/udp/225.1.1.101:5101",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Antena3Internacional.es",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch6292",
+      "site_name": "ANTENA 3",
+      "lang": "es"
+    },
+    "website": "https://www.antena3internacional.com/",
+    "launched": "1995-01-01",
+    "closed": null
+  },
+  {
     "id": "APunt.es",
     "name": "A Punt",
     "alt_names": [
@@ -1192,6 +1227,39 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png",
     "stream_url": "http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Atrescine.es",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#a3cine",
+      "site_name": "Atrescine",
+      "lang": "es"
+    },
+    "website": "https://www.atrescine.com/",
+    "launched": "2018-03-02",
+    "closed": null
+  },
+  {
+    "id": "Atrescine.es",
+    "name": "Atrescine",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png",
+    "stream_url": "http://187.190.55.136:5501/udp/225.1.1.20:5020",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -2649,6 +2717,42 @@
     "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
     "stream_url": "https://ztnr.rtve.es/ztnr/5466990.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Clan.es",
+      "feed": "SD",
+      "site": "programacion-tv.elpais.com",
+      "site_id": "505",
+      "site_name": "Clan TVE",
+      "lang": "es"
+    },
+    "website": "http://www.rtve.es/infantil/",
+    "launched": "2005-12-12",
+    "closed": null
+  },
+  {
+    "id": "Clan.es",
+    "name": "Clan",
+    "alt_names": [],
+    "network": "TVE",
+    "owners": [
+      "RTVE"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids",
+      "public"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
+    "stream_url": "https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -4202,6 +4306,42 @@
     "closed": null
   },
   {
+    "id": "La1.es",
+    "name": "La 1",
+    "alt_names": [],
+    "network": "TVE",
+    "owners": [
+      "RTVE"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general",
+      "public"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
+    "stream_url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "La1.es",
+      "feed": "SD",
+      "site": "tv-programme.telecablesat.fr",
+      "site_id": "206",
+      "site_name": "TVE 1",
+      "lang": "fr"
+    },
+    "website": "http://www.rtve.es/television/",
+    "launched": "1956-10-28",
+    "closed": null
+  },
+  {
     "id": "La1Canarias.es",
     "name": "La 1 Canarias",
     "alt_names": [],
@@ -4221,6 +4361,35 @@
     "is_nsfw": false,
     "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
     "stream_url": "https://ztnr.rtve.es/ztnr/5190066.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.rtve.es/television/tve-canarias/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "La1Canarias.es",
+    "name": "La 1 Canarias",
+    "alt_names": [],
+    "network": "TVE",
+    "owners": [
+      "RTVE"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general",
+      "public"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
+    "stream_url": "https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -4260,8 +4429,8 @@
     "closed": null
   },
   {
-    "id": "La2.es",
-    "name": "La 2",
+    "id": "La1Catalunya.es",
+    "name": "La 1 Catalunya",
     "alt_names": [],
     "network": "TVE",
     "owners": [
@@ -4277,22 +4446,15 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.ibb.co/rfsr9PSh/La-2.png",
-    "stream_url": "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8",
-    "stream_quality": "1080p",
+    "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
+    "stream_url": "https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "La2.es",
-      "feed": "SD",
-      "site": "tv-programme.telecablesat.fr",
-      "site_id": "207",
-      "site_name": "TVE 2",
-      "lang": "fr"
-    },
-    "website": "https://www.rtve.es/television/",
-    "launched": "1966-10-15",
+    "tv_guide": null,
+    "website": "https://www.rtve.es/television/catalunya/",
+    "launched": null,
     "closed": null
   },
   {
@@ -5819,6 +5981,37 @@
     "closed": null
   },
   {
+    "id": "Radio3.es",
+    "name": "Radio 3",
+    "alt_names": [
+      "Radio 3 Webcam",
+      "RNE Radio 3"
+    ],
+    "network": "TVE",
+    "owners": [
+      "RTVE"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/RNE_Radio_3_2026.svg/500px-RNE_Radio_3_2026.svg.png",
+    "stream_url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.rtve.es/play/videos/directo/canales-lineales/radio-3-webcam/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RadioBocairentTV.es",
     "name": "Radio Bocairent TV",
     "alt_names": [
@@ -7042,6 +7235,36 @@
     "closed": null
   },
   {
+    "id": "RNEparatodos.es",
+    "name": "RNE para todos",
+    "alt_names": [
+      "Radio Nacional de España Para Todos"
+    ],
+    "network": "TVE",
+    "owners": [
+      "RTVE"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/dsgrWTP8/fast-rneaudioparatodos-nac.png",
+    "stream_url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.rtve.es/play/videos/directo/canales-lineales/rne-para-todos/",
+    "launched": "2024-09-30",
+    "closed": null
+  },
+  {
     "id": "ROTVValencia.es",
     "name": "ROTV Valencia",
     "alt_names": [],
@@ -7528,6 +7751,43 @@
     "logo": "https://i.ibb.co/0jxLdjnY/TDP.png",
     "stream_url": "https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Teledeporte.es",
+      "feed": "SD",
+      "site": "programacion-tv.elpais.com",
+      "site_id": "9",
+      "site_name": "Teledeporte",
+      "lang": "es"
+    },
+    "website": "http://www.rtve.es/television/",
+    "launched": "1994-02-12",
+    "closed": null
+  },
+  {
+    "id": "Teledeporte.es",
+    "name": "Teledeporte",
+    "alt_names": [
+      "TDP"
+    ],
+    "network": "TVE",
+    "owners": [
+      "RTVE"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/0jxLdjnY/TDP.png",
+    "stream_url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

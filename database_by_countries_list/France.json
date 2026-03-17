@@ -452,10 +452,10 @@
     "tv_guide": {
       "channel": "AfricanewsEnglish.fr",
       "feed": "SD",
-      "site": "vidio.com",
-      "site_id": "12784",
-      "site_name": "AFRICANEWS TV",
-      "lang": "id"
+      "site": "watch.whaletvplus.com",
+      "site_id": "756042898482927067",
+      "site_name": "africanews english",
+      "lang": "en"
     },
     "website": "https://www.africanews.com/",
     "launched": "2016-04-20",
@@ -487,10 +487,10 @@
     "tv_guide": {
       "channel": "AfricanewsEnglish.fr",
       "feed": "SD",
-      "site": "vidio.com",
-      "site_id": "12784",
-      "site_name": "AFRICANEWS TV",
-      "lang": "id"
+      "site": "watch.whaletvplus.com",
+      "site_id": "756042898482927067",
+      "site_name": "africanews english",
+      "lang": "en"
     },
     "website": "https://www.africanews.com/",
     "launched": "2016-04-20",
@@ -1782,7 +1782,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "CineNanar.fr",
+      "feed": "SD",
+      "site": "watch.whaletvplus.com",
+      "site_id": "894095716199695405",
+      "site_name": "Ciné Nanar",
+      "lang": "fr"
+    },
     "website": "https://communityzylo7.wixsite.com/cine-nanar",
     "launched": null,
     "closed": null
@@ -1812,7 +1819,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "CineWestern.fr",
+      "feed": "SD",
+      "site": "watch.whaletvplus.com",
+      "site_id": "894098327523034629",
+      "site_name": "Ciné Western",
+      "lang": "fr"
+    },
     "website": "https://communityzylo7.wixsite.com/cine-western-fr",
     "launched": null,
     "closed": null
@@ -1842,7 +1856,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "CineWestern.fr",
+      "feed": "SD",
+      "site": "watch.whaletvplus.com",
+      "site_id": "894098327523034629",
+      "site_name": "Ciné Western",
+      "lang": "fr"
+    },
     "website": "https://communityzylo7.wixsite.com/cine-western-fr",
     "launched": null,
     "closed": null
@@ -2163,7 +2184,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "EmotionL.fr",
+      "feed": "SD",
+      "site": "watch.whaletvplus.com",
+      "site_id": "894100013540970483",
+      "site_name": "Emotion'L",
+      "lang": "fr"
+    },
     "website": "https://communityzylo7.wixsite.com/emotionl",
     "launched": null,
     "closed": null
@@ -2442,10 +2470,10 @@
     "tv_guide": {
       "channel": "EuronewsFrench.fr",
       "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "3900",
-      "site_name": "Euronews Français",
-      "lang": "en"
+      "site": "watch.whaletvplus.com",
+      "site_id": "756064564344786696",
+      "site_name": "euronews français",
+      "lang": "fr"
     },
     "website": "https://fr.euronews.com/",
     "launched": "1993-01-01",
@@ -2480,10 +2508,10 @@
     "tv_guide": {
       "channel": "EuronewsFrench.fr",
       "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "3900",
-      "site_name": "Euronews Français",
-      "lang": "en"
+      "site": "watch.whaletvplus.com",
+      "site_id": "756064564344786696",
+      "site_name": "euronews français",
+      "lang": "fr"
     },
     "website": "https://fr.euronews.com/",
     "launched": "1993-01-01",
@@ -2518,50 +2546,12 @@
     "tv_guide": {
       "channel": "EuronewsFrench.fr",
       "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "3900",
-      "site_name": "Euronews Français",
-      "lang": "en"
+      "site": "watch.whaletvplus.com",
+      "site_id": "756064564344786696",
+      "site_name": "euronews français",
+      "lang": "fr"
     },
     "website": "https://fr.euronews.com/",
-    "launched": "1993-01-01",
-    "closed": null
-  },
-  {
-    "id": "EuronewsGerman.fr",
-    "name": "Euronews German",
-    "alt_names": [
-      "Euronews Deutsch",
-      " Euronews GE"
-    ],
-    "network": "Euronews",
-    "owners": [
-      "Euronews SA"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/8t9mdg9.png",
-    "stream_url": "https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "EuronewsGerman.fr",
-      "feed": "SD",
-      "site": "web.magentatv.de",
-      "site_id": "482",
-      "site_name": "Euronews Deutsch",
-      "lang": "de"
-    },
-    "website": "https://de.euronews.com/",
     "launched": "1993-01-01",
     "closed": null
   },
@@ -2705,9 +2695,9 @@
     "tv_guide": {
       "channel": "EuronewsPortuguese.fr",
       "feed": "SD",
-      "site": "vodafone.pt",
-      "site_id": "2747",
-      "site_name": "Euronews PT",
+      "site": "watch.whaletvplus.com",
+      "site_id": "756066615384608731",
+      "site_name": "euronews português",
       "lang": "pt"
     },
     "website": "https://pt.euronews.com/",
@@ -2743,10 +2733,10 @@
     "tv_guide": {
       "channel": "EuronewsSpanish.fr",
       "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "1559",
-      "site_name": "Euronews Español",
-      "lang": "en"
+      "site": "watch.whaletvplus.com",
+      "site_id": "756063841859148746",
+      "site_name": "euronews español",
+      "lang": "es"
     },
     "website": "https://es.euronews.com/",
     "launched": "1993-01-01",
@@ -4735,7 +4725,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "FrequenceNovelas.fr",
+      "feed": "SD",
+      "site": "watch.whaletvplus.com",
+      "site_id": "956148002287389587",
+      "site_name": "Fréquence Novelas",
+      "lang": "fr"
+    },
     "website": "https://communityzylo7.wixsite.com/frequence-novelas",
     "launched": null,
     "closed": null
@@ -5041,7 +5038,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "IntoCrime.fr",
+      "feed": "SD",
+      "site": "watch.whaletvplus.com",
+      "site_id": "894115135240080097",
+      "site_name": "IntoCrime",
+      "lang": "fr"
+    },
     "website": "https://communityzylo7.wixsite.com/intocrime",
     "launched": null,
     "closed": null
@@ -7207,10 +7211,10 @@
     "tv_guide": {
       "channel": "QwestTV.fr",
       "feed": "SD",
-      "site": "orangetv.orange.es",
-      "site_id": "1088",
+      "site": "watch.whaletvplus.com",
+      "site_id": "404672260155644405",
       "site_name": "Qwest TV",
-      "lang": "es"
+      "lang": "en"
     },
     "website": "https://www.qwest.tv/",
     "launched": null,
@@ -7240,10 +7244,10 @@
     "tv_guide": {
       "channel": "QwestTV.fr",
       "feed": "SD",
-      "site": "orangetv.orange.es",
-      "site_id": "1088",
+      "site": "watch.whaletvplus.com",
+      "site_id": "404672260155644405",
       "site_name": "Qwest TV",
-      "lang": "es"
+      "lang": "en"
     },
     "website": "https://www.qwest.tv/",
     "launched": null,
@@ -7273,10 +7277,10 @@
     "tv_guide": {
       "channel": "QwestTV.fr",
       "feed": "SD",
-      "site": "orangetv.orange.es",
-      "site_id": "1088",
+      "site": "watch.whaletvplus.com",
+      "site_id": "404672260155644405",
       "site_name": "Qwest TV",
-      "lang": "es"
+      "lang": "en"
     },
     "website": "https://www.qwest.tv/",
     "launched": null,
@@ -8754,10 +8758,10 @@
     "tv_guide": {
       "channel": "TraceSportStars.fr",
       "feed": "HD",
-      "site": "tvcesoir.fr",
-      "site_id": "84826583/trace-sport-stars",
+      "site": "watch.whaletvplus.com",
+      "site_id": "626555045429117070",
       "site_name": "Trace Sport Stars",
-      "lang": "fr"
+      "lang": "en"
     },
     "website": "http://www.trace.tv/fr/tv/sport",
     "launched": "2011-06-01",
@@ -8787,10 +8791,10 @@
     "tv_guide": {
       "channel": "TraceSportStars.fr",
       "feed": "HD",
-      "site": "tvcesoir.fr",
-      "site_id": "84826583/trace-sport-stars",
+      "site": "watch.whaletvplus.com",
+      "site_id": "626555045429117070",
       "site_name": "Trace Sport Stars",
-      "lang": "fr"
+      "lang": "en"
     },
     "website": "http://www.trace.tv/fr/tv/sport",
     "launched": "2011-06-01",
@@ -8820,10 +8824,10 @@
     "tv_guide": {
       "channel": "TraceSportStars.fr",
       "feed": "HD",
-      "site": "tvcesoir.fr",
-      "site_id": "84826583/trace-sport-stars",
+      "site": "watch.whaletvplus.com",
+      "site_id": "626555045429117070",
       "site_name": "Trace Sport Stars",
-      "lang": "fr"
+      "lang": "en"
     },
     "website": "http://www.trace.tv/fr/tv/sport",
     "launched": "2011-06-01",
@@ -8853,10 +8857,10 @@
     "tv_guide": {
       "channel": "TraceSportStars.fr",
       "feed": "HD",
-      "site": "tvcesoir.fr",
-      "site_id": "84826583/trace-sport-stars",
+      "site": "watch.whaletvplus.com",
+      "site_id": "626555045429117070",
       "site_name": "Trace Sport Stars",
-      "lang": "fr"
+      "lang": "en"
     },
     "website": "http://www.trace.tv/fr/tv/sport",
     "launched": "2011-06-01",
@@ -8886,10 +8890,10 @@
     "tv_guide": {
       "channel": "TraceSportStars.fr",
       "feed": "HD",
-      "site": "tvcesoir.fr",
-      "site_id": "84826583/trace-sport-stars",
+      "site": "watch.whaletvplus.com",
+      "site_id": "626555045429117070",
       "site_name": "Trace Sport Stars",
-      "lang": "fr"
+      "lang": "en"
     },
     "website": "http://www.trace.tv/fr/tv/sport",
     "launched": "2011-06-01",
@@ -8923,10 +8927,10 @@
     "tv_guide": {
       "channel": "TraceUrban.fr",
       "feed": "SD",
-      "site": "vodafone.pt",
-      "site_id": "3015",
+      "site": "watch.whaletvplus.com",
+      "site_id": "626513244395669364",
       "site_name": "Trace Urban",
-      "lang": "pt"
+      "lang": "en"
     },
     "website": "https://fr.trace.tv/trace-urban/",
     "launched": "2010-12-15",
@@ -8960,10 +8964,10 @@
     "tv_guide": {
       "channel": "TraceUrban.fr",
       "feed": "SD",
-      "site": "vodafone.pt",
-      "site_id": "3015",
+      "site": "watch.whaletvplus.com",
+      "site_id": "626513244395669364",
       "site_name": "Trace Urban",
-      "lang": "pt"
+      "lang": "en"
     },
     "website": "https://fr.trace.tv/trace-urban/",
     "launched": "2010-12-15",
@@ -8997,10 +9001,10 @@
     "tv_guide": {
       "channel": "TraceUrban.fr",
       "feed": "SD",
-      "site": "vodafone.pt",
-      "site_id": "3015",
+      "site": "watch.whaletvplus.com",
+      "site_id": "626513244395669364",
       "site_name": "Trace Urban",
-      "lang": "pt"
+      "lang": "en"
     },
     "website": "https://fr.trace.tv/trace-urban/",
     "launched": "2010-12-15",
@@ -9034,10 +9038,10 @@
     "tv_guide": {
       "channel": "TraceUrban.fr",
       "feed": "SD",
-      "site": "vodafone.pt",
-      "site_id": "3015",
+      "site": "watch.whaletvplus.com",
+      "site_id": "626513244395669364",
       "site_name": "Trace Urban",
-      "lang": "pt"
+      "lang": "en"
     },
     "website": "https://fr.trace.tv/trace-urban/",
     "launched": "2010-12-15",
@@ -9071,10 +9075,10 @@
     "tv_guide": {
       "channel": "TraceUrban.fr",
       "feed": "SD",
-      "site": "vodafone.pt",
-      "site_id": "3015",
+      "site": "watch.whaletvplus.com",
+      "site_id": "626513244395669364",
       "site_name": "Trace Urban",
-      "lang": "pt"
+      "lang": "en"
     },
     "website": "https://fr.trace.tv/trace-urban/",
     "launched": "2010-12-15",
@@ -9108,10 +9112,10 @@
     "tv_guide": {
       "channel": "TraceUrban.fr",
       "feed": "SD",
-      "site": "vodafone.pt",
-      "site_id": "3015",
+      "site": "watch.whaletvplus.com",
+      "site_id": "626513244395669364",
       "site_name": "Trace Urban",
-      "lang": "pt"
+      "lang": "en"
     },
     "website": "https://fr.trace.tv/trace-urban/",
     "launched": "2010-12-15",
@@ -9145,10 +9149,10 @@
     "tv_guide": {
       "channel": "TraceUrban.fr",
       "feed": "SD",
-      "site": "vodafone.pt",
-      "site_id": "3015",
+      "site": "watch.whaletvplus.com",
+      "site_id": "626513244395669364",
       "site_name": "Trace Urban",
-      "lang": "pt"
+      "lang": "en"
     },
     "website": "https://fr.trace.tv/trace-urban/",
     "launched": "2010-12-15",
@@ -9182,10 +9186,10 @@
     "tv_guide": {
       "channel": "TraceUrban.fr",
       "feed": "SD",
-      "site": "vodafone.pt",
-      "site_id": "3015",
+      "site": "watch.whaletvplus.com",
+      "site_id": "626513244395669364",
       "site_name": "Trace Urban",
-      "lang": "pt"
+      "lang": "en"
     },
     "website": "https://fr.trace.tv/trace-urban/",
     "launched": "2010-12-15",
@@ -9219,10 +9223,10 @@
     "tv_guide": {
       "channel": "TraceUrban.fr",
       "feed": "SD",
-      "site": "vodafone.pt",
-      "site_id": "3015",
+      "site": "watch.whaletvplus.com",
+      "site_id": "626513244395669364",
       "site_name": "Trace Urban",
-      "lang": "pt"
+      "lang": "en"
     },
     "website": "https://fr.trace.tv/trace-urban/",
     "launched": "2010-12-15",

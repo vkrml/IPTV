@@ -805,6 +805,72 @@
     "closed": null
   },
   {
+    "id": "History2.pl",
+    "name": "History 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
+    "stream_url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc008/history2hdraw/history2hdraw.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "History2.pl",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#history-channel-2",
+      "site_name": "History Channel 2",
+      "lang": "hr"
+    },
+    "website": "https://www.historytv.pl/history2",
+    "launched": "2014-10-28",
+    "closed": null
+  },
+  {
+    "id": "History.pl",
+    "name": "History",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "stream_url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc004/historyhdraw/historyhdraw.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "History.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "history-91",
+      "site_name": "HISTORY",
+      "lang": "pl"
+    },
+    "website": "https://www.historytv.pl/",
+    "launched": "2008-04-09",
+    "closed": null
+  },
+  {
     "id": "Jail.pl",
     "name": "Jail",
     "alt_names": [],
@@ -1323,6 +1389,42 @@
     "closed": null
   },
   {
+    "id": "PolsatNews2.pl",
+    "name": "Polsat News 2",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polsat_News_2_2021_gradient.svg/500px-Polsat_News_2_2021_gradient.svg.png",
+    "stream_url": "https://lb2-e1-91.pluscdn.pl/lv/1533809/392/hls/4cca941c/masterlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatNews2.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-news-2-471",
+      "site_name": "Polsat News 2",
+      "lang": "pl"
+    },
+    "website": "http://www.polsatnews.pl/",
+    "launched": "2014-06-09",
+    "closed": null
+  },
+  {
     "id": "PolsatNews.pl",
     "name": "Polsat News",
     "alt_names": [],
@@ -1603,7 +1705,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "RACERInternational.pl",
+      "feed": "FAST",
+      "site": "watch.whaletvplus.com",
+      "site_id": "931186243466302958",
+      "site_name": "RACER International",
+      "lang": "en"
+    },
     "website": "https://www.rakuten.tv/pl/live_channels/racer-international",
     "launched": null,
     "closed": null
@@ -2684,6 +2793,39 @@
     "closed": null
   },
   {
+    "id": "TVP1.pl",
+    "name": "TVP1",
+    "alt_names": [],
+    "network": "TVP",
+    "owners": [
+      "Telewizja Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ewpSjBs.png",
+    "stream_url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/278259/enc129/tvp1hdraw/tvp1hdraw.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVP1.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tvp-1-321",
+      "site_name": "TVP 1",
+      "lang": "pl"
+    },
+    "website": "https://tvp1.tvp.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVP2.pl",
     "name": "TVP2",
     "alt_names": [],
@@ -2701,6 +2843,39 @@
     "logo": "https://i.imgur.com/XxCc32B.png",
     "stream_url": "https://estreams.tv.nej.cz/dash/CH_TVP2_Portable.ism/playlist.mpd",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVP2.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tvp-2-323",
+      "site_name": "TVP 2",
+      "lang": "pl"
+    },
+    "website": "https://tvp2.tvp.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVP2.pl",
+    "name": "TVP2",
+    "alt_names": [],
+    "network": "TVP",
+    "owners": [
+      "Telewizja Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/XxCc32B.png",
+    "stream_url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/278259/enc115/tvp2hdraw/tvp2hdraw.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

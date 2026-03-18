@@ -4416,7 +4416,7 @@
       "channel": "StingrayEuroHits.ca",
       "feed": "SD",
       "site": "plex.tv",
-      "site_id": "5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491",
+      "site_id": "62ee74af52f7d73061eec491",
       "site_name": "Euro Hits",
       "lang": "en"
     },
@@ -4481,9 +4481,9 @@
       "channel": "StingrayExitosdelMomento.ca",
       "feed": "SD",
       "site": "plex.tv",
-      "site_id": "5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58",
+      "site_id": "62efba6588a16bb7d6b6fb58",
       "site_name": "Éxitos del Momento",
-      "lang": "en"
+      "lang": "es"
     },
     "website": "https://music.stingray.com/es/US/channels/190/exitos-del-momento",
     "launched": null,
@@ -5433,14 +5433,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "StingrayTodaysKPop.ca",
-      "feed": "SD",
-      "site": "plex.tv",
-      "site_id": "5e20b730f2f8d5003d739db7-62ee6eae271f393d2d9f7096",
-      "site_name": "Today's K-Pop",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": "https://music.stingray.com/en/channels/317/todays-k-pop",
     "launched": null,
     "closed": null
@@ -6111,7 +6104,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "TSNTheOcho.ca",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "6685bf522deb7f424133b087",
+      "site_name": "TSN The Ocho",
+      "lang": "en"
+    },
     "website": "https://www.samsung.com/ca/tvs/tvplus/",
     "launched": null,
     "closed": null

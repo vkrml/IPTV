@@ -689,6 +689,71 @@
     "closed": null
   },
   {
+    "id": "GeoKahani.pk",
+    "name": "Geo Kahani",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Jang Media Group"
+    ],
+    "country_code": "PK",
+    "country_name": "Pakistan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/uKYH0IM.png",
+    "stream_url": "http://116.90.120.151:8000/play/a023/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://geokahani.tv/",
+    "launched": "2002-10-01",
+    "closed": null
+  },
+  {
+    "id": "GeoNews.pk",
+    "name": "Geo News",
+    "alt_names": [
+      "جیو نیوز"
+    ],
+    "network": null,
+    "owners": [
+      "Jang Media Group"
+    ],
+    "country_code": "PK",
+    "country_name": "Pakistan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Op4EsaB.png",
+    "stream_url": "http://116.90.120.151:8000/play/a020/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GeoNews.pk",
+      "feed": "SD",
+      "site": "tv.sfr.fr",
+      "site_id": "951",
+      "site_name": "Geo News",
+      "lang": "fr"
+    },
+    "website": "https://www.geo.tv/",
+    "launched": "2002-10-01",
+    "closed": null
+  },
+  {
     "id": "GeoTez.pk",
     "name": "Geo Tez",
     "alt_names": [],
@@ -941,34 +1006,6 @@
     "closed": null
   },
   {
-    "id": "GourmetNewsNetwork.pk",
-    "name": "Gourmet News Network",
-    "alt_names": [
-      "GNN HD"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "PK",
-    "country_name": "Pakistan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/VXVnXXi.png",
-    "stream_url": "http://103.250.28.74:8000/play/a01c/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://gnnhd.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "GraceNetwork.pk",
     "name": "Grace Network",
     "alt_names": [],
@@ -1038,7 +1075,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/9OroocT.png",
-    "stream_url": "http://103.250.28.74:8000/play/a02w/index.m3u8",
+    "stream_url": "http://116.90.120.151:8000/play/a024/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -1746,6 +1783,37 @@
     "tv_guide": null,
     "website": "http://www.onnewstv.pk/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PaighanTV.pk",
+    "name": "Paighan TV",
+    "alt_names": [
+      "پیغام ٹی وی"
+    ],
+    "network": null,
+    "owners": [
+      "Paigham Communications Limited"
+    ],
+    "country_code": "PK",
+    "country_name": "Pakistan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious",
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/zokC3gO.png",
+    "stream_url": "http://116.90.120.151:8000/play/a00h/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.paigham.tv/",
+    "launched": "2011-08-26",
     "closed": null
   },
   {

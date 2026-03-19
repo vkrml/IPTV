@@ -38515,42 +38515,6 @@
     "closed": null
   },
   {
-    "id": "NationalGeographicLatinAmerica.us",
-    "name": "National Geographic Latin America",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "National Geographic Partners LLC.",
-      "The Walt Disney Company"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-    "stream_url": "http://38.183.182.166:8000/play/a0vd/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NationalGeographicLatinAmerica.us",
-      "feed": "Panregional",
-      "site": "siba.com.co",
-      "site_id": "550",
-      "site_name": "National Geographic",
-      "lang": "es"
-    },
-    "website": "https://www.nationalgeographicla.com/",
-    "launched": "2001-01-07",
-    "closed": null
-  },
-  {
     "id": "NationalGeographicWild.us",
     "name": "National Geographic Wild",
     "alt_names": [],
@@ -52031,6 +51995,40 @@
     "closed": null
   },
   {
+    "id": "Showtime.us",
+    "name": "Showtime",
+    "alt_names": [],
+    "network": "Paramount+ with SHOWTIME",
+    "owners": [
+      "Showtime Networks Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Or0LKsu.png",
+    "stream_url": "http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Showtime.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "11117",
+      "site_name": "Showtime West",
+      "lang": "en"
+    },
+    "website": "https://www.sho.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SkwadPlay.us",
     "name": "Skwad Play",
     "alt_names": [],
@@ -53058,6 +53056,39 @@
       "lang": "en"
     },
     "website": "https://pluto.tv/en/live-tv/star-trek-1",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Starz.us",
+    "name": "Starz",
+    "alt_names": [],
+    "network": "STARZ",
+    "owners": [
+      "Starz Entertainment Corp."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/N7oSm4d.png",
+    "stream_url": "http://23.237.104.106:8080/USA_STARZ/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Starz.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "12741",
+      "site_name": "Starz West",
+      "lang": "en"
+    },
+    "website": "https://www.starz.com/",
     "launched": null,
     "closed": null
   },

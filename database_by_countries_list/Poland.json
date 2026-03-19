@@ -638,6 +638,44 @@
     "closed": null
   },
   {
+    "id": "E.pl",
+    "name": "E!",
+    "alt_names": [
+      "Entertainment"
+    ],
+    "network": "NBCUniversal International Networks",
+    "owners": [
+      "NBCUniversal",
+      "Sky Group"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TWFDkap.png",
+    "stream_url": "http://116.90.120.151:8000/play/a0kz/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "E.pl",
+      "feed": "HD",
+      "site": "programtv.onet.pl",
+      "site_id": "e-entertainment-hd-169",
+      "site_name": "E! Entertainment HD",
+      "lang": "pl"
+    },
+    "website": "https://www.eonline.com/",
+    "launched": "2002-12-02",
+    "closed": null
+  },
+  {
     "id": "Echo24.pl",
     "name": "Echo24",
     "alt_names": [],
@@ -1874,6 +1912,39 @@
     "closed": null
   },
   {
+    "id": "SciFi.pl",
+    "name": "Sci Fi",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NBCUniversal Media LLC"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/QEqai8a.png",
+    "stream_url": "http://116.90.120.151:8000/play/a0l0/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SciFi.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "scifi-universal-20",
+      "site_name": "SCI FI",
+      "lang": "pl"
+    },
+    "website": "http://www.scifiuniversal.pl/",
+    "launched": "2007-12-01",
+    "closed": null
+  },
+  {
     "id": "SferaTV.pl",
     "name": "Sfera TV",
     "alt_names": [],
@@ -2944,6 +3015,41 @@
       "lang": "pl"
     },
     "website": "https://tvp2.tvp.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVP3Lodz.pl",
+    "name": "TVP 3 Lodz",
+    "alt_names": [
+      "TVP 3 Lódz"
+    ],
+    "network": "TVP",
+    "owners": [
+      "Telewizja Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/r5wxdkB.jpg",
+    "stream_url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc030/tvp3warszawaraw/tvp3warszawaraw.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVP3Lodz.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tvp-3-lodz-416",
+      "site_name": "TVP 3 Łódź",
+      "lang": "pl"
+    },
+    "website": null,
     "launched": null,
     "closed": null
   },

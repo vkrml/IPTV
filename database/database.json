@@ -27069,6 +27069,34 @@
     "closed": null
   },
   {
+    "id": "AsianetMiddleEast.in",
+    "name": "Asianet Middle East",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Disney India"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/du9iZ0s.png",
+    "stream_url": "https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.asianet.co.in/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AsianetMovies.in",
     "name": "Asianet Movies",
     "alt_names": [],
@@ -44823,6 +44851,37 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Biznes24.pl",
+    "name": "Biznes 24",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/0yoFsuq.png",
+    "stream_url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc109/biznes24hdraw/biznes24hdraw.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Biznes24.pl",
+      "feed": "SD",
+      "site": "m.tv.sms.cz",
+      "site_id": "Biznes24",
+      "site_name": "Biznes24",
+      "lang": "pl"
+    },
+    "website": "https://www.biznes24.pl/",
     "launched": null,
     "closed": null
   },
@@ -68868,9 +68927,13 @@
   {
     "id": "ChintuTV.in",
     "name": "Chintu TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
+    "alt_names": [
+      "ಚಿಂಟು ಟಿ ವಿ"
+    ],
+    "network": "Sun Udaya",
+    "owners": [
+      "Sun TV Network"
+    ],
     "country_code": "IN",
     "country_name": "India",
     "subdivision": null,
@@ -75291,6 +75354,43 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ColorsHD.png",
+    "stream_url": "https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Colors.in",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_200035_100000",
+      "site_name": "Colors TV",
+      "lang": "en"
+    },
+    "website": "https://www.colorstv.com/",
+    "launched": "2008-07-21",
+    "closed": null
+  },
+  {
+    "id": "Colors.in",
+    "name": "Colors",
+    "alt_names": [],
+    "network": "Colors",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ColorsHD.png",
     "stream_url": "http://103.229.254.25:7001/play/a077/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -75478,6 +75578,43 @@
     "logo": "https://dtil.tmsimg.com/assets/s158147_ld_h15_aa.png?lock=720x540",
     "stream_url": "http://116.90.120.151:8000/play/a0ji/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ColorsCineplex.in",
+      "feed": "SD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "1927",
+      "site_name": "Colors Cineplex",
+      "lang": "en"
+    },
+    "website": "https://www.colorstv.com/us/",
+    "launched": "2008-07-21",
+    "closed": null
+  },
+  {
+    "id": "ColorsCineplex.in",
+    "name": "Colors Cineplex",
+    "alt_names": [],
+    "network": "Colors",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s158147_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://padmaonline.duckdns.org:8088/ColorsCineplexHD/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -76274,6 +76411,41 @@
     },
     "website": "http://www.comedycentral.de/",
     "launched": "2007-01-15",
+    "closed": null
+  },
+  {
+    "id": "ComedyCentral.pl",
+    "name": "Comedy Central",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Paramount Networks UK & Australia"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+    "stream_url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc006/comedycentralhdraw/comedycentralhdraw.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ComedyCentral.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "comedy-central-63",
+      "site_name": "Comedy Central",
+      "lang": "pl"
+    },
+    "website": "http://www.comedycentral.pl/",
+    "launched": "2006-10-19",
     "closed": null
   },
   {
@@ -88122,6 +88294,41 @@
     },
     "website": "https://www.disney.co.jp/tv/dc",
     "launched": "2003-11-18",
+    "closed": null
+  },
+  {
+    "id": "DisneyChannel.pl",
+    "name": "Disney Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "The Walt Disney Company Limited"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "stream_url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc103/disneychannelhdraw/disneychannelhdraw.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyChannel.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "disney-channel-478",
+      "site_name": "Disney Channel",
+      "lang": "pl"
+    },
+    "website": "http://www.disney.pl/",
+    "launched": "2010-08-01",
     "closed": null
   },
   {
@@ -128501,43 +128708,6 @@
     "closed": null
   },
   {
-    "id": "HungamaTV.in",
-    "name": "Hungama TV",
-    "alt_names": [],
-    "network": "JioStar",
-    "owners": [
-      "JioStar India Pvt. Ltd.",
-      "Reliance Industries(RIL)",
-      "The Walt Disney Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143150_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://iptvcasomsapi.jprdigital.in/x-media/C0408/master.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "HungamaTV.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "345",
-      "site_name": "Hungama",
-      "lang": "en"
-    },
-    "website": "https://hungamatv.ga/",
-    "launched": "2004-09-26",
-    "closed": null
-  },
-  {
     "id": "Hungry.us",
     "name": "Hungry",
     "alt_names": [],
@@ -143104,44 +143274,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143561_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://iptvcasomsapi.jprdigital.in/x-media/C0320/master.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "KalaignarMurasu.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "411",
-      "site_name": "Murasu TV",
-      "lang": "en"
-    },
-    "website": null,
-    "launched": "2012-01-26",
-    "closed": null
-  },
-  {
-    "id": "KalaignarMurasu.in",
-    "name": "Kalaignar Murasu",
-    "alt_names": [
-      "Murasu TV",
-      "முரசு"
-    ],
-    "network": "Kalaignar TV",
-    "owners": [
-      "Kalaignar TV Private Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143561_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://segment.yuppcdn.net/050522/murasu/playlist.m3u8",
     "stream_quality": "396p",
     "stream_format": null,
@@ -143230,41 +143362,6 @@
     },
     "website": "https://www.kalaignarseithigal.com/",
     "launched": "2008-11-30",
-    "closed": null
-  },
-  {
-    "id": "KalaignarTV.in",
-    "name": "Kalaignar TV",
-    "alt_names": [],
-    "network": "Kalaignar TV",
-    "owners": [
-      "Kalaignar TV Private Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143249_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://iptvcasomsapi.jprdigital.in/x-media/C0316/master.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "KalaignarTV.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "200",
-      "site_name": "Kalaignar TV",
-      "lang": "en"
-    },
-    "website": "https://www.kalaignartv.co.in/",
-    "launched": "2007-09-15",
     "closed": null
   },
   {
@@ -148796,6 +148893,41 @@
     "closed": null
   },
   {
+    "id": "KinoPolska.pl",
+    "name": "Kino Polska",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "SPI International Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/lbl8K23.png",
+    "stream_url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc105/kinopolskahdraw/kinopolskahdraw.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "KinoPolska.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "kino-polska-324",
+      "site_name": "Kino Polska",
+      "lang": "pl"
+    },
+    "website": "http://kinopolska.pl/",
+    "launched": "2003-12-20",
+    "closed": null
+  },
+  {
     "id": "KinoSat.ru",
     "name": "KinoSat",
     "alt_names": [
@@ -148853,6 +148985,39 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.mtrk.uz/uz/tv/kinoteatr/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "KinoTV.pl",
+    "name": "Kino TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sqjuXUO.png",
+    "stream_url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc023/kinotvhdraw/kinotvhdraw.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "KinoTV.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "filmbox-84",
+      "site_name": "Kino TV",
+      "lang": "pl"
+    },
+    "website": "https://spiintl.com/channels/kinotv",
     "launched": null,
     "closed": null
   },
@@ -164017,6 +164182,30 @@
     "closed": null
   },
   {
+    "id": "LTV.cl",
+    "name": "LTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/XHs06BX.png",
+    "stream_url": "https://live.cdnlivecdn.com/live/c9fe062eed2978749aa00df6485940d298449f5e.m3u8",
+    "stream_quality": "2160p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.ltvcanal.cl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "LTV.de",
     "name": "L TV",
     "alt_names": [
@@ -178227,6 +178416,41 @@
     },
     "website": "https://motorvision.tv/",
     "launched": "2009-01-01",
+    "closed": null
+  },
+  {
+    "id": "Motowizja.pl",
+    "name": "Motowizja",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Motowizja SP Z O O"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "auto"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://ocdn.eu/ptv2-images-transforms/1/bqxkrtsb2dvLW1pZ3JhdGVkL21vdG93aXpqYS5wbmeSlQJkAMLDlQIAKMLD",
+    "stream_url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc116/motowizjahdraw/motowizjahdraw.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Motowizja.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "motowizja-178",
+      "site_name": "Motowizja",
+      "lang": "pl"
+    },
+    "website": "https://motowizja.pl/",
+    "launched": null,
     "closed": null
   },
   {
@@ -221503,6 +221727,39 @@
     "closed": null
   },
   {
+    "id": "Puls2.pl",
+    "name": "Puls 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Telewizja Puls"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/EOnzPiZ.png",
+    "stream_url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc103/puls2raw/puls2raw.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Puls2.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "puls-2-439",
+      "site_name": "PULS 2",
+      "lang": "pl"
+    },
+    "website": "https://puls2.pl/",
+    "launched": "2012-07-19",
+    "closed": null
+  },
+  {
     "id": "Pulse95Radio.ae",
     "name": "Pulse95 Radio",
     "alt_names": [],
@@ -233140,6 +233397,42 @@
     "is_nsfw": false,
     "logo": "https://i.postimg.cc/8c78JM28/image.png",
     "stream_url": "https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RedBullTV.at",
+      "feed": "SD",
+      "site": "web.magentatv.de",
+      "site_id": "5027",
+      "site_name": "Red Bull TV",
+      "lang": "de"
+    },
+    "website": "https://www.redbull.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RedBullTV.at",
+    "name": "Red Bull TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Red Bull Media House GmbH"
+    ],
+    "country_code": "AT",
+    "country_name": "Austria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports",
+      "outdoor"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/8c78JM28/image.png",
+    "stream_url": "https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -267288,6 +267581,46 @@
     "closed": null
   },
   {
+    "id": "SonyEntertainmentTelevision.in",
+    "name": "Sony Entertainment Television",
+    "alt_names": [
+      "SET",
+      "Sony TV",
+      "SET India"
+    ],
+    "network": "Sony Pictures Networks",
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://padmaonline.duckdns.org:8088/SETHD/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyEntertainmentTelevision.in",
+      "feed": "SD",
+      "site": "starhubtvplus.com",
+      "site_id": "1ed77994-5ab6-4d38-88f2-d662f3cfe5b0",
+      "site_name": "Sony Entertainment Television",
+      "lang": "zh"
+    },
+    "website": "https://www.setindia.com/",
+    "launched": "1995-09-30",
+    "closed": null
+  },
+  {
     "id": "SonyKALHindi.us",
     "name": "Sony KAL Hindi",
     "alt_names": [],
@@ -267435,6 +267768,44 @@
     "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
     "stream_url": "http://116.90.120.151:8000/play/a0jf/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyMax.in",
+      "feed": "SD",
+      "site": "airtelxstream.in",
+      "site_id": "LIVETV_LIVETVCHANNEL_SONY_MAX",
+      "site_name": "SONY Max",
+      "lang": "en"
+    },
+    "website": "https://www.sonymax.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SonyMax.in",
+    "name": "Sony Max",
+    "alt_names": [
+      "SET Max"
+    ],
+    "network": null,
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://padmaonline.duckdns.org:8088/SonyMaxHD/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -267989,82 +268360,6 @@
     },
     "website": "http://www.sonypix.com/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SonySAB.in",
-    "name": "Sony SAB",
-    "alt_names": [
-      "SAB TV"
-    ],
-    "network": "Sony Pictures Networks",
-    "owners": [
-      "Sony Pictures Networks India (SPNI)",
-      "Culver Max Entertainment Private Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",
-    "stream_url": "http://103.229.254.25:7001/play/a0db/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SonySAB.in",
-      "feed": "SD",
-      "site": "dishtv.in",
-      "site_id": "159125",
-      "site_name": "Sony SAB",
-      "lang": "en"
-    },
-    "website": "https://www.sabtv.com/en_in/",
-    "launched": "1999-04-23",
-    "closed": null
-  },
-  {
-    "id": "SonySAB.in",
-    "name": "Sony SAB",
-    "alt_names": [
-      "SAB TV"
-    ],
-    "network": "Sony Pictures Networks",
-    "owners": [
-      "Sony Pictures Networks India (SPNI)",
-      "Culver Max Entertainment Private Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",
-    "stream_url": "http://103.229.254.25:7001/play/a09s/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SonySAB.in",
-      "feed": "SD",
-      "site": "dishtv.in",
-      "site_id": "159125",
-      "site_name": "Sony SAB",
-      "lang": "en"
-    },
-    "website": "https://www.sabtv.com/en_in/",
-    "launched": "1999-04-23",
     "closed": null
   },
   {
@@ -270824,46 +271119,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s159101_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://103.121.6.5:8000/play/a05z/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarBharat.in",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "44889",
-      "site_name": "Star Bharat",
-      "lang": "en"
-    },
-    "website": "http://www.hotstar.com/channels/star-bharat",
-    "launched": "2017-08-28",
-    "closed": null
-  },
-  {
-    "id": "StarBharat.in",
-    "name": "Star Bharat",
-    "alt_names": [
-      "Life OK",
-      "Star One"
-    ],
-    "network": "JioStar",
-    "owners": [
-      "JioStar India Pvt. Ltd.",
-      "Reliance Industries(RIL)",
-      "The Walt Disney Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s159101_ld_h15_aa.png?lock=720x540",
     "stream_url": "http://116.90.120.151:8000/play/a0h2/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -271758,86 +272013,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143832_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://103.229.254.25:7001/play/a09z/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarPlus.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "550",
-      "site_name": "STAR Plus",
-      "lang": "en"
-    },
-    "website": "http://www.hotstar.com/channels/star-plus",
-    "launched": "1992-02-21",
-    "closed": null
-  },
-  {
-    "id": "StarPlus.in",
-    "name": "StarPlus",
-    "alt_names": [
-      "Star Plus"
-    ],
-    "network": "JioStar",
-    "owners": [
-      "JioStar India Pvt. Ltd.",
-      "Reliance Industries(RIL)",
-      "The Walt Disney Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143832_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://103.229.254.25:7001/play/a09p/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarPlus.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "550",
-      "site_name": "STAR Plus",
-      "lang": "en"
-    },
-    "website": "http://www.hotstar.com/channels/star-plus",
-    "launched": "1992-02-21",
-    "closed": null
-  },
-  {
-    "id": "StarPlus.in",
-    "name": "StarPlus",
-    "alt_names": [
-      "Star Plus"
-    ],
-    "network": "JioStar",
-    "owners": [
-      "JioStar India Pvt. Ltd.",
-      "Reliance Industries(RIL)",
-      "The Walt Disney Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143832_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://iptvcasomsapi.jprdigital.in/x-media/C0386/master.m3u8",
-    "stream_quality": "576p",
+    "stream_url": "https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -275116,6 +275293,41 @@
     "closed": null
   },
   {
+    "id": "StopklatkaTV.pl",
+    "name": "Stopklatka TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Stopklatka SA",
+      "Agora SA",
+      "Kino Polska TV"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/qqNsIkx.png",
+    "stream_url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc102/stopklatkatvhdraw/stopklatkatvhdraw.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StopklatkaTV.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "stopklatka-tv-185",
+      "site_name": "STOPKLATKA",
+      "lang": "pl"
+    },
+    "website": "https://stopklatka.pl/",
+    "launched": "2014-03-15",
+    "closed": null
+  },
+  {
     "id": "StoriesbyAMC.us",
     "name": "Stories by AMC",
     "alt_names": [],
@@ -277430,7 +277642,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z06B5.png?lock=720x540",
+    "logo": "https://sund-images.sunnxt.com/194389/300x300_SunNeoHD_194389_6a797730-94d9-4f0e-96bb-10013d126b95.png",
     "stream_url": "http://iptvcasomsapi.jprdigital.in/x-media/C0582/master.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -277465,7 +277677,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z06B5.png?lock=720x540",
+    "logo": "https://sund-images.sunnxt.com/194389/300x300_SunNeoHD_194389_6a797730-94d9-4f0e-96bb-10013d126b95.png",
     "stream_url": "http://163.61.227.29:8000/play/a04t/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -277500,7 +277712,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z06B5.png?lock=720x540",
+    "logo": "https://sund-images.sunnxt.com/194389/300x300_SunNeoHD_194389_6a797730-94d9-4f0e-96bb-10013d126b95.png",
     "stream_url": "http://iptvcasomsapi.jprdigital.in/x-media/C0581/master.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -318477,6 +318689,39 @@
     "closed": null
   },
   {
+    "id": "TVPuls.pl",
+    "name": "TV Puls",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Telewizja Puls"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/gXA7pai.png",
+    "stream_url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc103/tvpulsraw/tvpulsraw.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVPuls.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tv-puls-332",
+      "site_name": "TV Puls",
+      "lang": "pl"
+    },
+    "website": "https://tvpuls.pl/",
+    "launched": "1995-12-01",
+    "closed": null
+  },
+  {
     "id": "TVPunjab.ca",
     "name": "TV Punjab",
     "alt_names": [],
@@ -319043,6 +319288,37 @@
     "tv_guide": null,
     "website": "http://www.tvr.ro/",
     "launched": "2022-12-01",
+    "closed": null
+  },
+  {
+    "id": "TVRepublika.pl",
+    "name": "TV Republika",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ljpK6dZ.png",
+    "stream_url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc120/tvrepublikahdraw/tvrepublikahdraw.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVRepublika.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tv-republika-18",
+      "site_name": "TV Republika",
+      "lang": "pl"
+    },
+    "website": "http://telewizjarepublika.pl/",
+    "launched": null,
     "closed": null
   },
   {
@@ -323246,6 +323522,37 @@
     "closed": null
   },
   {
+    "id": "TVT.pl",
+    "name": "TVT",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/oZyeUzG.png",
+    "stream_url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc117/tvtraw/tvtraw.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVT.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tvt-500",
+      "site_name": "TVT",
+      "lang": "pl"
+    },
+    "website": "http://telewizjatvt.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVT.sk",
     "name": "TVT",
     "alt_names": [
@@ -323524,6 +323831,30 @@
     "logo": "https://i.imgur.com/zhzVpgf.jpg",
     "stream_url": "http://gargoyle.tomkow.pl/hls/tvt.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVTZgorzelec.pl",
+    "name": "TVT Zgorzelec",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/zhzVpgf.jpg",
+    "stream_url": "https://liveovh010cdapl.github.io/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc013/tvtzgorzelechdraw/tvtzgorzelechdraw.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -325296,41 +325627,6 @@
     },
     "website": "https://ucvtv.cl/home.php",
     "launched": "2018-04-12",
-    "closed": null
-  },
-  {
-    "id": "UdayaMovies.in",
-    "name": "Udaya Movies",
-    "alt_names": [],
-    "network": "Udaya",
-    "owners": [
-      "Sun TV Network"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s144040_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://iptvcasomsapi.jprdigital.in/x-media/C0570/master.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "UdayaMovies.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "231",
-      "site_name": "Udaya Movies",
-      "lang": "en"
-    },
-    "website": "http://www.sunnetwork.in/tv-channel-details.aspx?Channelid=28&channelname=UDAYA%20MOVIES&LanguageID=3&Type=3",
-    "launched": "2000-05-25",
     "closed": null
   },
   {
@@ -342599,6 +342895,37 @@
     "logo": "https://i.imgur.com/HQ8UyhL.png",
     "stream_url": "https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "WPolscePL.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "wpolsce-pl-635",
+      "site_name": "wPolsce.pl",
+      "lang": "pl"
+    },
+    "website": "http://wpolsce.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WPolscePL.pl",
+    "name": "W Polsce PL",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/HQ8UyhL.png",
+    "stream_url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc015/wpolsceplhdraw/wpolsceplhdraw.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

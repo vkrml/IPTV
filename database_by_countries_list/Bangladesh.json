@@ -19,8 +19,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/jkbo7Qe.png",
-    "stream_url": "https://edge2.roarzone.info:8447/roarzone/edge3/ananda-tv/index.m3u8",
-    "stream_quality": "576p",
+    "stream_url": "http://103.99.249.139/anandatv/index.m3u8",
+    "stream_quality": "480p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -85,36 +85,6 @@
     "tv_guide": null,
     "website": "http://atnmusic.tv/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BanglaTV.bd",
-    "name": "Bangla TV",
-    "alt_names": [
-      "যোগাযোগ"
-    ],
-    "network": null,
-    "owners": [
-      "Feroze Khan"
-    ],
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/DLGjTfI.png",
-    "stream_url": "https://edge2.roarzone.info:8447/roarzone/edge3/bangla-tv/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://banglatv.tv/",
-    "launched": "2017-05-19",
     "closed": null
   },
   {
@@ -248,43 +218,6 @@
     "closed": null
   },
   {
-    "id": "ChannelI.bd",
-    "name": "Channel I",
-    "alt_names": [
-      "চ্যানেল আই"
-    ],
-    "network": null,
-    "owners": [
-      "Impress Group"
-    ],
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/X0JJlOX.png",
-    "stream_url": "https://edge2.roarzone.info:8447/roarzone/edge3/channel-i/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ChannelI.bd",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "14202",
-      "site_name": "Channel i",
-      "lang": "en"
-    },
-    "website": "https://www.channelionline.com/",
-    "launched": "1995-10-01",
-    "closed": null
-  },
-  {
     "id": "ChannelS.bd",
     "name": "Channel S",
     "alt_names": [],
@@ -310,6 +243,34 @@
     "tv_guide": null,
     "website": "https://www.channels.com.bd/",
     "launched": "2004-12-16",
+    "closed": null
+  },
+  {
+    "id": "DBCNews.bd",
+    "name": "DBC News",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Dhaka Bangla Media & Communication Ltd."
+    ],
+    "country_code": "BD",
+    "country_name": "Bangladesh",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Qbt6q4z.png",
+    "stream_url": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://dbcnews.tv/",
+    "launched": "2016-09-21",
     "closed": null
   },
   {

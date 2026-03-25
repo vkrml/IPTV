@@ -3745,7 +3745,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540",
-    "stream_url": "https://edge2.roarzone.info:8447/roarzone/edge3/b4u-movies-apac/index.m3u8",
+    "stream_url": "https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge3/b4u-movies-apac",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -3885,7 +3885,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540",
-    "stream_url": "https://edge2.roarzone.info:8447/roarzone/edge3/b4u-music/index.m3u8",
+    "stream_url": "https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge3/b4u-music",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -4101,32 +4101,6 @@
       "lang": "en"
     },
     "website": "https://bansalnews.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BflixMovies.in",
-    "name": "Bflix Movies",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/5CtiQ45.png",
-    "stream_url": "https://mumt03.tangotv.in/BFLIX/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
     "launched": null,
     "closed": null
   },
@@ -5323,43 +5297,6 @@
     "closed": null
   },
   {
-    "id": "ColorsCineplex.in",
-    "name": "Colors Cineplex",
-    "alt_names": [],
-    "network": "Colors",
-    "owners": [
-      "JioStar India Pvt. Ltd.",
-      "Reliance Industries(RIL)",
-      "The Walt Disney Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s158147_ld_h15_aa.png?lock=720x540",
-    "stream_url": "https://padmaonline.duckdns.org:8088/ColorsCineplexHD/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ColorsCineplex.in",
-      "feed": "SD",
-      "site": "virgintvgo.virginmedia.com",
-      "site_id": "1927",
-      "site_name": "Colors Cineplex",
-      "lang": "en"
-    },
-    "website": "https://www.colorstv.com/us/",
-    "launched": "2008-07-21",
-    "closed": null
-  },
-  {
     "id": "ColorsCineplexBollywood.in",
     "name": "Colors Cineplex Bollywood",
     "alt_names": [],
@@ -5503,43 +5440,6 @@
     },
     "website": "https://www.colorstv.com/us/",
     "launched": "2019-03-01",
-    "closed": null
-  },
-  {
-    "id": "ColorsTamil.in",
-    "name": "Colors Tamil",
-    "alt_names": [],
-    "network": "Colors",
-    "owners": [
-      "JioStar India Pvt. Ltd.",
-      "Reliance Industries(RIL)",
-      "The Walt Disney Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s158241_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://198.27.83.207:2550/COLORS_TAMIL_SD/index.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ColorsTamil.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "674",
-      "site_name": "Colors Tamil HD",
-      "lang": "en"
-    },
-    "website": "https://www.colorstv.com/us/",
-    "launched": "2018-02-19",
     "closed": null
   },
   {
@@ -10040,6 +9940,39 @@
     "closed": null
   },
   {
+    "id": "GoodnessTV.in",
+    "name": "Goodness TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143091_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://mumt02.tangotv.in/GOODNESSTV/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GoodnessTV.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "269",
+      "site_name": "Goodness",
+      "lang": "en"
+    },
+    "website": "https://www.goodnesstv.in/about",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "GoodNewsToday.in",
     "name": "Good News Today",
     "alt_names": [
@@ -10235,6 +10168,34 @@
     "tv_guide": null,
     "website": "https://www.gstv.in/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "GTCNews.in",
+    "name": "GTC News",
+    "alt_names": [],
+    "network": "GTC Network",
+    "owners": [
+      "Galactic Television & Communications Pvt Ltd."
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.thegtcnetwork.com/gtc-news.png",
+    "stream_url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/921cca59-daee-4f89-8c38-7ffe8de44f4c/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2026-01-16",
     "closed": null
   },
   {
@@ -11038,6 +10999,43 @@
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HistoryTV18.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "172",
+      "site_name": "History TV18",
+      "lang": "en"
+    },
+    "website": "http://www.historyindia.com/",
+    "launched": "2011-10-09",
+    "closed": null
+  },
+  {
+    "id": "HistoryTV18.in",
+    "name": "History TV18",
+    "alt_names": [],
+    "network": "Network18",
+    "owners": [
+      "AETN18 Media Pvt. Ltd.",
+      "Network18 Media & Investments Ltd",
+      "A+E Networks"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -12505,42 +12503,6 @@
       "lang": "en"
     },
     "website": "http://jayaplus.jayanewslive.com/Landing.aspx",
-    "launched": "1999-08-22",
-    "closed": null
-  },
-  {
-    "id": "JayaTV.in",
-    "name": "Jaya TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Sukhbir Singh Badal & Family"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "culture",
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143228_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://198.27.83.207:2550/JAYA_TV_SD/index.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "JayaTV.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "708",
-      "site_name": "Jaya TV HD",
-      "lang": "en"
-    },
-    "website": "http://www.jayatvnetwork.com/",
     "launched": "1999-08-22",
     "closed": null
   },
@@ -14051,6 +14013,32 @@
     "closed": null
   },
   {
+    "id": "MahaaBhakti.in",
+    "name": "Mahaa Bhakti",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://yt3.googleusercontent.com/OWECRvCVJh-dXU2MTRZhMRIDvFvcWan0YMoWWfXsM5_WEHobQy2QoHQbGr7AZUXzMOByTMAXbg=s900-c-k-c0x00ffffff-no-rj",
+    "stream_url": "https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "MahaaMax.in",
     "name": "Mahaa Max",
     "alt_names": [],
@@ -14618,6 +14606,34 @@
     },
     "website": "http://www.manoranjantv.com/ManoranjanTv.aspx",
     "launched": "2010-10-14",
+    "closed": null
+  },
+  {
+    "id": "MantavyaNews.in",
+    "name": "Mantavya News",
+    "alt_names": [
+      "મંતવ્ય ન્યૂઝ"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Mantavya_News.png",
+    "stream_url": "https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://mantavyanews.com/livetv/",
+    "launched": null,
     "closed": null
   },
   {
@@ -15786,6 +15802,41 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NambikkaiTV.in",
+    "name": "Nambikkai TV",
+    "alt_names": [],
+    "network": "GoodNews",
+    "owners": [
+      "Goodnews Channel Pvt. Ltd."
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143567_ld_h9_aa.png?lock=720x540",
+    "stream_url": "https://mumt02.tangotv.in/NAMBIKKAITV/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NambikkaiTV.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "408",
+      "site_name": "Nambikkai TV",
+      "lang": "en"
+    },
+    "website": "https://nambikkaitv.com/",
+    "launched": "2015-11-01",
     "closed": null
   },
   {
@@ -20903,11 +20954,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143760_ld_h15_aa.png?lock=720x540",
-    "stream_url": "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8",
+    "stream_url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": "https://webcast.gov.in/",
+    "referrer": null,
     "tv_guide": {
       "channel": "SansadTV1.in",
       "feed": "SD",
@@ -20940,11 +20991,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143760_ld_h15_aa.png?lock=720x540",
-    "stream_url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
+    "stream_url": "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
+    "referrer": "https://webcast.gov.in/",
     "tv_guide": {
       "channel": "SansadTV1.in",
       "feed": "SD",

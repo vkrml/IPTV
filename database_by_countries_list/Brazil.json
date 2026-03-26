@@ -1510,41 +1510,6 @@
     "closed": null
   },
   {
-    "id": "Nickelodeon.br",
-    "name": "Nickelodeon",
-    "alt_names": [],
-    "network": "Nickelodeon",
-    "owners": [
-      "Paramount Networks Americas"
-    ],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "stream_url": "http://x1co.com.br:8080/hls/0/stream.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Nickelodeon.br",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "br#nickelodeon",
-      "site_name": "Nick",
-      "lang": "pt"
-    },
-    "website": "https://nickelodeon.com.br/",
-    "launched": "1996-12-20",
-    "closed": null
-  },
-  {
     "id": "NickOnline.br",
     "name": "NickOnline",
     "alt_names": [
@@ -1565,7 +1530,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://x1co.com.br/logo.png",
-    "stream_url": "http://x1co.com.br:8080/hls/stream.m3u8",
+    "stream_url": "https://x1co.com.br:8443/hls/stream.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,

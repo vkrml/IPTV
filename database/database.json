@@ -6224,7 +6224,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "AasthaGujarati.in",
+      "feed": "SD",
+      "site": "dishtv.in",
+      "site_id": "158135",
+      "site_name": "Aastha Gujarati",
+      "lang": "en"
+    },
     "website": "http://www.aasthatv.tv/",
     "launched": null,
     "closed": null
@@ -6490,36 +6497,6 @@
     },
     "website": "https://www.ab3.be/",
     "launched": "2001-10-06",
-    "closed": null
-  },
-  {
-    "id": "AbadanTV.ir",
-    "name": "Abadan TV",
-    "alt_names": [
-      "شبکه آبادان"
-    ],
-    "network": null,
-    "owners": [
-      "IRIB"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/fa/3/39/Abadan_tv.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221227000/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://abadan.irib.ir/tv",
-    "launched": null,
     "closed": null
   },
   {
@@ -10078,7 +10055,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/LkLCHpf.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226675/index.m3u8",
+    "stream_url": "https://ncdn.telewebion.ir/aflak/live/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -10735,34 +10712,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://afroturktv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "AftabTV.ir",
-    "name": "Aftab TV",
-    "alt_names": [
-      "شبکه مرکزی"
-    ],
-    "network": null,
-    "owners": [
-      "Aftab Network Co."
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/6/6e/Arak_AFTAB.svg/960px-Arak_AFTAB.svg.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226899/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://markazi.irib.ir/tv",
     "launched": null,
     "closed": null
   },
@@ -11940,36 +11889,6 @@
     "logo": "https://i.imgur.com/Zdi31dy.png",
     "stream_url": "https://live2.alalam.ir/alalam.m3u8",
     "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.alalam.ir/",
-    "launched": "2003-02-23",
-    "closed": null
-  },
-  {
-    "id": "AlAlam.ir",
-    "name": "Al Alam",
-    "alt_names": [
-      "العالم"
-    ],
-    "network": null,
-    "owners": [
-      "Islamic Republic of Iran Broadcasting"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Zdi31dy.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8",
-    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -15730,42 +15649,6 @@
     "closed": null
   },
   {
-    "id": "AlKawtharTV.ir",
-    "name": "Al-Kawthar TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Islamic Republic of Iran Broadcasting"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious",
-      "culture"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/x4zUmY1.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226158/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AlKawtharTV.ir",
-      "feed": "SD",
-      "site": "sat.tv",
-      "site_id": "1#33#Al Kawthar TV",
-      "site_name": "Al Kawthar TV",
-      "lang": "en"
-    },
-    "website": "https://www.alkawthartv.ir/",
-    "launched": "2006-01-01",
-    "closed": null
-  },
-  {
     "id": "AlkhuzamaRadio.sa",
     "name": "Alkhuzama Radio",
     "alt_names": [
@@ -15997,9 +15880,9 @@
     "tv_guide": {
       "channel": "AllTimeMovies.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_ALL_TIME_MOVIES",
-      "site_name": "ALL TIME MOVIES",
+      "site": "tataplay.com",
+      "site_id": "1321",
+      "site_name": "ALL Time MOVIES",
       "lang": "en"
     },
     "website": null,
@@ -19511,36 +19394,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amouzesh_TV_logo_%282023%29.svg/500px-Amouzesh_TV_logo_%282023%29.svg.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226151/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tv7.ir/",
-    "launched": "2002-10-15",
-    "closed": null
-  },
-  {
-    "id": "AmouzeshTV.ir",
-    "name": "Amouzesh TV",
-    "alt_names": [
-      "شبکه آموزش"
-    ],
-    "network": null,
-    "owners": [
-      "IRIB"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amouzesh_TV_logo_%282023%29.svg/500px-Amouzesh_TV_logo_%282023%29.svg.png",
     "stream_url": "https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -19883,6 +19736,36 @@
     "closed": null
   },
   {
+    "id": "AnandaTV.bd",
+    "name": "Ananda TV",
+    "alt_names": [
+      "আনন্দ টিভি"
+    ],
+    "network": null,
+    "owners": [
+      "ATV Limited"
+    ],
+    "country_code": "BD",
+    "country_name": "Bangladesh",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/jkbo7Qe.png",
+    "stream_url": "https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://anandatv.tv/",
+    "launched": "2018-03-11",
+    "closed": null
+  },
+  {
     "id": "AnandTV.in",
     "name": "Anand TV",
     "alt_names": [],
@@ -19969,14 +19852,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "AnandTV.uk",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "1486",
-      "site_name": "Anand TV",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": "https://anandmedia.net/livetv",
     "launched": null,
     "closed": null
@@ -20390,8 +20266,8 @@
       "channel": "AndTV.in",
       "feed": "SD",
       "site": "tataplay.com",
-      "site_id": "40",
-      "site_name": "&tv HD",
+      "site_id": "578",
+      "site_name": "&TV",
       "lang": "en"
     },
     "website": "https://andtv.zee5.com/",
@@ -20425,8 +20301,8 @@
       "channel": "AndTV.in",
       "feed": "SD",
       "site": "tataplay.com",
-      "site_id": "40",
-      "site_name": "&tv HD",
+      "site_id": "578",
+      "site_name": "&TV",
       "lang": "en"
     },
     "website": "https://andtv.zee5.com/",
@@ -20460,8 +20336,8 @@
       "channel": "AndTV.in",
       "feed": "SD",
       "site": "tataplay.com",
-      "site_id": "40",
-      "site_name": "&tv HD",
+      "site_id": "578",
+      "site_name": "&TV",
       "lang": "en"
     },
     "website": "https://andtv.zee5.com/",
@@ -20495,8 +20371,8 @@
       "channel": "AndTV.in",
       "feed": "SD",
       "site": "tataplay.com",
-      "site_id": "40",
-      "site_name": "&tv HD",
+      "site_id": "578",
+      "site_name": "&TV",
       "lang": "en"
     },
     "website": "https://andtv.zee5.com/",
@@ -21905,7 +21781,7 @@
       "feed": "SD",
       "site": "tataplay.com",
       "site_id": "523",
-      "site_name": "Zee Anmol",
+      "site_name": "Anmol TV",
       "lang": "en"
     },
     "website": "https://www.zee5.com/live-tv/anmol-cinema/0-9-zeeanmolcinema",
@@ -33022,36 +32898,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/b/b9/TV_Baran.svg/500px-TV_Baran.svg.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226902/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://sepehrtv.ir/live/baran",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BaranTV.ir",
-    "name": "Baran TV",
-    "alt_names": [
-      "شبکه گیلان"
-    ],
-    "network": null,
-    "owners": [
-      "Gilan Radio and Television"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/b/b9/TV_Baran.svg/500px-TV_Baran.svg.png",
     "stream_url": "https://ncdn.telewebion.ir/baran/live/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -43564,7 +43410,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "BhakthiTV.in",
+      "feed": null,
+      "site": "tataplay.com",
+      "site_id": "290",
+      "site_name": "Bhakti TV",
+      "lang": "en"
+    },
     "website": "http://www.bhakthitv.in/",
     "launched": null,
     "closed": null
@@ -46480,6 +46333,34 @@
     "closed": null
   },
   {
+    "id": "BluRadio.co",
+    "name": "Blu Radio",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Caracol Televisión S.A."
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/w2t8CGT.png",
+    "stream_url": "https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.bluradio.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BMCHDTV.us",
     "name": "BMC-HD TV",
     "alt_names": [],
@@ -48513,9 +48394,9 @@
     "tv_guide": {
       "channel": "BRKNews.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_BRK_NEWS",
-      "site_name": "BRK NEWS",
+      "site": "tataplay.com",
+      "site_id": "1194",
+      "site_name": "BRK News",
       "lang": "en"
     },
     "website": null,
@@ -56225,7 +56106,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "CanalMacau.mo",
+      "feed": "SD",
+      "site": "nostv.pt",
+      "site_id": "714",
+      "site_name": "TDM",
+      "lang": "pt"
+    },
     "website": "https://www.tdm.com.mo/en/",
     "launched": "1990-09-17",
     "closed": null
@@ -75388,8 +75276,8 @@
       "channel": "ColorsInfinity.in",
       "feed": "SD",
       "site": "tataplay.com",
-      "site_id": "187",
-      "site_name": "Colors Infinity HD",
+      "site_id": "544",
+      "site_name": "Colors Infinity",
       "lang": "en"
     },
     "website": "https://www.colorstv.com/us/",
@@ -80601,14 +80489,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "Dabangg.in",
-      "feed": "SD",
-      "site": "dishtv.in",
-      "site_id": "142769",
-      "site_name": "Dabangg",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": "http://www.dabangg.tv/",
     "launched": null,
     "closed": null
@@ -81079,8 +80960,8 @@
     "tv_guide": {
       "channel": "Dangal2.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_DANGAL_2",
+      "site": "tataplay.com",
+      "site_id": "194",
       "site_name": "Dangal 2",
       "lang": "en"
     },
@@ -81318,7 +81199,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "DarshanaTV.in",
+      "feed": "SD",
+      "site": "dishtv.in",
+      "site_id": "142774",
+      "site_name": "Darshana TV",
+      "lang": "en"
+    },
     "website": "http://www.darshanatv.in/",
     "launched": "2012-01-01",
     "closed": null
@@ -84153,10 +84041,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "DDSports.in",
-      "feed": "SD",
+      "feed": "HD",
       "site": "tataplay.com",
-      "site_id": "223",
-      "site_name": "DD Sports",
+      "site_id": "1191",
+      "site_name": "DD Sports HD",
       "lang": "en"
     },
     "website": "http://doordarshan.gov.in/ddsports",
@@ -84188,10 +84076,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "DDSports.in",
-      "feed": "SD",
+      "feed": "HD",
       "site": "tataplay.com",
-      "site_id": "223",
-      "site_name": "DD Sports",
+      "site_id": "1191",
+      "site_name": "DD Sports HD",
       "lang": "en"
     },
     "website": "http://doordarshan.gov.in/ddsports",
@@ -84223,10 +84111,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "DDSports.in",
-      "feed": "SD",
+      "feed": "HD",
       "site": "tataplay.com",
-      "site_id": "223",
-      "site_name": "DD Sports",
+      "site_id": "1191",
+      "site_name": "DD Sports HD",
       "lang": "en"
     },
     "website": "http://doordarshan.gov.in/ddsports",
@@ -89554,7 +89442,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "DocumentaryPlus.us",
-      "feed": "SD",
+      "feed": "International",
       "site": "tataplay.com",
       "site_id": "1565",
       "site_name": "Documentary+",
@@ -89589,7 +89477,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "DocumentaryPlus.us",
-      "feed": "SD",
+      "feed": "International",
       "site": "tataplay.com",
       "site_id": "1565",
       "site_name": "Documentary+",
@@ -89624,7 +89512,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "DocumentaryPlus.us",
-      "feed": "SD",
+      "feed": "International",
       "site": "tataplay.com",
       "site_id": "1565",
       "site_name": "Documentary+",
@@ -99585,10 +99473,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "ETVCinema.in",
-      "feed": "HD",
+      "feed": "SD",
       "site": "tataplay.com",
-      "site_id": "1341",
-      "site_name": "ETV Cinema HD",
+      "site_id": "128",
+      "site_name": "ETV Cinema",
       "lang": "en"
     },
     "website": "http://www.etv.co.in/channels/home?channelId=8",
@@ -99914,10 +99802,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "ETVPlus.in",
-      "feed": "HD",
+      "feed": "SD",
       "site": "tataplay.com",
-      "site_id": "1342",
-      "site_name": "ETV Plus HD",
+      "site_id": "352",
+      "site_name": "ETV Plus",
       "lang": "en"
     },
     "website": "http://www.etv.co.in/channels/home?channelId=5",
@@ -100014,10 +99902,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "ETVTelugu.in",
-      "feed": "HD",
+      "feed": "SD",
       "site": "tataplay.com",
-      "site_id": "359",
-      "site_name": "ETV HD",
+      "site_id": "145",
+      "site_name": "ETV Telugu",
       "lang": "en"
     },
     "website": "http://www.etv.co.in/channels/home?channelId=1",
@@ -100050,10 +99938,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "ETVTelugu.in",
-      "feed": "HD",
+      "feed": "SD",
       "site": "tataplay.com",
-      "site_id": "359",
-      "site_name": "ETV HD",
+      "site_id": "145",
+      "site_name": "ETV Telugu",
       "lang": "en"
     },
     "website": "http://www.etv.co.in/channels/home?channelId=1",
@@ -101975,6 +101863,42 @@
     "closed": null
   },
   {
+    "id": "ExtremeSportsChannelPolska.pl",
+    "name": "Extreme Sports Channel Polska",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "AMC Networks Inc.",
+      "Extreme International"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/960px-Extreme_Sports_Channel.svg.png",
+    "stream_url": "https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc124/extremesportshdraw/extremesportshdraw.mpd",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ExtremeSportsChannelPolska.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "extreme-sports-channel-231",
+      "site_name": "Extreme Channel",
+      "lang": "pl"
+    },
+    "website": "http://pl.extreme.com/",
+    "launched": "2006-01-01",
+    "closed": null
+  },
+  {
     "id": "F1Channel.ie",
     "name": "F1 Channel",
     "alt_names": [],
@@ -103367,36 +103291,6 @@
       "lang": "en"
     },
     "website": "https://watch.plex.tv/live-tv/channel/farscape",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "FarsTV.ir",
-    "name": "Fars TV",
-    "alt_names": [
-      "شبکه فارس"
-    ],
-    "network": null,
-    "owners": [
-      "Government of Iran"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/fa/7/7b/Iribfars.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226701/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://fars.irib.ir/",
     "launched": null,
     "closed": null
   },
@@ -107191,6 +107085,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
+    "stream_url": "http://41.205.93.154/FOX-NEWS/index.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FoxNewsChannel.us",
+      "feed": "SD",
+      "site": "webtv.delta.nl",
+      "site_id": "3116",
+      "site_name": "Fox News Channel",
+      "lang": "en"
+    },
+    "website": "http://www.foxnews.com/",
+    "launched": "1996-10-07",
+    "closed": null
+  },
+  {
+    "id": "FoxNewsChannel.us",
+    "name": "Fox News Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Fox Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
     "stream_url": "https://tvpass.org/live/FoxNewsChannel/hd",
     "stream_quality": "720p",
     "stream_format": null,
@@ -110474,7 +110403,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "FUELTV.pt",
+      "feed": "EMEA",
+      "site": "vodafone.pt",
+      "site_id": "2692",
+      "site_name": "Fuel TV",
+      "lang": "pt"
+    },
     "website": "https://fuel.tv/",
     "launched": "2003-07-01",
     "closed": null
@@ -110502,7 +110438,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "FUELTV.pt",
+      "feed": "EMEA",
+      "site": "vodafone.pt",
+      "site_id": "2692",
+      "site_name": "Fuel TV",
+      "lang": "pt"
+    },
     "website": "https://fuel.tv/",
     "launched": "2003-07-01",
     "closed": null
@@ -110530,7 +110473,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "FUELTV.pt",
+      "feed": "EMEA",
+      "site": "vodafone.pt",
+      "site_id": "2692",
+      "site_name": "Fuel TV",
+      "lang": "pt"
+    },
     "website": "https://fuel.tv/",
     "launched": "2003-07-01",
     "closed": null
@@ -110558,7 +110508,14 @@
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "FUELTV.pt",
+      "feed": "EMEA",
+      "site": "vodafone.pt",
+      "site_id": "2692",
+      "site_name": "Fuel TV",
+      "lang": "pt"
+    },
     "website": "https://fuel.tv/",
     "launched": "2003-07-01",
     "closed": null
@@ -110586,7 +110543,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "FUELTV.pt",
+      "feed": "EMEA",
+      "site": "vodafone.pt",
+      "site_id": "2692",
+      "site_name": "Fuel TV",
+      "lang": "pt"
+    },
     "website": "https://fuel.tv/",
     "launched": "2003-07-01",
     "closed": null
@@ -110614,7 +110578,14 @@
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "FUELTV.pt",
+      "feed": "EMEA",
+      "site": "vodafone.pt",
+      "site_id": "2692",
+      "site_name": "Fuel TV",
+      "lang": "pt"
+    },
     "website": "https://fuel.tv/",
     "launched": "2003-07-01",
     "closed": null
@@ -110642,7 +110613,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "FUELTV.pt",
+      "feed": "EMEA",
+      "site": "vodafone.pt",
+      "site_id": "2692",
+      "site_name": "Fuel TV",
+      "lang": "pt"
+    },
     "website": "https://fuel.tv/",
     "launched": "2003-07-01",
     "closed": null
@@ -115747,8 +115725,8 @@
     "tv_guide": {
       "channel": "Goldmines.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_GOLDMINES",
+      "site": "tataplay.com",
+      "site_id": "823",
       "site_name": "Goldmines",
       "lang": "en"
     },
@@ -115784,8 +115762,8 @@
     "tv_guide": {
       "channel": "Goldmines.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_GOLDMINES",
+      "site": "tataplay.com",
+      "site_id": "823",
       "site_name": "Goldmines",
       "lang": "en"
     },
@@ -115818,7 +115796,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "GoldminesMovies.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1499",
+      "site_name": "Goldmines Movies",
+      "lang": "en"
+    },
     "website": "https://goldmines.co.in",
     "launched": null,
     "closed": null
@@ -118153,7 +118138,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "GTCNews.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1850",
+      "site_name": "GTC News",
+      "lang": "en"
+    },
     "website": null,
     "launched": "2026-01-16",
     "closed": null
@@ -118184,8 +118176,8 @@
     "tv_guide": {
       "channel": "GTCPunjabi.in",
       "feed": "SD",
-      "site": "distro.tv",
-      "site_id": "144844",
+      "site": "tataplay.com",
+      "site_id": "1836",
       "site_name": "GTC Punjabi",
       "lang": "en"
     },
@@ -118219,8 +118211,8 @@
     "tv_guide": {
       "channel": "GTCPunjabi.in",
       "feed": "SD",
-      "site": "distro.tv",
-      "site_id": "144844",
+      "site": "tataplay.com",
+      "site_id": "1836",
       "site_name": "GTC Punjabi",
       "lang": "en"
     },
@@ -118254,8 +118246,8 @@
     "tv_guide": {
       "channel": "GTCPunjabi.in",
       "feed": "SD",
-      "site": "distro.tv",
-      "site_id": "144844",
+      "site": "tataplay.com",
+      "site_id": "1836",
       "site_name": "GTC Punjabi",
       "lang": "en"
     },
@@ -123472,10 +123464,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "HistoryTV18.in",
-      "feed": "SD",
+      "feed": "HD",
       "site": "tataplay.com",
-      "site_id": "172",
-      "site_name": "History TV18",
+      "site_id": "616",
+      "site_name": "History TV18 HD",
       "lang": "en"
     },
     "website": "http://www.historyindia.com/",
@@ -123509,10 +123501,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "HistoryTV18.in",
-      "feed": "SD",
+      "feed": "HD",
       "site": "tataplay.com",
-      "site_id": "172",
-      "site_name": "History TV18",
+      "site_id": "616",
+      "site_name": "History TV18 HD",
       "lang": "en"
     },
     "website": "http://www.historyindia.com/",
@@ -123546,10 +123538,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "HistoryTV18.in",
-      "feed": "SD",
+      "feed": "HD",
       "site": "tataplay.com",
-      "site_id": "172",
-      "site_name": "History TV18",
+      "site_id": "616",
+      "site_name": "History TV18 HD",
       "lang": "en"
     },
     "website": "http://www.historyindia.com/",
@@ -126106,10 +126098,10 @@
     "tv_guide": {
       "channel": "HorizonSports.us",
       "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "1491",
+      "site": "indihometv.com",
+      "site_id": "horizonsport",
       "site_name": "Horizon Sports",
-      "lang": "en"
+      "lang": "id"
     },
     "website": "https://www.horizonse.com/contact/",
     "launched": null,
@@ -129580,34 +129572,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226842/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.ifilmtv.ir/",
-    "launched": "2010-09-09",
-    "closed": null
-  },
-  {
-    "id": "iFilmPersian.ir",
-    "name": "iFilm Persian",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Islamic Republic of Iran Broadcasting"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
     "stream_url": "https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -130931,9 +130895,9 @@
     "tv_guide": {
       "channel": "IndiaTVSpeedNews.in",
       "feed": "HD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_INDIA_TV_SPEED_NEWS",
-      "site_name": "INDIA TV SPEED NEWS",
+      "site": "tataplay.com",
+      "site_id": "1407",
+      "site_name": "India TV Speed News HD",
       "lang": "en"
     },
     "website": "https://www.indiatvspeednews.com/livetv",
@@ -130966,9 +130930,9 @@
     "tv_guide": {
       "channel": "IndiaTVSpeedNews.in",
       "feed": "HD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_INDIA_TV_SPEED_NEWS",
-      "site_name": "INDIA TV SPEED NEWS",
+      "site": "tataplay.com",
+      "site_id": "1407",
+      "site_name": "India TV Speed News HD",
       "lang": "en"
     },
     "website": "https://www.indiatvspeednews.com/livetv",
@@ -131001,9 +130965,9 @@
     "tv_guide": {
       "channel": "IndiaTVSpeedNews.in",
       "feed": "HD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_INDIA_TV_SPEED_NEWS",
-      "site_name": "INDIA TV SPEED NEWS",
+      "site": "tataplay.com",
+      "site_id": "1407",
+      "site_name": "India TV Speed News HD",
       "lang": "en"
     },
     "website": "https://www.indiatvspeednews.com/livetv",
@@ -133568,36 +133532,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/960px-IRIBTV1.svg.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tv1.ir/",
-    "launched": "1958-03-21",
-    "closed": null
-  },
-  {
-    "id": "IRIB1.ir",
-    "name": "IRIB 1",
-    "alt_names": [
-      "شبکه یک"
-    ],
-    "network": null,
-    "owners": [
-      "IRIB"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/960px-IRIBTV1.svg.png",
     "stream_url": "https://ncdn.telewebion.ir/tv1/live/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -133606,36 +133540,6 @@
     "tv_guide": null,
     "website": "https://tv1.ir/",
     "launched": "1958-03-21",
-    "closed": null
-  },
-  {
-    "id": "IRIB2.ir",
-    "name": "IRIB 2",
-    "alt_names": [
-      "شبكه دو"
-    ],
-    "network": null,
-    "owners": [
-      "IRIB"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/960px-IRIB_TV2_logo.svg.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226176/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": "1967-10-19",
     "closed": null
   },
   {
@@ -133688,36 +133592,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/960px-IRIB_TV3_LOGO.svg.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tv3.ir/",
-    "launched": "1993-12-04",
-    "closed": null
-  },
-  {
-    "id": "IRIB3.ir",
-    "name": "IRIB 3",
-    "alt_names": [
-      "شبکه ۳"
-    ],
-    "network": null,
-    "owners": [
-      "IRIB"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/960px-IRIB_TV3_LOGO.svg.png",
     "stream_url": "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -133726,36 +133600,6 @@
     "tv_guide": null,
     "website": "https://tv3.ir/",
     "launched": "1993-12-04",
-    "closed": null
-  },
-  {
-    "id": "IRIB4.ir",
-    "name": "IRIB 4",
-    "alt_names": [
-      "شبكه چهار"
-    ],
-    "network": null,
-    "owners": [
-      "IRIB"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "culture"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/960px-IRIB_TV4_logo.svg.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tv4.ir/",
-    "launched": "1994-04-12",
     "closed": null
   },
   {
@@ -133806,34 +133650,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226901/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.doctv.ir/",
-    "launched": "2009-10-06",
-    "closed": null
-  },
-  {
-    "id": "IRIBMostanad.ir",
-    "name": "IRIB Mostanad",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "IRIB"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png",
     "stream_url": "https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -133842,34 +133658,6 @@
     "tv_guide": null,
     "website": "https://www.doctv.ir/",
     "launched": "2009-10-06",
-    "closed": null
-  },
-  {
-    "id": "IRIBOmid.ir",
-    "name": "IRIB Omid",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "IRIB"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/IRIB_Omid.svg/500px-IRIB_Omid.svg.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226159/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.omidtv.ir/",
-    "launched": "2016-09-20",
     "closed": null
   },
   {
@@ -133974,34 +133762,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/8tzsC9h.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "IRINN2.ir",
-    "name": "IRINN 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "IRIB"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/8tzsC9h.png",
     "stream_url": "https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -134010,36 +133770,6 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "IRINN.ir",
-    "name": "IRINN",
-    "alt_names": [
-      "شبکه خبر جمهوری اسلامی ایران"
-    ],
-    "network": null,
-    "owners": [
-      "IRIB"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/8tzsC9h.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226142/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.irinn.ir/",
-    "launched": "1999-10-24",
     "closed": null
   },
   {
@@ -134239,32 +133969,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IsfahanTV.svg/960px-IsfahanTV.svg.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226652/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://isfahan.irib.ir/tv",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "IsfahanTV.ir",
-    "name": "Isfahan TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IsfahanTV.svg/960px-IsfahanTV.svg.png",
     "stream_url": "https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -134301,9 +134005,9 @@
     "tv_guide": {
       "channel": "IshwarBhaktiTV.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_ISHWAR_TV",
-      "site_name": "Ishwar Bhakti",
+      "site": "tataplay.com",
+      "site_id": "594",
+      "site_name": "Ishwar TV",
       "lang": "en"
     },
     "website": null,
@@ -134336,9 +134040,9 @@
     "tv_guide": {
       "channel": "IshwarBhaktiTV.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_ISHWAR_TV",
-      "site_name": "Ishwar Bhakti",
+      "site": "tataplay.com",
+      "site_id": "594",
+      "site_name": "Ishwar TV",
       "lang": "en"
     },
     "website": null,
@@ -139299,7 +139003,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "JK24x7News.in",
+      "feed": "SD",
+      "site": "dishtv.in",
+      "site_id": "143237",
+      "site_name": "JK 24x7 News",
+      "lang": "en"
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -139966,9 +139677,9 @@
     "tv_guide": {
       "channel": "Jonack.in",
       "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "47",
-      "site_name": "Jonack TV",
+      "site": "dishtv.in",
+      "site_id": "143238",
+      "site_name": "Jonack",
       "lang": "en"
     },
     "website": "http://www.jonack.in/",
@@ -141996,9 +141707,9 @@
     "tv_guide": {
       "channel": "KairaliWe.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_KAIRALI_WE",
-      "site_name": "Kairali We",
+      "site": "tataplay.com",
+      "site_id": "553",
+      "site_name": "We TV",
       "lang": "en"
     },
     "website": "http://www.wetv.in/",
@@ -142034,9 +141745,9 @@
     "tv_guide": {
       "channel": "KairaliWe.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_KAIRALI_WE",
-      "site_name": "Kairali We",
+      "site": "tataplay.com",
+      "site_id": "553",
+      "site_name": "We TV",
       "lang": "en"
     },
     "website": "http://www.wetv.in/",
@@ -145874,34 +145585,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kerman_irib_logo_%28blue_version%29.png/960px-Kerman_irib_logo_%28blue_version%29.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226856/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://kerman.irib.ir/tv",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "KermanTV.ir",
-    "name": "Kerman TV",
-    "alt_names": [
-      "شبکه کرمان"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kerman_irib_logo_%28blue_version%29.png/960px-Kerman_irib_logo_%28blue_version%29.png",
     "stream_url": "https://ncdn.telewebion.ir/kerman/live/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -146802,36 +146485,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://mashhad.irib.ir/tv",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "KhozestanTV.ir",
-    "name": "Khozestan TV",
-    "alt_names": [
-      "شبکه خوزستان"
-    ],
-    "network": null,
-    "owners": [
-      "IRIB"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/9/9a/Ahwaz_TV.svg/960px-Ahwaz_TV.svg.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226415/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://ahwaz.irib.ir/tv",
     "launched": null,
     "closed": null
   },
@@ -147800,6 +147453,39 @@
     "closed": null
   },
   {
+    "id": "KinoPolskaMuzyka.pl",
+    "name": "Kino Polska Muzyka",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/lE1IlPQ.png",
+    "stream_url": "https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc122/kinopolskamuzykaraw/kinopolskamuzykaraw.mpd",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "KinoPolskaMuzyka.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "kino-polska-muzyka-426",
+      "site_name": "Kino Polska Muzyka",
+      "lang": "pl"
+    },
+    "website": "http://kinopolskamuzyka.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "KinoSat.ru",
     "name": "KinoSat",
     "alt_names": [
@@ -148461,7 +148147,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "Klara.be",
+      "feed": null,
+      "site": "vrt.be",
+      "site_id": "klara",
+      "site_name": "Klara",
+      "lang": "nl"
+    },
     "website": "https://klara.be/",
     "launched": "2000-12-02",
     "closed": null
@@ -148489,7 +148182,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "Klara.be",
+      "feed": null,
+      "site": "vrt.be",
+      "site_id": "klara",
+      "site_name": "Klara",
+      "lang": "nl"
+    },
     "website": "https://klara.be/",
     "launched": "2000-12-02",
     "closed": null
@@ -149350,7 +149050,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "KNewsIndia.in",
+      "feed": "SD",
+      "site": "dishtv.in",
+      "site_id": "143244",
+      "site_name": "K News India",
+      "lang": "en"
+    },
     "website": "https://knewsindia.in/",
     "launched": null,
     "closed": null
@@ -150502,36 +150209,6 @@
       "lang": "en"
     },
     "website": "https://www.koogi.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "KordestanTV.ir",
-    "name": "Kordestan TV",
-    "alt_names": [
-      "شبکه کردستان"
-    ],
-    "network": null,
-    "owners": [
-      "IRIB"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/2/2c/Sanandaj_KORDESTAN.svg/960px-Sanandaj_KORDESTAN.svg.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226647/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
     "launched": null,
     "closed": null
   },
@@ -152880,7 +152557,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/zG2P1WZ.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/2f8e3b371c660faa2f43a7f0942948a4.png",
     "stream_url": "https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -152894,7 +152571,7 @@
       "site_name": "KTV Bangla",
       "lang": "en"
     },
-    "website": "https://www.tribetv.in/",
+    "website": "https://ktvbangla.com/",
     "launched": "2021-08-09",
     "closed": null
   },
@@ -152917,7 +152594,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/zG2P1WZ.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/2f8e3b371c660faa2f43a7f0942948a4.png",
     "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tribe-tv/index.m3u8?ads.vf=n-PW1kNShHi",
     "stream_quality": "720p",
     "stream_format": null,
@@ -152931,7 +152608,7 @@
       "site_name": "KTV Bangla",
       "lang": "en"
     },
-    "website": "https://www.tribetv.in/",
+    "website": "https://ktvbangla.com/",
     "launched": "2021-08-09",
     "closed": null
   },
@@ -158380,58 +158057,6 @@
     "tv_guide": null,
     "website": "https://lentv24.ru/",
     "launched": "1994-01-01",
-    "closed": null
-  },
-  {
-    "id": "LenzAnimation.ir",
-    "name": "Lenz Animation",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": null,
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221227043/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://web.splus.ir/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "LenzFilm.ir",
-    "name": "Lenz Film",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": null,
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221227021/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://web.splus.ir/",
-    "launched": null,
     "closed": null
   },
   {
@@ -164400,8 +164025,8 @@
     "tv_guide": {
       "channel": "MahaaMax.in",
       "feed": "SD",
-      "site": "distro.tv",
-      "site_id": "140528",
+      "site": "tataplay.com",
+      "site_id": "1759",
       "site_name": "Mahaa Max",
       "lang": "en"
     },
@@ -164433,8 +164058,8 @@
     "tv_guide": {
       "channel": "MahaaMax.in",
       "feed": "SD",
-      "site": "distro.tv",
-      "site_id": "140528",
+      "site": "tataplay.com",
+      "site_id": "1759",
       "site_name": "Mahaa Max",
       "lang": "en"
     },
@@ -164673,14 +164298,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "Maiboli.in",
-      "feed": "SD",
-      "site": "dishtv.in",
-      "site_id": "143295",
-      "site_name": "Maiboli",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": "http://www.maiboli.tv/",
     "launched": null,
     "closed": null
@@ -165180,7 +164798,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "MalaiMurasuTV.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "391",
+      "site_name": "MalaiMurasu Seithigal",
+      "lang": "en"
+    },
     "website": "https://www.malaimurasu.com/",
     "launched": null,
     "closed": null
@@ -165211,7 +164836,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "MalaiMurasuTV.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "391",
+      "site_name": "MalaiMurasu Seithigal",
+      "lang": "en"
+    },
     "website": "https://www.malaimurasu.com/",
     "launched": null,
     "closed": null
@@ -166803,14 +166435,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "Mastiii.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "17",
-      "site_name": "Mastiii",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": "http://www.mastiii.com/",
     "launched": null,
     "closed": null
@@ -168785,7 +168410,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "MBCTV.in",
+      "feed": "SD",
+      "site": "dishtv.in",
+      "site_id": "135691",
+      "site_name": "MBC TV",
+      "lang": "en"
+    },
     "website": "https://mbctv.co.in/",
     "launched": null,
     "closed": null
@@ -171544,8 +171176,8 @@
     "tv_guide": {
       "channel": "MHOneDilSe.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_MH_ONE_DIL_SE",
+      "site": "dishtv.in",
+      "site_id": "143536",
       "site_name": "MH One Dil Se",
       "lang": "en"
     },
@@ -174913,7 +174545,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "MNM.be",
+      "feed": null,
+      "site": "vrt.be",
+      "site_id": "mnm",
+      "site_name": "MNM",
+      "lang": "nl"
+    },
     "website": null,
     "launched": "2009-01-05",
     "closed": null
@@ -174941,7 +174580,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "MNM.be",
+      "feed": null,
+      "site": "vrt.be",
+      "site_id": "mnm",
+      "site_name": "MNM",
+      "lang": "nl"
+    },
     "website": null,
     "launched": "2009-01-05",
     "closed": null
@@ -175002,8 +174648,8 @@
       "channel": "MNX.in",
       "feed": "SD",
       "site": "tataplay.com",
-      "site_id": "599",
-      "site_name": "MNX HD",
+      "site_id": "234",
+      "site_name": "MNX",
       "lang": "en"
     },
     "website": null,
@@ -177248,8 +176894,8 @@
       "channel": "MoviesNow.in",
       "feed": "SD",
       "site": "tataplay.com",
-      "site_id": "562",
-      "site_name": "Movies Now HD",
+      "site_id": "173",
+      "site_name": "Movies Now",
       "lang": "en"
     },
     "website": null,
@@ -177284,8 +176930,8 @@
       "channel": "MoviesNow.in",
       "feed": "SD",
       "site": "tataplay.com",
-      "site_id": "562",
-      "site_name": "Movies Now HD",
+      "site_id": "173",
+      "site_name": "Movies Now",
       "lang": "en"
     },
     "website": null,
@@ -177321,9 +176967,9 @@
     "tv_guide": {
       "channel": "MoviesNowPlus.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_MNSYMPLUS",
-      "site_name": "MN+",
+      "site": "tataplay.com",
+      "site_id": "210",
+      "site_name": "MN+ HD",
       "lang": "en"
     },
     "website": null,
@@ -177359,9 +177005,9 @@
     "tv_guide": {
       "channel": "MoviesNowPlus.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_MNSYMPLUS",
-      "site_name": "MN+",
+      "site": "tataplay.com",
+      "site_id": "210",
+      "site_name": "MN+ HD",
       "lang": "en"
     },
     "website": null,
@@ -179412,10 +179058,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "MTV.in",
-      "feed": "SD",
+      "feed": "HD",
       "site": "tataplay.com",
-      "site_id": "103",
-      "site_name": "MTV",
+      "site_id": "406",
+      "site_name": "MTV HD",
       "lang": "en"
     },
     "website": "http://www.mtvindia.com/",
@@ -183018,36 +182664,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Namayesh_TV_logo.svg/960px-Namayesh_TV_logo.svg.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226148/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": "2012-01-25",
-    "closed": null
-  },
-  {
-    "id": "NamayeshTV.ir",
-    "name": "Namayesh TV",
-    "alt_names": [
-      "شبکه‌ی نمایش"
-    ],
-    "network": null,
-    "owners": [
-      "IRIB"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Namayesh_TV_logo.svg/960px-Namayesh_TV_logo.svg.png",
     "stream_url": "https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -183580,36 +183196,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nasim_TV_logo.svg/960px-Nasim_TV_logo.svg.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226653/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tvnasim.ir/",
-    "launched": "2013-09-17",
-    "closed": null
-  },
-  {
-    "id": "Nasim.ir",
-    "name": "Nasim",
-    "alt_names": [
-      "شبكه نسیم"
-    ],
-    "network": null,
-    "owners": [
-      "IRIB"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nasim_TV_logo.svg/960px-Nasim_TV_logo.svg.png",
     "stream_url": "https://ncdn.telewebion.ir/nasim/live/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -184120,8 +183706,8 @@
       "channel": "NationalGeographicWild.in",
       "feed": "HD",
       "site": "tataplay.com",
-      "site_id": "184",
-      "site_name": "Nat Geo Wild",
+      "site_id": "413",
+      "site_name": "Nat Geo Wild HD..",
       "lang": "en"
     },
     "website": "https://www.natgeotv.com/in/wild",
@@ -186512,9 +186098,9 @@
     "tv_guide": {
       "channel": "NDTVMarathi.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_NDTV_MARATHI",
-      "site_name": "NDTV Marathi",
+      "site": "tataplay.com",
+      "site_id": "1343",
+      "site_name": "NDTV MARATHI",
       "lang": "en"
     },
     "website": "https://marathi.ndtv.com/livetv-ndtvmarathi",
@@ -186548,8 +186134,8 @@
     "tv_guide": {
       "channel": "NDTVProfit.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME",
+      "site": "tataplay.com",
+      "site_id": "93",
       "site_name": "NDTV Profit Prime",
       "lang": "en"
     },
@@ -186584,8 +186170,8 @@
     "tv_guide": {
       "channel": "NDTVProfit.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME",
+      "site": "tataplay.com",
+      "site_id": "93",
       "site_name": "NDTV Profit Prime",
       "lang": "en"
     },
@@ -188420,7 +188006,7 @@
       "feed": "SD",
       "site": "tataplay.com",
       "site_id": "140",
-      "site_name": "News18 Lokmat",
+      "site_name": "NEWS18 MARATHI",
       "lang": "en"
     },
     "website": "https://lokmat.news18.com/",
@@ -188491,8 +188077,8 @@
       "channel": "News18Odia.in",
       "feed": "SD",
       "site": "tataplay.com",
-      "site_id": "1208",
-      "site_name": "News 8 odia",
+      "site_id": "41",
+      "site_name": "News18 Odia",
       "lang": "en"
     },
     "website": "https://odia.news18.com/",
@@ -188921,8 +188507,8 @@
       "channel": "NewsIndia24x7.in",
       "feed": "SD",
       "site": "tataplay.com",
-      "site_id": "1203",
-      "site_name": "India 24x7",
+      "site_id": "831",
+      "site_name": "News India 24x7",
       "lang": "en"
     },
     "website": "https://newsindianetwork.com/",
@@ -191120,41 +190706,6 @@
     "closed": null
   },
   {
-    "id": "Nickelodeon.br",
-    "name": "Nickelodeon",
-    "alt_names": [],
-    "network": "Nickelodeon",
-    "owners": [
-      "Paramount Networks Americas"
-    ],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "stream_url": "http://x1co.com.br:8080/hls/0/stream.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Nickelodeon.br",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "br#nickelodeon",
-      "site_name": "Nick",
-      "lang": "pt"
-    },
-    "website": "https://nickelodeon.com.br/",
-    "launched": "1996-12-20",
-    "closed": null
-  },
-  {
     "id": "Nickelodeon.de",
     "name": "Nickelodeon",
     "alt_names": [
@@ -191620,7 +191171,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "NickHDPlus.in",
-      "feed": "SD",
+      "feed": "HD",
       "site": "tataplay.com",
       "site_id": "433",
       "site_name": "Nick HD+",
@@ -191723,7 +191274,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://x1co.com.br/logo.png",
-    "stream_url": "http://x1co.com.br:8080/hls/stream.m3u8",
+    "stream_url": "https://x1co.com.br:8443/hls/stream.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -193343,7 +192894,7 @@
     "referrer": "https://server.thelegitpro.in/northeastlive/northeastlive/embed.html",
     "tv_guide": {
       "channel": "NortheastLive.in",
-      "feed": "SD",
+      "feed": "HD",
       "site": "tataplay.com",
       "site_id": "417",
       "site_name": "North East Live",
@@ -199219,8 +198770,8 @@
     "tv_guide": {
       "channel": "OdishaTV.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_OTV",
+      "site": "tataplay.com",
+      "site_id": "419",
       "site_name": "OTV",
       "lang": "en"
     },
@@ -199287,36 +198838,6 @@
     "tv_guide": null,
     "website": "https://proinversiontv.com/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "OfoghTV.ir",
-    "name": "Ofogh TV",
-    "alt_names": [
-      "شبكه‌ی افق"
-    ],
-    "network": null,
-    "owners": [
-      "IRIB"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "culture"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/fe/Ofogh_TV_logo.svg/960px-Ofogh_TV_logo.svg.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226143/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": "2014-06-03",
     "closed": null
   },
   {
@@ -204725,14 +204246,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "OTV.gh",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "419",
-      "site_name": "OTV",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": "http://live.oceanstvgh.com/",
     "launched": null,
     "closed": null
@@ -206744,8 +206258,8 @@
     "tv_guide": {
       "channel": "ParasGold.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_PARAS_GOLD_ONE",
+      "site": "dishtv.in",
+      "site_id": "143642",
       "site_name": "Paras Gold One",
       "lang": "en"
     },
@@ -210025,118 +209539,6 @@
     "tv_guide": null,
     "website": "https://www.persianagroup.tv/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PersianaSports2.fr",
-    "name": "Persiana Sports 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Persiana Media Group"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png",
-    "stream_url": "https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/Persiana%20Sports2/chunks.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.persianagroup.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PersianaSports3.fr",
-    "name": "Persiana Sports 3",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Persiana Media Group"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png",
-    "stream_url": "https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/Persiana%20Sports3/chunks.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.persianagroup.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PersianaSports4.fr",
-    "name": "Persiana Sports 4",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Persiana Media Group"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png",
-    "stream_url": "https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/Persiana%20Sports4/chunks.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.persianagroup.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PersianaSports.fr",
-    "name": "Persiana Sports",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Persiana Media Group"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png",
-    "stream_url": "https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/Persiana%20Sports/chunks.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://persianagroup.tv/",
-    "launched": "2016-01-01",
     "closed": null
   },
   {
@@ -216331,6 +215733,42 @@
     "closed": null
   },
   {
+    "id": "PolsatJimJam.pl",
+    "name": "Polsat JimJam",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Cyfrowy Polsat S.A.",
+      "AMC Networks Inc."
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/GjppUlg.png",
+    "stream_url": "https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc119/polsatjimjamraw/polsatjimjamraw.mpd",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatJimJam.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-jimjam-89",
+      "site_name": "Polsat JimJam",
+      "lang": "pl"
+    },
+    "website": "http://www.pl.jimjam.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PolsatNews2.pl",
     "name": "Polsat News 2",
     "alt_names": [],
@@ -216678,34 +216116,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.pontv.id/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PooyaTV.ir",
-    "name": "Pooya TV",
-    "alt_names": [
-      "شبکه پویا"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226145/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.pooyatv.ir/",
     "launched": null,
     "closed": null
   },
@@ -217937,8 +217347,8 @@
     "tv_guide": {
       "channel": "PowerTV.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_POWER_TV",
+      "site": "tataplay.com",
+      "site_id": "824",
       "site_name": "Power TV",
       "lang": "en"
     },
@@ -218196,8 +217606,8 @@
     "tv_guide": {
       "channel": "PrathamKhabar24x7.in",
       "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "1115",
+      "site": "distro.tv",
+      "site_id": "141280",
       "site_name": "Pratham Khabar 24x7",
       "lang": "en"
     },
@@ -218229,8 +217639,8 @@
     "tv_guide": {
       "channel": "PrathamKhabar24x7.in",
       "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "1115",
+      "site": "distro.tv",
+      "site_id": "141280",
       "site_name": "Pratham Khabar 24x7",
       "lang": "en"
     },
@@ -218590,41 +218000,6 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png",
     "stream_url": "https://live.presstv.ir/hls/presstv.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PressTV.ir",
-      "feed": "SD",
-      "site": "sat.tv",
-      "site_id": "1#33#Press TV HD",
-      "site_name": "Press TV HD",
-      "lang": "en"
-    },
-    "website": "https://www.presstv.ir/",
-    "launched": "2007-07-08",
-    "closed": null
-  },
-  {
-    "id": "PressTV.ir",
-    "name": "Press TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Islamic Republic of Iran Broadcasting"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226156/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -219081,6 +218456,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://www.primecanada.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PrimeNews.in",
+    "name": "Prime News",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/RQoDzpN.png",
+    "stream_url": "https://mumt02.tangotv.in/PRIMENEWS/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -221455,8 +220856,8 @@
     "tv_guide": {
       "channel": "PuthuyugamTV.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_PUTHU_YUGAM",
+      "site": "dishtv.in",
+      "site_id": "143693",
       "site_name": "Puthu Yugam",
       "lang": "en"
     },
@@ -221903,32 +221304,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://qazsporttv.kz/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "QazvinTV.ir",
-    "name": "Qazvin TV",
-    "alt_names": [
-      "شبکه قزوین"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/QazvinTV.svg/960px-QazvinTV.svg.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226888/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://qazvin.irib.ir/tv",
     "launched": null,
     "closed": null
   },
@@ -222776,32 +222151,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "QuranTV.ir",
-    "name": "Quran TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226144/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://qurantv.ir/",
     "launched": null,
     "closed": null
   },
@@ -223906,7 +223255,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "Radio1.be",
+      "feed": null,
+      "site": "vrt.be",
+      "site_id": "radio1",
+      "site_name": "Radio 1",
+      "lang": "nl"
+    },
     "website": "https://radio1.be/",
     "launched": null,
     "closed": null
@@ -223936,7 +223292,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "Radio1.be",
+      "feed": null,
+      "site": "vrt.be",
+      "site_id": "radio1",
+      "site_name": "Radio 1",
+      "lang": "nl"
+    },
     "website": "https://radio1.be/",
     "launched": null,
     "closed": null
@@ -223966,7 +223329,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "Radio2.be",
+      "feed": null,
+      "site": "vrt.be",
+      "site_id": "radio2",
+      "site_name": "Radio 2",
+      "lang": "nl"
+    },
     "website": "https://radio2.be/",
     "launched": null,
     "closed": null
@@ -223996,7 +223366,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "Radio2.be",
+      "feed": null,
+      "site": "vrt.be",
+      "site_id": "radio2",
+      "site_name": "Radio 2",
+      "lang": "nl"
+    },
     "website": "https://radio2.be/",
     "launched": null,
     "closed": null
@@ -227697,10 +227074,10 @@
     "tv_guide": {
       "channel": "RaiNews24.it",
       "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "78803",
-      "site_name": "Rai News 24",
-      "lang": "en"
+      "site": "vodafone.pt",
+      "site_id": "2773",
+      "site_name": "Rai News",
+      "lang": "pt"
     },
     "website": "https://www.rainews.it/",
     "launched": "1999-04-26",
@@ -227734,10 +227111,10 @@
     "tv_guide": {
       "channel": "RaiNews24.it",
       "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "78803",
-      "site_name": "Rai News 24",
-      "lang": "en"
+      "site": "vodafone.pt",
+      "site_id": "2773",
+      "site_name": "Rai News",
+      "lang": "pt"
     },
     "website": "https://www.rainews.it/",
     "launched": "1999-04-26",
@@ -227771,10 +227148,10 @@
     "tv_guide": {
       "channel": "RaiNews24.it",
       "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "78803",
-      "site_name": "Rai News 24",
-      "lang": "en"
+      "site": "vodafone.pt",
+      "site_id": "2773",
+      "site_name": "Rai News",
+      "lang": "pt"
     },
     "website": "https://www.rainews.it/",
     "launched": "1999-04-26",
@@ -227808,10 +227185,10 @@
     "tv_guide": {
       "channel": "RaiNews24.it",
       "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "78803",
-      "site_name": "Rai News 24",
-      "lang": "en"
+      "site": "vodafone.pt",
+      "site_id": "2773",
+      "site_name": "Rai News",
+      "lang": "pt"
     },
     "website": "https://www.rainews.it/",
     "launched": "1999-04-26",
@@ -235289,9 +234666,9 @@
     "tv_guide": {
       "channel": "RevryNews.us",
       "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "1564",
-      "site_name": "Revry News",
+      "site": "i.mjh.nz",
+      "site_id": "Plex/all#5e20b730f2f8d5003d739db7-5f458dded93f4a0041cb1f63",
+      "site_name": "RevryNews",
       "lang": "en"
     },
     "website": null,
@@ -236995,6 +236372,37 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://romanatv42.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RomanceTV.pl",
+    "name": "Romance TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Romance_TV_Logo_10.2019.svg/960px-Romance_TV_Logo_10.2019.svg.png",
+    "stream_url": "https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc116/romancetvhdraw/romancetvhdraw.mpd",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RomanceTV.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "romance-tv-129",
+      "site_name": "Romance TV",
+      "lang": "pl"
+    },
+    "website": "https://www.romance-tv.pl/",
     "launched": null,
     "closed": null
   },
@@ -239978,9 +239386,9 @@
     "tv_guide": {
       "channel": "RTIndia.in",
       "feed": "HD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_RT",
-      "site_name": "RT",
+      "site": "tataplay.com",
+      "site_id": "98",
+      "site_name": "Russia Today",
       "lang": "en"
     },
     "website": "https://www.rt.com/",
@@ -243015,14 +242423,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "RTV.at",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "1387",
-      "site_name": "R TV",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": null,
     "launched": null,
     "closed": null
@@ -255053,32 +254454,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/3/37/Tabriz_Sahand.svg/960px-Tabriz_Sahand.svg.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226423/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://tabriz.irib.ir/tv",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SahandTV.ir",
-    "name": "Sahand TV",
-    "alt_names": [
-      "شبکه آذربایجان شرقی"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/3/37/Tabriz_Sahand.svg/960px-Tabriz_Sahand.svg.png",
     "stream_url": "https://ncdn.telewebion.ir/sahand/live/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -255234,8 +254609,8 @@
     "tv_guide": {
       "channel": "SalaamTV.in",
       "feed": "SD",
-      "site": "dishtv.in",
-      "site_id": "144466",
+      "site": "tataplay.com",
+      "site_id": "518",
       "site_name": "Salaam TV",
       "lang": "en"
     },
@@ -255272,36 +254647,12 @@
     "tv_guide": {
       "channel": "SalaamTV.in",
       "feed": "SD",
-      "site": "dishtv.in",
-      "site_id": "144466",
+      "site": "tataplay.com",
+      "site_id": "518",
       "site_name": "Salaam TV",
       "lang": "en"
     },
     "website": "https://zeenews.india.com/hindi/zeesalaam",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SalamatTV.ir",
-    "name": "Salamat TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/fa/f/f0/IRIB_Salamat_Logo.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226152/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://salamattv.ir/",
     "launched": null,
     "closed": null
   },
@@ -256718,10 +256069,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "SansadTV1.in",
-      "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_SANSAD_TV_SYMHYP_1_HD",
-      "site_name": "Sansad TV - 1 HD",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "1368",
+      "site_name": "Sansad TV 1 HD",
       "lang": "en"
     },
     "website": "https://sansadtv.nic.in/",
@@ -256755,10 +256106,10 @@
     "referrer": "https://webcast.gov.in/",
     "tv_guide": {
       "channel": "SansadTV1.in",
-      "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_SANSAD_TV_SYMHYP_1_HD",
-      "site_name": "Sansad TV - 1 HD",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "1368",
+      "site_name": "Sansad TV 1 HD",
       "lang": "en"
     },
     "website": "https://sansadtv.nic.in/",
@@ -256792,10 +256143,10 @@
     "referrer": "https://webcast.gov.in/",
     "tv_guide": {
       "channel": "SansadTV1.in",
-      "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_SANSAD_TV_SYMHYP_1_HD",
-      "site_name": "Sansad TV - 1 HD",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "1368",
+      "site_name": "Sansad TV 1 HD",
       "lang": "en"
     },
     "website": "https://sansadtv.nic.in/",
@@ -256830,9 +256181,9 @@
     "tv_guide": {
       "channel": "SansadTV2.in",
       "feed": "HD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_SANSAD_TV_HD",
-      "site_name": "Sansad TV - 2 HD",
+      "site": "tataplay.com",
+      "site_id": "1032",
+      "site_name": "Sansad TV 2 HD",
       "lang": "en"
     },
     "website": "https://sansadtv.nic.in/",
@@ -256867,9 +256218,9 @@
     "tv_guide": {
       "channel": "SansadTV2.in",
       "feed": "HD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_SANSAD_TV_HD",
-      "site_name": "Sansad TV - 2 HD",
+      "site": "tataplay.com",
+      "site_id": "1032",
+      "site_name": "Sansad TV 2 HD",
       "lang": "en"
     },
     "website": "https://sansadtv.nic.in/",
@@ -256904,9 +256255,9 @@
     "tv_guide": {
       "channel": "SansadTV2.in",
       "feed": "HD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_SANSAD_TV_HD",
-      "site_name": "Sansad TV - 2 HD",
+      "site": "tataplay.com",
+      "site_id": "1032",
+      "site_name": "Sansad TV 2 HD",
       "lang": "en"
     },
     "website": "https://sansadtv.nic.in/",
@@ -257168,9 +256519,9 @@
     "tv_guide": {
       "channel": "SantvaniChannel.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_SANTVANI",
-      "site_name": "Santvani",
+      "site": "dishtv.in",
+      "site_id": "143763",
+      "site_name": "Santvani TV",
       "lang": "en"
     },
     "website": "https://www.santvani.in/",
@@ -259255,30 +258606,6 @@
       "lang": "sk"
     },
     "website": "http://www.senzi.sk/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SepehrTV.ir",
-    "name": "Sepehr TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sepehrtv.png/960px-Sepehrtv.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226161/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://sepehr.irib.ir/",
     "launched": null,
     "closed": null
   },
@@ -261451,6 +260778,39 @@
     "closed": null
   },
   {
+    "id": "ShekinahTV.in",
+    "name": "Shekinah TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Shekinah Communications Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6hTshsG.png",
+    "stream_url": "https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ShekinahTV.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1313",
+      "site_name": "SHEKINAH",
+      "lang": "en"
+    },
+    "website": "http://www.shekinahchannel.tv/",
+    "launched": "2019-04-28",
+    "closed": null
+  },
+  {
     "id": "ShelanuTV.il",
     "name": "Shelanu.TV",
     "alt_names": [
@@ -261570,7 +260930,7 @@
       "feed": "SD",
       "site": "tataplay.com",
       "site_id": "1269",
-      "site_name": "Chumbak TV",
+      "site_name": "Shemaroo Josh",
       "lang": "en"
     },
     "website": null,
@@ -261667,9 +261027,9 @@
     "tv_guide": {
       "channel": "ShemarooUmang.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_SHEMAROO_UMANG",
-      "site_name": "Shemaroo Umang",
+      "site": "tataplay.com",
+      "site_id": "1045",
+      "site_name": "Shemaroo UMANG",
       "lang": "en"
     },
     "website": null,
@@ -263787,9 +263147,9 @@
     "referrer": null,
     "tv_guide": {
       "channel": "SirippoliTV.in",
-      "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_SIRIPPOLI",
+      "feed": null,
+      "site": "tataplay.com",
+      "site_id": "611",
       "site_name": "Sirippoli",
       "lang": "en"
     },
@@ -266642,9 +266002,9 @@
     "tv_guide": {
       "channel": "SonyAath.in",
       "feed": "SD",
-      "site": "dishtv.in",
-      "site_id": "157968",
-      "site_name": "Sony AATH",
+      "site": "tataplay.com",
+      "site_id": "34",
+      "site_name": "SONY AATH",
       "lang": "en"
     },
     "website": "https://www.aath.in/",
@@ -266678,10 +266038,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "SonyBBCEarth.in",
-      "feed": "SD",
-      "site": "dishtv.in",
-      "site_id": "143799",
-      "site_name": "SONY BBC Earth",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "460",
+      "site_name": "SONY BBC Earth HD",
       "lang": "en"
     },
     "website": "http://www.bbcasia.com/channels/earth/",
@@ -266783,10 +266143,10 @@
     "tv_guide": {
       "channel": "SonyEntertainmentTelevision.in",
       "feed": "SD",
-      "site": "starhubtvplus.com",
-      "site_id": "1ed77994-5ab6-4d38-88f2-d662f3cfe5b0",
-      "site_name": "Sony Entertainment Television",
-      "lang": "zh"
+      "site": "tataplay.com",
+      "site_id": "556",
+      "site_name": "SET",
+      "lang": "en"
     },
     "website": "https://www.setindia.com/",
     "launched": "1995-09-30",
@@ -266823,10 +266183,10 @@
     "tv_guide": {
       "channel": "SonyEntertainmentTelevision.in",
       "feed": "SD",
-      "site": "starhubtvplus.com",
-      "site_id": "1ed77994-5ab6-4d38-88f2-d662f3cfe5b0",
-      "site_name": "Sony Entertainment Television",
-      "lang": "zh"
+      "site": "tataplay.com",
+      "site_id": "556",
+      "site_name": "SET",
+      "lang": "en"
     },
     "website": "https://www.setindia.com/",
     "launched": "1995-09-30",
@@ -266921,9 +266281,9 @@
     "tv_guide": {
       "channel": "SonyMax.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_SONY_MAX",
-      "site_name": "SONY Max",
+      "site": "tataplay.com",
+      "site_id": "132",
+      "site_name": "SONY MAX",
       "lang": "en"
     },
     "website": "https://www.sonymax.tv/",
@@ -266959,9 +266319,9 @@
     "tv_guide": {
       "channel": "SonyMax.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_SONY_MAX",
-      "site_name": "SONY Max",
+      "site": "tataplay.com",
+      "site_id": "132",
+      "site_name": "SONY MAX",
       "lang": "en"
     },
     "website": "https://www.sonymax.tv/",
@@ -267464,9 +266824,9 @@
     "tv_guide": {
       "channel": "SonyPal.in",
       "feed": "SD",
-      "site": "dishtv.in",
-      "site_id": "157973",
-      "site_name": "SONY PAL",
+      "site": "tataplay.com",
+      "site_id": "554",
+      "site_name": "Sony Pal",
       "lang": "en"
     },
     "website": "http://www.sonypal.in/",
@@ -267500,9 +266860,9 @@
     "tv_guide": {
       "channel": "SonyPix.in",
       "feed": "SD",
-      "site": "dishtv.in",
-      "site_id": "143803",
-      "site_name": "SONY PIX HD",
+      "site": "tataplay.com",
+      "site_id": "558",
+      "site_name": "SONY PIX",
       "lang": "en"
     },
     "website": "http://www.sonypix.com/",
@@ -267538,9 +266898,9 @@
     "tv_guide": {
       "channel": "SonySAB.in",
       "feed": "SD",
-      "site": "dishtv.in",
-      "site_id": "159125",
-      "site_name": "Sony SAB",
+      "site": "tataplay.com",
+      "site_id": "559",
+      "site_name": "SONY SAB",
       "lang": "en"
     },
     "website": "https://www.sabtv.com/en_in/",
@@ -267578,10 +266938,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "SonySportsTen2.in",
-      "feed": "SD",
-      "site": "dishtv.in",
-      "site_id": "157592",
-      "site_name": "Sony Sports Ten 2",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "462",
+      "site_name": "SONY SPORTS TEN 2 HD",
       "lang": "en"
     },
     "website": "https://www.sonysportsnetwork.com/",
@@ -267619,10 +266979,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "SonySportsTen3Hindi.in",
-      "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3",
-      "site_name": "Sony Sports Ten 3 Hindi",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "464",
+      "site_name": "SONY SPORTS TEN 3 Hindi HD",
       "lang": "en"
     },
     "website": "https://www.sonysportsnetwork.com/",
@@ -267734,8 +267094,8 @@
     "tv_guide": {
       "channel": "SonyWah.in",
       "feed": "SD",
-      "site": "dishtv.in",
-      "site_id": "157974",
+      "site": "tataplay.com",
+      "site_id": "56",
       "site_name": "Sony Wah",
       "lang": "en"
     },
@@ -267771,10 +267131,10 @@
     "tv_guide": {
       "channel": "SonyYay.in",
       "feed": "SD",
-      "site": "playtv.unifi.com.my",
-      "site_id": "56657229",
-      "site_name": "Sony YAY!",
-      "lang": "hi"
+      "site": "tataplay.com",
+      "site_id": "45",
+      "site_name": "SONY YAY!",
+      "lang": "en"
     },
     "website": "https://www.sonyyay.com/",
     "launched": null,
@@ -270593,8 +269953,8 @@
       "channel": "StarGold.in",
       "feed": "HD",
       "site": "tataplay.com",
-      "site_id": "632",
-      "site_name": "Star GOLD HD",
+      "site_id": "245",
+      "site_name": "STAR GOLD HD",
       "lang": "en"
     },
     "website": "https://hotstar.com/",
@@ -270630,8 +269990,8 @@
       "channel": "StarGold.in",
       "feed": "HD",
       "site": "tataplay.com",
-      "site_id": "632",
-      "site_name": "Star GOLD HD",
+      "site_id": "245",
+      "site_name": "STAR GOLD HD",
       "lang": "en"
     },
     "website": "https://hotstar.com/",
@@ -270781,10 +270141,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "StarJalsha.in",
-      "feed": "HD",
+      "feed": "SD",
       "site": "tataplay.com",
-      "site_id": "468",
-      "site_name": "Star Jalsha HD",
+      "site_id": "465",
+      "site_name": "STAR Jalsha",
       "lang": "en"
     },
     "website": "https://www.hotstar.com/channels/star-jalsha",
@@ -270854,8 +270214,8 @@
       "channel": "StarMaaGold.in",
       "feed": "SD",
       "site": "tataplay.com",
-      "site_id": "954",
-      "site_name": "Star Maa Gold",
+      "site_id": "388",
+      "site_name": "MAA Gold",
       "lang": "en"
     },
     "website": "https://www.hotstar.com/channels/star-maa",
@@ -270923,45 +270283,6 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "StarPlus.in",
-    "name": "StarPlus",
-    "alt_names": [
-      "Star Plus"
-    ],
-    "network": "JioStar",
-    "owners": [
-      "JioStar India Pvt. Ltd.",
-      "Reliance Industries(RIL)",
-      "The Walt Disney Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143832_ld_h15_aa.png?lock=720x540",
-    "stream_url": "https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarPlus.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "550",
-      "site_name": "STAR Plus",
-      "lang": "en"
-    },
-    "website": "http://www.hotstar.com/channels/star-plus",
-    "launched": "1992-02-21",
     "closed": null
   },
   {
@@ -271291,8 +270612,8 @@
     "tv_guide": {
       "channel": "StarSports3.in",
       "feed": "SD",
-      "site": "dishtv.in",
-      "site_id": "143846",
+      "site": "tataplay.com",
+      "site_id": "664",
       "site_name": "Star Sports 3",
       "lang": "en"
     },
@@ -272169,10 +271490,10 @@
     "tv_guide": {
       "channel": "StingrayCMusic.ca",
       "feed": "SD",
-      "site": "tv.post.lu",
-      "site_id": "c234d8e0-8dae-11e9-ac99-079f5aa46735",
-      "site_name": "STINGRAY cmusic",
-      "lang": "fr"
+      "site": "vodafone.pt",
+      "site_id": "2743",
+      "site_name": "CMusicTV",
+      "lang": "pt"
     },
     "website": "https://cmusic.stingray.com/",
     "launched": "2007-02-20",
@@ -274404,10 +273725,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "StuBru.be",
-      "feed": "SD",
-      "site": "pickx.be",
-      "site_id": "UID0813",
-      "site_name": "StuBru",
+      "feed": null,
+      "site": "vrt.be",
+      "site_id": "studio-brussel",
+      "site_name": "Studio Brussel",
       "lang": "nl"
     },
     "website": "https://stubru.be/",
@@ -274441,10 +273762,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "StuBru.be",
-      "feed": "SD",
-      "site": "pickx.be",
-      "site_id": "UID0813",
-      "site_name": "StuBru",
+      "feed": null,
+      "site": "vrt.be",
+      "site_id": "studio-brussel",
+      "site_name": "Studio Brussel",
       "lang": "nl"
     },
     "website": "https://stubru.be/",
@@ -274516,6 +273837,37 @@
     "closed": null
   },
   {
+    "id": "StudioMedTV.pl",
+    "name": "StudioMed TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/prF1T3P.png",
+    "stream_url": "https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc112/studiomedtvhdraw/studiomedtvhdraw.mpd",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StudioMedTV.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "studiomed-tv-688",
+      "site_name": "StudioMED TV",
+      "lang": "pl"
+    },
+    "website": "http://studiomed.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "StudioOnePlus.in",
     "name": "Studio One +",
     "alt_names": [],
@@ -274536,14 +273888,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "StudioOnePlus.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "802",
-      "site_name": "Studio One +",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": null,
     "launched": null,
     "closed": null
@@ -274756,6 +274101,39 @@
     "closed": null
   },
   {
+    "id": "STVHaryanaNews.in",
+    "name": "STV Haryana News",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TJRZo9e.png",
+    "stream_url": "https://mumt01.tangotv.in/STVHARYANANEWS/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "STVHaryanaNews.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "989",
+      "site_name": "STV Haryana News",
+      "lang": "en"
+    },
+    "website": "http://www.stvharyananews.in/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "STVNewsandGeneral.cn",
     "name": "STV News and General",
     "alt_names": [
@@ -274928,14 +274306,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "SubhartiTV.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "728",
-      "site_name": "Subharti TV",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": "https://subhartimedia.com/",
     "launched": null,
     "closed": null
@@ -274968,7 +274339,7 @@
       "feed": "SD",
       "site": "tataplay.com",
       "site_id": "445",
-      "site_name": "Shubhavaarta TV",
+      "site_name": "Subhavaarta TV",
       "lang": "en"
     },
     "website": "http://www.subhavaarthatv.com/",
@@ -275908,8 +275279,8 @@
     "tv_guide": {
       "channel": "SuperHungama.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA",
+      "site": "tataplay.com",
+      "site_id": "587",
       "site_name": "Super Hungama",
       "lang": "en"
     },
@@ -277082,8 +276453,8 @@
       "channel": "SVBC.in",
       "feed": "SD",
       "site": "tataplay.com",
-      "site_id": "218",
-      "site_name": "SVBC",
+      "site_id": "450",
+      "site_name": "SVBC Telugu",
       "lang": "en"
     },
     "website": "http://www.svbcttd.com/SVBC%20LIVE%20TV.html",
@@ -277466,14 +276837,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "SwatantraTV.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "1027",
-      "site_name": "Swatantra TV",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": "https://swatantralive.com/",
     "launched": null,
     "closed": null
@@ -278319,33 +277683,27 @@
     "closed": null
   },
   {
-    "id": "TabarestanTV.ir",
-    "name": "Tabarestan TV",
-    "alt_names": [
-      "شبکه مازندران"
-    ],
+    "id": "TaazaTV.in",
+    "name": "Taaza TV",
+    "alt_names": [],
     "network": null,
-    "owners": [
-      "IRIB"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
     "subdivision": null,
     "city": null,
-    "categories": [
-      "general"
-    ],
+    "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IRIB_Mazandaran_Last_Orange_Logo.png/960px-IRIB_Mazandaran_Last_Orange_Logo.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226786/index.m3u8",
-    "stream_quality": null,
+    "logo": "https://i.imgur.com/4nTpQLC.png",
+    "stream_url": "https://live.we2live.in/taazatv/live/playlist.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": "http://mazandaran.irib.ir/",
-    "launched": "1975-01-01",
+    "website": "http://taazatv.com/",
+    "launched": null,
     "closed": null
   },
   {
@@ -278402,8 +277760,8 @@
     "tv_guide": {
       "channel": "TabbarHits.in",
       "feed": "SD",
-      "site": "distro.tv",
-      "site_id": "136891",
+      "site": "tataplay.com",
+      "site_id": "1670",
       "site_name": "Tabbar Hits",
       "lang": "en"
     },
@@ -278957,32 +278315,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/960px-IRIB_tamashaTV.svg.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226879/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Tamasha.ir",
-    "name": "Tamasha",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/960px-IRIB_tamashaTV.svg.png",
     "stream_url": "https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -279151,9 +278483,9 @@
     "tv_guide": {
       "channel": "TamilJanam.in",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "LIVETV_LIVETVCHANNEL_TAMIL_JANAM",
-      "site_name": "TAMIL JANAM",
+      "site": "tataplay.com",
+      "site_id": "1317",
+      "site_name": "Tamil Janam",
       "lang": "en"
     },
     "website": "https://janamtv.com/",
@@ -281544,36 +280876,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://www.tegartv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TehranTV.ir",
-    "name": "Tehran TV",
-    "alt_names": [
-      "شبکه تهران"
-    ],
-    "network": null,
-    "owners": [
-      "IRIB"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IRIBTV5.svg/500px-IRIBTV5.svg.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tv5.ir/",
     "launched": null,
     "closed": null
   },
@@ -286933,30 +286235,6 @@
     "closed": null
   },
   {
-    "id": "Telesud.fr",
-    "name": "Telesud",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/bC3qiGK.png",
-    "stream_url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telesud.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.telesud.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TelesudTrapani.it",
     "name": "Telesud Trapani",
     "alt_names": [],
@@ -288376,84 +287654,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.urslja.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TelewebionSport2.ir",
-    "name": "Telewebion Sport 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%84%D9%88%D8%A8%DB%8C%D9%88%D9%86_%D9%88%D8%B1%D8%B2%D8%B4%DB%8C_%DB%B1.png/960px-%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%84%D9%88%D8%A8%DB%8C%D9%88%D9%86_%D9%88%D8%B1%D8%B2%D8%B4%DB%8C_%DB%B1.png",
-    "stream_url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://gg.hls2.xyz/live/Twsport2/chunks.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TelewebionSport3.ir",
-    "name": "Telewebion Sport 3",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%84%D9%88%D8%A8%DB%8C%D9%88%D9%86_%D9%88%D8%B1%D8%B2%D8%B4%DB%8C_%DB%B1.png/960px-%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%84%D9%88%D8%A8%DB%8C%D9%88%D9%86_%D9%88%D8%B1%D8%B2%D8%B4%DB%8C_%DB%B1.png",
-    "stream_url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://gg.hls2.xyz/live/Twsport3/chunks.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TelewebionSport.ir",
-    "name": "Telewebion Sport",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%84%D9%88%D8%A8%DB%8C%D9%88%D9%86_%D9%88%D8%B1%D8%B2%D8%B4%DB%8C_%DB%B1.png/960px-%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%84%D9%88%D8%A8%DB%8C%D9%88%D9%86_%D9%88%D8%B1%D8%B2%D8%B4%DB%8C_%DB%B1.png",
-    "stream_url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://gg.hls2.xyz/live/Twsport1/chunks.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
     "launched": null,
     "closed": null
   },
@@ -323641,7 +322841,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "UltimateTV.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1388",
+      "site_name": "UTV",
+      "lang": "en"
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -324491,7 +323698,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "UniqueTV.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1164",
+      "site_name": "Unique TV",
+      "lang": "en"
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -325887,14 +325101,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "UTV.cl",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "1388",
-      "site_name": "UTV",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": "https://www.utv.cl/",
     "launched": null,
     "closed": null
@@ -326625,32 +325832,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://varzeshtv.ir/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "VarzeshTV.ir",
-    "name": "Varzesh TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png",
     "stream_url": "https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -327319,7 +326500,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "VelichamTV.in",
+      "feed": "SD",
+      "site": "dishtv.in",
+      "site_id": "144070",
+      "site_name": "Velicham TV",
+      "lang": "en"
+    },
     "website": "http://www.velichamtv.org/",
     "launched": "2016-04-14",
     "closed": null
@@ -330100,6 +329288,39 @@
       "lang": "en"
     },
     "website": "http://www.vissatv.in/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VistaarNews.in",
+    "name": "Vistaar News",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSENaovfkLYBJSYXeQwImkwXOorLvGyRcF3ZbCQshsWNEshT7aOJlQqEdnqzhjRusmztSo&usqp=CAU",
+    "stream_url": "https://mumt04.tangotv.in/VISTAARNEWS/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "VistaarNews.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1315",
+      "site_name": "Vistaar News",
+      "lang": "en"
+    },
+    "website": "https://vistaarnews.com/",
     "launched": null,
     "closed": null
   },
@@ -335208,34 +334429,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://wesaltv.id/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "WestAzerbaijanTV.ir",
-    "name": "West Azerbaijan TV",
-    "alt_names": [
-      "شبکه آذربایجان غربی"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/960px-Urmia_TV.svg.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221226800/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
     "launched": null,
     "closed": null
   },
@@ -344772,32 +343965,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/960px-Yazd_taban.svg.png",
-    "stream_url": "https://lenz.splus.ir/PLTV/88888888/224/3221227023/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://yazd.irib.ir/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "YazdTV.ir",
-    "name": "Yazd TV",
-    "alt_names": [
-      "شبکه یرد"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/960px-Yazd_taban.svg.png",
     "stream_url": "https://ncdn.telewebion.ir/taban/live/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -348433,10 +347600,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "ZeeTalkies.in",
-      "feed": "SD",
+      "feed": "HD",
       "site": "tataplay.com",
-      "site_id": "249",
-      "site_name": "Zee Talkies",
+      "site_id": "515",
+      "site_name": "Zee Talkies HD",
       "lang": "en"
     },
     "website": "http://www.zeetalkies.tv/",

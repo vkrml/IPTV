@@ -243,7 +243,45 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/hKo8ApU.png",
     "stream_url": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
-    "stream_quality": null,
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CurrentTimeTV.cz",
+      "feed": "SD",
+      "site": "teliatv.ee",
+      "site_id": "ru#1348",
+      "site_name": "Настоящее время",
+      "lang": "ru"
+    },
+    "website": "https://www.currenttime.tv/",
+    "launched": "2017-02-07",
+    "closed": null
+  },
+  {
+    "id": "CurrentTimeTV.cz",
+    "name": "Current Time TV",
+    "alt_names": [
+      "Настоящее Время",
+      "Nastoyashchee Vremya"
+    ],
+    "network": null,
+    "owners": [
+      "RFE/RL Inc."
+    ],
+    "country_code": "CZ",
+    "country_name": "Czech Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/hKo8ApU.png",
+    "stream_url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc015/currenttimehdraw/currenttimehdraw.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

@@ -1157,38 +1157,6 @@
     "closed": null
   },
   {
-    "id": "3HD.th",
-    "name": "3HD",
-    "alt_names": [
-      "3HD 33",
-      "Channel 3 HD",
-      "ช่อง 3 เอชดี"
-    ],
-    "network": null,
-    "owners": [
-      "BEC World"
-    ],
-    "country_code": "TH",
-    "country_name": "Thailand",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/YRiulCU.png",
-    "stream_url": "https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://ch3plus.com/",
-    "launched": "1970-03-26",
-    "closed": null
-  },
-  {
     "id": "3sat.de",
     "name": "3sat",
     "alt_names": [],
@@ -56801,6 +56769,34 @@
     "closed": null
   },
   {
+    "id": "CanalPyC.co",
+    "name": "Canal PyC",
+    "alt_names": [
+      "PyC Televisión"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/3qxBDhV.png",
+    "stream_url": "https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://canalpyc.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CanalReusTV.es",
     "name": "Canal Reus TV",
     "alt_names": [],
@@ -66256,6 +66252,36 @@
     "logo": "https://i.imgur.com/wOIaqg7.png",
     "stream_url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://tv5.co.th/",
+    "launched": "1958-01-25",
+    "closed": null
+  },
+  {
+    "id": "Channel5.th",
+    "name": "Channel 5",
+    "alt_names": [
+      "Thai TV5"
+    ],
+    "network": null,
+    "owners": [
+      "Royal Thai Army"
+    ],
+    "country_code": "TH",
+    "country_name": "Thailand",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/wOIaqg7.png",
+    "stream_url": "https://nodelive.thaitv5hd.com/hls/tv5hdlive-for-thaitv5hdcom/stream_1.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -94327,7 +94353,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/cma6WO0.png",
+    "logo": "https://i.imgur.com/hj6EYwe.png",
     "stream_url": "https://samson.streamerr.co:8081/shogun/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -108853,6 +108879,41 @@
     "logo": "https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_500.m3u8",
     "stream_quality": "360p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "France24.fr",
+      "feed": "French",
+      "site": "zap.co.ao",
+      "site_id": "2132",
+      "site_name": "France 24 Fr",
+      "lang": "pt"
+    },
+    "website": "https://www.france24.com/",
+    "launched": "2006-12-06",
+    "closed": null
+  },
+  {
+    "id": "France24.fr",
+    "name": "France 24",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "France Medias Monde"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://liveh12.vtvprime.vn/hls/FRANCE24/03.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -132530,7 +132591,9 @@
     "name": "Inti TV",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Grupo Alvarado Roca"
+    ],
     "country_code": "EC",
     "country_name": "Ecuador",
     "subdivision": null,
@@ -155213,6 +155276,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "LaCheverisimaRadioTV.co",
+    "name": "La Cheverisima Radio TV",
+    "alt_names": [
+      "La Cheverísima Radio TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/lk5D5kB.png",
+    "stream_url": "https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.lacheverisimaneira.com/",
     "launched": null,
     "closed": null
   },
@@ -192630,9 +192721,14 @@
   {
     "id": "NKTV24x7.in",
     "name": "NK TV 24x7",
-    "alt_names": [],
+    "alt_names": [
+      "NK TV Plus",
+      "NKTV Plus"
+    ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "NK Power and Infrastructure Pvt. Ltd."
+    ],
     "country_code": "IN",
     "country_name": "India",
     "subdivision": null,
@@ -207015,7 +207111,7 @@
     "alt_names": [],
     "network": null,
     "owners": [
-      "OSM Network"
+      "Cobol Communication Pvt. Ltd."
     ],
     "country_code": "IN",
     "country_name": "India",
@@ -207040,7 +207136,7 @@
       "site_name": "Pasand",
       "lang": "en"
     },
-    "website": null,
+    "website": "https://coboltv.com/",
     "launched": "2021-11-26",
     "closed": null
   },
@@ -275200,6 +275296,32 @@
     "closed": null
   },
   {
+    "id": "SuMundoTV.do",
+    "name": "Su Mundo TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "DO",
+    "country_name": "Dominican Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/twGGfJr.png",
+    "stream_url": "https://appapi.sumundotv.com/api/stream-proxy/4pf8yy3WF1xp1_tQ6yUYRIsbwyLc3qxDRcZAY_NLNDs/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.sumundotv.com",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SundanceTV.pl",
     "name": "Sundance TV",
     "alt_names": [],
@@ -286438,6 +286560,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.tsdtv.it/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Telesangil.co",
+    "name": "Telesangil",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png",
+    "stream_url": "https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://telesangil.com/",
     "launched": null,
     "closed": null
   },
@@ -312003,7 +312151,7 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://tvl.asambleanacional.gob.ec/",
-    "launched": null,
+    "launched": "2013-03-22",
     "closed": null
   },
   {
@@ -324084,7 +324232,9 @@
     "name": "Unique TV",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Cobol Communication Pvt. Ltd."
+    ],
     "country_code": "IN",
     "country_name": "India",
     "subdivision": null,
@@ -324109,7 +324259,7 @@
       "site_name": "Unique TV",
       "lang": "en"
     },
-    "website": null,
+    "website": "https://coboltv.com/",
     "launched": null,
     "closed": null
   },

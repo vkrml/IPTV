@@ -22315,41 +22315,6 @@
     "closed": null
   },
   {
-    "id": "FXLatinAmerica.us",
-    "name": "FX Latin America",
-    "alt_names": [],
-    "network": "FX Channels",
-    "owners": [
-      "The Walt Disney Company Latin America"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
-    "stream_url": "http://38.199.6.1:17001/play/a04u/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FXLatinAmerica.us",
-      "feed": "Panregional",
-      "site": "mi.tv",
-      "site_id": "co#fx-hd",
-      "site_name": "FX HD",
-      "lang": "es"
-    },
-    "website": "http://www.canalfx.tv/",
-    "launched": "2005-05-01",
-    "closed": null
-  },
-  {
     "id": "FXMovieChannel.us",
     "name": "FX Movie Channel",
     "alt_names": [],
@@ -24801,7 +24766,7 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/P9eT0O9.png",
     "stream_url": "https://amg00654-itvstudios-hellskitchen-samsungse-9n806.amagi.tv/playlist/amg00654-itvstudios-hellskitchen-samsungse/playlist.m3u8",
-    "stream_quality": null,
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -29263,76 +29228,6 @@
     "closed": null
   },
   {
-    "id": "KFMBDT2.us",
-    "name": "KFMB-DT2",
-    "alt_names": [],
-    "network": "CW",
-    "owners": [
-      "Tegna Inc"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/GCB3vun.png",
-    "stream_url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "KFMBDT2.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "73496",
-      "site_name": "CW (KFMB-TV2) San Diego, CA",
-      "lang": "en"
-    },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "KFMBDT2.us",
-    "name": "KFMB-DT2",
-    "alt_names": [],
-    "network": "CW",
-    "owners": [
-      "Tegna Inc"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/GCB3vun.png",
-    "stream_url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "KFMBDT2.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "73496",
-      "site_name": "CW (KFMB-TV2) San Diego, CA",
-      "lang": "en"
-    },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "KFONTV.us",
     "name": "KFON TV",
     "alt_names": [],
@@ -33330,7 +33225,7 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/fJxySUg.png",
     "stream_url": "https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8",
-    "stream_quality": null,
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -38505,6 +38400,36 @@
     "closed": null
   },
   {
+    "id": "Nashville.us",
+    "name": "Nashville",
+    "alt_names": [
+      "Nashville Channel"
+    ],
+    "network": null,
+    "owners": [
+      "Lionsgate Studios Corp."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/65cf8d7428730900087c5907/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://lionsgatechannels.com/channel/nashville",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "NatickEducationChannel.us",
     "name": "Natick Education Channel",
     "alt_names": [],
@@ -41065,42 +40990,6 @@
     },
     "website": "http://www.nick.com/",
     "launched": "1979-04-01",
-    "closed": null
-  },
-  {
-    "id": "NickelodeonLatinAmerica.us",
-    "name": "Nickelodeon Latin America",
-    "alt_names": [],
-    "network": "Nickelodeon",
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "stream_url": "http://179.51.136.19:8000/play/a0q4/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NickelodeonLatinAmerica.us",
-      "feed": "Panregional",
-      "site": "siba.com.co",
-      "site_id": "552",
-      "site_name": "Nickelodeon",
-      "lang": "es"
-    },
-    "website": "http://nickelodeon.la/",
-    "launched": null,
     "closed": null
   },
   {

@@ -805,43 +805,6 @@
     "closed": null
   },
   {
-    "id": "BerbereTV.fr",
-    "name": "Berbere TV",
-    "alt_names": [
-      "Berbère TV"
-    ],
-    "network": null,
-    "owners": [
-      "BRTV Group"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "culture"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Uc2PAmL.png",
-    "stream_url": "http://5.253.46.190:8000/play/a0fi/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BerbereTV.fr",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "574",
-      "site_name": "Berbère TV",
-      "lang": "fr"
-    },
-    "website": "http://www.brtvpro.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "BFM2.fr",
     "name": "BFM2",
     "alt_names": [],
@@ -8506,6 +8469,40 @@
     },
     "website": "https://trace.company/activities/television/trace-brazuca/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TraceGospel.fr",
+    "name": "Trace Gospel",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music",
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/X0UmU3K.png",
+    "stream_url": "https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TraceGospel.fr",
+      "feed": "SD",
+      "site": "tv.sfr.fr",
+      "site_id": "2022",
+      "site_name": "Trace Gospel",
+      "lang": "fr"
+    },
+    "website": "http://tracegospel.tv/",
+    "launched": "2015-11-23",
     "closed": null
   },
   {

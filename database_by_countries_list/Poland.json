@@ -123,43 +123,6 @@
     "closed": null
   },
   {
-    "id": "13Ulica.pl",
-    "name": "13 Ulica",
-    "alt_names": [
-      "13th Street"
-    ],
-    "network": null,
-    "owners": [
-      "NBCUniversal"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/0gCNnLq.png",
-    "stream_url": "http://116.90.120.151:8000/play/a0l4/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "13Ulica.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "13-ulica-316",
-      "site_name": "13 Ulica",
-      "lang": "pl"
-    },
-    "website": "http://www.13ulica.pl/",
-    "launched": "2010-09-13",
-    "closed": null
-  },
-  {
     "id": "AmericanCrimeChannel.pl",
     "name": "American Crime Channel",
     "alt_names": [],
@@ -879,41 +842,36 @@
     "closed": null
   },
   {
-    "id": "E.pl",
-    "name": "E!",
-    "alt_names": [
-      "Entertainment"
-    ],
-    "network": "NBCUniversal International Networks",
-    "owners": [
-      "NBCUniversal",
-      "Sky Group"
-    ],
+    "id": "Echo24.pl",
+    "name": "Echo24",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
     "country_code": "PL",
     "country_name": "Poland",
     "subdivision": null,
     "city": null,
     "categories": [
-      "entertainment"
+      "general"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/TWFDkap.png",
-    "stream_url": "http://116.90.120.151:8000/play/a0kz/index.m3u8",
-    "stream_quality": "1080p",
+    "logo": "https://i.imgur.com/KPogWAG.png",
+    "stream_url": "https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "E.pl",
-      "feed": "HD",
+      "channel": "Echo24.pl",
+      "feed": "SD",
       "site": "programtv.onet.pl",
-      "site_id": "e-entertainment-hd-169",
-      "site_name": "E! Entertainment HD",
+      "site_id": "echo-24-687",
+      "site_name": "Echo 24",
       "lang": "pl"
     },
-    "website": "https://www.eonline.com/",
-    "launched": "2002-12-02",
+    "website": "https://echo24.tv/",
+    "launched": null,
     "closed": null
   },
   {
@@ -932,8 +890,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/KPogWAG.png",
-    "stream_url": "https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc027/echo24hdraw/echo24hdraw.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -2975,6 +2933,32 @@
     "is_nsfw": false,
     "logo": "https://remontytv.pl/wp-content/uploads/2026/01/Remonty_TV_logo-color1.png",
     "stream_url": "https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://remontytv.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RemontyTV.pl",
+    "name": "Remonty TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://remontytv.pl/wp-content/uploads/2026/01/Remonty_TV_logo-color1.png",
+    "stream_url": "https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc006/remontytvraw/remontytvraw.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

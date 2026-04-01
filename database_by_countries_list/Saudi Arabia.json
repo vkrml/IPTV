@@ -578,45 +578,6 @@
     "closed": null
   },
   {
-    "id": "AlSaudiya.sa",
-    "name": "Al Saudiya",
-    "alt_names": [
-      "السعودية",
-      "Saudi TV Channel 1",
-      "KSA 1"
-    ],
-    "network": "Saudi TV",
-    "owners": [
-      "Saudi Broadcasting Authority"
-    ],
-    "country_code": "SA",
-    "country_name": "Saudi Arabia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/GRQTndk.png",
-    "stream_url": "http://trn03.bozztv.com/gin-sauditv/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AlSaudiya.sa",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "1733",
-      "site_name": "Saudi Channel 1",
-      "lang": "fr"
-    },
-    "website": "https://saudiatv.sa/",
-    "launched": "1965-07-07",
-    "closed": null
-  },
-  {
     "id": "AlSaudiyaAlaan.sa",
     "name": "Al Saudiya Alaan",
     "alt_names": [
@@ -1245,13 +1206,48 @@
     "closed": null
   },
   {
+    "id": "JeddahRadio.sa",
+    "name": "Jeddah Radio",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "SA",
+    "country_name": "Saudi Arabia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Q3d7G04.png",
+    "stream_url": "https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "JeddahRadio.sa",
+      "feed": "SD",
+      "site": "sat.tv",
+      "site_id": "1#33#Jedda Radio",
+      "site_name": "Jedda Radio",
+      "lang": "en"
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "LBC.sa",
     "name": "LBC",
     "alt_names": [
       "إل بي سي"
     ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Rotana Group"
+    ],
     "country_code": "SA",
     "country_name": "Saudi Arabia",
     "subdivision": null,
@@ -1261,7 +1257,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/whyZXzW.png",
+    "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp",
     "stream_url": "https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -1275,9 +1271,9 @@
       "site_name": "LBC",
       "lang": "en"
     },
-    "website": "http://rotana.net/vod-channels/lbc/",
+    "website": "https://rotana.net/en/channels?tz=-120/channels#/live/rotana-lbc",
     "launched": null,
-    "closed": "2009-08-09"
+    "closed": null
   },
   {
     "id": "MajidAlMohandis.sa",
@@ -2221,7 +2217,9 @@
       "اس بي سي"
     ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Saudi Broadcasting Authority"
+    ],
     "country_code": "SA",
     "country_name": "Saudi Arabia",
     "subdivision": null,
@@ -2245,43 +2243,8 @@
       "site_name": "SBC",
       "lang": "fr"
     },
-    "website": "https://sbctv.sa/",
+    "website": "https://sbctv.sba.sa/Home",
     "launched": "2018-05-18",
-    "closed": null
-  },
-  {
-    "id": "SpookyNights.sa",
-    "name": "Spooky Nights",
-    "alt_names": [],
-    "network": "Shahid",
-    "owners": [
-      "MBC Group"
-    ],
-    "country_code": "SA",
-    "country_name": "Saudi Arabia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://shahid.mbc.net/mediaObject/b0016b19-b35b-4ea6-afb9-5b74a0aac825?height=auto&width=512&croppingPoint=&version=1&type=png",
-    "stream_url": "https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SpookyNights.sa",
-      "feed": "SD",
-      "site": "shahid.mbc.net",
-      "site_id": "49923522151062",
-      "site_name": "Spooky Nights",
-      "lang": "fr"
-    },
-    "website": null,
-    "launched": null,
     "closed": null
   },
   {

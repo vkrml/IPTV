@@ -1230,6 +1230,43 @@
     "closed": null
   },
   {
+    "id": "KanalD.ro",
+    "name": "Kanal D",
+    "alt_names": [
+      "Kanal D România"
+    ],
+    "network": null,
+    "owners": [
+      "Dogan Media International SA"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/15ILp0P.png",
+    "stream_url": "https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "KanalD.ro",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "73590",
+      "site_name": "Kanal D",
+      "lang": "en"
+    },
+    "website": "https://www.kanald.ro/",
+    "launched": "2007-02-18",
+    "closed": null
+  },
+  {
     "id": "KissTV.ro",
     "name": "Kiss TV",
     "alt_names": [],
@@ -1833,6 +1870,30 @@
     "closed": null
   },
   {
+    "id": "RealitateaStar.ro",
+    "name": "Realitatea Star",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/bNdpyAZ.png",
+    "stream_url": "https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://realitateastar.net/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RockTV.ro",
     "name": "Rock TV",
     "alt_names": [],
@@ -2425,6 +2486,35 @@
     "tv_guide": null,
     "website": "http://www.tvr.ro/",
     "launched": "2022-12-01",
+    "closed": null
+  },
+  {
+    "id": "TVRFolclor.ro",
+    "name": "TVR Folclor",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Televiziunea Română"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general",
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVR_Folclor_Logo_2023.svg/960px-TVR_Folclor_Logo_2023.svg.png",
+    "stream_url": "https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://folclor.tvr.ro/",
+    "launched": "2023-11-27",
     "closed": null
   },
   {

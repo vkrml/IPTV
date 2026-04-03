@@ -409,6 +409,32 @@
     "closed": null
   },
   {
+    "id": "TezaurTV.md",
+    "name": "Tezaur TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "MD",
+    "country_name": "Moldova",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/eAagwLW.png",
+    "stream_url": "https://tezaurtv.md/stream/index.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://tezaurtv.md",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVNord.md",
     "name": "TV-Nord",
     "alt_names": [],
@@ -454,6 +480,41 @@
     "logo": "https://i.imgur.com/wDe9gL2.png",
     "stream_url": "https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8",
     "stream_quality": "1440p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVRMoldova.md",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "tvr-moldova",
+      "site_name": "TVR Moldova",
+      "lang": "ro"
+    },
+    "website": "https://tvrmoldova.md/",
+    "launched": "2013-09-12",
+    "closed": null
+  },
+  {
+    "id": "TVRMoldova.md",
+    "name": "TVR Moldova",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Televiziunea Română"
+    ],
+    "country_code": "MD",
+    "country_name": "Moldova",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/wDe9gL2.png",
+    "stream_url": "https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

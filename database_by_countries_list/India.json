@@ -2105,41 +2105,6 @@
     "closed": null
   },
   {
-    "id": "Andflix.in",
-    "name": "&flix",
-    "alt_names": [],
-    "network": "Z",
-    "owners": [
-      "Zee Entertainment Enterprises Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_image.png",
-    "stream_url": "http://116.90.120.151:8000/play/a0il/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Andflix.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "592",
-      "site_name": "&flix",
-      "lang": "en"
-    },
-    "website": "https://andflix.zee5.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Andpictures.in",
     "name": "&pictures",
     "alt_names": [],
@@ -3179,6 +3144,43 @@
     },
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Asianet.in",
+    "name": "Asianet",
+    "alt_names": [],
+    "network": "Asianet",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s142673_ld_h15_aa.png?lock=720x540",
+    "stream_url": "http://103.157.248.140:8000/play/a00s/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Asianet.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "289",
+      "site_name": "Asianet",
+      "lang": "en"
+    },
+    "website": "https://www.asianet.co.in/",
+    "launched": "1993-08-30",
     "closed": null
   },
   {
@@ -5256,7 +5258,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/EbHSQAJ.png",
-    "stream_url": "http://103.182.170.32:8888/play/a01o",
+    "stream_url": "http://103.157.248.140:8000/play/a00x/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -5402,8 +5404,82 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s158241_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://ptu.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8",
+    "stream_url": "http://ptuf.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ColorsTamil.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "674",
+      "site_name": "Colors Tamil HD",
+      "lang": "en"
+    },
+    "website": "https://www.colorstv.com/us/",
+    "launched": "2018-02-19",
+    "closed": null
+  },
+  {
+    "id": "ColorsTamil.in",
+    "name": "Colors Tamil",
+    "alt_names": [],
+    "network": "Colors",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s158241_ld_h15_aa.png?lock=720x540",
+    "stream_url": "http://103.157.248.140:8000/play/a069/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ColorsTamil.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "674",
+      "site_name": "Colors Tamil HD",
+      "lang": "en"
+    },
+    "website": "https://www.colorstv.com/us/",
+    "launched": "2018-02-19",
+    "closed": null
+  },
+  {
+    "id": "ColorsTamil.in",
+    "name": "Colors Tamil",
+    "alt_names": [],
+    "network": "Colors",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s158241_ld_h15_aa.png?lock=720x540",
+    "stream_url": "http://ajkiptv.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -11280,6 +11356,43 @@
     "closed": null
   },
   {
+    "id": "HungamaTV.in",
+    "name": "Hungama TV",
+    "alt_names": [],
+    "network": "JioStar",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143150_ld_h15_aa.png?lock=720x540",
+    "stream_url": "http://ajkiptv.ridsys.in/riptv/live/HUNGAMA/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HungamaTV.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "345",
+      "site_name": "Hungama",
+      "lang": "en"
+    },
+    "website": "https://hungamatv.ga/",
+    "launched": "2004-09-26",
+    "closed": null
+  },
+  {
     "id": "IBC24.in",
     "name": "IBC 24",
     "alt_names": [],
@@ -12031,6 +12144,41 @@
     "logo": "https://dtil.tmsimg.com/assets/s143212_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8",
     "stream_quality": "396p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "IsaiAruvi.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "647",
+      "site_name": "Isaiaruvi",
+      "lang": "en"
+    },
+    "website": null,
+    "launched": "2008-02-22",
+    "closed": null
+  },
+  {
+    "id": "IsaiAruvi.in",
+    "name": "Isai Aruvi",
+    "alt_names": [],
+    "network": "Kalaignar TV",
+    "owners": [
+      "Kalaignar TV Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143212_ld_h15_aa.png?lock=720x540",
+    "stream_url": "http://ptuf.ridsys.in/riptv/live/KALAIGNAR_ISAI_ARUVI/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -15583,42 +15731,6 @@
     "closed": null
   },
   {
-    "id": "MoviesNow.in",
-    "name": "Movies Now",
-    "alt_names": [],
-    "network": "Times Network",
-    "owners": [
-      "The Times Group",
-      "Bennett Coleman and Company Limited (BCCL)"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s147571_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://116.90.120.151:8000/play/a0ib/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MoviesNow.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "173",
-      "site_name": "Movies Now",
-      "lang": "en"
-    },
-    "website": null,
-    "launched": "2010-12-19",
-    "closed": null
-  },
-  {
     "id": "MoviesNowPlus.in",
     "name": "Movies Now +",
     "alt_names": [
@@ -15740,7 +15852,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://116.90.120.151:8000/play/a0ig/index.m3u8",
+    "stream_url": "http://103.157.248.140:8000/play/a01p/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -15971,8 +16083,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://116.90.120.151:8000/play/a0in/index.m3u8",
-    "stream_quality": null,
+    "stream_url": "http://103.157.248.140:8000/play/a012/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -16010,7 +16122,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143572_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://116.90.120.151:8000/play/a0ie/index.m3u8",
+    "stream_url": "http://103.157.248.140:8000/play/a010/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -17694,7 +17806,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002YJ9BJ.png?lock=720x540",
-    "stream_url": "http://116.90.120.151:8000/play/a0hj/index.m3u8",
+    "stream_url": "http://ptu.ridsys.in/riptv/live/NICK/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -17733,7 +17845,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002YJ9BJ.png?lock=720x540",
-    "stream_url": "http://ptu.ridsys.in/riptv/live/NICK/index.m3u8",
+    "stream_url": "http://103.157.248.140:8000/play/a01n/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -17807,7 +17919,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002YJ9M2.png?lock=720x540",
-    "stream_url": "http://116.90.120.151:8000/play/a0h5/index.m3u8",
+    "stream_url": "http://103.157.248.140:8000/play/a00k/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NickJr.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "118",
+      "site_name": "Nick Jr",
+      "lang": "en"
+    },
+    "website": "http://nickjrindia.com/",
+    "launched": "2012-11-21",
+    "closed": null
+  },
+  {
+    "id": "NickJr.in",
+    "name": "Nick Jr.",
+    "alt_names": [],
+    "network": "Nickelodeon",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002YJ9M2.png?lock=720x540",
+    "stream_url": "http://ajkiptv.ridsys.in/riptv/live/NICK_JR/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -20164,7 +20313,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143729_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://116.90.120.151:8000/play/a0is/index.m3u8",
+    "stream_url": "http://103.157.248.140:8000/play/a015/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -22095,6 +22244,41 @@
     "closed": null
   },
   {
+    "id": "SirippoliTV.in",
+    "name": "Sirippoli TV",
+    "alt_names": [],
+    "network": "Kalaignar TV",
+    "owners": [
+      "Kalaignar TV Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143791_ld_h9_aa.png?lock=720x540",
+    "stream_url": "http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SirippoliTV.in",
+      "feed": null,
+      "site": "tataplay.com",
+      "site_id": "611",
+      "site_name": "Sirippoli",
+      "lang": "en"
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SohamTV.in",
     "name": "Soham TV",
     "alt_names": [],
@@ -22251,8 +22435,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://116.90.120.151:8000/play/a0j1/index.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "http://ajkiptv.ridsys.in/riptv/live/SONY_BBC_EARTH/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -22291,7 +22475,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://116.90.120.151:8000/play/a0gp/index.m3u8",
+    "stream_url": "http://103.157.248.140:8000/play/a004/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -22306,82 +22490,6 @@
     },
     "website": "https://www.setindia.com/",
     "launched": "1995-09-30",
-    "closed": null
-  },
-  {
-    "id": "SonyEntertainmentTelevision.in",
-    "name": "Sony Entertainment Television",
-    "alt_names": [
-      "SET",
-      "Sony TV",
-      "SET India"
-    ],
-    "network": "Sony Pictures Networks",
-    "owners": [
-      "Sony Pictures Networks India (SPNI)",
-      "Culver Max Entertainment Private Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540",
-    "stream_url": "https://padmaonline.duckdns.org:8088/SETHD/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SonyEntertainmentTelevision.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "556",
-      "site_name": "SET",
-      "lang": "en"
-    },
-    "website": "https://www.setindia.com/",
-    "launched": "1995-09-30",
-    "closed": null
-  },
-  {
-    "id": "SonyMax2.in",
-    "name": "Sony Max 2",
-    "alt_names": [],
-    "network": "Sony Pictures Networks",
-    "owners": [
-      "Sony Pictures Networks India (SPNI)",
-      "Culver Max Entertainment Private Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://116.90.120.151:8000/play/a0h0/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SonyMax2.in",
-      "feed": "SD",
-      "site": "virgintvgo.virginmedia.com",
-      "site_id": "2032",
-      "site_name": "SONY MAX2",
-      "lang": "en"
-    },
-    "website": "https://www.sonymax2.tv/",
-    "launched": null,
     "closed": null
   },
   {
@@ -22405,95 +22513,21 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://116.90.120.151:8000/play/a0jf/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SonyMax.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "132",
-      "site_name": "SONY MAX",
-      "lang": "en"
-    },
-    "website": "https://www.sonymax.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SonyMax.in",
-    "name": "Sony Max",
-    "alt_names": [
-      "SET Max"
-    ],
-    "network": null,
-    "owners": [
-      "Sony Pictures Networks India (SPNI)",
-      "Culver Max Entertainment Private Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://103.99.249.139/sonymax/index.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SonyMax.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "132",
-      "site_name": "SONY MAX",
-      "lang": "en"
-    },
-    "website": "https://www.sonymax.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SonyPal.in",
-    "name": "Sony Pal",
-    "alt_names": [],
-    "network": "Sony Pictures Networks",
-    "owners": [
-      "Sony Pictures Networks India (SPNI)",
-      "Culver Max Entertainment Private Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://116.90.120.151:8000/play/a0km/index.m3u8",
+    "stream_url": "http://103.157.248.140:8000/play/a01l/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "SonyPal.in",
+      "channel": "SonyMax.in",
       "feed": "SD",
       "site": "tataplay.com",
-      "site_id": "554",
-      "site_name": "Sony Pal",
+      "site_id": "132",
+      "site_name": "SONY MAX",
       "lang": "en"
     },
-    "website": "http://www.sonypal.in/",
-    "launched": "2014-09-01",
+    "website": "https://www.sonymax.tv/",
+    "launched": null,
     "closed": null
   },
   {
@@ -22591,8 +22625,46 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",
-    "stream_url": "http://103.99.249.139/sonysab/index.m3u8",
-    "stream_quality": "480p",
+    "stream_url": "http://103.157.248.140:8000/play/a00c/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonySAB.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "559",
+      "site_name": "SONY SAB",
+      "lang": "en"
+    },
+    "website": "https://www.sabtv.com/en_in/",
+    "launched": "1999-04-23",
+    "closed": null
+  },
+  {
+    "id": "SonySAB.in",
+    "name": "Sony SAB",
+    "alt_names": [
+      "SAB TV"
+    ],
+    "network": "Sony Pictures Networks",
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",
+    "stream_url": "http://103.157.248.140:8000/play/a05i/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -22712,47 +22784,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://116.90.120.151:8000/play/a0hb/index.m3u8",
+    "stream_url": "http://103.157.248.140:8000/play/a05x/index.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SonySportsTen5.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "610",
-      "site_name": "SONY SPORTS TEN 5",
-      "lang": "en"
-    },
-    "website": "https://www.sonysportsnetwork.com/",
-    "launched": "2011-01-01",
-    "closed": null
-  },
-  {
-    "id": "SonySportsTen5.in",
-    "name": "Sony Sports Ten 5",
-    "alt_names": [
-      "Sony Six",
-      "Sony Max HD"
-    ],
-    "network": "Sony Sports Network",
-    "owners": [
-      "Sony Pictures Networks India (SPNI)",
-      "Culver Max Entertainment Private Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://103.99.249.139/sonyten3/index.m3u8",
-    "stream_quality": "480p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -22898,46 +22931,6 @@
     "closed": null
   },
   {
-    "id": "StarBharat.in",
-    "name": "Star Bharat",
-    "alt_names": [
-      "Life OK",
-      "Star One"
-    ],
-    "network": "JioStar",
-    "owners": [
-      "JioStar India Pvt. Ltd.",
-      "Reliance Industries(RIL)",
-      "The Walt Disney Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s159101_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://116.90.120.151:8000/play/a0h2/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarBharat.in",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "44889",
-      "site_name": "Star Bharat",
-      "lang": "en"
-    },
-    "website": "http://www.hotstar.com/channels/star-bharat",
-    "launched": "2017-08-28",
-    "closed": null
-  },
-  {
     "id": "StarGold2.in",
     "name": "Star Gold 2",
     "alt_names": [
@@ -22998,7 +22991,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s158297_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://116.90.120.151:8000/play/a0gz/index.m3u8",
+    "stream_url": "http://103.157.248.140:8000/play/a00e/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -23053,43 +23046,6 @@
     "closed": null
   },
   {
-    "id": "StarGold.in",
-    "name": "Star Gold",
-    "alt_names": [],
-    "network": "JioStar",
-    "owners": [
-      "JioStar India Pvt. Ltd.",
-      "Reliance Industries(RIL)",
-      "The Walt Disney Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143815_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://103.99.249.139/stargold/index.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarGold.in",
-      "feed": "HD",
-      "site": "tataplay.com",
-      "site_id": "245",
-      "site_name": "STAR GOLD HD",
-      "lang": "en"
-    },
-    "website": "https://hotstar.com/",
-    "launched": "1999-01-01",
-    "closed": null
-  },
-  {
     "id": "StarGoldRomance.in",
     "name": "Star Gold Romance",
     "alt_names": [
@@ -23111,7 +23067,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s158298_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://116.90.120.151:8000/play/a0he/index.m3u8",
+    "stream_url": "http://103.157.248.140:8000/play/a01i/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -23188,7 +23144,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s158822_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://116.90.120.151:8000/play/a0gw/index.m3u8",
+    "stream_url": "http://103.157.248.140:8000/play/a00b/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -23265,7 +23221,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://ptu.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8",
+    "stream_url": "http://103.157.248.140:8000/play/a01t/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -23283,8 +23239,8 @@
     "closed": null
   },
   {
-    "id": "StarMoviesSelect.in",
-    "name": "Star Movies Select",
+    "id": "StarMovies.in",
+    "name": "Star Movies",
     "alt_names": [],
     "network": "JioStar",
     "owners": [
@@ -23301,22 +23257,22 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://116.90.120.151:8000/play/a0ij/index.m3u8",
+    "logo": "https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540",
+    "stream_url": "http://ptuf.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "StarMoviesSelect.in",
-      "feed": "SD",
+      "channel": "StarMovies.in",
+      "feed": "HD",
       "site": "tataplay.com",
-      "site_id": "1069",
-      "site_name": "Star Movies Select",
+      "site_id": "560",
+      "site_name": "STAR Movies HD",
       "lang": "en"
     },
     "website": "http://www.starmovies.in/",
-    "launched": "2021-12-01",
+    "launched": "1991-04-01",
     "closed": null
   },
   {
@@ -23424,6 +23380,85 @@
     "closed": null
   },
   {
+    "id": "StarSports1Hindi.in",
+    "name": "Star Sports 1 Hindi",
+    "alt_names": [
+      "Star Sports 3",
+      "Star Cricket"
+    ],
+    "network": "Star Sports",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143838_ld_h15_aa.png?lock=720x540",
+    "stream_url": "http://103.157.248.140:8000/play/a00g/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarSports1Hindi.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "601",
+      "site_name": "Star Sports 1 Hindi",
+      "lang": "en"
+    },
+    "website": "https://www.startv.com/about-us/sports",
+    "launched": "2007-01-01",
+    "closed": null
+  },
+  {
+    "id": "StarSports1Tamil.in",
+    "name": "Star Sports 1 Tamil",
+    "alt_names": [
+      "Star Sports 4"
+    ],
+    "network": "Star Sports",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL_HD/images/LOGO_HD/image.png",
+    "stream_url": "http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL_HD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarSports1Tamil.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "1067",
+      "site_name": "Star Sports 1 Tamil HD",
+      "lang": "en"
+    },
+    "website": "https://www.startv.com/about-us/sports",
+    "launched": "2013-11-06",
+    "closed": null
+  },
+  {
     "id": "StarSports1Tamil.in",
     "name": "Star Sports 1 Tamil",
     "alt_names": [
@@ -23460,6 +23495,84 @@
     },
     "website": "https://www.startv.com/about-us/sports",
     "launched": "2013-11-06",
+    "closed": null
+  },
+  {
+    "id": "StarSports1Tamil.in",
+    "name": "Star Sports 1 Tamil",
+    "alt_names": [
+      "Star Sports 4"
+    ],
+    "network": "Star Sports",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL_HD/images/LOGO_HD/image.png",
+    "stream_url": "http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarSports1Tamil.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "1067",
+      "site_name": "Star Sports 1 Tamil HD",
+      "lang": "en"
+    },
+    "website": "https://www.startv.com/about-us/sports",
+    "launched": "2013-11-06",
+    "closed": null
+  },
+  {
+    "id": "StarSports2Hindi.in",
+    "name": "Star Sports 2 Hindi",
+    "alt_names": [
+      "Sports18 1"
+    ],
+    "network": "Star Sports",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png?lock=720x540",
+    "stream_url": "http://103.157.248.140:8000/play/a01m/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarSports2Hindi.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1033",
+      "site_name": "Star Sports 2 Hindi HD",
+      "lang": "en"
+    },
+    "website": "https://jiohotstar.com/",
+    "launched": "2022-04-15",
     "closed": null
   },
   {
@@ -23588,46 +23701,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s144075_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarVijay.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "527",
-      "site_name": "STAR Vijay",
-      "lang": "en"
-    },
-    "website": "https://www.hotstar.com/1260000018",
-    "launched": "1994-11-24",
-    "closed": null
-  },
-  {
-    "id": "StarVijay.in",
-    "name": "Star Vijay",
-    "alt_names": [
-      "Vijay TV",
-      "Golden Eagle Communication"
-    ],
-    "network": "JioStar",
-    "owners": [
-      "JioStar India Pvt. Ltd.",
-      "Reliance Industries(RIL)",
-      "The Walt Disney Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s144075_ld_h15_aa.png?lock=720x540",
     "stream_url": "http://ajkiptv.ridsys.in/riptv/live/STAR_VIJAY_HD/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -23668,7 +23741,87 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s144075_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://ptu.ridsys.in/riptv/live/STAR_VIJAY/index.m3u8",
+    "stream_url": "http://103.157.248.140:8000/play/a06b/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarVijay.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "527",
+      "site_name": "STAR Vijay",
+      "lang": "en"
+    },
+    "website": "https://www.hotstar.com/1260000018",
+    "launched": "1994-11-24",
+    "closed": null
+  },
+  {
+    "id": "StarVijay.in",
+    "name": "Star Vijay",
+    "alt_names": [
+      "Vijay TV",
+      "Golden Eagle Communication"
+    ],
+    "network": "JioStar",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s144075_ld_h15_aa.png?lock=720x540",
+    "stream_url": "http://ajkiptv.ridsys.in/riptv/live/STAR_VIJAY/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarVijay.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "527",
+      "site_name": "STAR Vijay",
+      "lang": "en"
+    },
+    "website": "https://www.hotstar.com/1260000018",
+    "launched": "1994-11-24",
+    "closed": null
+  },
+  {
+    "id": "StarVijay.in",
+    "name": "Star Vijay",
+    "alt_names": [
+      "Vijay TV",
+      "Golden Eagle Communication"
+    ],
+    "network": "JioStar",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s144075_ld_h15_aa.png?lock=720x540",
+    "stream_url": "http://ptuf.ridsys.in/riptv/live/STAR_VIJAY/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -26186,7 +26339,85 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s158319_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://ptu.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8",
+    "stream_url": "http://ajkiptv.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "VijaySuper.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "1176",
+      "site_name": "Vijay Super HD",
+      "lang": "en"
+    },
+    "website": "https://www.hotstar.com/1260000018",
+    "launched": "2016-08-25",
+    "closed": null
+  },
+  {
+    "id": "VijaySuper.in",
+    "name": "Vijay Super",
+    "alt_names": [
+      "Star Vijay Super"
+    ],
+    "network": "JioStar",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s158319_ld_h15_aa.png?lock=720x540",
+    "stream_url": "http://ptuf.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "VijaySuper.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "1176",
+      "site_name": "Vijay Super HD",
+      "lang": "en"
+    },
+    "website": "https://www.hotstar.com/1260000018",
+    "launched": "2016-08-25",
+    "closed": null
+  },
+  {
+    "id": "VijaySuper.in",
+    "name": "Vijay Super",
+    "alt_names": [
+      "Star Vijay Super"
+    ],
+    "network": "JioStar",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s158319_ld_h15_aa.png?lock=720x540",
+    "stream_url": "http://103.157.248.140:8000/play/a05l/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -27752,8 +27983,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540",
-    "stream_url": "http://103.99.249.139/zeecinema/index.m3u8",
-    "stream_quality": "480p",
+    "stream_url": "http://103.157.248.140:8000/play/a00q/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -28338,6 +28569,111 @@
     },
     "website": "https://www.zee5.com/channels/zee-thirai/0-9-224",
     "launched": "2020-01-19",
+    "closed": null
+  },
+  {
+    "id": "ZeeThirai.in",
+    "name": "Zee Thirai",
+    "alt_names": [],
+    "network": "Z",
+    "owners": [
+      "Zee Entertainment Enterprises Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022S9BF.png?lock=720x540",
+    "stream_url": "http://ajkiptv.ridsys.in/riptv/live/ZEE_THIRAI_HD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ZeeThirai.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "797",
+      "site_name": "Zee Thirai",
+      "lang": "en"
+    },
+    "website": "https://www.zee5.com/channels/zee-thirai/0-9-224",
+    "launched": "2020-01-19",
+    "closed": null
+  },
+  {
+    "id": "ZeeThirai.in",
+    "name": "Zee Thirai",
+    "alt_names": [],
+    "network": "Z",
+    "owners": [
+      "Zee Entertainment Enterprises Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022S9BF.png?lock=720x540",
+    "stream_url": "http://ajkiptv.ridsys.in/riptv/live/ZEE_THIRAI/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ZeeThirai.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "797",
+      "site_name": "Zee Thirai",
+      "lang": "en"
+    },
+    "website": "https://www.zee5.com/channels/zee-thirai/0-9-224",
+    "launched": "2020-01-19",
+    "closed": null
+  },
+  {
+    "id": "ZeeTV.in",
+    "name": "Zee TV",
+    "alt_names": [],
+    "network": "Z",
+    "owners": [
+      "Zee Entertainment Enterprises Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540",
+    "stream_url": "http://103.229.254.25:7001/play/a0cs/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ZeeTV.in",
+      "feed": "SD",
+      "site": "tv.sfr.fr",
+      "site_id": "526",
+      "site_name": "Zee TV",
+      "lang": "fr"
+    },
+    "website": "http://www.zeetv.com/",
+    "launched": null,
     "closed": null
   },
   {

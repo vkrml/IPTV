@@ -1405,6 +1405,41 @@
     "closed": null
   },
   {
+    "id": "CanalRural.ar",
+    "name": "Canal Rural",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Clarin"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "outdoor"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NgIBbPX.png",
+    "stream_url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/rural.playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalRural.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#canal-rural",
+      "site_name": "Canal Rural",
+      "lang": "es"
+    },
+    "website": "https://www.elrural.com/",
+    "launched": "1996-04-30",
+    "closed": null
+  },
+  {
     "id": "CanalSantaMaria.ar",
     "name": "Canal Santa Maria",
     "alt_names": [
@@ -1532,6 +1567,39 @@
     "closed": null
   },
   {
+    "id": "CineAr.ar",
+    "name": "Cine.Ar",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Iozv4tT.png",
+    "stream_url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-20.playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CineAr.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#incaa-tv",
+      "site_name": "CineAr",
+      "lang": "es"
+    },
+    "website": "http://tv.cine.ar/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CiudadMagazine.ar",
     "name": "Ciudad Magazine",
     "alt_names": [],
@@ -1564,6 +1632,43 @@
     },
     "website": "https://www.ciudad.com.ar/",
     "launched": "1995-01-09",
+    "closed": null
+  },
+  {
+    "id": "CronicaTV.ar",
+    "name": "Cronica TV",
+    "alt_names": [
+      "Crónica TV"
+    ],
+    "network": null,
+    "owners": [
+      "Héctor Ricardo Garcia"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png",
+    "stream_url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv.playlist.m3u8",
+    "stream_quality": "1280p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CronicaTV.ar",
+      "feed": "SD",
+      "site": "programacion.tcc.com.uy",
+      "site_id": "411",
+      "site_name": "Cronica TV",
+      "lang": "es"
+    },
+    "website": "https://www.cronicatv.com.ar/",
+    "launched": "1994-01-03",
     "closed": null
   },
   {
@@ -1647,40 +1752,72 @@
     "closed": null
   },
   {
-    "id": "ElTrece.ar",
-    "name": "El Trece",
-    "alt_names": [
-      "Canal 13"
+    "id": "DeporTV.ar",
+    "name": "DeporTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
     ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/THk9ARS.png",
+    "stream_url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DeporTV.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#dxtv",
+      "site_name": "DeporTV",
+      "lang": "es"
+    },
+    "website": "http://deportv.gov.ar/",
+    "launched": "2013-02-21",
+    "closed": null
+  },
+  {
+    "id": "DisneyJrLatinAmerica.ar",
+    "name": "Disney Jr. Latin America",
+    "alt_names": [],
     "network": null,
     "owners": [
-      "Grupo Clarin"
+      "Disney Media Network Latin America"
     ],
     "country_code": "AR",
     "country_name": "Argentina",
     "subdivision": null,
     "city": null,
     "categories": [
-      "general"
+      "animation",
+      "kids"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/TrgBAdA.png",
-    "stream_url": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
-    "stream_quality": "1080p",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "stream_url": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "ElTrece.ar",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "ar#el-trece",
-      "site_name": "Canal 13",
+      "channel": "DisneyJrLatinAmerica.ar",
+      "feed": "North",
+      "site": "reportv.com.ar",
+      "site_id": "1102",
+      "site_name": "DISNEY JR",
       "lang": "es"
     },
-    "website": "https://www.eltrecetv.com.ar/",
-    "launched": "1960-10-01",
+    "website": "https://www.disneylatino.com/",
+    "launched": "2011-04-01",
     "closed": null
   },
   {
@@ -1718,6 +1855,41 @@
     },
     "website": "https://www.eltrecetv.com.ar/",
     "launched": "1960-10-01",
+    "closed": null
+  },
+  {
+    "id": "Encuentro.ar",
+    "name": "Encuentro",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Argentine Ministry of Education"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/uBBZR1X.png",
+    "stream_url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-19.playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Encuentro.ar",
+      "feed": "SD",
+      "site": "programacion.tcc.com.uy",
+      "site_id": "405",
+      "site_name": "Encuentro",
+      "lang": "es"
+    },
+    "website": "http://encuentro.gob.ar/",
+    "launched": "2007-03-05",
     "closed": null
   },
   {
@@ -2129,6 +2301,41 @@
     "closed": null
   },
   {
+    "id": "Pakapaka.ar",
+    "name": "Pakapaka",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Ministry of Education of Argentina"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/GJbRWwH.png",
+    "stream_url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-36_400.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Pakapaka.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#pakapaka",
+      "site_name": "Pakapaka",
+      "lang": "es"
+    },
+    "website": "http://www.pakapaka.gob.ar/",
+    "launched": "2010-09-17",
+    "closed": null
+  },
+  {
     "id": "PancTV.ar",
     "name": "Panc TV",
     "alt_names": [],
@@ -2435,6 +2642,39 @@
     "closed": null
   },
   {
+    "id": "Telefe.ar",
+    "name": "Telefe",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Televisión Litoral"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
+    "stream_url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Telefe.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#telefe",
+      "site_name": "Telefe",
+      "lang": "es"
+    },
+    "website": "https://telefe.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TelefeInternacional.ar",
     "name": "Telefe Internacional",
     "alt_names": [],
@@ -2497,6 +2737,39 @@
       "lang": "es"
     },
     "website": "http://rosario.telefe.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TelefeSantaFe.ar",
+    "name": "Telefe Santa Fe",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Televisión Litoral"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/x6hiZRU.png",
+    "stream_url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-10.playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TelefeSantaFe.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#telefe-santa-fe",
+      "site_name": "Telefe Santa Fe",
+      "lang": "es"
+    },
+    "website": "http://santafe.mitelefe.com/",
     "launched": null,
     "closed": null
   },
@@ -2580,6 +2853,39 @@
     "closed": null
   },
   {
+    "id": "TN.ar",
+    "name": "TN",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/vFwPhPS.png",
+    "stream_url": "https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd",
+    "stream_quality": "2160p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TN.ar",
+      "feed": "SD",
+      "site": "nuevosiglo.com.uy",
+      "site_id": "TN",
+      "site_name": "TN",
+      "lang": "es"
+    },
+    "website": "https://tn.com.ar/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVManaArgentina.ar",
     "name": "TV Mana Argentina",
     "alt_names": [
@@ -2605,41 +2911,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://tvmana-argentina.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVPublica.ar",
-    "name": "TV Publica",
-    "alt_names": [
-      "TV Pública"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/XGrkzN3.png",
-    "stream_url": "https://ola1.com.ar/tvp/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPublica.ar",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "ar#canal-7-capital",
-      "site_name": "TV Pública",
-      "lang": "es"
-    },
-    "website": "https://www.tvpublica.com.ar/",
     "launched": null,
     "closed": null
   },
@@ -2713,6 +2984,41 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
     "stream_url": "https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TyCSports.ar",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "16275",
+      "site_name": "TyC Sports",
+      "lang": "en"
+    },
+    "website": "http://www.tycsports.com/",
+    "launched": "1994-01-01",
+    "closed": null
+  },
+  {
+    "id": "TyCSports.ar",
+    "name": "TyC Sports",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Torneos Clarin Group"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
+    "stream_url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-90.playlist.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

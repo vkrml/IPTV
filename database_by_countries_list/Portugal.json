@@ -859,7 +859,9 @@
     "name": "RTP 1",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Rádio e Televisão de Portugal"
+    ],
     "country_code": "PT",
     "country_name": "Portugal",
     "subdivision": null,
@@ -869,7 +871,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/w7GV86i.png",
+    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png",
     "stream_url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -892,7 +894,9 @@
     "name": "RTP 2",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Rádio e Televisão de Portugal"
+    ],
     "country_code": "PT",
     "country_name": "Portugal",
     "subdivision": null,
@@ -902,7 +906,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/T6WUqdn.png",
+    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2_2026.png",
     "stream_url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -939,7 +943,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/960px-RTP_A%C3%A7ores_%282016%29.svg.png",
+    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png",
     "stream_url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -953,7 +957,7 @@
       "site_name": "RTP Açores",
       "lang": "pt"
     },
-    "website": "http://www.rtp.pt/acores/",
+    "website": "https://acores.rtp.pt/",
     "launched": "1975-08-10",
     "closed": null
   },
@@ -976,7 +980,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/960px-RTP_A%C3%A7ores_%282016%29.svg.png",
+    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png",
     "stream_url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8",
     "stream_quality": "504p",
     "stream_format": null,
@@ -990,7 +994,7 @@
       "site_name": "RTP Açores",
       "lang": "pt"
     },
-    "website": "http://www.rtp.pt/acores/",
+    "website": "https://acores.rtp.pt/",
     "launched": "1975-08-10",
     "closed": null
   },
@@ -1001,7 +1005,9 @@
       "RTP África"
     ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Rádio e Televisão de Portugal"
+    ],
     "country_code": "PT",
     "country_name": "Portugal",
     "subdivision": null,
@@ -1011,7 +1017,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/RTP_%C3%81frica_2016_%28Reduced_Version%29.svg/960px-RTP_%C3%81frica_2016_%28Reduced_Version%29.svg.png",
+    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpafrica_2026.png",
     "stream_url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8",
     "stream_quality": "504p",
     "stream_format": null,
@@ -1025,113 +1031,8 @@
       "site_name": "RTP África",
       "lang": "pt"
     },
-    "website": "http://www.rtp.pt/rtpafrica/",
+    "website": "https://africa.rtp.pt/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RTPInternacional.pt",
-    "name": "RTP Internacional",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Rádio e Televisão de Portugal"
-    ],
-    "country_code": "PT",
-    "country_name": "Portugal",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/960px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png",
-    "stream_url": "https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RTPInternacional.pt",
-      "feed": "SD",
-      "site": "zap.co.ao",
-      "site_id": "2262",
-      "site_name": "RTP Internacional",
-      "lang": "pt"
-    },
-    "website": "http://www.rtp.pt/rtpinternacional",
-    "launched": "1992-06-10",
-    "closed": null
-  },
-  {
-    "id": "RTPInternacional.pt",
-    "name": "RTP Internacional",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Rádio e Televisão de Portugal"
-    ],
-    "country_code": "PT",
-    "country_name": "Portugal",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/960px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png",
-    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/s/s38/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
-    "referrer": "https://www.dens.tv/",
-    "tv_guide": {
-      "channel": "RTPInternacional.pt",
-      "feed": "SD",
-      "site": "zap.co.ao",
-      "site_id": "2262",
-      "site_name": "RTP Internacional",
-      "lang": "pt"
-    },
-    "website": "http://www.rtp.pt/rtpinternacional",
-    "launched": "1992-06-10",
-    "closed": null
-  },
-  {
-    "id": "RTPInternacional.pt",
-    "name": "RTP Internacional",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Rádio e Televisão de Portugal"
-    ],
-    "country_code": "PT",
-    "country_name": "Portugal",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/960px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png",
-    "stream_url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8",
-    "stream_quality": "504p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RTPInternacional.pt",
-      "feed": "SD",
-      "site": "zap.co.ao",
-      "site_id": "2262",
-      "site_name": "RTP Internacional",
-      "lang": "pt"
-    },
-    "website": "http://www.rtp.pt/rtpinternacional",
-    "launched": "1992-06-10",
     "closed": null
   },
   {
@@ -1151,7 +1052,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/nJNWTqA.png",
+    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmadeira_2026.png",
     "stream_url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8",
     "stream_quality": "504p",
     "stream_format": null,
@@ -1165,7 +1066,7 @@
       "site_name": "RTP Madeira",
       "lang": "pt"
     },
-    "website": "http://www.rtp.pt/madeira/",
+    "website": "https://madeira.rtp.pt/",
     "launched": "1972-08-06",
     "closed": null
   },
@@ -1188,7 +1089,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/jCpfdiJ.png",
+    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmemoria_2026.png",
     "stream_url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8",
     "stream_quality": "504p",
     "stream_format": null,
@@ -1213,7 +1114,9 @@
       "RTP 3"
     ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Rádio e Televisão de Portugal"
+    ],
     "country_code": "PT",
     "country_name": "Portugal",
     "subdivision": null,
@@ -1223,7 +1126,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Bm2XEHH.png",
+    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmadeira_2026.png",
     "stream_url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -1237,7 +1140,7 @@
       "site_name": "RTP Noticias",
       "lang": "pt"
     },
-    "website": "http://www.rtp.pt/noticias/",
+    "website": "https://www.rtp.pt/noticias/",
     "launched": null,
     "closed": null
   },
@@ -1248,7 +1151,9 @@
       "RTP 3"
     ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Rádio e Televisão de Portugal"
+    ],
     "country_code": "PT",
     "country_name": "Portugal",
     "subdivision": null,
@@ -1258,7 +1163,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Bm2XEHH.png",
+    "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmadeira_2026.png",
     "stream_url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8",
     "stream_quality": "504p",
     "stream_format": null,
@@ -1272,7 +1177,7 @@
       "site_name": "RTP Noticias",
       "lang": "pt"
     },
-    "website": "http://www.rtp.pt/noticias/",
+    "website": "https://www.rtp.pt/noticias/",
     "launched": null,
     "closed": null
   },

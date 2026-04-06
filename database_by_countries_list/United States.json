@@ -3616,6 +3616,41 @@
     "closed": null
   },
   {
+    "id": "AMCLatinAmerica.us",
+    "name": "AMC Latin America",
+    "alt_names": [],
+    "network": "AMC",
+    "owners": [
+      "AMC Networks Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+    "stream_url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8",
+    "stream_quality": "1280p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AMCLatinAmerica.us",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "532",
+      "site_name": "AMC",
+      "lang": "es"
+    },
+    "website": "http://www.amctv.la/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AmericanHorrors.us",
     "name": "American Horrors",
     "alt_names": [],
@@ -5294,6 +5329,41 @@
     "tv_guide": null,
     "website": "https://www.awetv.com/",
     "launched": "2013-07-04",
+    "closed": null
+  },
+  {
+    "id": "AXNLatinAmerica.us",
+    "name": "AXN Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sony Pictures Television"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "stream_url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8",
+    "stream_quality": "2160p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXNLatinAmerica.us",
+      "feed": "Andes",
+      "site": "siba.com.co",
+      "site_id": "384",
+      "site_name": "AXN",
+      "lang": "es"
+    },
+    "website": "https://la.axn.com/",
+    "launched": null,
     "closed": null
   },
   {
@@ -16509,6 +16579,34 @@
     "closed": null
   },
   {
+    "id": "DirecTVSports.us",
+    "name": "DirecTV Sports",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "AT&T"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
+    "stream_url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.directvsports.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "DisneyChannel.us",
     "name": "Disney Channel",
     "alt_names": [],
@@ -17395,105 +17493,6 @@
       "lang": "en"
     },
     "website": "https://pluto.tv/en/live-tv/dog-whisperer-gb",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "DontTellTheBride.us",
-    "name": "Don't Tell The Bride",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/h0bc3Fa.png",
-    "stream_url": "https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "DontTellTheBride.us",
-      "feed": "SD",
-      "site": "plex.tv",
-      "site_id": "635847d0d3a668f1cafc1f9d",
-      "site_name": "Don't Tell The Bride",
-      "lang": "en"
-    },
-    "website": "https://watch.plex.tv/live-tv/channel/dont-tell-the-bride",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "DontTellTheBride.us",
-    "name": "Don't Tell The Bride",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/h0bc3Fa.png",
-    "stream_url": "https://lds-donttellbride-rakuten.amagi.tv/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "DontTellTheBride.us",
-      "feed": "SD",
-      "site": "plex.tv",
-      "site_id": "635847d0d3a668f1cafc1f9d",
-      "site_name": "Don't Tell The Bride",
-      "lang": "en"
-    },
-    "website": "https://watch.plex.tv/live-tv/channel/dont-tell-the-bride",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "DontTellTheBride.us",
-    "name": "Don't Tell The Bride",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/h0bc3Fa.png",
-    "stream_url": "https://amg00426-lds-amg00426c15-samsung-nz-3685.playouts.now.amagi.tv/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "DontTellTheBride.us",
-      "feed": "SD",
-      "site": "plex.tv",
-      "site_id": "635847d0d3a668f1cafc1f9d",
-      "site_name": "Don't Tell The Bride",
-      "lang": "en"
-    },
-    "website": "https://watch.plex.tv/live-tv/channel/dont-tell-the-bride",
     "launched": null,
     "closed": null
   },
@@ -24996,37 +24995,6 @@
       "lang": "id"
     },
     "website": "http://www.historyasia.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "HistoryHit.us",
-    "name": "History Hit",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ulHoqlP.png",
-    "stream_url": "https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "HistoryHit.us",
-      "feed": "SD",
-      "site": "plex.tv",
-      "site_id": "5f74cf83ffbe690040689f50",
-      "site_name": "History Hit",
-      "lang": "en"
-    },
-    "website": "https://www.historyhit.com/",
     "launched": null,
     "closed": null
   },
@@ -46456,6 +46424,34 @@
     "closed": null
   },
   {
+    "id": "PlutoTVFutbolParaFans.us",
+    "name": "Pluto TV Futbol Para Fans",
+    "alt_names": [
+      "Pluto TV Fútbol Para Fans"
+    ],
+    "network": "Pluto TV",
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/yJlY9Rr.png",
+    "stream_url": "https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PlutoTVGameShows.us",
     "name": "Pluto TV Game Shows",
     "alt_names": [],
@@ -50014,99 +50010,6 @@
       "lang": "en"
     },
     "website": "https://americasvoice.news/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RealWild.us",
-    "name": "Real Wild",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/T9HHmAO.png",
-    "stream_url": "https://lds-realwild-samsungau.amagi.tv/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RealWild.us",
-      "feed": "SD",
-      "site": "plex.tv",
-      "site_id": "63584a0cf8e2be1350f802a4",
-      "site_name": "Real Wild",
-      "lang": "en"
-    },
-    "website": "https://watch.plex.tv/live-tv/channel/real-wild",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RealWild.us",
-    "name": "Real Wild",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/T9HHmAO.png",
-    "stream_url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RealWild.us",
-      "feed": "SD",
-      "site": "plex.tv",
-      "site_id": "63584a0cf8e2be1350f802a4",
-      "site_name": "Real Wild",
-      "lang": "en"
-    },
-    "website": "https://watch.plex.tv/live-tv/channel/real-wild",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RealWild.us",
-    "name": "Real Wild",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/T9HHmAO.png",
-    "stream_url": "https://lds-realwild-rakuten.amagi.tv/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RealWild.us",
-      "feed": "SD",
-      "site": "plex.tv",
-      "site_id": "63584a0cf8e2be1350f802a4",
-      "site_name": "Real Wild",
-      "lang": "en"
-    },
-    "website": "https://watch.plex.tv/live-tv/channel/real-wild",
     "launched": null,
     "closed": null
   },
@@ -55359,6 +55262,43 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.telemundocc.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TelemundoInternacional.us",
+    "name": "Telemundo Internacional",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NBCUniversal Telemundo Enterprises",
+      "NBCUniversal",
+      "Comcast Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/j2O4ndp.png",
+    "stream_url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26.playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TelemundoInternacional.us",
+      "feed": "CentralAmerica",
+      "site": "siba.com.co",
+      "site_id": "697",
+      "site_name": "Telemundo",
+      "lang": "es"
+    },
+    "website": "https://www.telemundo.com/telemundo-internacional/telemundo-internacional",
     "launched": null,
     "closed": null
   },

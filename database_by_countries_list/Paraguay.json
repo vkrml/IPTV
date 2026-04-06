@@ -646,6 +646,34 @@
     "closed": null
   },
   {
+    "id": "Nanduti.py",
+    "name": "Nanduti",
+    "alt_names": [
+      "Ñanduti"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/vnIkhRO.png",
+    "stream_url": "https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://nanduti.com.py/nanduti-tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "NextHD.py",
     "name": "Next HD",
     "alt_names": [],
@@ -812,6 +840,32 @@
     "closed": null
   },
   {
+    "id": "ProductivaTV.py",
+    "name": "Productiva TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "outdoor"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KXHK7UP.png",
+    "stream_url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://productiva.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RepublicaTV.py",
     "name": "Republica TV",
     "alt_names": [
@@ -963,38 +1017,29 @@
     "closed": null
   },
   {
-    "id": "Trece.py",
-    "name": "Trece",
+    "id": "TigoSports.py",
+    "name": "Tigo Sports",
     "alt_names": [],
     "network": null,
-    "owners": [
-      "Grupo JBB"
-    ],
+    "owners": [],
     "country_code": "PY",
     "country_name": "Paraguay",
     "subdivision": null,
     "city": null,
     "categories": [
-      "general"
+      "sports"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/cgIv5QK.png",
-    "stream_url": "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8",
-    "stream_quality": "1080p",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
+    "stream_url": "https://live.enhdtv.com:8081/8160/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "Trece.py",
-      "feed": "SD",
-      "site": "gatotv.com",
-      "site_id": "13_de_paraguay",
-      "site_name": "13 de Paraguay",
-      "lang": "es"
-    },
-    "website": "http://www.trece.com.py/",
-    "launched": "1981-02-11",
+    "tv_guide": null,
+    "website": "http://www.tigosports.com.py/",
+    "launched": "2014-02-01",
     "closed": null
   },
   {
@@ -1020,6 +1065,32 @@
     "referrer": "https://www.gen.com.py/live/",
     "tv_guide": null,
     "website": "https://www.tropicalia.com.py/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVAire.py",
+    "name": "TV Aire",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/7gHFKPZ.png",
+    "stream_url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://video.hostingcaaguazu.com:2020/public/tvairepy",
     "launched": null,
     "closed": null
   },

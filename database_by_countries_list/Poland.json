@@ -2207,6 +2207,42 @@
     "closed": null
   },
   {
+    "id": "Polsat1.pl",
+    "name": "Polsat 1",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Polsat_1_2021_gradient.svg/960px-Polsat_1_2021_gradient.svg.png",
+    "stream_url": "http://78.130.250.2:8023/play/a065/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Polsat1.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-1-36",
+      "site_name": "Polsat 1",
+      "lang": "pl"
+    },
+    "website": "https://www.polsat1.pl/",
+    "launched": "2015-12-18",
+    "closed": null
+  },
+  {
     "id": "Polsat.pl",
     "name": "Polsat",
     "alt_names": [],
@@ -2344,6 +2380,67 @@
     "closed": null
   },
   {
+    "id": "PolsatReality.pl",
+    "name": "Polsat Reality",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/yBecqPa.png",
+    "stream_url": "http://78.130.250.2:8023/play/a064/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.polsat.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PolsatSeriale.pl",
+    "name": "Polsat Seriale",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Polsat Seriale"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png",
+    "stream_url": "http://78.130.250.2:8023/play/a06h/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatSeriale.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-romans-173",
+      "site_name": "Polsat Seriale",
+      "lang": "pl"
+    },
+    "website": "https://www.polsatseriale.pl/",
+    "launched": "2013-09-01",
+    "closed": null
+  },
+  {
     "id": "PolsatSport1.pl",
     "name": "Polsat Sport 1",
     "alt_names": [],
@@ -2371,6 +2468,39 @@
       "lang": "ru"
     },
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PolsatSportPremium2.pl",
+    "name": "Polsat Sport Premium 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/myyWeXY.png",
+    "stream_url": "http://78.130.250.2:8023/play/a05r/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatSportPremium2.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-sport-premium-2-644",
+      "site_name": "Polsat Sport Premium 2",
+      "lang": "pl"
+    },
+    "website": "https://www.polsatsport.pl/",
     "launched": null,
     "closed": null
   },

@@ -8997,6 +8997,92 @@
     "closed": null
   },
   {
+    "id": "EpicBharat.in",
+    "name": "Epic Bharat",
+    "alt_names": [
+      "Nazara"
+    ],
+    "network": "Epic",
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s158303_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.epicon.in/live-tv/nazara-live-tv",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "EpicBhojpuri.in",
+    "name": "Epic Bhojpuri",
+    "alt_names": [
+      "Filamchi Bhojpuri"
+    ],
+    "network": "Epic",
+    "owners": [
+      "IN10 Media Network"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s157803_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://epiconvh.akamaized.net/live/filamchi/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.epicon.in/live-tv/filamchi-live-tv",
+    "launched": "2021-01-01",
+    "closed": null
+  },
+  {
+    "id": "EpicMusic.in",
+    "name": "Epic Music",
+    "alt_names": [
+      "ShowBox"
+    ],
+    "network": "Epic",
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s159097_ld_h15_aa.png?lock=720x540",
+    "stream_url": "http://116.90.120.151:8000/play/a0k2/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.showboxchannel.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "EpicTV.in",
     "name": "Epic TV",
     "alt_names": [],
@@ -17583,6 +17669,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s166320_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://cdn-3.pishow.tv/live/1629/master.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NewsMalayalam24x7.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1367",
+      "site_name": "News Malayalam 24x7",
+      "lang": "en"
+    },
+    "website": "https://newsmalayalam.com/",
+    "launched": "2024-05-29",
+    "closed": null
+  },
+  {
+    "id": "NewsMalayalam24x7.in",
+    "name": "News Malayalam 24x7",
+    "alt_names": [
+      "ന്യൂസ് മലയാളം 24x7",
+      "News മലയാളം 24x7"
+    ],
+    "network": "MSO – Thamizhaga Cable TV Communication Limited (TCCL) Group",
+    "owners": [
+      "SPlus Media"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s166320_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-malayalam-24x7/index.m3u8?ads.vf=-yNYTSQyYSy",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -17690,6 +17814,41 @@
     "logo": "https://dtil.tmsimg.com/assets/s143623_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://d18a8tqmogafg2.cloudfront.net/newstamil/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NewsTamil24x7.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "968",
+      "site_name": "News Tamil 24x7",
+      "lang": "en"
+    },
+    "website": "https://newstamil.tv/",
+    "launched": "2022-01-23",
+    "closed": null
+  },
+  {
+    "id": "NewsTamil24x7.in",
+    "name": "News Tamil 24x7",
+    "alt_names": [],
+    "network": "SPLUS Media Private Limited",
+    "owners": [
+      "SPLUS Media Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143623_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://cdn-3.pishow.tv/live/1433/master.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -23299,45 +23458,6 @@
     "closed": null
   },
   {
-    "id": "StarSports1.in",
-    "name": "Star Sports 1",
-    "alt_names": [
-      "Star Sports"
-    ],
-    "network": "Star Sports",
-    "owners": [
-      "JioStar India Pvt. Ltd.",
-      "Reliance Industries(RIL)",
-      "The Walt Disney Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143837_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://ptu.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarSports1.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "600",
-      "site_name": "STAR Sports 1",
-      "lang": "en"
-    },
-    "website": "https://www.startv.com/about-us/sports",
-    "launched": "1996-10-28",
-    "closed": null
-  },
-  {
     "id": "StarSports1Hindi.in",
     "name": "Star Sports 1 Hindi",
     "alt_names": [
@@ -23568,39 +23688,6 @@
     },
     "website": "https://www.startv.com/about-us/sports",
     "launched": "2018-09-15",
-    "closed": null
-  },
-  {
-    "id": "StarUtsav.in",
-    "name": "Star Utsav",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s159132_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://116.90.120.151:8000/play/a0kc/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarUtsav.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "551",
-      "site_name": "STAR Utsav",
-      "lang": "en"
-    },
-    "website": "https://www.starttv.com/",
-    "launched": null,
     "closed": null
   },
   {

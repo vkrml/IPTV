@@ -314,89 +314,6 @@
     "closed": null
   },
   {
-    "id": "BTB.pl",
-    "name": "BTB",
-    "alt_names": [
-      "Telewizja BTB",
-      "Bombaska Telewizja Boża"
-    ],
-    "network": "Telewizja BTB",
-    "owners": [
-      "Telewizja BTB"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/U8mcRal.png",
-    "stream_url": "https://emisja.btb.j00r.us/iptv/channel/1.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://btb.j00r.us/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BTBInternational.pl",
-    "name": "BTB International",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://kononopedia.ru/lib/exe/fetch.php?cache=&w=700&h=700&tok=dbc35d&media=kanaly:btbinternational.png",
-    "stream_url": "https://emisja.btb.j00r.us/iptv/channel/2.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BTBMusic.pl",
-    "name": "BTB Music",
-    "alt_names": [],
-    "network": "Telewizja BTB",
-    "owners": [
-      "Telewizja BTB"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://btb.j00r.us/images/logo_BTBMusic.webp",
-    "stream_url": "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://btb.j00r.us",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "BuzzfeedUnsolved.pl",
     "name": "Buzzfeed Unsolved",
     "alt_names": [],
@@ -2243,6 +2160,42 @@
     "closed": null
   },
   {
+    "id": "Polsat2.pl",
+    "name": "Polsat 2",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/960px-Polsat_2_2021_gradient.svg.png",
+    "stream_url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/6084/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Polsat2.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-2-327",
+      "site_name": "Polsat 2",
+      "lang": "pl"
+    },
+    "website": "https://www.polsat2.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Polsat.pl",
     "name": "Polsat",
     "alt_names": [],
@@ -2279,6 +2232,42 @@
     "closed": null
   },
   {
+    "id": "PolsatFilm.pl",
+    "name": "Polsat Film",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/wGH6shZ.png",
+    "stream_url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/6086/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatFilm.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-film-123",
+      "site_name": "Polsat Film",
+      "lang": "pl"
+    },
+    "website": "https://www.polsatfilm.pl/",
+    "launched": "2009-10-02",
+    "closed": null
+  },
+  {
     "id": "PolsatJimJam.pl",
     "name": "Polsat JimJam",
     "alt_names": [],
@@ -2312,6 +2301,42 @@
     },
     "website": "http://www.pl.jimjam.tv/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PolsatNews2.pl",
+    "name": "Polsat News 2",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polsat_News_2_2021_gradient.svg/500px-Polsat_News_2_2021_gradient.svg.png",
+    "stream_url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7297/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatNews2.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-news-2-471",
+      "site_name": "Polsat News 2",
+      "lang": "pl"
+    },
+    "website": "http://www.polsatnews.pl/",
+    "launched": "2014-06-09",
     "closed": null
   },
   {
@@ -2406,6 +2431,37 @@
     "closed": null
   },
   {
+    "id": "PolsatRodzina.pl",
+    "name": "Polsat Rodzina",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/IS0AW48.png",
+    "stream_url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7301/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatRodzina.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-rodzina-651",
+      "site_name": "Polsat Rodzina",
+      "lang": "pl"
+    },
+    "website": "https://www.polsat.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PolsatSeriale.pl",
     "name": "Polsat Seriale",
     "alt_names": [],
@@ -2472,6 +2528,132 @@
     "closed": null
   },
   {
+    "id": "PolsatSport1.pl",
+    "name": "Polsat Sport 1",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/500px-Polsat_Sport_1_2024.svg.png",
+    "stream_url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7296/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatSport1.pl",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "polsat-sport",
+      "site_name": "Polsat Sport 1",
+      "lang": "ru"
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PolsatSport2.pl",
+    "name": "Polsat Sport 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/500px-Polsat_Sport_2_2024.svg.png",
+    "stream_url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7310/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatSport2.pl",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "polsat-sport-extra",
+      "site_name": "Polsat Sport 2",
+      "lang": "ru"
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PolsatSport3.pl",
+    "name": "Polsat Sport 3",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/500px-Polsat_Sport_3_2024.svg.png",
+    "stream_url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7303/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatSport3.pl",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "polsat-sport-news",
+      "site_name": "Polsat Sport 3",
+      "lang": "ru"
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PolsatSportPremium1.pl",
+    "name": "Polsat Sport Premium 1",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/hy1SKE0.png",
+    "stream_url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7304/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatSportPremium1.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-sport-premium-1-643",
+      "site_name": "Polsat Sport Premium 1",
+      "lang": "pl"
+    },
+    "website": "https://www.polsatsport.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PolsatSportPremium2.pl",
     "name": "Polsat Sport Premium 2",
     "alt_names": [],
@@ -2488,6 +2670,39 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/myyWeXY.png",
     "stream_url": "http://78.130.250.2:8023/play/a05r/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatSportPremium2.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-sport-premium-2-644",
+      "site_name": "Polsat Sport Premium 2",
+      "lang": "pl"
+    },
+    "website": "https://www.polsatsport.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PolsatSportPremium2.pl",
+    "name": "Polsat Sport Premium 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/myyWeXY.png",
+    "stream_url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7305/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

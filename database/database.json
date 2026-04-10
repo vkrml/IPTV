@@ -9298,7 +9298,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.ibb.co/HGfTJwt/ADBTV.jpg",
-    "stream_url": "https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/playlist.m3u8",
+    "stream_url": "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -11843,11 +11843,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://alaimma.tv/alaimma-logo.png",
-    "stream_url": "http://stream.alaimma.tv/hls/alaimma/h3b1rd584cpq8p60okoj01rnfigdcnia.m3u8",
+    "stream_url": "https://alaimma.tv/live/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": "https://alaimma.tv",
+    "referrer": null,
     "tv_guide": null,
     "website": "https://alaimma.tv/",
     "launched": null,
@@ -16147,76 +16147,6 @@
     "tv_guide": null,
     "website": "https://almahriah.net/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "AlMajdHolyQuran.sa",
-    "name": "Al-Majd Holy Quran",
-    "alt_names": [],
-    "network": "Al-Majd Network",
-    "owners": [
-      "Fahad Abdulrahman Alshimeimri"
-    ],
-    "country_code": "SA",
-    "country_name": "Saudi Arabia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/JBelAQj.png",
-    "stream_url": "https://edge66.magictvbox.com/liveApple/al_majd/tracks-v1a1/mono.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AlMajdHolyQuran.sa",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "1698",
-      "site_name": "Al Majd Holy Quran",
-      "lang": "fr"
-    },
-    "website": "https://almajdtv.com/",
-    "launched": "2002-11-01",
-    "closed": null
-  },
-  {
-    "id": "AlMamlakaTV.jo",
-    "name": "Al Mamlaka TV",
-    "alt_names": [
-      "المملكة تي في"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "JO",
-    "country_name": "Jordan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/UeTseMV.png",
-    "stream_url": "https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist_dvr.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AlMamlakaTV.jo",
-      "feed": "SD",
-      "site": "sat.tv",
-      "site_id": "1#38#المملكة تي في",
-      "site_name": "المملكة تي في",
-      "lang": "ar"
-    },
-    "website": "https://www.almamlakatv.com/",
-    "launched": "2018-07-16",
     "closed": null
   },
   {
@@ -26788,6 +26718,45 @@
     "logo": "https://dtil.tmsimg.com/assets/s142679_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://asianetnews.vgcdn.net/vglive-sk-917600/playlist.m3u8",
     "stream_quality": "360p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AsianetNews.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "532",
+      "site_name": "Asianet News",
+      "lang": "en"
+    },
+    "website": "https://www.asianetnews.com/",
+    "launched": "1995-09-30",
+    "closed": null
+  },
+  {
+    "id": "AsianetNews.in",
+    "name": "Asianet News",
+    "alt_names": [
+      "ഏഷ്യാനെറ്റ് ന്യൂസ്‌"
+    ],
+    "network": "Asianet News",
+    "owners": [
+      "Asianxt Digital Technologies",
+      "Asianet News Network",
+      "Jupiter Capital"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s142679_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://asianet-samsung.vgcdn.net/ptnr-monitoring/vglive-sk-906908/playlist.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -73215,6 +73184,34 @@
     "closed": null
   },
   {
+    "id": "CNA.dz",
+    "name": "CNA",
+    "alt_names": [
+      "Chaîne Nord Africaine"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "DZ",
+    "country_name": "Algeria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Ki3ySUE.png",
+    "stream_url": "https://live.creacast.com/cna/stream/playlist.m3u8",
+    "stream_quality": "360p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://cna-sat.org/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CNA.sg",
     "name": "CNA",
     "alt_names": [
@@ -85511,6 +85508,30 @@
     "closed": null
   },
   {
+    "id": "Deluxe139.it",
+    "name": "Deluxe 139",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NbsGekl.png",
+    "stream_url": "https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "DeluxeDance.de",
     "name": "Deluxe Dance",
     "alt_names": [],
@@ -86092,6 +86113,34 @@
     "tv_guide": null,
     "website": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Marketing-Services/Denver-8-TV",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DeportesTVC.hn",
+    "name": "Deportes TVC",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Corporación Televicentro"
+    ],
+    "country_code": "HN",
+    "country_name": "Honduras",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Y1t8xkL.png",
+    "stream_url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.deportestvc.com/",
+    "launched": "2023-11-01",
     "closed": null
   },
   {
@@ -87699,7 +87748,7 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
     "stream_url": "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8",
-    "stream_quality": "576p",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -97683,34 +97732,6 @@
     "tv_guide": null,
     "website": "https://www.epicon.in/live-tv/filamchi-live-tv",
     "launched": "2021-01-01",
-    "closed": null
-  },
-  {
-    "id": "EpicMusic.in",
-    "name": "Epic Music",
-    "alt_names": [
-      "ShowBox"
-    ],
-    "network": "Epic",
-    "owners": [],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s159097_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://116.90.120.151:8000/play/a0k2/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.showboxchannel.com/",
-    "launched": null,
     "closed": null
   },
   {
@@ -123731,32 +123752,6 @@
     "closed": null
   },
   {
-    "id": "HelwaTV.tr",
-    "name": "Helwa TV",
-    "alt_names": [
-      "حلوة"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": null,
-    "stream_url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/helwa.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": "2022-12-05",
-    "closed": null
-  },
-  {
     "id": "HenanTVSatellite.cn",
     "name": "Henan TV Satellite",
     "alt_names": [],
@@ -130155,43 +130150,6 @@
     "closed": null
   },
   {
-    "id": "i24NEWSArabic.il",
-    "name": "i24NEWS Arabic",
-    "alt_names": [
-      "i24NEWS عربى"
-    ],
-    "network": null,
-    "owners": [
-      "Israel Television News Company"
-    ],
-    "country_code": "IL",
-    "country_name": "Israel",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
-    "stream_url": "https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "i24NEWSArabic.il",
-      "feed": "SD",
-      "site": "sat.tv",
-      "site_id": "1#33#I24 News Arabic",
-      "site_name": "I24 News Arabic",
-      "lang": "en"
-    },
-    "website": "https://www.i24news.tv/ar/",
-    "launched": "2013-07-17",
-    "closed": null
-  },
-  {
     "id": "i24NEWSEnglishUSA.il",
     "name": "i24NEWS English USA",
     "alt_names": [],
@@ -131064,43 +131022,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/HzY4VMo.png",
     "stream_url": "https://live.itv.az/itv.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "IctimaiTV.az",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "2800",
-      "site_name": "Ictimai TV",
-      "lang": "az"
-    },
-    "website": "https://itv.az/",
-    "launched": "2005-08-29",
-    "closed": null
-  },
-  {
-    "id": "IctimaiTV.az",
-    "name": "Ictimai TV",
-    "alt_names": [
-      "İctimai TV"
-    ],
-    "network": null,
-    "owners": [
-      "Public Television and Radio Broadcasting Company"
-    ],
-    "country_code": "AZ",
-    "country_name": "Azerbaijan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/HzY4VMo.png",
-    "stream_url": "https://node19.connect.az:9081/tv/live/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -142012,6 +141933,34 @@
     "closed": null
   },
   {
+    "id": "JordanSport.jo",
+    "name": "Jordan Sport",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Government of Jordan"
+    ],
+    "country_code": "JO",
+    "country_name": "Jordan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/2EmrZPQ.png",
+    "stream_url": "http://93.184.10.248/JordanSport/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "JordanTourism.jo",
     "name": "Jordan Tourism",
     "alt_names": [],
@@ -142617,6 +142566,76 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/mIDWIQk.png",
     "stream_url": "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "JTV.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000024",
+      "site_name": "JTV",
+      "lang": "id"
+    },
+    "website": "http://jtv.co.id/",
+    "launched": "2001-11-08",
+    "closed": null
+  },
+  {
+    "id": "JTV.id",
+    "name": "JTV",
+    "alt_names": [],
+    "network": "Jawa Pos Multimedia",
+    "owners": [
+      "Jawa Pos Group"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/mIDWIQk.png",
+    "stream_url": "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "JTV.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000024",
+      "site_name": "JTV",
+      "lang": "id"
+    },
+    "website": "http://jtv.co.id/",
+    "launched": "2001-11-08",
+    "closed": null
+  },
+  {
+    "id": "JTV.id",
+    "name": "JTV",
+    "alt_names": [],
+    "network": "Jawa Pos Multimedia",
+    "owners": [
+      "Jawa Pos Group"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/mIDWIQk.png",
+    "stream_url": "http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -157161,6 +157180,41 @@
     },
     "website": null,
     "launched": "2006-01-01",
+    "closed": null
+  },
+  {
+    "id": "LaLigaTV.es",
+    "name": "LaLiga TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Telefonica S A"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ilay5Jr.png",
+    "stream_url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "LaLigaTV.es",
+      "feed": "SD",
+      "site": "orangetv.orange.es",
+      "site_id": "11129",
+      "site_name": "LALIGA Inside",
+      "lang": "es"
+    },
+    "website": "http://www.laliga.es/laligatv",
+    "launched": null,
     "closed": null
   },
   {
@@ -191623,6 +191677,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s166320_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://mumt03.tangotv.in/NEWSMALAYALAM24X7/index.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NewsMalayalam24x7.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1367",
+      "site_name": "News Malayalam 24x7",
+      "lang": "en"
+    },
+    "website": "https://newsmalayalam.com/",
+    "launched": "2024-05-29",
+    "closed": null
+  },
+  {
+    "id": "NewsMalayalam24x7.in",
+    "name": "News Malayalam 24x7",
+    "alt_names": [
+      "ന്യൂസ് മലയാളം 24x7",
+      "News മലയാളം 24x7"
+    ],
+    "network": "MSO – Thamizhaga Cable TV Communication Limited (TCCL) Group",
+    "owners": [
+      "SPlus Media"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s166320_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-malayalam-24x7/index.m3u8?ads.vf=-yNYTSQyYSy",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -194377,6 +194469,37 @@
     },
     "website": "https://www.nickjr.com.pl/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NickOnline.br",
+    "name": "NickOnline",
+    "alt_names": [
+      "Nickelodeon Online"
+    ],
+    "network": null,
+    "owners": [
+      "x1co"
+    ],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids",
+      "animation"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://x1co.com.br:8443/logo.png",
+    "stream_url": "https://x1co.com.br:2083/hls/stream.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://x1co.com.br",
+    "launched": "2026-01-03",
     "closed": null
   },
   {
@@ -206185,6 +206308,35 @@
     "tv_guide": null,
     "website": "https://videoplayer.telvue.com/player/BUJHRRxhCf0u3AtXMrx7Sx7CjdW8zUFT/stream/851?autostart=false&showtabssearch=true",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "OrbitaChileTV.cl",
+    "name": "Orbita Chile TV",
+    "alt_names": [
+      "Órbita Chile TV"
+    ],
+    "network": "Concepción",
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/gbNh79Z.png",
+    "stream_url": "https://orbitachiletv.org/hls/0/stream.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://orbitachiletv.org/",
+    "launched": "2012-02-21",
     "closed": null
   },
   {
@@ -235054,41 +235206,6 @@
     "closed": null
   },
   {
-    "id": "RecordTVEuropa.pt",
-    "name": "RecordTV Europa",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "RecordTV Europa"
-    ],
-    "country_code": "PT",
-    "country_name": "Portugal",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/DvxfBTE.png",
-    "stream_url": "https://live-recordeuropa.visioncdn.com/live/recordeuropa/master.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RecordTVEuropa.pt",
-      "feed": "SD",
-      "site": "vodafone.pt",
-      "site_id": "2854",
-      "site_name": "Record Europa",
-      "lang": "pt"
-    },
-    "website": "https://recordeuropa.com/",
-    "launched": "2016-11-24",
-    "closed": null
-  },
-  {
     "id": "RecordTVGoias.br",
     "name": "RecordTV Goias",
     "alt_names": [
@@ -244887,6 +245004,36 @@
     },
     "website": "http://www.rtp.pt/rtpmemoria/",
     "launched": "2004-10-04",
+    "closed": null
+  },
+  {
+    "id": "RTPMundo.pt",
+    "name": "RTP Mundo",
+    "alt_names": [
+      "RTP Internacional"
+    ],
+    "network": null,
+    "owners": [
+      "Rádio e Televisão de Portugal"
+    ],
+    "country_code": "PT",
+    "country_name": "Portugal",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png",
+    "stream_url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8",
+    "stream_quality": "504p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://mundo.rtp.pt/",
+    "launched": "1992-06-10",
     "closed": null
   },
   {
@@ -266213,43 +266360,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Gi6Q26M.png",
     "stream_url": "https://sicnot.live.impresa.pt/sicnot.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SICNoticias.pt",
-      "feed": "SD",
-      "site": "vodafone.pt",
-      "site_id": "2935",
-      "site_name": "SIC Noticias",
-      "lang": "pt"
-    },
-    "website": "https://sicnoticias.pt/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SICNoticias.pt",
-    "name": "SIC Noticias",
-    "alt_names": [
-      "SIC Notícias"
-    ],
-    "network": null,
-    "owners": [
-      "Impresa"
-    ],
-    "country_code": "PT",
-    "country_name": "Portugal",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Gi6Q26M.png",
-    "stream_url": "https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -288046,6 +288156,34 @@
     "closed": null
   },
   {
+    "id": "Telemontecarlo.it",
+    "name": "Telemontecarlo",
+    "alt_names": [
+      "TMC",
+      "Tele Monte-Carlo",
+      "Telé Monte Carlo"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/B0NbjcT.png",
+    "stream_url": "https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "1974-08-01",
+    "closed": "2001-06-24"
+  },
+  {
     "id": "teleMonteneve.it",
     "name": "teleMonteneve",
     "alt_names": [],
@@ -297462,6 +297600,39 @@
     "closed": null
   },
   {
+    "id": "TigoSports.gt",
+    "name": "Tigo Sports",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "GT",
+    "country_name": "Guatemala",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
+    "stream_url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TigoSports.gt",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "tigo_sports_guatemala",
+      "site_name": "Tigo Sports Guatemala",
+      "lang": "es"
+    },
+    "website": "http://www.tigosports.gt/",
+    "launched": "2017-01-01",
+    "closed": null
+  },
+  {
     "id": "TigoSports.py",
     "name": "Tigo Sports",
     "alt_names": [],
@@ -298375,6 +298546,30 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.tiszatv.hu/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TitoTV.es",
+    "name": "Tito TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://tvomix.com/Logos/Titotv.png",
+    "stream_url": "https://cloud.tvomix.com/TITOTV/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://tvomix.com/",
     "launched": null,
     "closed": null
   },
@@ -305633,6 +305828,37 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/oT5CAvd.png",
     "stream_url": "https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TUDN.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "77033",
+      "site_name": "TUDN",
+      "lang": "en"
+    },
+    "website": "https://www.tudn.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TUDN.us",
+    "name": "TUDN",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/oT5CAvd.png",
+    "stream_url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -314592,7 +314818,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/H8Tgl7m.png",
-    "stream_url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8",
+    "stream_url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -314607,43 +314833,6 @@
     },
     "website": "http://www.tvi.iol.pt/",
     "launched": "1993-02-20",
-    "closed": null
-  },
-  {
-    "id": "TVIAfrica.pt",
-    "name": "TVI Africa",
-    "alt_names": [
-      "TVI África"
-    ],
-    "network": null,
-    "owners": [
-      "Media Capital"
-    ],
-    "country_code": "PT",
-    "country_name": "Portugal",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/vBbSHB4/Tvi-africa.png",
-    "stream_url": "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVIAfrica.pt",
-      "feed": "SD",
-      "site": "tvi.iol.pt",
-      "site_id": "tviafrica",
-      "site_name": "TVI África",
-      "lang": "pt"
-    },
-    "website": "http://www.tvi.iol.pt/africa/",
-    "launched": "2015-10-03",
     "closed": null
   },
   {

@@ -17,7 +17,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.ibb.co/HGfTJwt/ADBTV.jpg",
-    "stream_url": "https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/playlist.m3u8",
+    "stream_url": "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -81,7 +81,7 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
     "stream_url": "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8",
-    "stream_quality": "576p",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -792,41 +792,6 @@
     "closed": null
   },
   {
-    "id": "RecordTVEuropa.pt",
-    "name": "RecordTV Europa",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "RecordTV Europa"
-    ],
-    "country_code": "PT",
-    "country_name": "Portugal",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/DvxfBTE.png",
-    "stream_url": "https://live-recordeuropa.visioncdn.com/live/recordeuropa/master.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RecordTVEuropa.pt",
-      "feed": "SD",
-      "site": "vodafone.pt",
-      "site_id": "2854",
-      "site_name": "Record Europa",
-      "lang": "pt"
-    },
-    "website": "https://recordeuropa.com/",
-    "launched": "2016-11-24",
-    "closed": null
-  },
-  {
     "id": "RFPtv.pt",
     "name": "RFPtv",
     "alt_names": [
@@ -1108,6 +1073,36 @@
     "closed": null
   },
   {
+    "id": "RTPMundo.pt",
+    "name": "RTP Mundo",
+    "alt_names": [
+      "RTP Internacional"
+    ],
+    "network": null,
+    "owners": [
+      "Rádio e Televisão de Portugal"
+    ],
+    "country_code": "PT",
+    "country_name": "Portugal",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png",
+    "stream_url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8",
+    "stream_quality": "504p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://mundo.rtp.pt/",
+    "launched": "1992-06-10",
+    "closed": null
+  },
+  {
     "id": "RTPNoticias.pt",
     "name": "RTP Noticias",
     "alt_names": [
@@ -1322,43 +1317,6 @@
     "closed": null
   },
   {
-    "id": "SICNoticias.pt",
-    "name": "SIC Noticias",
-    "alt_names": [
-      "SIC Notícias"
-    ],
-    "network": null,
-    "owners": [
-      "Impresa"
-    ],
-    "country_code": "PT",
-    "country_name": "Portugal",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Gi6Q26M.png",
-    "stream_url": "https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SICNoticias.pt",
-      "feed": "SD",
-      "site": "vodafone.pt",
-      "site_id": "2935",
-      "site_name": "SIC Noticias",
-      "lang": "pt"
-    },
-    "website": "https://sicnoticias.pt/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "SICReplay.pt",
     "name": "SIC Replay",
     "alt_names": [],
@@ -1407,7 +1365,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/H8Tgl7m.png",
-    "stream_url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8",
+    "stream_url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -1422,43 +1380,6 @@
     },
     "website": "http://www.tvi.iol.pt/",
     "launched": "1993-02-20",
-    "closed": null
-  },
-  {
-    "id": "TVIAfrica.pt",
-    "name": "TVI Africa",
-    "alt_names": [
-      "TVI África"
-    ],
-    "network": null,
-    "owners": [
-      "Media Capital"
-    ],
-    "country_code": "PT",
-    "country_name": "Portugal",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/vBbSHB4/Tvi-africa.png",
-    "stream_url": "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVIAfrica.pt",
-      "feed": "SD",
-      "site": "tvi.iol.pt",
-      "site_id": "tviafrica",
-      "site_name": "TVI África",
-      "lang": "pt"
-    },
-    "website": "http://www.tvi.iol.pt/africa/",
-    "launched": "2015-10-03",
     "closed": null
   },
   {

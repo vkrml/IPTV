@@ -63,41 +63,6 @@
     "closed": null
   },
   {
-    "id": "AlMamlakaTV.jo",
-    "name": "Al Mamlaka TV",
-    "alt_names": [
-      "المملكة تي في"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "JO",
-    "country_name": "Jordan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/UeTseMV.png",
-    "stream_url": "https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist_dvr.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AlMamlakaTV.jo",
-      "feed": "SD",
-      "site": "sat.tv",
-      "site_id": "1#38#المملكة تي في",
-      "site_name": "المملكة تي في",
-      "lang": "ar"
-    },
-    "website": "https://www.almamlakatv.com/",
-    "launched": "2018-07-16",
-    "closed": null
-  },
-  {
     "id": "AltaghierTV.jo",
     "name": "Altaghier TV",
     "alt_names": [
@@ -368,6 +333,34 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/2EmrZPQ.png",
     "stream_url": "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "JordanSport.jo",
+    "name": "Jordan Sport",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Government of Jordan"
+    ],
+    "country_code": "JO",
+    "country_name": "Jordan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/2EmrZPQ.png",
+    "stream_url": "http://93.184.10.248/JordanSport/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

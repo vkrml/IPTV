@@ -614,11 +614,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "BBCDrama.uk",
-      "feed": "France",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/fr#60d35a74c63c3c0008df6a90",
+      "feed": null,
+      "site": "xumo.tv",
+      "site_id": "150#99951497",
       "site_name": "BBC Drama",
-      "lang": "fr"
+      "lang": "en"
     },
     "website": "https://pluto.tv/en/live-tv/bbc-drama-es",
     "launched": null,
@@ -649,11 +649,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "BBCEarth.uk",
-      "feed": "Asia",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000102",
+      "feed": "US",
+      "site": "xumo.tv",
+      "site_id": "150#99951231",
       "site_name": "BBC Earth",
-      "lang": "id"
+      "lang": "en"
     },
     "website": null,
     "launched": null,
@@ -684,11 +684,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "BBCEarth.uk",
-      "feed": "Asia",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000102",
+      "feed": "US",
+      "site": "xumo.tv",
+      "site_id": "150#99951231",
       "site_name": "BBC Earth",
-      "lang": "id"
+      "lang": "en"
     },
     "website": null,
     "launched": null,
@@ -719,11 +719,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "BBCEarth.uk",
-      "feed": "Asia",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000102",
+      "feed": "US",
+      "site": "xumo.tv",
+      "site_id": "150#99951231",
       "site_name": "BBC Earth",
-      "lang": "id"
+      "lang": "en"
     },
     "website": null,
     "launched": null,
@@ -754,11 +754,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "BBCEarth.uk",
-      "feed": "Asia",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000102",
+      "feed": "US",
+      "site": "xumo.tv",
+      "site_id": "150#99951231",
       "site_name": "BBC Earth",
-      "lang": "id"
+      "lang": "en"
     },
     "website": null,
     "launched": null,
@@ -789,11 +789,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "BBCEarth.uk",
-      "feed": "Asia",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000102",
+      "feed": "US",
+      "site": "xumo.tv",
+      "site_id": "150#99951231",
       "site_name": "BBC Earth",
-      "lang": "id"
+      "lang": "en"
     },
     "website": null,
     "launched": null,
@@ -7217,14 +7217,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "DiscoverFilm.uk",
-      "feed": "SD",
-      "site": "i.mjh.nz",
-      "site_id": "Plex/all#5e20b730f2f8d5003d739db7-618198fe4e1b6764011b046a",
-      "site_name": "Discover Film",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": "https://discover.film/",
     "launched": null,
     "closed": null
@@ -7255,7 +7248,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "DontTellTheBride.uk",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "635847d0d3a668f1cafc1f9d",
+      "site_name": "Don't Tell The Bride",
+      "lang": "en"
+    },
     "website": "https://www.littledotstudios.com/en-us/channels",
     "launched": null,
     "closed": null
@@ -7286,7 +7286,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "DontTellTheBride.uk",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "635847d0d3a668f1cafc1f9d",
+      "site_name": "Don't Tell The Bride",
+      "lang": "en"
+    },
     "website": "https://www.littledotstudios.com/en-us/channels",
     "launched": null,
     "closed": null
@@ -7317,7 +7324,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "DontTellTheBride.uk",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "635847d0d3a668f1cafc1f9d",
+      "site_name": "Don't Tell The Bride",
+      "lang": "en"
+    },
     "website": "https://www.littledotstudios.com/en-us/channels",
     "launched": null,
     "closed": null
@@ -7559,11 +7573,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "FIFAPlus.uk",
-      "feed": "English",
+      "feed": "Portuguese",
       "site": "watch.whaletvplus.com",
-      "site_id": "999420644834214627",
-      "site_name": "FIFA+ (EN)",
-      "lang": "en"
+      "site_id": "999420644834214634",
+      "site_name": "FIFA+ (PT)",
+      "lang": "pt"
     },
     "website": "https://www.plus.fifa.com/",
     "launched": null,
@@ -7594,11 +7608,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "FIFAPlus.uk",
-      "feed": "English",
+      "feed": "Portuguese",
       "site": "watch.whaletvplus.com",
-      "site_id": "999420644834214627",
-      "site_name": "FIFA+ (EN)",
-      "lang": "en"
+      "site_id": "999420644834214634",
+      "site_name": "FIFA+ (PT)",
+      "lang": "pt"
     },
     "website": "https://www.plus.fifa.com/",
     "launched": null,
@@ -7629,11 +7643,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "FIFAPlus.uk",
-      "feed": "English",
+      "feed": "Portuguese",
       "site": "watch.whaletvplus.com",
-      "site_id": "999420644834214627",
-      "site_name": "FIFA+ (EN)",
-      "lang": "en"
+      "site_id": "999420644834214634",
+      "site_name": "FIFA+ (PT)",
+      "lang": "pt"
     },
     "website": "https://www.plus.fifa.com/",
     "launched": null,
@@ -7664,11 +7678,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "FIFAPlus.uk",
-      "feed": "English",
+      "feed": "Portuguese",
       "site": "watch.whaletvplus.com",
-      "site_id": "999420644834214627",
-      "site_name": "FIFA+ (EN)",
-      "lang": "en"
+      "site_id": "999420644834214634",
+      "site_name": "FIFA+ (PT)",
+      "lang": "pt"
     },
     "website": "https://www.plus.fifa.com/",
     "launched": null,
@@ -7699,11 +7713,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "FIFAPlus.uk",
-      "feed": "English",
+      "feed": "Portuguese",
       "site": "watch.whaletvplus.com",
-      "site_id": "999420644834214627",
-      "site_name": "FIFA+ (EN)",
-      "lang": "en"
+      "site_id": "999420644834214634",
+      "site_name": "FIFA+ (PT)",
+      "lang": "pt"
     },
     "website": "https://www.plus.fifa.com/",
     "launched": null,
@@ -7734,11 +7748,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "FIFAPlus.uk",
-      "feed": "English",
+      "feed": "Portuguese",
       "site": "watch.whaletvplus.com",
-      "site_id": "999420644834214627",
-      "site_name": "FIFA+ (EN)",
-      "lang": "en"
+      "site_id": "999420644834214634",
+      "site_name": "FIFA+ (PT)",
+      "lang": "pt"
     },
     "website": "https://www.plus.fifa.com/",
     "launched": null,
@@ -7769,11 +7783,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "FIFAPlus.uk",
-      "feed": "English",
+      "feed": "Portuguese",
       "site": "watch.whaletvplus.com",
-      "site_id": "999420644834214627",
-      "site_name": "FIFA+ (EN)",
-      "lang": "en"
+      "site_id": "999420644834214634",
+      "site_name": "FIFA+ (PT)",
+      "lang": "pt"
     },
     "website": "https://www.plus.fifa.com/",
     "launched": null,
@@ -7804,11 +7818,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "FIFAPlus.uk",
-      "feed": "English",
+      "feed": "Portuguese",
       "site": "watch.whaletvplus.com",
-      "site_id": "999420644834214627",
-      "site_name": "FIFA+ (EN)",
-      "lang": "en"
+      "site_id": "999420644834214634",
+      "site_name": "FIFA+ (PT)",
+      "lang": "pt"
     },
     "website": "https://www.plus.fifa.com/",
     "launched": null,
@@ -7839,11 +7853,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "FIFAPlus.uk",
-      "feed": "English",
+      "feed": "Portuguese",
       "site": "watch.whaletvplus.com",
-      "site_id": "999420644834214627",
-      "site_name": "FIFA+ (EN)",
-      "lang": "en"
+      "site_id": "999420644834214634",
+      "site_name": "FIFA+ (PT)",
+      "lang": "pt"
     },
     "website": "https://www.plus.fifa.com/",
     "launched": null,
@@ -7874,11 +7888,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "FIFAPlus.uk",
-      "feed": "English",
+      "feed": "Portuguese",
       "site": "watch.whaletvplus.com",
-      "site_id": "999420644834214627",
-      "site_name": "FIFA+ (EN)",
-      "lang": "en"
+      "site_id": "999420644834214634",
+      "site_name": "FIFA+ (PT)",
+      "lang": "pt"
     },
     "website": "https://www.plus.fifa.com/",
     "launched": null,
@@ -8622,7 +8636,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "HistoryHit.uk",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "5f74cf83ffbe690040689f50",
+      "site_name": "History Hit",
+      "lang": "en"
+    },
     "website": "https://www.historyhit.com/",
     "launched": "2022-10-01",
     "closed": null
@@ -8654,7 +8675,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "HistoryHit.uk",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "5f74cf83ffbe690040689f50",
+      "site_name": "History Hit",
+      "lang": "en"
+    },
     "website": "https://www.historyhit.com/",
     "launched": "2022-10-01",
     "closed": null
@@ -8686,7 +8714,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "HistoryHit.uk",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "5f74cf83ffbe690040689f50",
+      "site_name": "History Hit",
+      "lang": "en"
+    },
     "website": "https://www.historyhit.com/",
     "launched": "2022-10-01",
     "closed": null
@@ -8718,7 +8753,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "HistoryHit.uk",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "5f74cf83ffbe690040689f50",
+      "site_name": "History Hit",
+      "lang": "en"
+    },
     "website": "https://www.historyhit.com/",
     "launched": "2022-10-01",
     "closed": null
@@ -8750,7 +8792,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "HistoryHit.uk",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "5f74cf83ffbe690040689f50",
+      "site_name": "History Hit",
+      "lang": "en"
+    },
     "website": "https://www.historyhit.com/",
     "launched": "2022-10-01",
     "closed": null
@@ -8782,7 +8831,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "HistoryHit.uk",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "5f74cf83ffbe690040689f50",
+      "site_name": "History Hit",
+      "lang": "en"
+    },
     "website": "https://www.historyhit.com/",
     "launched": "2022-10-01",
     "closed": null
@@ -10557,8 +10613,8 @@
     "tv_guide": {
       "channel": "NollyAfrica.uk",
       "feed": "SD",
-      "site": "distro.tv",
-      "site_id": "81815",
+      "site": "watch.whaletvplus.com",
+      "site_id": "879576692313038808",
       "site_name": "Nolly Africa HD",
       "lang": "en"
     },
@@ -10590,8 +10646,8 @@
     "tv_guide": {
       "channel": "NollyAfrica.uk",
       "feed": "SD",
-      "site": "distro.tv",
-      "site_id": "81815",
+      "site": "watch.whaletvplus.com",
+      "site_id": "879576692313038808",
       "site_name": "Nolly Africa HD",
       "lang": "en"
     },
@@ -10623,8 +10679,8 @@
     "tv_guide": {
       "channel": "NollyAfrica.uk",
       "feed": "SD",
-      "site": "distro.tv",
-      "site_id": "81815",
+      "site": "watch.whaletvplus.com",
+      "site_id": "879576692313038808",
       "site_name": "Nolly Africa HD",
       "lang": "en"
     },
@@ -11726,7 +11782,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "RealWild.uk",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "63584a0cf8e2be1350f802a4",
+      "site_name": "Real Wild",
+      "lang": "en"
+    },
     "website": "https://www.littledotstudios.com/en-us/channels",
     "launched": null,
     "closed": null
@@ -11755,7 +11818,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "RealWild.uk",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "63584a0cf8e2be1350f802a4",
+      "site_name": "Real Wild",
+      "lang": "en"
+    },
     "website": "https://www.littledotstudios.com/en-us/channels",
     "launched": null,
     "closed": null
@@ -11784,7 +11854,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "RealWild.uk",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "63584a0cf8e2be1350f802a4",
+      "site_name": "Real Wild",
+      "lang": "en"
+    },
     "website": "https://www.littledotstudios.com/en-us/channels",
     "launched": null,
     "closed": null
@@ -11995,14 +12072,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "ShauntheSheepFriends.uk",
-      "feed": "US",
-      "site": "plex.tv",
-      "site_id": "6876f545e50e77c59c8940be",
-      "site_name": "Shaun the Sheep and Friends",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": "https://www.aardman.com/film-tv-games/shaun-the-sheep/",
     "launched": "2024-05-20",
     "closed": null
@@ -12121,7 +12191,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "SkyNewsWeather.uk",
+      "feed": "SD",
+      "site": "i.mjh.nz",
+      "site_id": "Flash/epg#sky-news-weather",
+      "site_name": "Sky News Weather",
+      "lang": "en"
+    },
     "website": "https://news.sky.com/weather",
     "launched": null,
     "closed": null
@@ -12185,7 +12262,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "SpaceLivepoweredbysen.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "300#99951545",
+      "site_name": "Space Live Powered by Sen",
+      "lang": "en"
+    },
     "website": "https://www.sen.com/live",
     "launched": "2025-01-27",
     "closed": null
@@ -12216,7 +12300,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "SpaceLivepoweredbysen.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "300#99951545",
+      "site_name": "Space Live Powered by Sen",
+      "lang": "en"
+    },
     "website": "https://www.sen.com/live",
     "launched": "2025-01-27",
     "closed": null
@@ -12242,7 +12333,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "SparkTV.uk",
+      "feed": "SD",
+      "site": "i.mjh.nz",
+      "site_id": "Roku/all#eb1dbd690001553eacdf32d7b155b933",
+      "site_name": "SPARK TV",
+      "lang": "en"
+    },
     "website": "https://www.sparkchannel.tv/",
     "launched": null,
     "closed": null
@@ -12635,8 +12733,8 @@
     "tv_guide": {
       "channel": "TheGrahamNortonShow.uk",
       "feed": "SD",
-      "site": "plex.tv",
-      "site_id": "68dcbb869beaa3a402966dba",
+      "site": "xumo.tv",
+      "site_id": "350#99951450",
       "site_name": "The Graham Norton Show",
       "lang": "en"
     },
@@ -12976,8 +13074,8 @@
     "tv_guide": {
       "channel": "TopGear.uk",
       "feed": "SD",
-      "site": "pluto.tv",
-      "site_id": "636adc255bcf470007d6e0e2",
+      "site": "xumo.tv",
+      "site_id": "100#99951249",
       "site_name": "Top Gear",
       "lang": "en"
     },
@@ -13010,8 +13108,8 @@
     "tv_guide": {
       "channel": "TopGear.uk",
       "feed": "SD",
-      "site": "pluto.tv",
-      "site_id": "636adc255bcf470007d6e0e2",
+      "site": "xumo.tv",
+      "site_id": "100#99951249",
       "site_name": "Top Gear",
       "lang": "en"
     },
@@ -13044,8 +13142,8 @@
     "tv_guide": {
       "channel": "TopGear.uk",
       "feed": "SD",
-      "site": "pluto.tv",
-      "site_id": "636adc255bcf470007d6e0e2",
+      "site": "xumo.tv",
+      "site_id": "100#99951249",
       "site_name": "Top Gear",
       "lang": "en"
     },

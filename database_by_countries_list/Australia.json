@@ -46,14 +46,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "3AW.au",
-      "feed": "SD",
-      "site": "i.mjh.nz",
-      "site_id": "au/Melbourne/epg#mjh-3aw-melbourne",
-      "site_name": "3AW Melbourne",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": "https://www.3aw.com.au/",
     "launched": null,
     "closed": null
@@ -621,7 +614,7 @@
       "feed": "Sydney",
       "site": "i.mjh.nz",
       "site_id": "au/Sydney/epg#mjh-abc-tv-plus",
-      "site_name": "ABC TV Plus",
+      "site_name": "ABC Family",
       "lang": "en"
     },
     "website": "https://www.abc.net.au/tv",
@@ -649,7 +642,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "AusbizTV.au",
+      "feed": "SD",
+      "site": "i.mjh.nz",
+      "site_id": "Flash/epg#ausbiz",
+      "site_name": "Ausbiz",
+      "lang": "en"
+    },
     "website": "https://company.ausbiz.com.au/",
     "launched": null,
     "closed": null
@@ -1346,6 +1346,39 @@
     "closed": null
   },
   {
+    "id": "SkyRacing1.au",
+    "name": "Sky Racing 1",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AU",
+    "country_name": "Australia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Hf0EiaW.png",
+    "stream_url": "https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SkyRacing1.au",
+      "feed": "SD",
+      "site": "i.mjh.nz",
+      "site_id": "Foxtel/epg#SRA",
+      "site_name": "Sky Racing 1",
+      "lang": "en"
+    },
+    "website": "https://www.skyracing.com.au/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SkyRacing2.au",
     "name": "Sky Racing 2",
     "alt_names": [],
@@ -1362,6 +1395,39 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/TxQvFnQ.png",
     "stream_url": "https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SkyRacing2.au",
+      "feed": "SD",
+      "site": "i.mjh.nz",
+      "site_id": "Foxtel/epg#SR2",
+      "site_name": "Sky Racing 2",
+      "lang": "en"
+    },
+    "website": "https://www.skyracing.com.au/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SkyRacing2.au",
+    "name": "Sky Racing 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AU",
+    "country_name": "Australia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TxQvFnQ.png",
+    "stream_url": "https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,

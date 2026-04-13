@@ -1589,39 +1589,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://x1co.com.br:8443/logo.png",
-    "stream_url": "https://x1co.com.br:2083/hls/stream.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://x1co.com.br",
-    "launched": "2026-01-03",
-    "closed": null
-  },
-  {
-    "id": "NickOnline.br",
-    "name": "NickOnline",
-    "alt_names": [
-      "Nickelodeon Online"
-    ],
-    "network": null,
-    "owners": [
-      "x1co"
-    ],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids",
-      "animation"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://x1co.com.br:8443/logo.png",
-    "stream_url": "https://x1co.com.br:8443/hls/stream.m3u8",
-    "stream_quality": "576p",
+    "stream_url": "https://x1co.com.br/hls/stream.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -2604,6 +2573,35 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SBTCuiaba.br",
+    "name": "SBT Cuiaba",
+    "alt_names": [
+      "SBT Cuiabá",
+      "SBT Mato Grosso"
+    ],
+    "network": "Canais SBT",
+    "owners": [],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/EZJWQ3i.png",
+    "stream_url": "https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.sbtmt.com.br/",
     "launched": null,
     "closed": null
   },
@@ -4680,6 +4678,39 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.tvpadrecicero.com.br/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVPampa.br",
+    "name": "TV Pampa",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Cnc1Mqo.png",
+    "stream_url": "https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVPampa.br",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "br#tv-pampa-hd",
+      "site_name": "TV Pampa HD",
+      "lang": "pt"
+    },
+    "website": "https://www.tvpampa.com.br/",
     "launched": null,
     "closed": null
   },

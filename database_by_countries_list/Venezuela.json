@@ -323,6 +323,34 @@
     "closed": null
   },
   {
+    "id": "DuacaVision.ve",
+    "name": "DuacaVision",
+    "alt_names": [
+      "DuacaVisión"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "VE",
+    "country_name": "Venezuela",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/jEqWixv.jpeg",
+    "stream_url": "https://vs20.live.opencaster.com/duacavision_092f3447/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "EXCTV.ve",
     "name": "EXC TV",
     "alt_names": [],
@@ -1845,7 +1873,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "VenevisionInternacional.ve",
+      "feed": "SD",
+      "site": "i.mjh.nz",
+      "site_id": "Roku/all#cc04d77fd589a818cd036c850b6be867",
+      "site_name": "Venevisión Internacional",
+      "lang": "en"
+    },
     "website": "https://www.venevisionplay.com/",
     "launched": null,
     "closed": null

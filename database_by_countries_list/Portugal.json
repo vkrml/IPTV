@@ -151,10 +151,10 @@
     "tv_guide": {
       "channel": "FUELTV.pt",
       "feed": "EMEA",
-      "site": "vodafone.pt",
-      "site_id": "2692",
-      "site_name": "Fuel TV",
-      "lang": "pt"
+      "site": "watch.whaletvplus.com",
+      "site_id": "878459498619475868",
+      "site_name": "FUEL TV (UK)",
+      "lang": "en"
     },
     "website": "https://fuel.tv/",
     "launched": "2003-07-01",
@@ -186,10 +186,10 @@
     "tv_guide": {
       "channel": "FUELTV.pt",
       "feed": "EMEA",
-      "site": "vodafone.pt",
-      "site_id": "2692",
-      "site_name": "Fuel TV",
-      "lang": "pt"
+      "site": "watch.whaletvplus.com",
+      "site_id": "878459498619475868",
+      "site_name": "FUEL TV (UK)",
+      "lang": "en"
     },
     "website": "https://fuel.tv/",
     "launched": "2003-07-01",
@@ -221,10 +221,10 @@
     "tv_guide": {
       "channel": "FUELTV.pt",
       "feed": "EMEA",
-      "site": "vodafone.pt",
-      "site_id": "2692",
-      "site_name": "Fuel TV",
-      "lang": "pt"
+      "site": "watch.whaletvplus.com",
+      "site_id": "878459498619475868",
+      "site_name": "FUEL TV (UK)",
+      "lang": "en"
     },
     "website": "https://fuel.tv/",
     "launched": "2003-07-01",
@@ -256,10 +256,10 @@
     "tv_guide": {
       "channel": "FUELTV.pt",
       "feed": "EMEA",
-      "site": "vodafone.pt",
-      "site_id": "2692",
-      "site_name": "Fuel TV",
-      "lang": "pt"
+      "site": "watch.whaletvplus.com",
+      "site_id": "878459498619475868",
+      "site_name": "FUEL TV (UK)",
+      "lang": "en"
     },
     "website": "https://fuel.tv/",
     "launched": "2003-07-01",
@@ -291,10 +291,10 @@
     "tv_guide": {
       "channel": "FUELTV.pt",
       "feed": "EMEA",
-      "site": "vodafone.pt",
-      "site_id": "2692",
-      "site_name": "Fuel TV",
-      "lang": "pt"
+      "site": "watch.whaletvplus.com",
+      "site_id": "878459498619475868",
+      "site_name": "FUEL TV (UK)",
+      "lang": "en"
     },
     "website": "https://fuel.tv/",
     "launched": "2003-07-01",
@@ -326,10 +326,10 @@
     "tv_guide": {
       "channel": "FUELTV.pt",
       "feed": "EMEA",
-      "site": "vodafone.pt",
-      "site_id": "2692",
-      "site_name": "Fuel TV",
-      "lang": "pt"
+      "site": "watch.whaletvplus.com",
+      "site_id": "878459498619475868",
+      "site_name": "FUEL TV (UK)",
+      "lang": "en"
     },
     "website": "https://fuel.tv/",
     "launched": "2003-07-01",
@@ -361,10 +361,10 @@
     "tv_guide": {
       "channel": "FUELTV.pt",
       "feed": "EMEA",
-      "site": "vodafone.pt",
-      "site_id": "2692",
-      "site_name": "Fuel TV",
-      "lang": "pt"
+      "site": "watch.whaletvplus.com",
+      "site_id": "878459498619475868",
+      "site_name": "FUEL TV (UK)",
+      "lang": "en"
     },
     "website": "https://fuel.tv/",
     "launched": "2003-07-01",
@@ -844,7 +844,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "RTP1.pt",
-      "feed": "SD",
+      "feed": "HD",
       "site": "vodafone.pt",
       "site_id": "3028",
       "site_name": "RTP1",
@@ -879,7 +879,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "RTP2.pt",
-      "feed": "SD",
+      "feed": "HD",
       "site": "vodafone.pt",
       "site_id": "2825",
       "site_name": "RTP2",
@@ -916,7 +916,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "RTPAcores.pt",
-      "feed": "SD",
+      "feed": "HD",
       "site": "vodafone.pt",
       "site_id": "7084",
       "site_name": "RTP Açores",
@@ -953,7 +953,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "RTPAcores.pt",
-      "feed": "SD",
+      "feed": "HD",
       "site": "vodafone.pt",
       "site_id": "7084",
       "site_name": "RTP Açores",
@@ -1025,7 +1025,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "RTPMadeira.pt",
-      "feed": "SD",
+      "feed": "HD",
       "site": "vodafone.pt",
       "site_id": "8424",
       "site_name": "RTP Madeira",
@@ -1097,7 +1097,14 @@
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "RTPMundo.pt",
+      "feed": "SD",
+      "site": "zap.co.ao",
+      "site_id": "2262",
+      "site_name": "RTP Mundo",
+      "lang": "pt"
+    },
     "website": "https://mundo.rtp.pt/",
     "launched": "1992-06-10",
     "closed": null

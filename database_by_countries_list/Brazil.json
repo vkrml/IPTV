@@ -1600,6 +1600,35 @@
     "closed": null
   },
   {
+    "id": "NickToonsBrasil.br",
+    "name": "NickToons Brasil",
+    "alt_names": [
+      "NToons WebTV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids",
+      "animation"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png",
+    "stream_url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.ntoonsbrasil.com.br",
+    "launched": "2026-01-06",
+    "closed": null
+  },
+  {
     "id": "NovaEraTV.br",
     "name": "Nova Era TV",
     "alt_names": [],
@@ -2495,6 +2524,60 @@
     "closed": null
   },
   {
+    "id": "RedeTVMais.br",
+    "name": "Rede TV! Mais",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/F0Tm2WP/2103f4c07b851d64b4c96955765a9a95.png",
+    "stream_url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RedeTVParana.br",
+    "name": "RedeTV! Parana",
+    "alt_names": [
+      "RedeTV! Paraná"
+    ],
+    "network": "RedeTV!",
+    "owners": [
+      "Devaur Menossi"
+    ],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/D8R0Af4.png",
+    "stream_url": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.redetvparana.com.br/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RITTV.br",
     "name": "RIT TV",
     "alt_names": [
@@ -2629,6 +2712,91 @@
     "tv_guide": null,
     "website": "https://sbtinterior.com/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SBTNovaMutum.br",
+    "name": "SBT Nova Mutum",
+    "alt_names": [
+      "TV Arinos"
+    ],
+    "network": "SBT",
+    "owners": [
+      "Roberto Dorner"
+    ],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_Nova_Mutum.png",
+    "stream_url": "https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2001-03-01",
+    "closed": null
+  },
+  {
+    "id": "SBTRondonopolis.br",
+    "name": "SBT Rondonopolis",
+    "alt_names": [
+      "SBT Rondonópolis",
+      "TV Rondon"
+    ],
+    "network": "SBT",
+    "owners": [
+      "Roberto Dorner"
+    ],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/d/d5/Logotipo_do_SBT_Rondon%C3%B3polis.png",
+    "stream_url": "https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://sbtmt.com.br/",
+    "launched": "1985-01-16",
+    "closed": null
+  },
+  {
+    "id": "SBTSinop.br",
+    "name": "SBT Sinop",
+    "alt_names": [
+      "TV Cidade"
+    ],
+    "network": "SBT",
+    "owners": [
+      "Roberto Dorner"
+    ],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/8/8b/Logotipo_do_SBT_Sinop.png",
+    "stream_url": "https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://sbtmt.com.br/",
+    "launched": "1992-07-24",
     "closed": null
   },
   {

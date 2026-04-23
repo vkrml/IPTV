@@ -259,6 +259,32 @@
     "closed": null
   },
   {
+    "id": "BTB3.pl",
+    "name": "BTB 3",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Z193940.png",
+    "stream_url": "https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BTB.pl",
     "name": "BTB",
     "alt_names": [
@@ -758,6 +784,39 @@
     "closed": null
   },
   {
+    "id": "Mango.pl",
+    "name": "Mango",
+    "alt_names": [
+      "Mango24"
+    ],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat",
+      "TVO",
+      "Tvokazje"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "shop"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/73/NewLogoMango.svg",
+    "stream_url": "https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.mango.pl/",
+    "launched": "2025-09-09",
+    "closed": null
+  },
+  {
     "id": "Moconomy.pl",
     "name": "Moconomy",
     "alt_names": [
@@ -1146,6 +1205,42 @@
     },
     "website": "https://www.polsat.pl/",
     "launched": "1992-12-05",
+    "closed": null
+  },
+  {
+    "id": "PolsatFilm.pl",
+    "name": "Polsat Film",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/wGH6shZ.png",
+    "stream_url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/6086/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatFilm.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-film-123",
+      "site_name": "Polsat Film",
+      "lang": "pl"
+    },
+    "website": "https://www.polsatfilm.pl/",
+    "launched": "2009-10-02",
     "closed": null
   },
   {

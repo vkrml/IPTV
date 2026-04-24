@@ -28645,14 +28645,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "JusticeCentralTV.us",
-      "feed": "SD",
-      "site": "directv.com",
-      "site_id": "383#8433",
-      "site_name": "Justice Central HD",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": "https://entertainmentstudios.com/network/justicecentral-tv/",
     "launched": null,
     "closed": null
@@ -40567,14 +40560,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "NBCSportsBayArea.us",
-      "feed": "SD",
-      "site": "directv.com",
-      "site_id": "696#3772",
-      "site_name": "NBC Sports Bay Area HD",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": "https://www.nbcsports.com/bayarea/",
     "launched": "1989-09-01",
     "closed": null
@@ -40603,14 +40589,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "NBCSportsBayArea.us",
-      "feed": "SD",
-      "site": "directv.com",
-      "site_id": "696#3772",
-      "site_name": "NBC Sports Bay Area HD",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": "https://www.nbcsports.com/bayarea/",
     "launched": "1989-09-01",
     "closed": null
@@ -51098,6 +51077,74 @@
     "closed": null
   },
   {
+    "id": "RacerNetwork.us",
+    "name": "Racer Network",
+    "alt_names": [
+      "MAVTV",
+      "Maverick Television"
+    ],
+    "network": null,
+    "owners": [
+      "Lucas Oil"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg",
+    "stream_url": "https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.mavtv.com/platforms/",
+    "launched": "2004-10-01",
+    "closed": null
+  },
+  {
+    "id": "RacerSelect.us",
+    "name": "Racer Select",
+    "alt_names": [
+      "MAVTV Select"
+    ],
+    "network": null,
+    "owners": [
+      "Lucas Oil"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CurtYvn.png",
+    "stream_url": "https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RacerSelect.us",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "100#99951269",
+      "site_name": "RACER Select",
+      "lang": "en"
+    },
+    "website": "https://www.mavtv.com/platforms/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RacerSelect.us",
     "name": "Racer Select",
     "alt_names": [
@@ -53311,14 +53358,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "ScientologyNetwork.us",
-      "feed": "SD",
-      "site": "directv.com",
-      "site_id": "320#323",
-      "site_name": "Scientology Network",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": "https://www.scientology.tv/",
     "launched": "2018-03-12",
     "closed": null
@@ -56726,14 +56766,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "TCT.us",
-      "feed": "SD",
-      "site": "directv.com",
-      "site_id": "377#377",
-      "site_name": "TCT Network",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": "http://www.tct.tv/",
     "launched": null,
     "closed": null
@@ -62874,7 +62907,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "universal_cinema",
-      "site_name": "Universal Cinema",
+      "site_name": "Canal Universal Cinema",
       "lang": "es"
     },
     "website": "https://www.universalplus.com/",
@@ -62909,7 +62942,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "universal_comedy",
-      "site_name": "Universal Comedy",
+      "site_name": "Canal Universal Comedy",
       "lang": "es"
     },
     "website": "https://www.universalplus.com/",

@@ -19094,6 +19094,36 @@
     "closed": null
   },
   {
+    "id": "AmericaParaguay.py",
+    "name": "America Paraguay",
+    "alt_names": [
+      "América Paraguay"
+    ],
+    "network": null,
+    "owners": [
+      "Grupo América"
+    ],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/rCEu3fM.png",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://americatv.com.py/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AmericasTestKitchen.us",
     "name": "America's Test Kitchen",
     "alt_names": [],
@@ -21537,6 +21567,38 @@
     "closed": null
   },
   {
+    "id": "Animax.jp",
+    "name": "Animax",
+    "alt_names": [
+      "アニマックス"
+    ],
+    "network": null,
+    "owners": [
+      "Animax Broadcast Japan Inc.",
+      "AK Entertainment Co. Ltd.",
+      "Nojima Corporation"
+    ],
+    "country_code": "JP",
+    "country_name": "Japan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/960px-Animax_logo.svg.png",
+    "stream_url": "https://nl.utako.moe/Animax/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://utako.moe",
+    "tv_guide": null,
+    "website": "https://www.animax.co.jp/",
+    "launched": "1998-07-01",
+    "closed": null
+  },
+  {
     "id": "AnimaxAsia.sg",
     "name": "Animax Asia",
     "alt_names": [
@@ -22515,7 +22577,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "7_republica_dominicana",
-      "site_name": "7 de República Dominicana",
+      "site_name": "Canal 7 de Antena Latina (República Dominicana)",
       "lang": "es"
     },
     "website": "https://www.antena7.com.do/",
@@ -22550,7 +22612,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "7_republica_dominicana",
-      "site_name": "7 de República Dominicana",
+      "site_name": "Canal 7 de Antena Latina (República Dominicana)",
       "lang": "es"
     },
     "website": "https://www.antena7.com.do/",
@@ -23675,7 +23737,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "a_mas",
-      "site_name": "a+",
+      "site_name": "Canal a+",
       "lang": "es"
     },
     "website": "https://www.tvazteca.com/amastv",
@@ -26222,6 +26284,34 @@
     "tv_guide": null,
     "website": "https://www.artn.tv/en",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ARTTelevision.lk",
+    "name": "ART Television",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "IWS Holdings"
+    ],
+    "country_code": "LK",
+    "country_name": "Sri Lanka",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/ART_Television_%28Sri_Lanka%29_%28logo%29.png/960px-ART_Television_%28Sri_Lanka%29_%28logo%29.png",
+    "stream_url": "https://mini.allinonereborn.fun/tata.php?id=11585",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://iwsholdings.com/",
+    "launched": "1995-12-12",
     "closed": null
   },
   {
@@ -33989,7 +34079,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "BBCAlba.uk",
+      "feed": "SD",
+      "site": "freeview.co.uk",
+      "site_id": "64392#4860",
+      "site_name": "BBC ALBA",
+      "lang": "en"
+    },
     "website": "https://www.bbc.co.uk/tv/bbcalba",
     "launched": "2008-09-19",
     "closed": null
@@ -34017,7 +34114,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "BBCAlba.uk",
+      "feed": "SD",
+      "site": "freeview.co.uk",
+      "site_id": "64392#4860",
+      "site_name": "BBC ALBA",
+      "lang": "en"
+    },
     "website": "https://www.bbc.co.uk/tv/bbcalba",
     "launched": "2008-09-19",
     "closed": null
@@ -51241,7 +51345,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "canal_9_noticias_paraguay",
-      "site_name": "9 Noticias Paraguay",
+      "site_name": "Canal 9 Noticias (Paraguay)",
       "lang": "es"
     },
     "website": "https://www.c9n.com.py/",
@@ -52601,7 +52705,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "4_de_costa_rica",
-      "site_name": "4 de Costa Rica",
+      "site_name": "Canal 4 de Costa Rica",
       "lang": "es"
     },
     "website": "http://www.repretel.com/",
@@ -52870,7 +52974,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "5_el_lider_honduras",
-      "site_name": "5 de Honduras",
+      "site_name": "Canal 5 El Líder (Honduras)",
       "lang": "es"
     },
     "website": "https://www.televicentro.hn/",
@@ -53009,7 +53113,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "6_de_costa_rica",
-      "site_name": "6 de Costa Rica",
+      "site_name": "Canal 6 de Costa Rica",
       "lang": "es"
     },
     "website": "http://www.repretel.com/",
@@ -53375,7 +53479,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "multimedios_costa_rica",
-      "site_name": "Multimedios Costa Rica",
+      "site_name": "Canal Multimedios (Costa Rica)",
       "lang": "es"
     },
     "website": "https://www.telediario.cr/television",
@@ -53879,7 +53983,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "11_de_costa_rica",
-      "site_name": "11 de Costa Rica",
+      "site_name": "Canal 11 de Costa Rica",
       "lang": "es"
     },
     "website": "http://www.repretel.com/",
@@ -64386,7 +64490,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "37_republica_dominicana",
-      "site_name": "37 de República Dominicana",
+      "site_name": "Canal 37 de República Dominicana (CDN)",
       "lang": "es"
     },
     "website": "https://cdn.com.do/",
@@ -64421,7 +64525,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "cdn_deportes",
-      "site_name": "CDN Deportes",
+      "site_name": "Canal CDN Deportes",
       "lang": "es"
     },
     "website": "https://cdndeportes.com.do/",
@@ -68220,6 +68324,32 @@
     "closed": null
   },
   {
+    "id": "ChannelC.lk",
+    "name": "Channel C",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "LK",
+    "country_name": "Sri Lanka",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CnFdLaf.png",
+    "stream_url": "https://mini.allinonereborn.fun/tata.php?id=11588",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.channelc.lk/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ChannelDivya.in",
     "name": "Channel Divya",
     "alt_names": [],
@@ -68372,6 +68502,34 @@
     "tv_guide": null,
     "website": "http://www.sitv.com.cn/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ChannelOne.lk",
+    "name": "Channel One",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "MTV Channel"
+    ],
+    "country_code": "LK",
+    "country_name": "Sri Lanka",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CqRSTdL.png",
+    "stream_url": "https://mini.allinonereborn.fun/tata.php?id=11589",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.dialog.lk/television-channel-one-tv/",
+    "launched": "1992-12-14",
     "closed": null
   },
   {
@@ -71717,6 +71875,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.torranceca.gov/cable",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CitiHitz.lk",
+    "name": "Citi Hitz",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Onair World Ceylon"
+    ],
+    "country_code": "LK",
+    "country_name": "Sri Lanka",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/EuYpCRF.png",
+    "stream_url": "https://mini.allinonereborn.fun/tata.php?id=11590",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -77120,7 +77306,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "9_republica_dominicana",
-      "site_name": "9 de República Dominicana",
+      "site_name": "Canal 9 de Color Visión (República Dominicana)",
       "lang": "es"
     },
     "website": "https://colorvision.com.do/",
@@ -82469,6 +82655,32 @@
     "tv_guide": null,
     "website": "https://damasradio.fm",
     "launched": "1947-02-03",
+    "closed": null
+  },
+  {
+    "id": "DamsatharaTV.lk",
+    "name": "Damsathara TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "LK",
+    "country_name": "Sri Lanka",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nZE8XjY.png",
+    "stream_url": "https://mini.allinonereborn.fun/tata.php?id=11591",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
     "closed": null
   },
   {
@@ -88989,6 +89201,32 @@
     "closed": null
   },
   {
+    "id": "DhaulagiriTelevision.np",
+    "name": "Dhaulagiri Television",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "NP",
+    "country_name": "Nepal",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/1tTudCH.png",
+    "stream_url": "http://maxotts.maxdigitaltv.com/x-media/C117/master.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://edhaulagiritv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "DheeranTV.in",
     "name": "Dheeran TV",
     "alt_names": [],
@@ -89375,7 +89613,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "15_republica_dominicana",
-      "site_name": "15 de República Dominicana",
+      "site_name": "Canal 15 (Digital Quince Telemicro) (República Dominicana)",
       "lang": "es"
     },
     "website": "https://telemicro.com.do/",
@@ -89408,7 +89646,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "15_republica_dominicana",
-      "site_name": "15 de República Dominicana",
+      "site_name": "Canal 15 (Digital Quince Telemicro) (República Dominicana)",
       "lang": "es"
     },
     "website": "https://telemicro.com.do/",
@@ -90415,42 +90653,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
     "stream_url": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
     "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "DisneyJrLatinAmerica.ar",
-      "feed": "North",
-      "site": "reportv.com.ar",
-      "site_id": "1102",
-      "site_name": "DISNEY JR",
-      "lang": "es"
-    },
-    "website": "https://www.disneylatino.com/",
-    "launched": "2011-04-01",
-    "closed": null
-  },
-  {
-    "id": "DisneyJrLatinAmerica.ar",
-    "name": "Disney Jr. Latin America",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Disney Media Network Latin America"
-    ],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "animation",
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
-    "stream_url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -95424,34 +95626,6 @@
     "closed": null
   },
   {
-    "id": "DurontoTV.bd",
-    "name": "Duronto TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Barind Media Limited"
-    ],
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/gXsddRK.png",
-    "stream_url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.duronto.tv/",
-    "launched": "2017-10-05",
-    "closed": null
-  },
-  {
     "id": "DushanbeHD.tj",
     "name": "Dushanbe HD",
     "alt_names": [
@@ -97170,7 +97344,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "ecuador_tv",
-      "site_name": "Ecuador TV",
+      "site_name": "Canal Ecuador TV",
       "lang": "es"
     },
     "website": "https://ecuadortv.ec/",
@@ -97233,7 +97407,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "ecuavisa_ecuador",
-      "site_name": "Ecuavisa Ecuador",
+      "site_name": "Canal Ecuavisa (Ecuador)",
       "lang": "es"
     },
     "website": "https://www.ecuavisa.com/",
@@ -97270,7 +97444,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "ecuavisa_ecuador",
-      "site_name": "Ecuavisa Ecuador",
+      "site_name": "Canal Ecuavisa (Ecuador)",
       "lang": "es"
     },
     "website": "https://www.ecuavisa.com/",
@@ -115516,7 +115690,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "gamavision",
-      "site_name": "Gamavisión",
+      "site_name": "Canal Gamavisión",
       "lang": "es"
     },
     "website": "https://www.gamavision.com.ec/",
@@ -116663,6 +116837,66 @@
     "tv_guide": null,
     "website": "https://geekdot.live/",
     "launched": "2022-03-07",
+    "closed": null
+  },
+  {
+    "id": "geFast.br",
+    "name": "ge Fast",
+    "alt_names": [
+      "Globo Esporte FAST"
+    ],
+    "network": null,
+    "owners": [
+      "Canais Globo"
+    ],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/WGXHDnF/logo-ge-fast.png",
+    "stream_url": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://ge.globo.com/ge-fast/ao-vivo/ge-fast-assista-agora-ao-canal-com-24-horas-de-esporte.ghtml",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "geFast.br",
+    "name": "ge Fast",
+    "alt_names": [
+      "Globo Esporte FAST"
+    ],
+    "network": null,
+    "owners": [
+      "Canais Globo"
+    ],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/WGXHDnF/logo-ge-fast.png",
+    "stream_url": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://ge.globo.com/ge-fast/ao-vivo/ge-fast-assista-agora-ao-canal-com-24-horas-de-esporte.ghtml",
+    "launched": null,
     "closed": null
   },
   {
@@ -128549,6 +128783,30 @@
     "closed": null
   },
   {
+    "id": "HiTV.lk",
+    "name": "Hi TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "LK",
+    "country_name": "Sri Lanka",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.lyngsat.com/logo/tv/hh/hitv.png",
+    "stream_url": "https://mini.allinonereborn.fun/tata.php?id=11596",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://hitv.dailymirror.lk/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "HitzTV.bz",
     "name": "Hitz TV",
     "alt_names": [],
@@ -136888,7 +137146,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "ingenio_tv_mexico",
-      "site_name": "Ingenio TV México",
+      "site_name": "Canal Ingenio TV (México)",
       "lang": "es"
     },
     "website": "https://aprende.gob.mx/",
@@ -137402,7 +137660,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "inti_network",
-      "site_name": "Inti Network",
+      "site_name": "Canal Inti Network",
       "lang": "es"
     },
     "website": "https://inti.tv/",
@@ -140028,6 +140286,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://itiswritten.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ITN.lk",
+    "name": "ITN",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "LK",
+    "country_name": "Sri Lanka",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NLu3guG.png",
+    "stream_url": "https://mini.allinonereborn.fun/tata.php?id=11597",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.itntv.lk/",
     "launched": null,
     "closed": null
   },
@@ -146967,14 +147251,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "JusticeCentralTV.us",
-      "feed": "SD",
-      "site": "directv.com",
-      "site_id": "383#8433",
-      "site_name": "Justice Central HD",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": "https://entertainmentstudios.com/network/justicecentral-tv/",
     "launched": null,
     "closed": null
@@ -162608,7 +162885,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "la_tele_paraguay",
-      "site_name": "La Tele Paraguay",
+      "site_name": "Canal La Tele (Paraguay)",
       "lang": "es"
     },
     "website": "https://latele.com.py/",
@@ -177901,7 +178178,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "mexiquense_tv",
-      "site_name": "Mexiquense TV",
+      "site_name": "Canal Mexiquense TV",
       "lang": "es"
     },
     "website": "https://radioytvmexiquense.mx/",
@@ -192984,14 +193261,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "NBCSportsBayArea.us",
-      "feed": "SD",
-      "site": "directv.com",
-      "site_id": "696#3772",
-      "site_name": "NBC Sports Bay Area HD",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": "https://www.nbcsports.com/bayarea/",
     "launched": "1989-09-01",
     "closed": null
@@ -193020,14 +193290,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "NBCSportsBayArea.us",
-      "feed": "SD",
-      "site": "directv.com",
-      "site_id": "696#3772",
-      "site_name": "NBC Sports Bay Area HD",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": "https://www.nbcsports.com/bayarea/",
     "launched": "1989-09-01",
     "closed": null
@@ -194753,6 +195016,36 @@
     },
     "website": "http://www.nepal1tv.net/",
     "launched": "2004-01-01",
+    "closed": null
+  },
+  {
+    "id": "NET.mt",
+    "name": "NET",
+    "alt_names": [
+      "NET Television"
+    ],
+    "network": null,
+    "owners": [
+      "NET Media"
+    ],
+    "country_code": "MT",
+    "country_name": "Malta",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/K4Uve1n.png",
+    "stream_url": "https://stream.smashmalta.com:25463/live/webplayer/livestream/22.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://netondemand.mt/",
+    "launched": "1998-06-10",
     "closed": null
   },
   {
@@ -199441,7 +199734,7 @@
     "is_nsfw": false,
     "logo": "https://i.ibb.co/TxV7nwLw/20260420-172534.png",
     "stream_url": "https://vs20.live.opencaster.com/nickelodeonbrasil_68f1743d/index.m3u8",
-    "stream_quality": "576p",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -203316,7 +203609,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "noticias_py",
-      "site_name": "Noticias PY",
+      "site_name": "Canal Noticias PY (Paraguay)",
       "lang": "es"
     },
     "website": "https://npy.com.py/en-vivo/",
@@ -211693,76 +211986,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/ORF_1_2019.svg",
-    "stream_url": "http://79.127.207.193/ORF1/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ORF1.at",
-      "feed": "SD",
-      "site": "tvheute.at",
-      "site_id": "orf1",
-      "site_name": "ORF1",
-      "lang": "de"
-    },
-    "website": "https://tv.orf.at/",
-    "launched": "1955-08-01",
-    "closed": null
-  },
-  {
-    "id": "ORF1.at",
-    "name": "ORF 1",
-    "alt_names": [],
-    "network": "ORF",
-    "owners": [
-      "ORF"
-    ],
-    "country_code": "AT",
-    "country_name": "Austria",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/ORF_1_2019.svg",
-    "stream_url": "https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ORF1.at",
-      "feed": "SD",
-      "site": "tvheute.at",
-      "site_id": "orf1",
-      "site_name": "ORF1",
-      "lang": "de"
-    },
-    "website": "https://tv.orf.at/",
-    "launched": "1955-08-01",
-    "closed": null
-  },
-  {
-    "id": "ORF1.at",
-    "name": "ORF 1",
-    "alt_names": [],
-    "network": "ORF",
-    "owners": [
-      "ORF"
-    ],
-    "country_code": "AT",
-    "country_name": "Austria",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/ORF_1_2019.svg",
     "stream_url": "https://dash2.antik.sk/live/test_orf_eins_tizen/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -214842,7 +215065,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "paraguay_tv",
-      "site_name": "Paraguay TV",
+      "site_name": "Canal Paraguay TV",
       "lang": "es"
     },
     "website": "https://www.paraguaytv.gov.py/",
@@ -215046,7 +215269,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "paravision",
-      "site_name": "Paravisión",
+      "site_name": "Canal Paravisión",
       "lang": "es"
     },
     "website": "http://www.paravision.com.py/",
@@ -215286,6 +215509,39 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ParliamentofMalta.mt",
+    "name": "Parliament of Malta",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "MT",
+    "country_name": "Malta",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "legislative"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Logo_of_the_Parliament_of_Malta.png",
+    "stream_url": "https://stream.smashmalta.com:25463/live/webplayer/livestream/23.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ParliamentofMalta.mt",
+      "feed": "SD",
+      "site": "melita.com",
+      "site_id": "f1d6d64f-30b8-49c2-b8f4-67ce789b002f",
+      "site_name": "Parliament Channel",
+      "lang": "en"
+    },
+    "website": "http://www.parlament.mt/",
     "launched": null,
     "closed": null
   },
@@ -224570,6 +224826,42 @@
     "closed": null
   },
   {
+    "id": "Polsat.pl",
+    "name": "Polsat",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/xff6zGN.png",
+    "stream_url": "https://image.candyeis5.store/https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Polsat.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-38",
+      "site_name": "Polsat",
+      "lang": "pl"
+    },
+    "website": "https://www.polsat.pl/",
+    "launched": "1992-12-05",
+    "closed": null
+  },
+  {
     "id": "PolsatFilm.pl",
     "name": "Polsat Film",
     "alt_names": [],
@@ -224603,6 +224895,42 @@
     },
     "website": "https://www.polsatfilm.pl/",
     "launched": "2009-10-02",
+    "closed": null
+  },
+  {
+    "id": "PolsatNews2.pl",
+    "name": "Polsat News 2",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polsat_News_2_2021_gradient.svg/500px-Polsat_News_2_2021_gradient.svg.png",
+    "stream_url": "https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatNews2.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-news-2-471",
+      "site_name": "Polsat News 2",
+      "lang": "pl"
+    },
+    "website": "http://www.polsatnews.pl/",
+    "launched": "2014-06-09",
     "closed": null
   },
   {
@@ -232337,6 +232665,74 @@
     "tv_guide": null,
     "website": "https://www.mavtv.com/platforms/",
     "launched": "2004-10-01",
+    "closed": null
+  },
+  {
+    "id": "RacerNetwork.us",
+    "name": "Racer Network",
+    "alt_names": [
+      "MAVTV",
+      "Maverick Television"
+    ],
+    "network": null,
+    "owners": [
+      "Lucas Oil"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg",
+    "stream_url": "https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.mavtv.com/platforms/",
+    "launched": "2004-10-01",
+    "closed": null
+  },
+  {
+    "id": "RacerSelect.us",
+    "name": "Racer Select",
+    "alt_names": [
+      "MAVTV Select"
+    ],
+    "network": null,
+    "owners": [
+      "Lucas Oil"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CurtYvn.png",
+    "stream_url": "https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RacerSelect.us",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "100#99951269",
+      "site_name": "RACER Select",
+      "lang": "en"
+    },
+    "website": "https://www.mavtv.com/platforms/",
+    "launched": null,
     "closed": null
   },
   {
@@ -244683,6 +245079,30 @@
     },
     "website": "http://www.rictv.de/",
     "launched": "2012-09-10",
+    "closed": null
+  },
+  {
+    "id": "RideeTV.lk",
+    "name": "Ridee TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "LK",
+    "country_name": "Sri Lanka",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/HZLITjX.png",
+    "stream_url": "https://mini.allinonereborn.fun/tata.php?id=11602",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
     "closed": null
   },
   {
@@ -267725,14 +268145,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "ScientologyNetwork.us",
-      "feed": "SD",
-      "site": "directv.com",
-      "site_id": "320#323",
-      "site_name": "Scientology Network",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": "https://www.scientology.tv/",
     "launched": "2018-03-12",
     "closed": null
@@ -275415,7 +275828,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "snt",
-      "site_name": "SNT",
+      "site_name": "Canal SNT (Paraguay)",
       "lang": "es"
     },
     "website": "https://www.snt.com.py/",
@@ -275451,7 +275864,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "snt",
-      "site_name": "SNT",
+      "site_name": "Canal SNT (Paraguay)",
       "lang": "es"
     },
     "website": "https://www.snt.com.py/",
@@ -276560,7 +276973,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540",
-    "stream_url": "https://sl.vodep39240327.workers.dev/channel/SET%20HD.m3u8",
+    "stream_url": "http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&uid=gana-sunega&pass=krish-ka",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -281957,7 +282370,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143856_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://116.90.120.151:8000/play/a0ka/index.m3u8",
+    "stream_url": "http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES&uid=gana-sunega&pass=krish-ka",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -286894,7 +287307,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "sur_tv_itapua_paraguay",
-      "site_name": "Sur TV Itapúa Paraguay",
+      "site_name": "Canal Sur TV Itapúa (Paraguay)",
       "lang": "es"
     },
     "website": null,
@@ -291717,14 +292130,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "TCT.us",
-      "feed": "SD",
-      "site": "directv.com",
-      "site_id": "377#377",
-      "site_name": "TCT Network",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": "http://www.tct.tv/",
     "launched": null,
     "closed": null
@@ -292714,7 +293120,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "teleamazonas",
-      "site_name": "Teleamazonas",
+      "site_name": "Canal Teleamazonas",
       "lang": "es"
     },
     "website": "https://www.teleamazonas.com/",
@@ -292749,7 +293155,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "teleamazonas",
-      "site_name": "Teleamazonas",
+      "site_name": "Canal Teleamazonas",
       "lang": "es"
     },
     "website": "https://www.teleamazonas.com/",
@@ -292817,7 +293223,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "2_de_republica_dominicana_teleantillas",
-      "site_name": "2 de República Dominicana",
+      "site_name": "Canal 2 de República Dominicana (Teleantillas)",
       "lang": "es"
     },
     "website": "https://teleantillas.com.do/",
@@ -293630,7 +294036,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "13_de_republica_dominicana_telecentro",
-      "site_name": "13 de República Dominicana",
+      "site_name": "Canal Telecentro (13 de República Dominicana)",
       "lang": "es"
     },
     "website": "https://telecentro.com.do/",
@@ -293663,7 +294069,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "13_de_republica_dominicana_telecentro",
-      "site_name": "13 de República Dominicana",
+      "site_name": "Canal Telecentro (13 de República Dominicana)",
       "lang": "es"
     },
     "website": "https://telecentro.com.do/",
@@ -294438,7 +294844,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "teleformula",
-      "site_name": "Telefórmula",
+      "site_name": "Canal Telefórmula",
       "lang": "es"
     },
     "website": "https://www.radioformula.com.mx/",
@@ -295538,7 +295944,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "5_de_republica_dominicana_telemicro",
-      "site_name": "Telemicro",
+      "site_name": "Canal 5 de República Dominicana (Telemicro)",
       "lang": "es"
     },
     "website": "https://telemicro.com.do/",
@@ -295573,7 +295979,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "5_de_republica_dominicana_telemicro",
-      "site_name": "Telemicro",
+      "site_name": "Canal 5 de República Dominicana (Telemicro)",
       "lang": "es"
     },
     "website": "https://telemicro.com.do/",
@@ -296938,6 +297344,32 @@
     "closed": null
   },
   {
+    "id": "TelePosadas.ar",
+    "name": "Tele Posadas",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/88MVgwX.png",
+    "stream_url": "https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TelepremierPlus.ec",
     "name": "Telepremier Plus",
     "alt_names": [],
@@ -297686,7 +298118,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "telesistema_11",
-      "site_name": "11 de República Dominicana",
+      "site_name": "Canal Telesistema 11 (República Dominicana)",
       "lang": "es"
     },
     "website": "https://telesistema11.com.do/",
@@ -298086,7 +298518,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "7_de_costa_rica_teletica",
-      "site_name": "7 de Costa Rica",
+      "site_name": "Canal 7 de Costa Rica (Teletica)",
       "lang": "es"
     },
     "website": "https://www.teletica.com/",
@@ -298325,7 +298757,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "teleunion_republica_dominicana",
-      "site_name": "Teleunion",
+      "site_name": "Canal Teleunion (República Dominicana)",
       "lang": "es"
     },
     "website": "http://teleuniontvrd.com/",
@@ -298358,7 +298790,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "teleunion_republica_dominicana",
-      "site_name": "Teleunion",
+      "site_name": "Canal Teleunion (República Dominicana)",
       "lang": "es"
     },
     "website": "http://teleuniontvrd.com/",
@@ -298391,7 +298823,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "29_republica_dominicana",
-      "site_name": "29 de República Dominicana",
+      "site_name": "Canal 29 de TeleUniverso (República Dominicana)",
       "lang": "es"
     },
     "website": "https://teleuniversotv.com/",
@@ -305168,7 +305600,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "tigo_sports_costa_rica",
-      "site_name": "Tigo Sports Costa Rica",
+      "site_name": "Canal Tigo Sports (Costa Rica)",
       "lang": "es"
     },
     "website": "http://www.tigosports.cr/",
@@ -305201,7 +305633,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "tigo_sports_guatemala",
-      "site_name": "Tigo Sports Guatemala",
+      "site_name": "Canal Tigo Sports (Guatemala)",
       "lang": "es"
     },
     "website": "http://www.tigosports.gt/",
@@ -305260,7 +305692,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "tigo_sports_el_salvador",
-      "site_name": "Tigo Sports El Salvador",
+      "site_name": "Canal Tigo Sports (El Salvador)",
       "lang": "es"
     },
     "website": "http://www.tigosports.com.sv/",
@@ -306119,7 +306551,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/LKLjnrp.png",
-    "stream_url": "http://103.184.64.85:12000/stream/allchannel/rtbftipik/master.m3u8",
+    "stream_url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/425fb6b1/8a250afc.isml/.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -311008,7 +311440,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "13_de_paraguay",
-      "site_name": "13 de Paraguay",
+      "site_name": "Canal 13 de Paraguay (Trece)",
       "lang": "es"
     },
     "website": "http://www.trece.com.py/",
@@ -311439,11 +311871,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/oMML5Ue.png",
-    "stream_url": "https://copacogen.desdeparaguay.net/tropicaliatv/tropicaliatv_py_alta/chunklist.m3u8?admin=nacion",
-    "stream_quality": "1080p",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8",
+    "stream_quality": "1280p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": "https://www.gen.com.py/live/",
+    "referrer": null,
     "tv_guide": null,
     "website": "https://www.tropicalia.com.py/",
     "launched": null,
@@ -312874,7 +313306,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "tsi_honduras",
-      "site_name": "Telesistema Informativo (TSI)",
+      "site_name": "Canal Telesistema Informativo (TSI) (Honduras)",
       "lang": "es"
     },
     "website": "https://www.televicentro.hn/",
@@ -312911,7 +313343,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "tsi_honduras",
-      "site_name": "Telesistema Informativo (TSI)",
+      "site_name": "Canal Telesistema Informativo (TSI) (Honduras)",
       "lang": "es"
     },
     "website": "https://www.televicentro.hn/",
@@ -313439,7 +313871,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "tudn_mexico",
-      "site_name": "TUDN México",
+      "site_name": "Canal TUDN (México)",
       "lang": "es"
     },
     "website": "https://www.tudn.mx/",
@@ -315060,6 +315492,37 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TV4.pl",
+    "name": "TV4",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png",
+    "stream_url": "https://cdn-s-playnow-live.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TV4.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tv-4-360",
+      "site_name": "TV 4",
+      "lang": "pl"
+    },
+    "website": "https://www.tv4.pl/",
     "launched": null,
     "closed": null
   },
@@ -317843,6 +318306,39 @@
     "tv_guide": null,
     "website": "https://tva.ua/",
     "launched": "2013-01-01",
+    "closed": null
+  },
+  {
+    "id": "TVACritica.br",
+    "name": "TV A Critica",
+    "alt_names": [
+      "TV A Crítica"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/j51rBro.png",
+    "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVACritica.br",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "br#tv-a-critica",
+      "site_name": "TV A Crítica",
+      "lang": "pt"
+    },
+    "website": "https://www.acritica.com/",
+    "launched": null,
     "closed": null
   },
   {
@@ -321138,6 +321634,30 @@
     "closed": null
   },
   {
+    "id": "TVDidula.lk",
+    "name": "TV Didula",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "LK",
+    "country_name": "Sri Lanka",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/RANo5pt.png",
+    "stream_url": "https://mini.allinonereborn.fun/tata.php?id=11608",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.tvdidula.lk/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVDielli.xk",
     "name": "TV Dielli",
     "alt_names": [],
@@ -323734,6 +324254,43 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/V0iMsED.png",
+    "stream_url": "https://stream.smashmalta.com:25463/live/webplayer/livestream/19.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVM.mt",
+      "feed": "SD",
+      "site": "tvmi.mt",
+      "site_id": "2",
+      "site_name": "TVM",
+      "lang": "mt"
+    },
+    "website": "https://tvmi.mt/live/2",
+    "launched": "1962-09-29",
+    "closed": null
+  },
+  {
+    "id": "TVM.mt",
+    "name": "TVM",
+    "alt_names": [
+      "Television Malta"
+    ],
+    "network": null,
+    "owners": [
+      "Government of Malta"
+    ],
+    "country_code": "MT",
+    "country_name": "Malta",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/V0iMsED.png",
     "stream_url": "http://80.79.6.221:25461/smash/public/19",
     "stream_quality": null,
     "stream_format": null,
@@ -324530,7 +325087,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "tvmax",
-      "site_name": "9 de Panamá",
+      "site_name": "Canal 9 de Panamá (TVMax)",
       "lang": "es"
     },
     "website": "https://www.tvmax-9.com/",
@@ -324913,6 +325470,41 @@
     "closed": null
   },
   {
+    "id": "TVMsportPlus.mt",
+    "name": "TVMsport+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Government of Malta"
+    ],
+    "country_code": "MT",
+    "country_name": "Malta",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/YIreFti.png",
+    "stream_url": "https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVMsportPlus.mt",
+      "feed": "SD",
+      "site": "tvmi.mt",
+      "site_id": "4",
+      "site_name": "TVMsport+",
+      "lang": "mt"
+    },
+    "website": "https://tvmi.mt/live/4",
+    "launched": "2022-09-29",
+    "closed": null
+  },
+  {
     "id": "TVMu.id",
     "name": "TV Mu",
     "alt_names": [],
@@ -325158,7 +325750,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "tvn_chile",
-      "site_name": "TVN Chile",
+      "site_name": "Canal TVN (Chile)",
       "lang": "es"
     },
     "website": "https://www.tvn.cl/",
@@ -325195,7 +325787,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "2_de_panama",
-      "site_name": "2 de Panamá",
+      "site_name": "Canal 2 de Panamá (TVN-2)",
       "lang": "es"
     },
     "website": "https://www.tvn-2.com/",
@@ -325722,6 +326314,37 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVOkazje.pl",
+    "name": "TV Okazje",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/DbALkkV.png",
+    "stream_url": "https://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVOkazje.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tvo-600",
+      "site_name": "TV Okazje",
+      "lang": "pl"
+    },
+    "website": "https://www.tvokazje.pl/",
     "launched": null,
     "closed": null
   },
@@ -329806,6 +330429,37 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVS.pl",
+    "name": "TVS",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/RHwlp35.png",
+    "stream_url": "https://vs2129.vcdn.biz/01c0d67a9f854c6858817f6891f744ec_megogo/live/hls/b/700_2490/u_sid/0/o/157767001/rsid/c6ef76cc-cde3-4b96-8684-3828e229c6d4/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.163.147*asn/u_srvc/81255/u_did/web_13KAuOjcvMvSypM1dvXHzz0O9IIFWwyq/type.live/chunklist-sid2756675719062283008-b2490000.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVS.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tvs-90",
+      "site_name": "TVS",
+      "lang": "pl"
+    },
+    "website": "https://tvs.pl/",
     "launched": null,
     "closed": null
   },
@@ -335041,7 +335695,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "unicanal",
-      "site_name": "Unicanal",
+      "site_name": "Canal Unicanal",
       "lang": "es"
     },
     "website": "http://www.unicanal.com.py/",
@@ -335625,7 +336279,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "universal_cinema",
-      "site_name": "Universal Cinema",
+      "site_name": "Canal Universal Cinema",
       "lang": "es"
     },
     "website": "https://www.universalplus.com/",
@@ -335660,7 +336314,7 @@
       "feed": "SD",
       "site": "gatotv.com",
       "site_id": "universal_comedy",
-      "site_name": "Universal Comedy",
+      "site_name": "Canal Universal Comedy",
       "lang": "es"
     },
     "website": "https://www.universalplus.com/",
@@ -338829,6 +339483,34 @@
     "logo": "https://i.imgur.com/XwmUbfp.png",
     "stream_url": "https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.venus.com.py/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VenusMedia.py",
+    "name": "Venus Media",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Venus Comunicaciones"
+    ],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/XwmUbfp.png",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8",
+    "stream_quality": "1280p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -356947,14 +357629,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "YAAAS.uk",
-      "feed": null,
-      "site": "freeview.co.uk",
-      "site_id": "64257#34368",
-      "site_name": "YAAAS!",
-      "lang": "en"
-    },
+    "tv_guide": null,
     "website": "https://yaaas.tv",
     "launched": null,
     "closed": null
@@ -361607,6 +362282,41 @@
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540",
     "stream_url": "http://103.72.101.252:8080/live/167.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ZeeTV.in",
+      "feed": "SD",
+      "site": "tv.sfr.fr",
+      "site_id": "526",
+      "site_name": "Zee TV",
+      "lang": "fr"
+    },
+    "website": "http://www.zeetv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ZeeTV.in",
+    "name": "Zee TV",
+    "alt_names": [],
+    "network": "Z",
+    "owners": [
+      "Zee Entertainment Enterprises Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540",
+    "stream_url": "https://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_ZEE_TV_HD&uid=gana-sunega&pass=krish-ka",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

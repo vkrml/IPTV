@@ -19,6 +19,36 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/K4Uve1n.png",
+    "stream_url": "https://stream.smashmalta.com:25463/live/webplayer/livestream/22.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://netondemand.mt/",
+    "launched": "1998-06-10",
+    "closed": null
+  },
+  {
+    "id": "NET.mt",
+    "name": "NET",
+    "alt_names": [
+      "NET Television"
+    ],
+    "network": null,
+    "owners": [
+      "NET Media"
+    ],
+    "country_code": "MT",
+    "country_name": "Malta",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/K4Uve1n.png",
     "stream_url": "http://80.79.6.221:25461/smash/public/22",
     "stream_quality": null,
     "stream_format": null,
@@ -97,6 +127,39 @@
     },
     "website": "https://one.com.mt/",
     "launched": "1994-03-01",
+    "closed": null
+  },
+  {
+    "id": "ParliamentofMalta.mt",
+    "name": "Parliament of Malta",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "MT",
+    "country_name": "Malta",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "legislative"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Logo_of_the_Parliament_of_Malta.png",
+    "stream_url": "https://stream.smashmalta.com:25463/live/webplayer/livestream/23.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ParliamentofMalta.mt",
+      "feed": "SD",
+      "site": "melita.com",
+      "site_id": "f1d6d64f-30b8-49c2-b8f4-67ce789b002f",
+      "site_name": "Parliament Channel",
+      "lang": "en"
+    },
+    "website": "http://www.parlament.mt/",
+    "launched": null,
     "closed": null
   },
   {
@@ -222,6 +285,43 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/V0iMsED.png",
+    "stream_url": "https://stream.smashmalta.com:25463/live/webplayer/livestream/19.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVM.mt",
+      "feed": "SD",
+      "site": "tvmi.mt",
+      "site_id": "2",
+      "site_name": "TVM",
+      "lang": "mt"
+    },
+    "website": "https://tvmi.mt/live/2",
+    "launched": "1962-09-29",
+    "closed": null
+  },
+  {
+    "id": "TVM.mt",
+    "name": "TVM",
+    "alt_names": [
+      "Television Malta"
+    ],
+    "network": null,
+    "owners": [
+      "Government of Malta"
+    ],
+    "country_code": "MT",
+    "country_name": "Malta",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/V0iMsED.png",
     "stream_url": "http://80.79.6.221:25461/smash/public/19",
     "stream_quality": null,
     "stream_format": null,
@@ -272,6 +372,41 @@
     },
     "website": "https://tvmi.mt/live/3",
     "launched": "2012-03-08",
+    "closed": null
+  },
+  {
+    "id": "TVMsportPlus.mt",
+    "name": "TVMsport+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Government of Malta"
+    ],
+    "country_code": "MT",
+    "country_name": "Malta",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/YIreFti.png",
+    "stream_url": "https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVMsportPlus.mt",
+      "feed": "SD",
+      "site": "tvmi.mt",
+      "site_id": "4",
+      "site_name": "TVMsport+",
+      "lang": "mt"
+    },
+    "website": "https://tvmi.mt/live/4",
+    "launched": "2022-09-29",
     "closed": null
   }
 ]

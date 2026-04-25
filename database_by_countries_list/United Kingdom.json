@@ -7192,6 +7192,42 @@
     "closed": null
   },
   {
+    "id": "CNBCUK.uk",
+    "name": "CNBC UK",
+    "alt_names": [],
+    "network": "CNBC",
+    "owners": [
+      "Versant Media Group Inc."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news",
+      "business"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg",
+    "stream_url": "https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CNBCUK.uk",
+      "feed": "HD",
+      "site": "tvireland.ie",
+      "site_id": "2242/cnbc-uk-hd",
+      "site_name": "CNBC UK HD",
+      "lang": "en"
+    },
+    "website": "http://www.cnbc.com/europe-television/",
+    "launched": "1995-02-27",
+    "closed": null
+  },
+  {
     "id": "DAZNCombat.uk",
     "name": "DAZN Combat",
     "alt_names": [],
@@ -7270,6 +7306,32 @@
     "logo": "https://i.imgur.com/oMnpsQ5.png",
     "stream_url": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://discover.film/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DiscoverFilm.uk",
+    "name": "Discover Film",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/oMnpsQ5.png",
+    "stream_url": "https://discoverfilm-discoverfilm-1-gb.samsung.wurl.tv/playlist.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -7376,6 +7438,44 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/h0bc3Fa.png",
     "stream_url": "https://amg00426-lds-amg00426c15-samsung-nz-3685.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DontTellTheBride.uk",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "635847d0d3a668f1cafc1f9d",
+      "site_name": "Don't Tell The Bride",
+      "lang": "en"
+    },
+    "website": "https://www.littledotstudios.com/en-us/channels",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DontTellTheBride.uk",
+    "name": "Don't Tell The Bride",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Little Dot Studios Limited",
+      "All3Media Limited",
+      "RedBird IMI",
+      "International Media Investments (IMI) Holdings FZ LLC"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/h0bc3Fa.png",
+    "stream_url": "https://lds-donttellbride-samsunguk.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -7691,6 +7791,41 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
     "stream_url": "https://jmp2.uk/plu-63d91d2560bc8f0008a225e4.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FIFAPlus.uk",
+      "feed": "Portuguese",
+      "site": "watch.whaletvplus.com",
+      "site_id": "999420644834214634",
+      "site_name": "FIFA+ (PT)",
+      "lang": "pt"
+    },
+    "website": "https://www.plus.fifa.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FIFAPlus.uk",
+    "name": "FIFA+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "FIFA"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
+    "stream_url": "https://ba3e2e93.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -8334,41 +8469,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png",
-    "stream_url": "https://jmp2.uk/stvp-GBBB1600008R3",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "GBNews.uk",
-      "feed": "SD",
-      "site": "virgintvgo.virginmedia.com",
-      "site_id": "2165",
-      "site_name": "GB News",
-      "lang": "en"
-    },
-    "website": "https://www.gbnews.uk/",
-    "launched": "2021-06-13",
-    "closed": null
-  },
-  {
-    "id": "GBNews.uk",
-    "name": "GB News",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "All Perspectives Ltd."
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png",
     "stream_url": "https://live-gbnews-ssai-test.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live-TEST/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -8509,6 +8609,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png",
+    "stream_url": "https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GBNews.uk",
+      "feed": "SD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "2165",
+      "site_name": "GB News",
+      "lang": "en"
+    },
+    "website": "https://www.gbnews.uk/",
+    "launched": "2021-06-13",
+    "closed": null
+  },
+  {
+    "id": "GBNews.uk",
+    "name": "GB News",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "All Perspectives Ltd."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png",
     "stream_url": "https://amg01076-lightning-amg01076c7-klowdtv-us-2128.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-klowdtvus/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -8603,6 +8738,47 @@
     "closed": null
   },
   {
+    "id": "GREATmovies.uk",
+    "name": "GREAT! movies",
+    "alt_names": [
+      "Sony Movies",
+      "Sony Movie Channel",
+      "Movies4Men 2",
+      "ACTIONMAX",
+      "Bad Movies"
+    ],
+    "network": null,
+    "owners": [
+      "Narrative Entertainment UK Ltd"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png",
+    "stream_url": "https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GREATmovies.uk",
+      "feed": "UK",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "1894",
+      "site_name": "GREAT! movies",
+      "lang": "en"
+    },
+    "website": "https://www.greatnetwork.com/movies/",
+    "launched": "2012-05-03",
+    "closed": null
+  },
+  {
     "id": "GREATromance.uk",
     "name": "GREAT! romance",
     "alt_names": [
@@ -8630,6 +8806,50 @@
     "is_nsfw": false,
     "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png",
     "stream_url": "https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GREATromance.uk",
+      "feed": "UK",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "1341",
+      "site_name": "GREAT! Christmas",
+      "lang": "en"
+    },
+    "website": "https://www.greatnetwork.com/moviesclassic/",
+    "launched": "2021-09-23",
+    "closed": null
+  },
+  {
+    "id": "GREATromance.uk",
+    "name": "GREAT! romance",
+    "alt_names": [
+      "GREAT! christmas",
+      "GREAT! movies classic",
+      "GREAT! movies christmas",
+      "Sony Movies Classic",
+      "Sony Movies Christmas",
+      "True Movies",
+      "True Movies 1",
+      "Movies 333"
+    ],
+    "network": null,
+    "owners": [
+      "Narrative Entertainment UK Ltd"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png",
+    "stream_url": "https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -10242,6 +10462,45 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+    "stream_url": "https://amg00627-amg00627c23-samsung-gb-3927.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MrBeanAnimated.uk",
+      "feed": "English",
+      "site": "plex.tv",
+      "site_id": "66a2e7fe94b6a49cb5054d7b",
+      "site_name": "Mr. Bean",
+      "lang": "en"
+    },
+    "website": null,
+    "launched": "2024-06-21",
+    "closed": null
+  },
+  {
+    "id": "MrBeanAnimated.uk",
+    "name": "Mr Bean Animated",
+    "alt_names": [
+      "Mr. Bean: The Animated Series",
+      "mr Bean"
+    ],
+    "network": null,
+    "owners": [
+      "Banijay Rights"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
     "stream_url": "https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -10398,6 +10657,44 @@
     "is_nsfw": false,
     "logo": "https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png",
     "stream_url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MrBeanLiveAction.uk",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "671a924b79fce6628115432c",
+      "site_name": "Mr. Bean Live Action",
+      "lang": "en"
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MrBeanLiveAction.uk",
+    "name": "Mr Bean Live Action",
+    "alt_names": [
+      "Mr Bean"
+    ],
+    "network": null,
+    "owners": [
+      "Banijay Rights"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png",
+    "stream_url": "https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -10714,6 +11011,39 @@
     "closed": null
   },
   {
+    "id": "MyTimeMovieNetwork.uk",
+    "name": "MyTime Movie Network",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/pw4NZK1.png",
+    "stream_url": "https://appletree-mytimeuk-samsung.amagi.tv/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MyTimeMovieNetwork.uk",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "6448b4e8af92c31f4a190c25",
+      "site_name": "MyTime Movie Network",
+      "lang": "en"
+    },
+    "website": "https://mytimemovienetwork.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "NollyAfrica.uk",
     "name": "Nolly Africa",
     "alt_names": [],
@@ -10730,6 +11060,39 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/IxtGpti.png",
     "stream_url": "https://amg02784-amg02784c1-distrotv-us-3394.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvus/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NollyAfrica.uk",
+      "feed": "SD",
+      "site": "watch.whaletvplus.com",
+      "site_id": "879576692313038808",
+      "site_name": "Nolly Africa HD",
+      "lang": "en"
+    },
+    "website": "https://www.africanmoviechannel.tv/products-and-services",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NollyAfrica.uk",
+    "name": "Nolly Africa",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/IxtGpti.png",
+    "stream_url": "https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -10988,6 +11351,41 @@
     "closed": null
   },
   {
+    "id": "Now70s.uk",
+    "name": "Now 70s",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Universal Music Group N.V."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/qiCCX5X.png",
+    "stream_url": "https://amg01076-amg01076c1-samsung-gb-6682.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Now70s.uk",
+      "feed": "SD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "2031",
+      "site_name": "NOW 70s",
+      "lang": "en"
+    },
+    "website": "https://www.nowmusic.com/",
+    "launched": "2003-03-03",
+    "closed": null
+  },
+  {
     "id": "Now80s.uk",
     "name": "Now 80s",
     "alt_names": [],
@@ -11198,6 +11596,41 @@
     "closed": null
   },
   {
+    "id": "Now80s.uk",
+    "name": "Now 80s",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Universal Music Group N.V."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/YyPnMeB.png",
+    "stream_url": "https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Now80s.uk",
+      "feed": "SD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "1956",
+      "site_name": "NOW 80s",
+      "lang": "en"
+    },
+    "website": "https://www.nowmusic.com/",
+    "launched": "2013-10-23",
+    "closed": null
+  },
+  {
     "id": "Now90s00s.uk",
     "name": "Now 90s00s",
     "alt_names": [],
@@ -11287,6 +11720,41 @@
     "logo": null,
     "stream_url": "https://jmp2.uk/plu-660c209e19ca71000846cf38.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Now90s00s.uk",
+      "feed": "Poland",
+      "site": "sky.com",
+      "site_id": "1103",
+      "site_name": "NOW 90s & 00s",
+      "lang": "en"
+    },
+    "website": "https://www.nowmusic.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Now90s00s.uk",
+    "name": "Now 90s00s",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Universal Music Group N.V."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "https://amg01076-amg01076c19-samsung-gb-6683.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -11661,7 +12129,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/fGUlCY3.png",
-    "stream_url": "https://jmp2.uk/stvp-GBBC430000128",
+    "stream_url": "https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -11692,7 +12160,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/fGUlCY3.png",
-    "stream_url": "https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8",
+    "stream_url": "https://amg01753-narrativeentert-popkids-samsunguk-yjjil.amagi.tv/playlist/amg01753-narrativeentert-popkids-samsunguk/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -11991,6 +12459,42 @@
     "closed": null
   },
   {
+    "id": "RealWild.uk",
+    "name": "Real Wild",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Little Dot Studios Limited",
+      "All3Media Limited",
+      "RedBird IMI",
+      "International Media Investments (IMI) Holdings FZ LLC"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/T9HHmAO.png",
+    "stream_url": "https://lds-realwild-samsunguk.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RealWild.uk",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "63584a0cf8e2be1350f802a4",
+      "site_name": "Real Wild",
+      "lang": "en"
+    },
+    "website": "https://www.littledotstudios.com/en-us/channels",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RugbyPassTV.uk",
     "name": "RugbyPass TV",
     "alt_names": [
@@ -12007,6 +12511,39 @@
     "is_nsfw": false,
     "logo": null,
     "stream_url": "https://jmp2.uk/plu-66f137cb483d460008ece053.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RugbyPassTV.uk",
+      "feed": "SD",
+      "site": "pluto.tv",
+      "site_id": "66f137cb483d460008ece053",
+      "site_name": "Rugby Pass TV",
+      "lang": "en"
+    },
+    "website": null,
+    "launched": null,
+    "closed": "2021-07-31"
+  },
+  {
+    "id": "RugbyPassTV.uk",
+    "name": "RugbyPass TV",
+    "alt_names": [
+      "Setanta Sports"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "https://97bf7b92.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9SdWdieVBhc3NUVl9ITFM/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -12408,6 +12945,44 @@
     "closed": null
   },
   {
+    "id": "SpaceLivepoweredbysen.uk",
+    "name": "Space Live powered by sen",
+    "alt_names": [
+      "Space Live"
+    ],
+    "network": null,
+    "owners": [
+      "Sen Corporation Ltd."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "relax",
+      "travel"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.frequency.com/studio/itv/channels/1224-400x200.png",
+    "stream_url": "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SpaceLivepoweredbysen.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "300#99951545",
+      "site_name": "Space Live Powered by Sen",
+      "lang": "en"
+    },
+    "website": "https://www.sen.com/live",
+    "launched": "2025-01-27",
+    "closed": null
+  },
+  {
     "id": "SparkTV.uk",
     "name": "Spark TV",
     "alt_names": [],
@@ -12584,6 +13159,39 @@
     "logo": "https://i.imgur.com/J9iWjWL.png",
     "stream_url": "https://jmp2.uk/plu-66a10eeb46762a0008201e85.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Teletubbies.uk",
+      "feed": "SD",
+      "site": "pluto.tv",
+      "site_id": "66a10eeb46762a0008201e85",
+      "site_name": "Teletubbies",
+      "lang": "en"
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Teletubbies.uk",
+    "name": "Teletubbies",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/J9iWjWL.png",
+    "stream_url": "https://dv8lsrd8fecw9.cloudfront.net/master.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -12838,6 +13446,41 @@
     "closed": null
   },
   {
+    "id": "TheGrahamNortonShow.uk",
+    "name": "The Graham Norton Show",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "ITV Studios"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png",
+    "stream_url": "https://amg00654-itv-amg00654c14-samsung-gb-2308.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TheGrahamNortonShow.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "350#99951450",
+      "site_name": "The Graham Norton Show",
+      "lang": "en"
+    },
+    "website": null,
+    "launched": "2024-02-08",
+    "closed": null
+  },
+  {
     "id": "TinyPop.uk",
     "name": "Tiny Pop",
     "alt_names": [],
@@ -12960,41 +13603,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/zCTf71x.png",
-    "stream_url": "https://jmp2.uk/stvp-GBBD3200003T6",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TinyPop.uk",
-      "feed": "Plus1",
-      "site": "tvireland.ie",
-      "site_id": "1545/tiny-pop-1",
-      "site_name": "Tiny Pop +1",
-      "lang": "en"
-    },
-    "website": "http://www.tinypop.com/",
-    "launched": "2001-08-01",
-    "closed": null
-  },
-  {
-    "id": "TinyPop.uk",
-    "name": "Tiny Pop",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Narrative Entertainment UK Limited"
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/zCTf71x.png",
     "stream_url": "http://92.114.85.72:8000/play/a08g",
     "stream_quality": "576p",
     "stream_format": null,
@@ -13031,6 +13639,41 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/zCTf71x.png",
     "stream_url": "https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TinyPop.uk",
+      "feed": "Plus1",
+      "site": "tvireland.ie",
+      "site_id": "1545/tiny-pop-1",
+      "site_name": "Tiny Pop +1",
+      "lang": "en"
+    },
+    "website": "http://www.tinypop.com/",
+    "launched": "2001-08-01",
+    "closed": null
+  },
+  {
+    "id": "TinyPop.uk",
+    "name": "Tiny Pop",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Narrative Entertainment UK Limited"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/zCTf71x.png",
+    "stream_url": "https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -13430,6 +14073,42 @@
     "logo": "https://i.imgur.com/LK2NFst.png",
     "stream_url": "https://jmp2.uk/plu-6304fb268bd95300072d2198.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TrueCrime.uk",
+      "feed": "SD",
+      "site": "sky.com",
+      "site_id": "3352",
+      "site_name": "TRUE CRIME",
+      "lang": "en"
+    },
+    "website": "https://www.truecrime-tv.co.uk/",
+    "launched": "2023-11-22",
+    "closed": null
+  },
+  {
+    "id": "TrueCrime.uk",
+    "name": "True Crime",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "AMC Networks International",
+      "Paramount Networks UK & Australia"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/LK2NFst.png",
+    "stream_url": "https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -13935,7 +14614,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-12/yaas-logo250x144.png",
-    "stream_url": "https://jmp2.uk/stvp-GB340000289",
+    "stream_url": "https://d3knqoaufvjug3.cloudfront.net/yas.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,

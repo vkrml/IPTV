@@ -6022,7 +6022,7 @@
       "lang": "en"
     },
     "website": "http://www.aakashaath.com/",
-    "launched": "2000-01-01",
+    "launched": "2013-10-01",
     "closed": null
   },
   {
@@ -6866,6 +6866,41 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/qQ33TVM.png",
     "stream_url": "http://103.154.3.101:5001/live/2782.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ABCAustralia.au",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000165",
+      "site_name": "ABC",
+      "lang": "id"
+    },
+    "website": "http://www.abcaustralia.net.au/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ABCAustralia.au",
+    "name": "ABC Australia",
+    "alt_names": [],
+    "network": "ABC",
+    "owners": [
+      "Australian Broadcasting Corporation"
+    ],
+    "country_code": "AU",
+    "country_name": "Australia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/qQ33TVM.png",
+    "stream_url": "https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -8148,7 +8183,7 @@
       "lang": "en"
     },
     "website": "https://bengali.abplive.com/",
-    "launched": "2005-06-06",
+    "launched": "2012-06-01",
     "closed": null
   },
   {
@@ -8183,7 +8218,7 @@
       "lang": "en"
     },
     "website": "https://bengali.abplive.com/",
-    "launched": "2005-06-06",
+    "launched": "2012-06-01",
     "closed": null
   },
   {
@@ -8344,7 +8379,7 @@
       "lang": "en"
     },
     "website": "https://marathi.abplive.com/",
-    "launched": "2007-06-22",
+    "launched": "2012-06-01",
     "closed": null
   },
   {
@@ -8379,7 +8414,7 @@
       "lang": "en"
     },
     "website": "https://marathi.abplive.com/",
-    "launched": "2007-06-22",
+    "launched": "2012-06-01",
     "closed": null
   },
   {
@@ -8414,7 +8449,7 @@
       "lang": "en"
     },
     "website": "https://www.abplive.com/",
-    "launched": "1998-02-18",
+    "launched": "2012-06-01",
     "closed": null
   },
   {
@@ -8449,7 +8484,7 @@
       "lang": "en"
     },
     "website": "https://www.abplive.com/",
-    "launched": "1998-02-18",
+    "launched": "2012-06-01",
     "closed": null
   },
   {
@@ -8484,7 +8519,7 @@
       "lang": "en"
     },
     "website": "https://www.abplive.com/",
-    "launched": "1998-02-18",
+    "launched": "2012-06-01",
     "closed": null
   },
   {
@@ -13070,6 +13105,32 @@
     "tv_guide": null,
     "website": "https://albuk.tv/",
     "launched": "2017-01-01",
+    "closed": null
+  },
+  {
+    "id": "AlcanceFMPLAYTV.py",
+    "name": "Alcance FM PLAY TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ymcWecA.png",
+    "stream_url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.alcance.com.py/",
+    "launched": null,
     "closed": null
   },
   {
@@ -22073,9 +22134,7 @@
   {
     "id": "AnmolCinema.in",
     "name": "Anmol Cinema",
-    "alt_names": [
-      "Zee Anmol Cinema"
-    ],
+    "alt_names": [],
     "network": "Z",
     "owners": [
       "Zee Entertainment Enterprises Limited"
@@ -22104,15 +22163,13 @@
       "lang": "en"
     },
     "website": "https://www.zee5.com/live-tv/anmol-cinema/0-9-zeeanmolcinema",
-    "launched": null,
+    "launched": "2025-06-08",
     "closed": null
   },
   {
     "id": "AnmolTV.in",
     "name": "Anmol TV",
-    "alt_names": [
-      "Zee Anmol"
-    ],
+    "alt_names": [],
     "network": "Z",
     "owners": [
       "Zee Entertainment Enterprises Limited"
@@ -22141,7 +22198,7 @@
       "lang": "en"
     },
     "website": "https://www.zee5.com/live-tv/anmol-tv/0-9-zeeanmol",
-    "launched": null,
+    "launched": "2025-06-08",
     "closed": null
   },
   {
@@ -30900,6 +30957,41 @@
     "closed": null
   },
   {
+    "id": "AXNAsia.sg",
+    "name": "AXN Asia",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sony Pictures Television"
+    ],
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "stream_url": "https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXNAsia.sg",
+      "feed": "Indonesia",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000079",
+      "site_name": "AXN",
+      "lang": "id"
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AXNLatinAmerica.us",
     "name": "AXN Latin America",
     "alt_names": [],
@@ -31591,7 +31683,7 @@
       "lang": "en"
     },
     "website": "http://b4umovies.in/",
-    "launched": "2000-09-03",
+    "launched": "2019-05-18",
     "closed": null
   },
   {
@@ -31626,7 +31718,7 @@
       "lang": "en"
     },
     "website": "http://b4umovies.in/",
-    "launched": "2000-09-03",
+    "launched": "2019-05-18",
     "closed": null
   },
   {
@@ -31661,7 +31753,7 @@
       "lang": "en"
     },
     "website": "http://b4umovies.in/",
-    "launched": "2000-09-03",
+    "launched": "2019-05-18",
     "closed": null
   },
   {
@@ -31696,7 +31788,7 @@
       "lang": "en"
     },
     "website": "http://b4umovies.in/",
-    "launched": "2000-09-03",
+    "launched": "2019-05-18",
     "closed": null
   },
   {
@@ -31731,7 +31823,7 @@
       "lang": "en"
     },
     "website": "http://b4umovies.in/",
-    "launched": "2000-09-03",
+    "launched": "2019-05-18",
     "closed": null
   },
   {
@@ -53836,6 +53928,32 @@
     "closed": null
   },
   {
+    "id": "Canal8CCProducciones.py",
+    "name": "Canal 8 C&C Producciones",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/SVj5fjg.jpg",
+    "stream_url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Canal8TVPlus.co",
     "name": "Canal 8 TV+",
     "alt_names": [],
@@ -61439,6 +61557,41 @@
     },
     "website": "http://www.bbc.co.uk/cbeebies/",
     "launched": "2002-02-11",
+    "closed": null
+  },
+  {
+    "id": "CBeebiesAsia.uk",
+    "name": "CBeebies Asia",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BBC"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
+    "stream_url": "https://cdn10jtedge.indihometv.com/atm/DASH/cbeebies/manifest.mpd",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CBeebiesAsia.uk",
+      "feed": "SD",
+      "site": "starhubtvplus.com",
+      "site_id": "219cc587-57ab-4b55-baf3-03810f46deeb",
+      "site_name": "Cbeebies HD",
+      "lang": "zh"
+    },
+    "website": "http://www.bbcasia.com/channels/cbeebies/",
+    "launched": "2020-07-01",
     "closed": null
   },
   {
@@ -77180,7 +77333,7 @@
       "lang": "en"
     },
     "website": "https://www.colorstv.com/us/",
-    "launched": "2008-07-21",
+    "launched": "2022-04-01",
     "closed": null
   },
   {
@@ -83458,7 +83611,7 @@
       "lang": "en"
     },
     "website": "http://dangaltv.enterr10tv.com/",
-    "launched": null,
+    "launched": "2022-04-02",
     "closed": null
   },
   {
@@ -83493,7 +83646,7 @@
       "lang": "en"
     },
     "website": "http://dangaltv.enterr10tv.com/",
-    "launched": null,
+    "launched": "2022-04-02",
     "closed": null
   },
   {
@@ -87076,9 +87229,7 @@
   {
     "id": "DDTamil.in",
     "name": "DD Tamil",
-    "alt_names": [
-      "DD Podhigai"
-    ],
+    "alt_names": [],
     "network": "Doordarshan",
     "owners": [
       "Prasar Bharati"
@@ -87107,15 +87258,13 @@
       "lang": "en"
     },
     "website": "https://doordarshan.gov.in/",
-    "launched": "1993-04-14",
+    "launched": "2023-01-19",
     "closed": null
   },
   {
     "id": "DDTamil.in",
     "name": "DD Tamil",
-    "alt_names": [
-      "DD Podhigai"
-    ],
+    "alt_names": [],
     "network": "Doordarshan",
     "owners": [
       "Prasar Bharati"
@@ -87144,15 +87293,13 @@
       "lang": "en"
     },
     "website": "https://doordarshan.gov.in/",
-    "launched": "1993-04-14",
+    "launched": "2023-01-19",
     "closed": null
   },
   {
     "id": "DDTamil.in",
     "name": "DD Tamil",
-    "alt_names": [
-      "DD Podhigai"
-    ],
+    "alt_names": [],
     "network": "Doordarshan",
     "owners": [
       "Prasar Bharati"
@@ -87181,7 +87328,7 @@
       "lang": "en"
     },
     "website": "https://doordarshan.gov.in/",
-    "launched": "1993-04-14",
+    "launched": "2023-01-19",
     "closed": null
   },
   {
@@ -89588,9 +89735,7 @@
   {
     "id": "DhamakaMoviesB4U.in",
     "name": "Dhamaka Movies B4U",
-    "alt_names": [
-      "B4U Plus"
-    ],
+    "alt_names": [],
     "network": "B4U",
     "owners": [
       "B4U Television Network India Limited"
@@ -89604,7 +89749,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/dd/dhamaka-movies-b4u-in.png",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8c/Dhamaka_Movies.jpg",
     "stream_url": "https://cdn-1.pishow.tv/live/235/master.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -89612,7 +89757,7 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://b4uplus.com/",
-    "launched": "2000-09-03",
+    "launched": "2022-11-20",
     "closed": null
   },
   {
@@ -119876,6 +120021,34 @@
     },
     "website": "http://mundogloob.globo.com/",
     "launched": "2012-06-15",
+    "closed": null
+  },
+  {
+    "id": "GloobWeb.br",
+    "name": "Gloob Web",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "GlobioSAT"
+    ],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/wrQZXZ01/C-pia-de-Blue-Modern-Simple-Logo.png",
+    "stream_url": "https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://discobak.github.io/gweb/",
+    "launched": "2025-08-31",
     "closed": null
   },
   {
@@ -191858,6 +192031,34 @@
     "closed": null
   },
   {
+    "id": "NandePortetepeTV.py",
+    "name": "Nande Portetepe TV",
+    "alt_names": [
+      "Ñande Portetepe TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/3taT6JK.jpeg",
+    "stream_url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "NandighoshaTV.in",
     "name": "Nandighosha TV",
     "alt_names": [],
@@ -197786,9 +197987,7 @@
   {
     "id": "News18JKLH.in",
     "name": "News18 JKLH",
-    "alt_names": [
-      "News18 Jammu/Kashmir/Ladakh/Himachal"
-    ],
+    "alt_names": [],
     "network": "Network18",
     "owners": [
       "Network18 Media & Investments Ltd",
@@ -197819,7 +198018,7 @@
     },
     "website": null,
     "launched": null,
-    "closed": null
+    "closed": "2026-04-14"
   },
   {
     "id": "News18Kannada.in",
@@ -197938,9 +198137,7 @@
   {
     "id": "News18Lokmat.in",
     "name": "News18 Lokmat",
-    "alt_names": [
-      "News18 Marathi"
-    ],
+    "alt_names": [],
     "network": "Network18",
     "owners": [
       "Network18 Media & Investments Ltd",
@@ -197971,7 +198168,7 @@
     },
     "website": "https://lokmat.news18.com/",
     "launched": "2008-04-06",
-    "closed": null
+    "closed": "2026-01-11"
   },
   {
     "id": "News18MadhyaPradeshChhattisgarh.in",
@@ -208723,6 +208920,60 @@
     "closed": null
   },
   {
+    "id": "OasisTV.py",
+    "name": "Oasis TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Oasis Multimedios"
+    ],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/u9umNKp.jpeg",
+    "stream_url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ObediraTV.py",
+    "name": "Obedira TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/fRzOUw5.png",
+    "stream_url": "https://video.hostingcaaguazu.com:19360/obediratv/obediratv.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.obedira.com.py/page/obediratv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "OberpfalzTV.de",
     "name": "Oberpfalz TV",
     "alt_names": [],
@@ -208872,6 +209123,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://obudatv.hu/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "OccidentalTV.py",
+    "name": "Occidental TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/8IRBA9h.png",
+    "stream_url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.occidentaltv.com.py/",
     "launched": null,
     "closed": null
   },
@@ -236210,6 +236487,34 @@
     "closed": null
   },
   {
+    "id": "RadioSanCristobal887FM.py",
+    "name": "Radio San Cristobal 88.7 FM",
+    "alt_names": [
+      "Radio San Cristóbal 88.7 FM"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/zaJhBdj.png",
+    "stream_url": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://sancristobalfm887.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RadioShanson.ru",
     "name": "Radio Shanson",
     "alt_names": [
@@ -237109,6 +237414,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.rtvbt.fr/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RadioTVElArcadelPacto.py",
+    "name": "Radio TV El Arca del Pacto",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Oq0i3Rb.png",
+    "stream_url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://arcadelpactofm.com/",
     "launched": null,
     "closed": null
   },
@@ -243838,6 +244169,34 @@
     "closed": null
   },
   {
+    "id": "RedInteriorTV.py",
+    "name": "Red Interior TV",
+    "alt_names": [
+      "Canal 16 Santa Rita"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/z89GLCw.png",
+    "stream_url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://redinteriortv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RedLine.ru",
     "name": "Red Line",
     "alt_names": [
@@ -244264,6 +244623,36 @@
       "site_name": "Regio90 TV",
       "lang": "nl"
     },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RegionalTVYaguaron.py",
+    "name": "Regional TV Yaguaron",
+    "alt_names": [
+      "Regional TV Yaguarón"
+    ],
+    "network": null,
+    "owners": [
+      "Cadena Comunicación Yaguarón"
+    ],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/iL5JnSy.jpeg",
+    "stream_url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
     "website": null,
     "launched": null,
     "closed": null
@@ -283336,9 +283725,7 @@
   {
     "id": "StarMaa.in",
     "name": "Star Maa",
-    "alt_names": [
-      "Maa TV"
-    ],
+    "alt_names": [],
     "network": "JioStar",
     "owners": [
       "JioStar India Pvt. Ltd.",
@@ -283369,7 +283756,7 @@
       "lang": "en"
     },
     "website": "https://www.hotstar.com/channels/star-maa",
-    "launched": "2002-04-01",
+    "launched": "2017-02-13",
     "closed": null
   },
   {
@@ -289420,32 +289807,6 @@
     "closed": null
   },
   {
-    "id": "SusunTV.my",
-    "name": "Susun TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "MY",
-    "country_name": "Malaysia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": true,
-    "logo": "https://s3cdn.panda-os.com/10966/upload/InShot_20251029_072140835.png",
-    "stream_url": "https://vodcdn.bamboo-cloud.com/livehls/6901607706304423c1685213/master.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://susuntv.bamboo-cloud.com/",
-    "tv_guide": null,
-    "website": "https://susuntv.bamboo-cloud.com/",
-    "launched": "2025-10-29",
-    "closed": null
-  },
-  {
     "id": "SutelTV.mk",
     "name": "Sutel TV",
     "alt_names": [],
@@ -289726,12 +290087,7 @@
   {
     "id": "SVT1.se",
     "name": "SVT1",
-    "alt_names": [
-      "SVT TV1/Kanal 1",
-      "Sverige Radio TV1",
-      "Sveriges Radio TV",
-      "Radiotjänst TV"
-    ],
+    "alt_names": [],
     "network": null,
     "owners": [
       "Sveriges Television"
@@ -289743,7 +290099,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/j6KusQX.png",
+    "logo": "https://i.imgur.com/ci0wMnc.png",
     "stream_url": "https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8?defaultSubLang=1&format=hls",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -289758,16 +290114,13 @@
       "lang": "sv"
     },
     "website": "https://www.svt.se/",
-    "launched": "1956-09-04",
+    "launched": "1996-01-01",
     "closed": null
   },
   {
     "id": "SVT2.se",
     "name": "SVT2",
-    "alt_names": [
-      "SVT TV2",
-      "Sveriges Radio TV2"
-    ],
+    "alt_names": [],
     "network": null,
     "owners": [
       "Sveriges Television"
@@ -289779,7 +290132,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/pGWvCxp.png",
+    "logo": "https://i.imgur.com/qgZpqEx.png",
     "stream_url": "https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8?defaultSubLang=1&format=hls",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -289794,7 +290147,7 @@
       "lang": "sv"
     },
     "website": "https://www.svt.se/",
-    "launched": "1969-12-05",
+    "launched": "1996-01-01",
     "closed": null
   },
   {
@@ -299471,6 +299824,32 @@
     "closed": null
   },
   {
+    "id": "Telequince.py",
+    "name": "Telequince",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/og7xuqe.png",
+    "stream_url": "https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://telequince.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TeleRadioNorte.do",
     "name": "TeleRadioNorte",
     "alt_names": [],
@@ -307079,6 +307458,96 @@
     },
     "website": "https://pluto.tv/en/live-tv/this-old-house",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Thmanyah1.sa",
+    "name": "Thmanyah 1",
+    "alt_names": [
+      "ثمانية ١"
+    ],
+    "network": null,
+    "owners": [
+      "Abdulrahman Abumalih"
+    ],
+    "country_code": "SA",
+    "country_name": "Saudi Arabia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/500px-Thmanyah_Logo.svg.png",
+    "stream_url": "https://dflive.app.tc/20.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://thmanyah.com/",
+    "launched": "2025-08-28",
+    "closed": null
+  },
+  {
+    "id": "Thmanyah2.sa",
+    "name": "Thmanyah 2",
+    "alt_names": [
+      "ثمانية ٢"
+    ],
+    "network": null,
+    "owners": [
+      "Abdulrahman Abumalih"
+    ],
+    "country_code": "SA",
+    "country_name": "Saudi Arabia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/500px-Thmanyah_Logo.svg.png",
+    "stream_url": "https://dflive.app.tc/60.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://thmanyah.com/",
+    "launched": "2025-08-28",
+    "closed": null
+  },
+  {
+    "id": "Thmanyah3.sa",
+    "name": "Thmanyah 3",
+    "alt_names": [
+      "ثمانية ٣"
+    ],
+    "network": null,
+    "owners": [
+      "Abdulrahman Abumalih"
+    ],
+    "country_code": "SA",
+    "country_name": "Saudi Arabia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/500px-Thmanyah_Logo.svg.png",
+    "stream_url": "https://dflive.app.tc/61.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://thmanyah.com/",
+    "launched": "2025-08-28",
     "closed": null
   },
   {
@@ -322202,6 +322671,34 @@
       "site_name": "Canção Nova",
       "lang": "pt"
     },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVCanindeyu.py",
+    "name": "TV Canindeyu",
+    "alt_names": [
+      "TV Canindeyú"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/cateqjx.jpeg",
+    "stream_url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
     "website": null,
     "launched": null,
     "closed": null
@@ -338348,6 +338845,30 @@
       "lang": "en"
     },
     "website": "https://coboltv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "UniRadioTV.py",
+    "name": "UniRadio TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Co3YrU0.png",
+    "stream_url": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.uniradiopy.com/",
     "launched": null,
     "closed": null
   },
@@ -364574,7 +365095,7 @@
       "lang": "en"
     },
     "website": "https://zeetelugu.zee5.com/",
-    "launched": null,
+    "launched": "2005-03-28",
     "closed": null
   },
   {

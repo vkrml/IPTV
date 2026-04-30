@@ -8763,9 +8763,9 @@
     "tv_guide": {
       "channel": "GREATmovies.uk",
       "feed": "UK",
-      "site": "virgintvgo.virginmedia.com",
-      "site_id": "1894",
-      "site_name": "GREAT! movies",
+      "site": "zee5.com",
+      "site_id": "0-9-9z5910243",
+      "site_name": "Great! Movies",
       "lang": "en"
     },
     "website": "https://www.greatnetwork.com/movies/",
@@ -8804,9 +8804,9 @@
     "tv_guide": {
       "channel": "GREATmovies.uk",
       "feed": "UK",
-      "site": "virgintvgo.virginmedia.com",
-      "site_id": "1894",
-      "site_name": "GREAT! movies",
+      "site": "zee5.com",
+      "site_id": "0-9-9z5910243",
+      "site_name": "Great! Movies",
       "lang": "en"
     },
     "website": "https://www.greatnetwork.com/movies/",
@@ -8848,9 +8848,9 @@
     "tv_guide": {
       "channel": "GREATromance.uk",
       "feed": "UK",
-      "site": "virgintvgo.virginmedia.com",
-      "site_id": "1341",
-      "site_name": "GREAT! Christmas",
+      "site": "zee5.com",
+      "site_id": "0-9-9z5910524",
+      "site_name": "Great! Romance",
       "lang": "en"
     },
     "website": "https://www.greatnetwork.com/moviesclassic/",
@@ -8892,9 +8892,9 @@
     "tv_guide": {
       "channel": "GREATromance.uk",
       "feed": "UK",
-      "site": "virgintvgo.virginmedia.com",
-      "site_id": "1341",
-      "site_name": "GREAT! Christmas",
+      "site": "zee5.com",
+      "site_id": "0-9-9z5910524",
+      "site_name": "Great! Romance",
       "lang": "en"
     },
     "website": "https://www.greatnetwork.com/moviesclassic/",
@@ -10133,7 +10133,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "LatestTV.uk",
+      "feed": "SD",
+      "site": "freeview.co.uk",
+      "site_id": "64275#32839",
+      "site_name": "Latest TV",
+      "lang": "en"
+    },
     "website": "https://thelatest.co.uk/",
     "launched": null,
     "closed": null
@@ -11076,6 +11083,37 @@
     },
     "website": "https://mytimemovienetwork.com/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NickelodeonGlobal.uk",
+    "name": "Nickelodeon Global",
+    "alt_names": [
+      "Nickelodeon CEE",
+      "Nickelodeon Europe"
+    ],
+    "network": "Nickelodeon",
+    "owners": [
+      "Paramount Networks EMEAA"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
+    "stream_url": "http://46.149.191.217:9011/play/a018",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.nick.com/global",
+    "launched": "1998-11-15",
     "closed": null
   },
   {
@@ -12079,8 +12117,8 @@
     "tv_guide": {
       "channel": "Pop.uk",
       "feed": "SD",
-      "site": "virgintvgo.virginmedia.com",
-      "site_id": "1895",
+      "site": "zee5.com",
+      "site_id": "0-9-9z5910525",
       "site_name": "POP",
       "lang": "en"
     },
@@ -12110,8 +12148,8 @@
     "tv_guide": {
       "channel": "Pop.uk",
       "feed": "SD",
-      "site": "virgintvgo.virginmedia.com",
-      "site_id": "1895",
+      "site": "zee5.com",
+      "site_id": "0-9-9z5910525",
       "site_name": "POP",
       "lang": "en"
     },
@@ -12141,8 +12179,8 @@
     "tv_guide": {
       "channel": "Pop.uk",
       "feed": "SD",
-      "site": "virgintvgo.virginmedia.com",
-      "site_id": "1895",
+      "site": "zee5.com",
+      "site_id": "0-9-9z5910525",
       "site_name": "POP",
       "lang": "en"
     },
@@ -12172,8 +12210,8 @@
     "tv_guide": {
       "channel": "Pop.uk",
       "feed": "SD",
-      "site": "virgintvgo.virginmedia.com",
-      "site_id": "1895",
+      "site": "zee5.com",
+      "site_id": "0-9-9z5910525",
       "site_name": "POP",
       "lang": "en"
     },
@@ -12203,8 +12241,8 @@
     "tv_guide": {
       "channel": "Pop.uk",
       "feed": "SD",
-      "site": "virgintvgo.virginmedia.com",
-      "site_id": "1895",
+      "site": "zee5.com",
+      "site_id": "0-9-9z5910525",
       "site_name": "POP",
       "lang": "en"
     },
@@ -12236,8 +12274,8 @@
     "tv_guide": {
       "channel": "PopUp.uk",
       "feed": "SD",
-      "site": "plex.tv",
-      "site_id": "665e48c419c3bb1f606d86ab",
+      "site": "zee5.com",
+      "site_id": "0-9-9z5910527",
       "site_name": "POP UP",
       "lang": "en"
     },
@@ -13540,10 +13578,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "TinyPop.uk",
-      "feed": "Plus1",
-      "site": "tvireland.ie",
-      "site_id": "1545/tiny-pop-1",
-      "site_name": "Tiny Pop +1",
+      "feed": "SD",
+      "site": "zee5.com",
+      "site_id": "0-9-9z5910526",
+      "site_name": "Tiny Pop",
       "lang": "en"
     },
     "website": "http://www.tinypop.com/",
@@ -13575,10 +13613,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "TinyPop.uk",
-      "feed": "Plus1",
-      "site": "tvireland.ie",
-      "site_id": "1545/tiny-pop-1",
-      "site_name": "Tiny Pop +1",
+      "feed": "SD",
+      "site": "zee5.com",
+      "site_id": "0-9-9z5910526",
+      "site_name": "Tiny Pop",
       "lang": "en"
     },
     "website": "http://www.tinypop.com/",
@@ -13610,10 +13648,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "TinyPop.uk",
-      "feed": "Plus1",
-      "site": "tvireland.ie",
-      "site_id": "1545/tiny-pop-1",
-      "site_name": "Tiny Pop +1",
+      "feed": "SD",
+      "site": "zee5.com",
+      "site_id": "0-9-9z5910526",
+      "site_name": "Tiny Pop",
       "lang": "en"
     },
     "website": "http://www.tinypop.com/",
@@ -13645,10 +13683,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "TinyPop.uk",
-      "feed": "Plus1",
-      "site": "tvireland.ie",
-      "site_id": "1545/tiny-pop-1",
-      "site_name": "Tiny Pop +1",
+      "feed": "SD",
+      "site": "zee5.com",
+      "site_id": "0-9-9z5910526",
+      "site_name": "Tiny Pop",
       "lang": "en"
     },
     "website": "http://www.tinypop.com/",
@@ -13680,10 +13718,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "TinyPop.uk",
-      "feed": "Plus1",
-      "site": "tvireland.ie",
-      "site_id": "1545/tiny-pop-1",
-      "site_name": "Tiny Pop +1",
+      "feed": "SD",
+      "site": "zee5.com",
+      "site_id": "0-9-9z5910526",
+      "site_name": "Tiny Pop",
       "lang": "en"
     },
     "website": "http://www.tinypop.com/",
@@ -13715,10 +13753,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "TinyPop.uk",
-      "feed": "Plus1",
-      "site": "tvireland.ie",
-      "site_id": "1545/tiny-pop-1",
-      "site_name": "Tiny Pop +1",
+      "feed": "SD",
+      "site": "zee5.com",
+      "site_id": "0-9-9z5910526",
+      "site_name": "Tiny Pop",
       "lang": "en"
     },
     "website": "http://www.tinypop.com/",
@@ -14682,7 +14720,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "ZeeOne.uk",
+      "feed": "German",
+      "site": "zee5.com",
+      "site_id": "0-9-161",
+      "site_name": "Zee One German",
+      "lang": "en"
+    },
     "website": null,
     "launched": "2016-07-28",
     "closed": null
@@ -14710,7 +14755,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "ZeeOne.uk",
+      "feed": "German",
+      "site": "zee5.com",
+      "site_id": "0-9-161",
+      "site_name": "Zee One German",
+      "lang": "en"
+    },
     "website": null,
     "launched": "2016-07-28",
     "closed": null
@@ -14738,7 +14790,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "ZeeOne.uk",
+      "feed": "German",
+      "site": "zee5.com",
+      "site_id": "0-9-161",
+      "site_name": "Zee One German",
+      "lang": "en"
+    },
     "website": null,
     "launched": "2016-07-28",
     "closed": null
@@ -14766,7 +14825,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "ZeeOne.uk",
+      "feed": "German",
+      "site": "zee5.com",
+      "site_id": "0-9-161",
+      "site_name": "Zee One German",
+      "lang": "en"
+    },
     "website": null,
     "launched": "2016-07-28",
     "closed": null
@@ -14794,7 +14860,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "ZeeOne.uk",
+      "feed": "German",
+      "site": "zee5.com",
+      "site_id": "0-9-161",
+      "site_name": "Zee One German",
+      "lang": "en"
+    },
     "website": null,
     "launched": "2016-07-28",
     "closed": null
@@ -14822,7 +14895,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "ZeeOne.uk",
+      "feed": "German",
+      "site": "zee5.com",
+      "site_id": "0-9-161",
+      "site_name": "Zee One German",
+      "lang": "en"
+    },
     "website": null,
     "launched": "2016-07-28",
     "closed": null

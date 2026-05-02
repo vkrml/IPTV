@@ -191,43 +191,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/6twzd38.png",
-    "stream_url": "http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AlphaTV.gr",
-      "feed": "SD",
-      "site": "tvprofil.com",
-      "site_id": "al/programacioni#alpha-tv",
-      "site_name": "Alpha TV",
-      "lang": "hr"
-    },
-    "website": "https://www.alphatv.gr/",
-    "launched": "1999-09-27",
-    "closed": null
-  },
-  {
-    "id": "AlphaTV.gr",
-    "name": "Alpha TV",
-    "alt_names": [
-      "Alpha Sky"
-    ],
-    "network": null,
-    "owners": [
-      "Alpha Satellite Television S.A."
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/6twzd38.png",
     "stream_url": "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -760,6 +723,34 @@
     "closed": null
   },
   {
+    "id": "ENAChannel.gr",
+    "name": "ENA Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "ENA Channel S.A."
+    ],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/3g3yjAq.png",
+    "stream_url": "https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://enachannel.gr/",
+    "launched": "1991-01-01",
+    "closed": null
+  },
+  {
     "id": "EpirusTV1.gr",
     "name": "Epirus TV1",
     "alt_names": [
@@ -787,41 +778,6 @@
     "tv_guide": null,
     "website": "https://www.epirustv1.eu/",
     "launched": "1990-01-01",
-    "closed": null
-  },
-  {
-    "id": "ERT1.gr",
-    "name": "ERT1",
-    "alt_names": [
-      "ΕΡΤ1",
-      "ET1",
-      "ENA",
-      "ERT",
-      "EIRT",
-      "EIR"
-    ],
-    "network": null,
-    "owners": [
-      "Hellenic Broadcasting Corporation"
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/UKbCtC1.png",
-    "stream_url": "http://88.99.254.101/ert1/mono.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.ert.gr/",
-    "launched": "1966-02-23",
     "closed": null
   },
   {
@@ -884,76 +840,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/nMHKG3A.png",
-    "stream_url": "http://31.121.110.30:4000/play/a02a/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.ert.gr/",
-    "launched": "1966-02-27",
-    "closed": null
-  },
-  {
-    "id": "ERT2.gr",
-    "name": "ERT2",
-    "alt_names": [
-      "ΕΡΤ2",
-      "NET",
-      "ET2",
-      "DYO",
-      "YENED",
-      "TED"
-    ],
-    "network": null,
-    "owners": [
-      "Hellenic Broadcasting Corporation"
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/nMHKG3A.png",
-    "stream_url": "http://88.99.254.101/ert2/mono.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.ert.gr/",
-    "launched": "1966-02-27",
-    "closed": null
-  },
-  {
-    "id": "ERT2.gr",
-    "name": "ERT2",
-    "alt_names": [
-      "ΕΡΤ2",
-      "NET",
-      "ET2",
-      "DYO",
-      "YENED",
-      "TED"
-    ],
-    "network": null,
-    "owners": [
-      "Hellenic Broadcasting Corporation"
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/nMHKG3A.png",
     "stream_url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -985,68 +871,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/f2l9bDR.png",
-    "stream_url": "http://31.121.110.30:4000/play/a029/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.ert.gr/",
-    "launched": "1988-12-14",
-    "closed": null
-  },
-  {
-    "id": "ERT3.gr",
-    "name": "ERT3",
-    "alt_names": [
-      "ΕΡΤ3",
-      "ET3"
-    ],
-    "network": null,
-    "owners": [
-      "Hellenic Broadcasting Corporation"
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/f2l9bDR.png",
-    "stream_url": "http://88.99.254.101/ert3/mono.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.ert.gr/",
-    "launched": "1988-12-14",
-    "closed": null
-  },
-  {
-    "id": "ERT3.gr",
-    "name": "ERT3",
-    "alt_names": [
-      "ΕΡΤ3",
-      "ET3"
-    ],
-    "network": null,
-    "owners": [
-      "Hellenic Broadcasting Corporation"
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/f2l9bDR.png",
     "stream_url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -1055,6 +879,36 @@
     "tv_guide": null,
     "website": "https://www.ert.gr/",
     "launched": "1988-12-14",
+    "closed": null
+  },
+  {
+    "id": "ERTNews.gr",
+    "name": "ERT News",
+    "alt_names": [
+      "ΕΡΤ News"
+    ],
+    "network": null,
+    "owners": [
+      "Hellenic Broadcasting Corporation"
+    ],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/HXbsPfB.png",
+    "stream_url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.ertnews.gr/",
+    "launched": "2022-09-05",
     "closed": null
   },
   {
@@ -1115,41 +969,6 @@
     "tv_guide": null,
     "website": "https://www.ertsports.gr/",
     "launched": "2020-09-27",
-    "closed": null
-  },
-  {
-    "id": "ERTWorld.gr",
-    "name": "ERT World",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Hellenic Broadcasting Corporation"
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/960px-ChannelLogo-ERTWORLD1.png",
-    "stream_url": "https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ERTWorld.gr",
-      "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "153",
-      "site_name": "ERT World",
-      "lang": "el"
-    },
-    "website": "https://www.ertflix.gr/epg/channel/ept-world-live",
-    "launched": "1996-05-03",
     "closed": null
   },
   {
@@ -2671,6 +2490,34 @@
     "logo": "https://i.imgur.com/g0jPOcC.png",
     "stream_url": "https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8",
     "stream_quality": "360p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://trttv.gr/",
+    "launched": "1990-02-05",
+    "closed": null
+  },
+  {
+    "id": "TRT.gr",
+    "name": "TRT",
+    "alt_names": [
+      "Θεσσαλική Ραδιοφωνία Τηλεόραση"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/g0jPOcC.png",
+    "stream_url": "https://av.hellasnet.tv/rst/trt/main_stream.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

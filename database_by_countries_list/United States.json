@@ -22033,6 +22033,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
+    "stream_url": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
+    "stream_quality": "1280p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FoxDeportes.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "15377",
+      "site_name": "Fox Deportes",
+      "lang": "en"
+    },
+    "website": "https://www.foxdeportes.com/",
+    "launched": "1993-11-01",
+    "closed": null
+  },
+  {
+    "id": "FoxDeportes.us",
+    "name": "Fox Deportes",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Fox Sports Media Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
     "stream_url": "https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -22356,6 +22391,43 @@
     },
     "website": "https://foxsoul.tv/",
     "launched": "2020-01-13",
+    "closed": null
+  },
+  {
+    "id": "FoxSports1.us",
+    "name": "Fox Sports 1",
+    "alt_names": [
+      "FS1"
+    ],
+    "network": "Fox Sports",
+    "owners": [
+      "Fox Sports Media Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/O9BapV9.png",
+    "stream_url": "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8",
+    "stream_quality": "1280p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FoxSports1.us",
+      "feed": "HD",
+      "site": "tvguide.com",
+      "site_id": "9233008440",
+      "site_name": "FOX Sports 1",
+      "lang": "en"
+    },
+    "website": "https://www.foxsports.com/",
+    "launched": "2013-08-17",
     "closed": null
   },
   {
@@ -52857,37 +52929,6 @@
     "closed": null
   },
   {
-    "id": "Revolt.us",
-    "name": "Revolt",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/eaYnGpH.png",
-    "stream_url": "https://aegis-cloudfront-1.tubi.video/77b454c9-7bf0-404d-9d26-77cc9d4936ea/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Revolt.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "83097",
-      "site_name": "Revolt",
-      "lang": "en"
-    },
-    "website": "https://revolt.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Revry.us",
     "name": "Revry",
     "alt_names": [],
@@ -72975,6 +73016,39 @@
       "lang": "en"
     },
     "website": "https://cwatlanta.cbslocal.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WuTangCollection.us",
+    "name": "Wu Tang Collection",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sz55sBl.png",
+    "stream_url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "WuTangCollection.us",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "5eea605474085f0040ddc770",
+      "site_name": "Wu Tang Collection",
+      "lang": "en"
+    },
+    "website": "https://watch.plex.tv/live-tv/channel/wu-tang-collection",
     "launched": null,
     "closed": null
   },

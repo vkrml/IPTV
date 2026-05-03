@@ -12115,6 +12115,60 @@
     "closed": null
   },
   {
+    "id": "AL24News.dz",
+    "name": "AL24 News",
+    "alt_names": [
+      "قناة الجزائر الدولية"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "DZ",
+    "country_name": "Algeria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/vyVEXYL.png",
+    "stream_url": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://al24news.com/",
+    "launched": "2021-11-01",
+    "closed": null
+  },
+  {
+    "id": "AlabbassiaTV.iq",
+    "name": "Alabbassia TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IQ",
+    "country_name": "Iraq",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://gitlab.com/alabbassia-tv/alabbassia-tv-source/-/raw/main/Logo_PNG.png",
+    "stream_url": "srt://stream.alabbassia.com:8890?mode=caller&latency=200&streamid=read:live/alabbassia",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://alabbassia.com",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AlacantiTV.es",
     "name": "Alacanti TV",
     "alt_names": [
@@ -13542,32 +13596,6 @@
       "site_name": "ALEX Berlin",
       "lang": "de"
     },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "AlfaDramas.gr",
-    "name": "Alfa Dramas",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/wnVEvRM.png",
-    "stream_url": "https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8",
-    "stream_quality": "226p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
     "website": null,
     "launched": null,
     "closed": null
@@ -22530,66 +22558,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ItxKvVS.png",
-    "stream_url": "http://31.121.110.30:4000/play/a028/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.antenna.gr/",
-    "launched": "1989-12-31",
-    "closed": null
-  },
-  {
-    "id": "ANT1.gr",
-    "name": "ANT1",
-    "alt_names": [
-      "Αντέννα"
-    ],
-    "network": null,
-    "owners": [
-      "Antenna Group"
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ItxKvVS.png",
-    "stream_url": "http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.antenna.gr/",
-    "launched": "1989-12-31",
-    "closed": null
-  },
-  {
-    "id": "ANT1.gr",
-    "name": "ANT1",
-    "alt_names": [
-      "Αντέννα"
-    ],
-    "network": null,
-    "owners": [
-      "Antenna Group"
-    ],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ItxKvVS.png",
     "stream_url": "https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -28249,6 +28217,32 @@
     "logo": "https://i.imgur.com/oYRPfZm.png",
     "stream_url": "https://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8",
     "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.astratv.gr/live-streaming/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AstraTV.gr",
+    "name": "Astra TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/oYRPfZm.png",
+    "stream_url": "https://server.gointernet.gr/live/livestream.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -49335,7 +49329,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/ULm80XF.png",
+    "logo": "https://britasia.tv/wp-content/uploads/2023/11/batv-all-in-one.gif",
     "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8?ads.vf=crMKPnj9RuG",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -51849,8 +51843,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/iXkwP31.png",
-    "stream_url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
-    "stream_quality": null,
+    "stream_url": "https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -82881,6 +82875,41 @@
     "closed": null
   },
   {
+    "id": "DanceTelevision.nl",
+    "name": "Dance Television",
+    "alt_names": [
+      "DT"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg",
+    "stream_url": "https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DanceTelevision.nl",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000124_019487",
+      "site_name": "DanceTelevision",
+      "lang": "en"
+    },
+    "website": "https://www.dancetv.net/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "DanceTV.ar",
     "name": "Dance TV",
     "alt_names": [],
@@ -89566,8 +89595,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/hsK68yd.png",
-    "stream_url": "https://ssh101.bozztv.com/ssh101/diavatatvweb/playlist.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "https://183.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8",
+    "stream_quality": "480p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -94765,6 +94794,34 @@
     "closed": null
   },
   {
+    "id": "DSportsUruguay.uy",
+    "name": "DSports Uruguay",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Werthein"
+    ],
+    "country_code": "UY",
+    "country_name": "Uruguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/2PoEm1x.png",
+    "stream_url": "https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.directvsports.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "DSTV.bg",
     "name": "DSTV",
     "alt_names": [],
@@ -99085,6 +99142,32 @@
     "closed": null
   },
   {
+    "id": "EllinikosFM.gr",
+    "name": "Ellinikos FM",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/y0ydCNB/unnamed-4.png",
+    "stream_url": "https://rtmp.win:3603/live/ellinikosfmlive.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.ellinikosfm.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ElMueble.es",
     "name": "El Mueble",
     "alt_names": [],
@@ -99686,6 +99769,110 @@
     "tv_guide": null,
     "website": null,
     "launched": "2009-01-01",
+    "closed": null
+  },
+  {
+    "id": "ElWatania1.tn",
+    "name": "El Watania 1",
+    "alt_names": [
+      "Télévision Tunisienne 1",
+      "الوطنية 1"
+    ],
+    "network": null,
+    "owners": [
+      "Télévision Tunisienne"
+    ],
+    "country_code": "TN",
+    "country_name": "Tunisia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/gNr2V14.png",
+    "stream_url": "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ElWatania1.tn",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "1673",
+      "site_name": "Tunisie Nationale",
+      "lang": "en"
+    },
+    "website": "http://www.watania1.tn/",
+    "launched": "1966-05-31",
+    "closed": null
+  },
+  {
+    "id": "ElWatania1.tn",
+    "name": "El Watania 1",
+    "alt_names": [
+      "Télévision Tunisienne 1",
+      "الوطنية 1"
+    ],
+    "network": null,
+    "owners": [
+      "Télévision Tunisienne"
+    ],
+    "country_code": "TN",
+    "country_name": "Tunisia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/gNr2V14.png",
+    "stream_url": "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ElWatania1.tn",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "1673",
+      "site_name": "Tunisie Nationale",
+      "lang": "en"
+    },
+    "website": "http://www.watania1.tn/",
+    "launched": "1966-05-31",
+    "closed": null
+  },
+  {
+    "id": "ElwataniaTV.dz",
+    "name": "Elwatania TV",
+    "alt_names": [
+      "TV الوطنية‎"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "DZ",
+    "country_name": "Algeria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NKR8WFq.png",
+    "stream_url": "https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://elwataniatv.dz/",
+    "launched": null,
     "closed": null
   },
   {
@@ -100949,8 +101136,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/nYVqhu8.png",
-    "stream_url": "https://til.pp.ua:3928/live/epiruslive.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "https://rtmp.win:3929/live/epiruslive.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -111028,8 +111215,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/8FcJ2I9.png",
-    "stream_url": "https://svs.itworkscdn.net/formediatvlive/formediatv.smil/playlist.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "https://mercury.32bit.gr:19360/formediatv/720p.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -111343,6 +111530,41 @@
     },
     "website": "https://www.foxbusiness.com/",
     "launched": "2007-10-15",
+    "closed": null
+  },
+  {
+    "id": "FoxDeportes.us",
+    "name": "Fox Deportes",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Fox Sports Media Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
+    "stream_url": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
+    "stream_quality": "1280p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FoxDeportes.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "15377",
+      "site_name": "Fox Deportes",
+      "lang": "en"
+    },
+    "website": "https://www.foxdeportes.com/",
+    "launched": "1993-11-01",
     "closed": null
   },
   {
@@ -111686,6 +111908,43 @@
     },
     "website": "https://foxsoul.tv/",
     "launched": "2020-01-13",
+    "closed": null
+  },
+  {
+    "id": "FoxSports1.us",
+    "name": "Fox Sports 1",
+    "alt_names": [
+      "FS1"
+    ],
+    "network": "Fox Sports",
+    "owners": [
+      "Fox Sports Media Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/O9BapV9.png",
+    "stream_url": "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8",
+    "stream_quality": "1280p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FoxSports1.us",
+      "feed": "HD",
+      "site": "tvguide.com",
+      "site_id": "9233008440",
+      "site_name": "FOX Sports 1",
+      "lang": "en"
+    },
+    "website": "https://www.foxsports.com/",
+    "launched": "2013-08-17",
     "closed": null
   },
   {
@@ -178895,8 +179154,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/KX5olay.png",
-    "stream_url": "https://til.pp.ua:3872/live/mesogeiostvlive.m3u8",
-    "stream_quality": "404p",
+    "stream_url": "https://rtmp.win:3793/live/mesogeiostvlive.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -196577,58 +196836,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/dLvRD4k.png",
-    "stream_url": "http://live.netmaxtv.com:8080/live/live/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://netmaxtv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NetmaxTV.gr",
-    "name": "Netmax TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/dLvRD4k.png",
-    "stream_url": "https://live.netmaxtv.com:1936/live/live/chunklist_w1671867540.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://netmaxtv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NetmaxTV.gr",
-    "name": "Netmax TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/dLvRD4k.png",
     "stream_url": "https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -204397,6 +204604,43 @@
     "tv_guide": null,
     "website": "https://tvtambov.ru/novyj-vek-online/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Now14.il",
+    "name": "Now 14",
+    "alt_names": [
+      "עכשיו 14"
+    ],
+    "network": null,
+    "owners": [
+      "Jewish Israel Channel Ltd"
+    ],
+    "country_code": "IL",
+    "country_name": "Israel",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Iq2Kb69.png",
+    "stream_url": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Now14.il",
+      "feed": "SD",
+      "site": "freetv.tv",
+      "site_id": "3457869",
+      "site_name": "ערוץ 14",
+      "lang": "he"
+    },
+    "website": "https://www.now14.co.il/",
+    "launched": "2014-06-30",
     "closed": null
   },
   {
@@ -216932,6 +217176,41 @@
     "logo": "https://i.imgur.com/fkK7i8g.png",
     "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ParaguayTV.py",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "paraguay_tv",
+      "site_name": "Canal Paraguay TV",
+      "lang": "es"
+    },
+    "website": "https://www.paraguaytv.gov.py/",
+    "launched": "2011-12-12",
+    "closed": null
+  },
+  {
+    "id": "ParaguayTV.py",
+    "name": "Paraguay TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Government of Paraguay"
+    ],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/fkK7i8g.png",
+    "stream_url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -236176,6 +236455,34 @@
     "closed": null
   },
   {
+    "id": "RadioNacionaldelParaguay.py",
+    "name": "Radio Nacional del Paraguay",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Government of Paraguay"
+    ],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ksh20I5.png",
+    "stream_url": "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.radionacional.gov.py/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RadioNLTV.nl",
     "name": "RadioNL TV",
     "alt_names": [],
@@ -243840,6 +244147,37 @@
     "closed": null
   },
   {
+    "id": "RedeGlobo.br",
+    "name": "Rede Globo",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/O02TF2r.png",
+    "stream_url": "https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RedeGlobo.br",
+      "feed": "SD",
+      "site": "vodafone.pt",
+      "site_id": "3020",
+      "site_name": "Globo",
+      "lang": "pt"
+    },
+    "website": "https://redeglobo.globo.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RedeGospel.br",
     "name": "Rede Gospel",
     "alt_names": [],
@@ -244232,8 +244570,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.ibb.co/1Lk8P1x/1-150x150.png",
-    "stream_url": "https://eu1.vectromdigital.com:1936/redmusic/redmusic/playlist.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -246379,37 +246717,6 @@
       "lang": "en"
     },
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Revolt.us",
-    "name": "Revolt",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/eaYnGpH.png",
-    "stream_url": "https://aegis-cloudfront-1.tubi.video/77b454c9-7bf0-404d-9d26-77cc9d4936ea/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Revolt.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "83097",
-      "site_name": "Revolt",
-      "lang": "en"
-    },
-    "website": "https://revolt.tv/",
     "launched": null,
     "closed": null
   },
@@ -249630,6 +249937,35 @@
     },
     "website": "http://rpp.pe/tv.html",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RQPParaguay.py",
+    "name": "RQP Paraguay",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Albavisión",
+      "Grupo SNT"
+    ],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/0cUc4Nt.png",
+    "stream_url": "https://alba-py-rqp-rqp.stream.mediatiquestream.com/index.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.rqp.com.py/",
+    "launched": "2015-11-01",
     "closed": null
   },
   {
@@ -283677,11 +284013,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ZBt6beo.png",
-    "stream_url": "https://stream.castr.com/651d8d36a57bf232bc830464/live_01fd9e80636111eebd0da35d4eac7f71/index.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": "https://player.castr.com",
+    "referrer": null,
     "tv_guide": null,
     "website": "https://tvstar.gr/",
     "launched": "1993-03-16",
@@ -304218,7 +304554,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/j2q53JQ.png",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/6/68/That%27s_70s_2023.png",
     "stream_url": "http://92.114.85.72:8000/play/a0lc",
     "stream_quality": "576p",
     "stream_format": null,
@@ -311811,7 +312147,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/SfV2gJg.png",
-    "stream_url": "http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8",
+    "stream_url": "https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -312540,7 +312876,7 @@
     "is_nsfw": false,
     "logo": "https://static.elektamedia.com/ch/tmc_main.png",
     "stream_url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8",
-    "stream_quality": "720p",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -312779,7 +313115,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/DFBocPu.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG",
     "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8?ads.vf=5QzwnXm_tO0",
     "stream_quality": "720p",
     "stream_format": null,
@@ -312812,7 +313148,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/DFBocPu.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG",
     "stream_url": "https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -314849,34 +315185,6 @@
     },
     "website": null,
     "launched": "1989-10-02",
-    "closed": null
-  },
-  {
-    "id": "TRT.gr",
-    "name": "TRT",
-    "alt_names": [
-      "Θεσσαλική Ραδιοφωνία Τηλεόραση"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "GR",
-    "country_name": "Greece",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/g0jPOcC.png",
-    "stream_url": "https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://trttv.gr/",
-    "launched": "1990-02-05",
     "closed": null
   },
   {
@@ -342397,36 +342705,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/XwmUbfp.png",
-    "stream_url": "https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.venus.com.py/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "VenusMedia.py",
-    "name": "Venus Media",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Venus Comunicaciones"
-    ],
-    "country_code": "PY",
-    "country_name": "Paraguay",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/XwmUbfp.png",
-    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8",
-    "stream_quality": "1280p",
+    "stream_url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -342568,6 +342848,35 @@
     "tv_guide": null,
     "website": "https://www.verbumtv.com/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VerginaTV.gr",
+    "name": "Vergina TV",
+    "alt_names": [
+      "Βεργίνα TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news",
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/abQmFoH.png",
+    "stream_url": "https://verginanews.gr:8443/hls_live/stream1.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.verginanews.gr/",
+    "launched": "1993-01-01",
     "closed": null
   },
   {
@@ -357867,6 +358176,39 @@
       "lang": "en"
     },
     "website": "https://cwatlanta.cbslocal.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WuTangCollection.us",
+    "name": "Wu Tang Collection",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sz55sBl.png",
+    "stream_url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "WuTangCollection.us",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "5eea605474085f0040ddc770",
+      "site_name": "Wu Tang Collection",
+      "lang": "en"
+    },
+    "website": "https://watch.plex.tv/live-tv/channel/wu-tang-collection",
     "launched": null,
     "closed": null
   },

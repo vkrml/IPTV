@@ -21746,7 +21746,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "FloRacing.us",
+      "feed": "HD",
+      "site": "distro.tv",
+      "site_id": "112018",
+      "site_name": "FloRacing 24/7",
+      "lang": "en"
+    },
     "website": "https://flosports.tv/",
     "launched": "2025-12-08",
     "closed": null
@@ -26961,10 +26968,10 @@
     "tv_guide": {
       "channel": "HorizonSports.us",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "DISTROTV_LIVETVCHANNEL_415",
+      "site": "maxstream.tv",
+      "site_id": "0_1plxq8l8",
       "site_name": "Horizon Sports",
-      "lang": "en"
+      "lang": "id"
     },
     "website": "https://www.horizonse.com/contact/",
     "launched": null,
@@ -47315,6 +47322,60 @@
       "lang": "en"
     },
     "website": "https://pluto.tv/en/live-tv/pga-tour",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PhillyCAM.us",
+    "name": "PhillyCAM",
+    "alt_names": [
+      "Philadelphia Community Access Media"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ENOr31n.png",
+    "stream_url": "https://livestream.telvue.com/phillycam1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://phillycam.org/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PHLgovTV.us",
+    "name": "PHLgovTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "legislative"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/BmNc3hu.png",
+    "stream_url": "https://livestream.telvue.com/ctyphiladelphia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.phila.gov/departments/office-of-innovation-and-technology/phlgovtv/",
     "launched": null,
     "closed": null
   },

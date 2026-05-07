@@ -257,6 +257,34 @@
     "closed": null
   },
   {
+    "id": "Channel7Ukraine.ua",
+    "name": "Channel 7 Ukraine",
+    "alt_names": [
+      "7 канал"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9Ll0BIo.png",
+    "stream_url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://7kanal.com.ua/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Channel11.ua",
     "name": "Channel 11",
     "alt_names": [
@@ -505,6 +533,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://ewtn.org.ua/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FirstBusiness.ua",
+    "name": "First Business",
+    "alt_names": [
+      "Перший Діловий"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "business"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/0wotE9n.png",
+    "stream_url": "https://lowa8026-cmyk.github.io/Ukraine/FirstBussines.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://fbc.net.ua/",
     "launched": null,
     "closed": null
   },
@@ -1390,6 +1446,43 @@
     "tv_guide": null,
     "website": "http://pravdatut.ua/",
     "launched": "2014-09-01",
+    "closed": null
+  },
+  {
+    "id": "PTV.ua",
+    "name": "PTV",
+    "alt_names": [
+      "Poltavske TV",
+      "Полтавське телебачення",
+      "Полтавское ТВ"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/WDHoSVz.png",
+    "stream_url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PTV.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "ptv-ua",
+      "site_name": "PTV",
+      "lang": "ru"
+    },
+    "website": "https://ptv.ua/",
+    "launched": null,
     "closed": null
   },
   {

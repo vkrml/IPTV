@@ -21974,38 +21974,6 @@
     "closed": null
   },
   {
-    "id": "Animax.jp",
-    "name": "Animax",
-    "alt_names": [
-      "アニマックス"
-    ],
-    "network": null,
-    "owners": [
-      "Animax Broadcast Japan Inc.",
-      "AK Entertainment Co. Ltd.",
-      "Nojima Corporation"
-    ],
-    "country_code": "JP",
-    "country_name": "Japan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "animation"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/960px-Animax_logo.svg.png",
-    "stream_url": "https://nl.utako.moe/Animax/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://utako.moe",
-    "tv_guide": null,
-    "website": "https://www.animax.co.jp/",
-    "launched": "1998-07-01",
-    "closed": null
-  },
-  {
     "id": "AnimaxAsia.sg",
     "name": "Animax Asia",
     "alt_names": [
@@ -48012,7 +47980,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "BollywoodHD.ro",
-      "feed": "SD",
+      "feed": "HD",
       "site": "distro.tv",
       "site_id": "87418",
       "site_name": "Bollywood HD",
@@ -48047,7 +48015,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "BollywoodHD.ro",
-      "feed": "SD",
+      "feed": "HD",
       "site": "distro.tv",
       "site_id": "87418",
       "site_name": "Bollywood HD",
@@ -48082,7 +48050,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "BollywoodHD.ro",
-      "feed": "SD",
+      "feed": "HD",
       "site": "distro.tv",
       "site_id": "87418",
       "site_name": "Bollywood HD",
@@ -67605,6 +67573,30 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://7kanal.com.ua/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Channel8.gr",
+    "name": "Channel 8",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.channel8.gr/img/channel8.png",
+    "stream_url": "https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.channel8.gr/index.php",
     "launched": null,
     "closed": null
   },
@@ -103848,7 +103840,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-cinema-HD-Logo_2000_X_1125_Transpharent.png",
-    "stream_url": "https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8",
+    "stream_url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -104156,42 +104148,6 @@
     },
     "website": "http://etvpluss.err.ee/",
     "launched": "2016-09-28",
-    "closed": null
-  },
-  {
-    "id": "ETVPlus.in",
-    "name": "ETV Plus",
-    "alt_names": [],
-    "network": "ETV",
-    "owners": [
-      "Eenadu Television Private Limited (ETV)",
-      "Ramoji Group"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-plus-HD-Logo_2000_X_1125_Transpharent.png",
-    "stream_url": "https://d27tnkf60df3v4.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264-3_cloud_in/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ETVPlus.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "352",
-      "site_name": "ETV Plus",
-      "lang": "en"
-    },
-    "website": "http://www.etv.co.in/channels/home?channelId=5",
-    "launched": "2015-11-01",
     "closed": null
   },
   {
@@ -110621,7 +110577,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "FITE247.us",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "78644",
+      "site_name": "FITE 24/7",
+      "lang": "en"
+    },
     "website": "https://watch.plex.tv/live-tv/channel/fite-24-7",
     "launched": null,
     "closed": null
@@ -110647,7 +110610,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "FITE247.us",
+      "feed": "SD",
+      "site": "distro.tv",
+      "site_id": "78644",
+      "site_name": "FITE 24/7",
+      "lang": "en"
+    },
     "website": "https://watch.plex.tv/live-tv/channel/fite-24-7",
     "launched": null,
     "closed": null
@@ -220053,7 +220023,7 @@
     "stream_url": "https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.109 Safari/537.36",
     "referrer": null,
     "tv_guide": null,
     "website": "https://tv.suspilne.media/",
@@ -247658,8 +247628,8 @@
     "tv_guide": {
       "channel": "RightNowTV.us",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "DISTROTV_LIVETVCHANNEL_1094",
+      "site": "distro.tv",
+      "site_id": "34007",
       "site_name": "Right Now Tv",
       "lang": "en"
     },
@@ -247692,8 +247662,8 @@
     "tv_guide": {
       "channel": "RightNowTV.us",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "DISTROTV_LIVETVCHANNEL_1094",
+      "site": "distro.tv",
+      "site_id": "34007",
       "site_name": "Right Now Tv",
       "lang": "en"
     },
@@ -247726,8 +247696,8 @@
     "tv_guide": {
       "channel": "RightNowTV.us",
       "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "DISTROTV_LIVETVCHANNEL_1094",
+      "site": "distro.tv",
+      "site_id": "34007",
       "site_name": "Right Now Tv",
       "lang": "en"
     },
@@ -248443,10 +248413,10 @@
     "tv_guide": {
       "channel": "ROCKAction.sg",
       "feed": "SD",
-      "site": "singtel.com",
-      "site_id": "5310",
-      "site_name": "ROCK Action (HD)",
-      "lang": "en"
+      "site": "visionplus.id",
+      "site_id": "00000000000000000093",
+      "site_name": "Rock Action",
+      "lang": "id"
     },
     "website": "https://www.rockentertainment.com/our-brands/rock-action",
     "launched": "2022-12-12",
@@ -270689,6 +270659,39 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/nSSUHcg.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH175/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "scifi.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1249",
+      "site_name": ".sci-fi",
+      "lang": "ru"
+    },
+    "website": "https://mt.media/channels/sci-fi/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "scifi.ru",
+    "name": ".sci-fi",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "science"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nSSUHcg.png",
     "stream_url": "http://31.148.48.15/SONY_SCI_FI/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -270916,6 +270919,30 @@
     "closed": null
   },
   {
+    "id": "SCTV3.vn",
+    "name": "SCTV3",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/tfk298I.png",
+    "stream_url": "https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.sctv.com.vn/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SCTV4.vn",
     "name": "SCTV4",
     "alt_names": [],
@@ -270955,6 +270982,102 @@
     "logo": "https://i.imgur.com/2oOVS42.png",
     "stream_url": "https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.sctv.com.vn/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SCTV6.vn",
+    "name": "SCTV6",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/2oOVS42.png",
+    "stream_url": "https://liveh34.vtvprime.vn/hls/SCTV6/03.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.sctv.com.vn/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SCTV7.vn",
+    "name": "SCTV7",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/xbIUZYd.png",
+    "stream_url": "https://liveh34.vtvprime.vn/hls/SCTV7/03.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.sctv.com.vn/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SCTV8.vn",
+    "name": "SCTV8",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/eVWgfRS.png",
+    "stream_url": "https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.sctv.com.vn/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SCTV10.vn",
+    "name": "SCTV10",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/46OxCQG.png",
+    "stream_url": "https://liveh34.vtvprime.vn/hls/SCTV10/03.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -271018,6 +271141,32 @@
     },
     "website": "https://www.sctv.co.id/",
     "launched": "1990-08-24",
+    "closed": null
+  },
+  {
+    "id": "SCTVPhimTongHop.vn",
+    "name": "SCTV Phim Tong Hop",
+    "alt_names": [
+      "SCTV Phim Tổng Hợp"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/R8EBxJj.png",
+    "stream_url": "https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.sctv.com.vn/",
+    "launched": null,
     "closed": null
   },
   {
@@ -288039,6 +288188,41 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/nsk8PpB.png",
+    "stream_url": "https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=dmUf6BUQzDBTwtQOseAfog&e=2066519758&scheme=https",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Subbota.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2338",
+      "site_name": "Суббота!",
+      "lang": "ru"
+    },
+    "website": "https://subbota.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Subbota.ru",
+    "name": "Subbota!",
+    "alt_names": [
+      "Суббота!"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nsk8PpB.png",
     "stream_url": "http://31.148.48.15/Super/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -290064,7 +290248,7 @@
     "stream_url": "https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.109 Safari/537.36",
     "referrer": null,
     "tv_guide": null,
     "website": "https://crimea.suspilne.media/",
@@ -290097,43 +290281,11 @@
     "stream_url": "https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.109 Safari/537.36",
     "referrer": null,
     "tv_guide": null,
     "website": "https://suspilne.media/culture/",
     "launched": "2002-01-01",
-    "closed": null
-  },
-  {
-    "id": "SuspilneSport.ua",
-    "name": "Suspilne. Sport",
-    "alt_names": [
-      "Суспільне. Спорт",
-      "Social. Sport",
-      "UΛ: Спорт"
-    ],
-    "network": null,
-    "owners": [
-      "National Public Television and Radio Company of Ukraine"
-    ],
-    "country_code": "UA",
-    "country_name": "Ukraine",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/16IhU0M.png",
-    "stream_url": "https://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://suspilne.media/sport/",
-    "launched": "2019-05-21",
     "closed": null
   },
   {
@@ -302374,6 +302526,42 @@
     "closed": null
   },
   {
+    "id": "Televsesvit.ua",
+    "name": "Televsesvit",
+    "alt_names": [
+      "Телевсесвіт",
+      "Teleuniverse"
+    ],
+    "network": null,
+    "owners": [
+      "Televesvesit"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ygexoKO.png",
+    "stream_url": "https://televsesvit.cdn-04.cosmonova.net.ua/hls/televsesvit_ua_hi/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Televsesvit.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "televsesvit",
+      "site_name": "Телевсесвіт",
+      "lang": "ru"
+    },
+    "website": "http://www.televsesvit.ua/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TelewizjaBiznesowa.pl",
     "name": "Telewizja Biznesowa",
     "alt_names": [],
@@ -313565,7 +313753,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "TraceUK.uk",
+      "feed": "HD",
+      "site": "distro.tv",
+      "site_id": "130974",
+      "site_name": "TRACE UK",
+      "lang": "en"
+    },
     "website": "https://trace.plus/app",
     "launched": null,
     "closed": null
@@ -313593,7 +313788,14 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "TraceUK.uk",
+      "feed": "HD",
+      "site": "distro.tv",
+      "site_id": "130974",
+      "site_name": "TRACE UK",
+      "lang": "en"
+    },
     "website": "https://trace.plus/app",
     "launched": null,
     "closed": null
@@ -314249,6 +314451,41 @@
     },
     "website": "https://www.transtv.co.id/",
     "launched": "2001-12-15",
+    "closed": null
+  },
+  {
+    "id": "TravelPlusAdventure.ru",
+    "name": "Travel+Adventure",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Delta Television"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "travel"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/AlpdXC4.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH273/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TravelPlusAdventure.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1707",
+      "site_name": "Travel+Adventure",
+      "lang": "ru"
+    },
+    "website": "http://tplusa.ru/",
+    "launched": "2012-01-01",
     "closed": null
   },
   {
@@ -329912,6 +330149,39 @@
     "closed": null
   },
   {
+    "id": "TVP1.pl",
+    "name": "TVP1",
+    "alt_names": [],
+    "network": "TVP",
+    "owners": [
+      "Telewizja Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ewpSjBs.png",
+    "stream_url": "https://redir.cache.orange.pl/dai4/org1/vb/104/tvp1hd/manifest.mpd",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVP1.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tvp-1-321",
+      "site_name": "TVP 1",
+      "lang": "pl"
+    },
+    "website": "https://tvp1.tvp.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVP2.pl",
     "name": "TVP2",
     "alt_names": [],
@@ -344828,6 +345098,43 @@
     },
     "website": "https://www.hotstar.com/1260000018",
     "launched": "2020-10-04",
+    "closed": null
+  },
+  {
+    "id": "vijuHistory.ru",
+    "name": "viju History",
+    "alt_names": [
+      "Viasat History Russia"
+    ],
+    "network": null,
+    "owners": [
+      "National Media Group"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/FqWkeXb.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH133/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "vijuHistory.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "736",
+      "site_name": "viju History",
+      "lang": "ru"
+    },
+    "website": "https://viju.ru/telekanaly/viju-history/",
+    "launched": null,
     "closed": null
   },
   {

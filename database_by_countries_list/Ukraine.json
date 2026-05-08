@@ -1252,7 +1252,7 @@
     "stream_url": "https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.109 Safari/537.36",
     "referrer": null,
     "tv_guide": null,
     "website": "https://tv.suspilne.media/",
@@ -1772,7 +1772,7 @@
     "stream_url": "https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.109 Safari/537.36",
     "referrer": null,
     "tv_guide": null,
     "website": "https://crimea.suspilne.media/",
@@ -1805,43 +1805,11 @@
     "stream_url": "https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.109 Safari/537.36",
     "referrer": null,
     "tv_guide": null,
     "website": "https://suspilne.media/culture/",
     "launched": "2002-01-01",
-    "closed": null
-  },
-  {
-    "id": "SuspilneSport.ua",
-    "name": "Suspilne. Sport",
-    "alt_names": [
-      "Суспільне. Спорт",
-      "Social. Sport",
-      "UΛ: Спорт"
-    ],
-    "network": null,
-    "owners": [
-      "National Public Television and Radio Company of Ukraine"
-    ],
-    "country_code": "UA",
-    "country_name": "Ukraine",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/16IhU0M.png",
-    "stream_url": "https://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://suspilne.media/sport/",
-    "launched": "2019-05-21",
     "closed": null
   },
   {
@@ -1871,6 +1839,42 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://rai.ua/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Televsesvit.ua",
+    "name": "Televsesvit",
+    "alt_names": [
+      "Телевсесвіт",
+      "Teleuniverse"
+    ],
+    "network": null,
+    "owners": [
+      "Televesvesit"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ygexoKO.png",
+    "stream_url": "https://televsesvit.cdn-04.cosmonova.net.ua/hls/televsesvit_ua_hi/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Televsesvit.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "televsesvit",
+      "site_name": "Телевсесвіт",
+      "lang": "ru"
+    },
+    "website": "http://www.televsesvit.ua/",
     "launched": null,
     "closed": null
   },

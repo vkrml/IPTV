@@ -132,41 +132,6 @@
     "closed": null
   },
   {
-    "id": "AntenaHD.pl",
-    "name": "Antena HD",
-    "alt_names": [
-      "Antena"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/obwYQZC.png",
-    "stream_url": "http://78.130.250.2:8023/play/a03o/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AntenaHD.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "antena",
-      "site_name": "Antena",
-      "lang": "pl"
-    },
-    "website": null,
-    "launched": "2021-05-01",
-    "closed": null
-  },
-  {
     "id": "BialogardzkaTelewizjaKablowa.pl",
     "name": "Bialogardzka Telewizja Kablowa",
     "alt_names": [
@@ -539,39 +504,6 @@
     },
     "website": "http://www.disney.pl/",
     "launched": "2010-08-01",
-    "closed": null
-  },
-  {
-    "id": "dlaCiebietv.pl",
-    "name": "dlaCiebie.tv",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Tf32BJa.png",
-    "stream_url": "http://94.246.128.53:1935/tv/dlaCiebieTv/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "dlaCiebietv.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "dlaciebie-tv-442",
-      "site_name": "dlaCiebie.tv",
-      "lang": "pl"
-    },
-    "website": null,
-    "launched": null,
     "closed": null
   },
   {
@@ -1177,73 +1109,6 @@
     "closed": null
   },
   {
-    "id": "Polonia1.pl",
-    "name": "Polonia 1",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/4TVDMGD.png",
-    "stream_url": "http://78.130.250.2:8023/play/a05t/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Polonia1.pl",
-      "feed": "SD",
-      "site": "m.tv.sms.cz",
-      "site_id": "Polonia+1",
-      "site_name": "Polonia 1",
-      "lang": "cs"
-    },
-    "website": "https://polonia1.tv/",
-    "launched": "1993-03-07",
-    "closed": null
-  },
-  {
-    "id": "Polsat1.pl",
-    "name": "Polsat 1",
-    "alt_names": [],
-    "network": "Cyfrowy Polsat",
-    "owners": [
-      "Telewizja Polsat",
-      "Cyfrowy Polsat"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Polsat_1_2021_gradient.svg/960px-Polsat_1_2021_gradient.svg.png",
-    "stream_url": "http://78.130.250.2:8023/play/a065/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Polsat1.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "polsat-1-36",
-      "site_name": "Polsat 1",
-      "lang": "pl"
-    },
-    "website": "https://www.polsat1.pl/",
-    "launched": "2015-12-18",
-    "closed": null
-  },
-  {
     "id": "Polsat.pl",
     "name": "Polsat",
     "alt_names": [],
@@ -1554,67 +1419,6 @@
     "closed": null
   },
   {
-    "id": "PolsatReality.pl",
-    "name": "Polsat Reality",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/yBecqPa.png",
-    "stream_url": "http://78.130.250.2:8023/play/a064/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.polsat.pl/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PolsatSeriale.pl",
-    "name": "Polsat Seriale",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Polsat Seriale"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png",
-    "stream_url": "http://78.130.250.2:8023/play/a06h/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PolsatSeriale.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "polsat-romans-173",
-      "site_name": "Polsat Seriale",
-      "lang": "pl"
-    },
-    "website": "https://www.polsatseriale.pl/",
-    "launched": "2013-09-01",
-    "closed": null
-  },
-  {
     "id": "PolsatSport1.pl",
     "name": "Polsat Sport 1",
     "alt_names": [],
@@ -1642,39 +1446,6 @@
       "lang": "ru"
     },
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PolsatSportPremium2.pl",
-    "name": "Polsat Sport Premium 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/myyWeXY.png",
-    "stream_url": "http://78.130.250.2:8023/play/a05r/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PolsatSportPremium2.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "polsat-sport-premium-2-644",
-      "site_name": "Polsat Sport Premium 2",
-      "lang": "pl"
-    },
-    "website": "https://www.polsatsport.pl/",
     "launched": null,
     "closed": null
   },
@@ -1931,37 +1702,6 @@
     "closed": null
   },
   {
-    "id": "StarsTV.pl",
-    "name": "Stars TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/NdITPCk.png",
-    "stream_url": "https://vs2120.vcdn.biz/cb9c5a2e0814e884ec2bb7b2908399db_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157933561/rsid/74533743-6d06-4171-87f2-0644f854604d/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.163.151*asn/u_srvc/81255/u_did/web_Q7VE67mYqQtAaknvbeN2NwJ1P2rWIdnv/type.live/chunklist-sid8102720585553602615-b4000000.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarsTV.pl",
-      "feed": "SD",
-      "site": "tvprofil.com",
-      "site_id": "ba/tvprogram#stars-tv-pl",
-      "site_name": "Stars TV PL",
-      "lang": "hr"
-    },
-    "website": "http://starstv.eu/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "SuperExpressTV.pl",
     "name": "Super Express TV",
     "alt_names": [
@@ -2072,37 +1812,6 @@
     },
     "website": "https://www.tbnpolska.tv/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Tele5.pl",
-    "name": "Tele5",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/36ZNsIL.png",
-    "stream_url": "http://78.130.250.2:8023/play/a05s/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Tele5.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tele-5-352",
-      "site_name": "Tele 5",
-      "lang": "pl"
-    },
-    "website": "https://www.tele5.pl/",
-    "launched": "2002-04-19",
     "closed": null
   },
   {
@@ -2601,61 +2310,6 @@
     "closed": null
   },
   {
-    "id": "TVC.pl",
-    "name": "TVC",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/1Wmib2f.png",
-    "stream_url": "http://78.130.250.2:8023/play/a03u/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVC.pl",
-      "feed": "SD",
-      "site": "m.tv.sms.cz",
-      "site_id": "TVC",
-      "site_name": "TVC",
-      "lang": "cs"
-    },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVCSuper.pl",
-    "name": "TVC Super",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://radiopolska.pl/files/thumb/32049b3594ccdd5/300",
-    "stream_url": "http://78.130.250.2:8023/play/a03w/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TVKStella.pl",
     "name": "TVK Stella",
     "alt_names": [
@@ -2869,72 +2523,6 @@
     },
     "website": "https://tvp2.tvp.pl/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVPHD.pl",
-    "name": "TVP HD",
-    "alt_names": [],
-    "network": "TVP",
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/960px-TVP_HD_logo.svg.png",
-    "stream_url": "http://78.130.250.2:8023/play/a03a/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPHD.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-hd-101",
-      "site_name": "TVP HD",
-      "lang": "pl"
-    },
-    "website": "https://hd.tvp.pl/",
-    "launched": "2008-08-06",
-    "closed": null
-  },
-  {
-    "id": "TVPInfo.pl",
-    "name": "TVP Info",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/qXrrNxv.png",
-    "stream_url": "http://78.130.250.2:8023/play/a03b/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPInfo.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-info-462",
-      "site_name": "TVP Info",
-      "lang": "pl"
-    },
-    "website": "https://www.tvp.info/",
-    "launched": "2007-10-06",
     "closed": null
   },
   {

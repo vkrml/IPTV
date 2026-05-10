@@ -54,7 +54,8 @@
       "site": "chaines-tv.orange.fr",
       "site_id": "90399",
       "site_name": "MADRAS FM TV",
-      "lang": "fr"
+      "lang": "fr",
+      "sources": []
     },
     "website": "https://www.madrasfm.tv/",
     "launched": null,
@@ -140,7 +141,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "TMA.gp",
+      "feed": "SD",
+      "site": "epg.tmacaraibes.com",
+      "site_id": "TMA.gp@SD",
+      "site_name": "TMA",
+      "lang": "fr",
+      "sources": []
+    },
     "website": "http://www.tmacaraibes.com/",
     "launched": null,
     "closed": null

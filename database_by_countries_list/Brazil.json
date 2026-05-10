@@ -154,7 +154,8 @@
       "site": "mi.tv",
       "site_id": "br#amazon-sat",
       "site_name": "Amazon Sat",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": null,
     "launched": null,
@@ -240,7 +241,8 @@
       "site": "pluto.tv",
       "site_id": "666c9c60a7efd40008f552f0",
       "site_name": "BM&C News",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://bmcnews.com.br/",
     "launched": null,
@@ -271,7 +273,8 @@
       "site": "mi.tv",
       "site_id": "br#rede-boas-novas",
       "site_name": "Rede Boas Novas",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "http://boasnovas.tv/",
     "launched": null,
@@ -540,7 +543,8 @@
       "site": "mi.tv",
       "site_id": "br#canal-rural",
       "site_name": "Canal Rural",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://canalrural.uol.com.br/",
     "launched": null,
@@ -821,7 +825,8 @@
       "site": "meuguia.tv",
       "site_id": "135",
       "site_name": "Combate",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "http://combate.globo.com/",
     "launched": null,
@@ -1347,7 +1352,8 @@
       "site": "mi.tv",
       "site_id": "br#gloob",
       "site_name": "Gloob",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "http://mundogloob.globo.com/",
     "launched": "2012-06-15",
@@ -1382,7 +1388,8 @@
       "site": "mi.tv",
       "site_id": "br#gloob",
       "site_name": "Gloob",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "http://mundogloob.globo.com/",
     "launched": "2012-06-15",
@@ -1551,7 +1558,8 @@
       "site": "pluto.tv",
       "site_id": "6317ba014d4d040007227f72",
       "site_name": "Jovem Pan NEWS",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://jovempan.com.br/",
     "launched": null,
@@ -1586,7 +1594,8 @@
       "site": "pluto.tv",
       "site_id": "6317ba014d4d040007227f72",
       "site_name": "Jovem Pan NEWS",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://jovempan.com.br/",
     "launched": null,
@@ -1647,7 +1656,8 @@
       "site": "mi.tv",
       "site_id": "br#loading",
       "site_name": "Loading",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": null,
     "launched": "2020-12-07",
@@ -1706,7 +1716,8 @@
       "site": "plex.tv",
       "site_id": "644874236e1dc0bf5664a674",
       "site_name": "MyTime Movie Network",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://mytimemovienetwork.com/",
     "launched": null,
@@ -1738,7 +1749,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "NickOnline.br",
+      "feed": "HD",
+      "site": "x1co.com.br",
+      "site_id": "nickonline.br",
+      "site_name": "NickOnline",
+      "lang": "pt",
+      "sources": []
+    },
     "website": "https://x1co.com.br",
     "launched": "2026-01-03",
     "closed": null
@@ -1943,7 +1962,8 @@
       "site": "mi.tv",
       "site_id": "cl#nuevo-tiempo",
       "site_name": "Nuevo Tiempo",
-      "lang": "es"
+      "lang": "es",
+      "sources": []
     },
     "website": "https://www.nuevotiempo.org/tv/",
     "launched": null,
@@ -2260,7 +2280,8 @@
       "site": "mi.tv",
       "site_id": "br#rba-tv-hd",
       "site_name": "RBA TV HD",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://rbatv.dol.com.br/",
     "launched": null,
@@ -2297,7 +2318,8 @@
       "site": "mi.tv",
       "site_id": "br#record",
       "site_name": "Record TV",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "http://rederecord.r7.com/",
     "launched": "1953-09-27",
@@ -2334,7 +2356,8 @@
       "site": "mi.tv",
       "site_id": "br#record",
       "site_name": "Record TV",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "http://rederecord.r7.com/",
     "launched": "1953-09-27",
@@ -2369,7 +2392,8 @@
       "site": "vodafone.pt",
       "site_id": "2812",
       "site_name": "Record News",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://noticias.r7.com/record-news/",
     "launched": "2007-09-27",
@@ -2404,7 +2428,8 @@
       "site": "vodafone.pt",
       "site_id": "2812",
       "site_name": "Record News",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://noticias.r7.com/record-news/",
     "launched": "2007-09-27",
@@ -2439,7 +2464,8 @@
       "site": "vodafone.pt",
       "site_id": "2812",
       "site_name": "Record News",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://noticias.r7.com/record-news/",
     "launched": "2007-09-27",
@@ -2474,7 +2500,8 @@
       "site": "vodafone.pt",
       "site_id": "2812",
       "site_name": "Record News",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://noticias.r7.com/record-news/",
     "launched": "2007-09-27",
@@ -2511,7 +2538,8 @@
       "site": "mi.tv",
       "site_id": "br#record-porto-alegre-hd",
       "site_name": "Record Porto Alegre HD",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://www.recordtvrs.com.br/",
     "launched": "2007-01-01",
@@ -2546,7 +2574,8 @@
       "site": "mi.tv",
       "site_id": "br#recordtv-belem",
       "site_name": "RecordTV Belém",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "http://recordtv.r7.com/",
     "launched": "2016-11-24",
@@ -2609,7 +2638,8 @@
       "site": "mi.tv",
       "site_id": "br#record-tv-goias-hd",
       "site_name": "Record TV Goiás HD",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "http://recordtvgoias.com.br/",
     "launched": "2016-11-24",
@@ -2668,7 +2698,8 @@
       "site": "mi.tv",
       "site_id": "br#record-tv-itapoan-hd",
       "site_name": "Record TV Itapoan HD",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "http://rederecord.r7.com/",
     "launched": "2016-11-24",
@@ -2701,7 +2732,8 @@
       "site": "mi.tv",
       "site_id": "br#record-tv-rio-hd",
       "site_name": "Record TV Rio HD",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "http://recordtvrio.com.br/",
     "launched": "2016-11-24",
@@ -2736,7 +2768,8 @@
       "site": "mi.tv",
       "site_id": "br#recordtv-s-o-paulo-hd",
       "site_name": "RecordTV São Paulo HD",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "http://recordtv.r7.com/",
     "launched": "2016-11-24",
@@ -2793,7 +2826,8 @@
       "site": "vodafone.pt",
       "site_id": "3020",
       "site_name": "Globo",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://redeglobo.globo.com/",
     "launched": null,
@@ -2826,7 +2860,8 @@
       "site": "mi.tv",
       "site_id": "br#rede-gospel",
       "site_name": "Rede Gospel",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://www.redegospel.tv.br/",
     "launched": null,
@@ -2859,7 +2894,8 @@
       "site": "mi.tv",
       "site_id": "br#rede-minas",
       "site_name": "Rede Minas",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "http://redeminas.tv/",
     "launched": null,
@@ -2968,7 +3004,8 @@
       "site": "mi.tv",
       "site_id": "br#rede-tv",
       "site_name": "RedeTV!",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": null,
     "launched": null,
@@ -3329,7 +3366,8 @@
       "site": "mi.tv",
       "site_id": "br#sesctv",
       "site_name": "Sesctv",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://www.sesctv.org.br/",
     "launched": null,
@@ -3360,7 +3398,8 @@
       "site": "mi.tv",
       "site_id": "br#sic-tv",
       "site_name": "SIC TV",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": null,
     "launched": null,
@@ -3393,7 +3432,8 @@
       "site": "mi.tv",
       "site_id": "br#sportv2",
       "site_name": "SporTV2",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "http://sportv.globo.com/",
     "launched": null,
@@ -3452,7 +3492,8 @@
       "site": "mi.tv",
       "site_id": "br#sportv3",
       "site_name": "SporTV3",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "http://sportv.globo.com/",
     "launched": null,
@@ -3487,7 +3528,8 @@
       "site": "mi.tv",
       "site_id": "br#sportv",
       "site_name": "SporTV",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "http://sportv.globo.com/",
     "launched": null,
@@ -3685,7 +3727,8 @@
       "site": "mi.tv",
       "site_id": "br#tv-a-critica",
       "site_name": "TV A Crítica",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://www.acritica.com/",
     "launched": null,
@@ -3824,7 +3867,8 @@
       "site": "mi.tv",
       "site_id": "br#tv-aparecida",
       "site_name": "TV Aparecida",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://www.a12.com/tv",
     "launched": null,
@@ -3881,7 +3925,8 @@
       "site": "mi.tv",
       "site_id": "br#tv-aratu",
       "site_name": "TV Aratu",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": null,
     "launched": null,
@@ -3916,7 +3961,8 @@
       "site": "mi.tv",
       "site_id": "br#assembleia-legislativa-ceara-hd",
       "site_name": "Assembleia Legislativa Ceará HD",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://www.al.ce.gov.br/",
     "launched": null,
@@ -3947,7 +3993,8 @@
       "site": "mi.tv",
       "site_id": "br#globo-tv-bahia",
       "site_name": "Globo TV Bahia",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "http://www.redebahia.com.br/empresas/tv/tv-bahia",
     "launched": null,
@@ -4058,7 +4105,8 @@
       "site": "mi.tv",
       "site_id": "br#tv-brasil",
       "site_name": "TV Brasil",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://tvbrasil.ebc.com.br/",
     "launched": "1975-11-05",
@@ -4203,7 +4251,8 @@
       "site": "mi.tv",
       "site_id": "br#tv-camara",
       "site_name": "TV Câmara",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://www.camara.leg.br/tv",
     "launched": "1998-01-20",
@@ -4264,7 +4313,8 @@
       "site": "mi.tv",
       "site_id": "br#canc-o-nova",
       "site_name": "Canção Nova",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": null,
     "launched": null,
@@ -4375,7 +4425,8 @@
       "site": "mi.tv",
       "site_id": "br#tv-cidade-verde-hd",
       "site_name": "TV Cidade Verde HD",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": null,
     "launched": null,
@@ -4406,7 +4457,8 @@
       "site": "mi.tv",
       "site_id": "br#tv-clube",
       "site_name": "TV Clube",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://tvclubepe.op9.com.br/",
     "launched": null,
@@ -4789,7 +4841,8 @@
       "site": "mi.tv",
       "site_id": "br#tve-bahia",
       "site_name": "TVE Bahia",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "http://www.tve.ba.gov.br/",
     "launched": null,
@@ -4820,7 +4873,8 @@
       "site": "mi.tv",
       "site_id": "br#tve-bahia",
       "site_name": "TVE Bahia",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "http://www.tve.ba.gov.br/",
     "launched": null,
@@ -4908,7 +4962,8 @@
       "site": "mi.tv",
       "site_id": "br#tve-1",
       "site_name": "TVE",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://www.tve.com.br/",
     "launched": null,
@@ -5047,7 +5102,8 @@
       "site": "mi.tv",
       "site_id": "br#tv-guara-hd",
       "site_name": "TV Guará HD",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://www.redemassa.com.br/",
     "launched": null,
@@ -5570,7 +5626,8 @@
       "site": "mi.tv",
       "site_id": "br#tv-pampa-hd",
       "site_name": "TV Pampa HD",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://www.tvpampa.com.br/",
     "launched": null,
@@ -5660,7 +5717,8 @@
       "site": "mi.tv",
       "site_id": "br#e-parana-hd",
       "site_name": "E-Paraná HD",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "http://www.paranaeducativa.pr.gov.br/modules/conteudo/conteudo.php?conteudo=19",
     "launched": null,
@@ -6035,7 +6093,8 @@
       "site": "app.tvufop.com.br",
       "site_id": "TVUFOP.br@HD",
       "site_name": "TV UFOP",
-      "lang": "pt"
+      "lang": "pt",
+      "sources": []
     },
     "website": "https://tv.ufop.br/",
     "launched": "2011-10-15",

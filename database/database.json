@@ -12393,6 +12393,32 @@
     "closed": null
   },
   {
+    "id": "AlabbassiaTV.iq",
+    "name": "Alabbassia TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IQ",
+    "country_name": "Iraq",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://gitlab.com/alabbassia-tv/alabbassia-tv-source/-/raw/main/Logo_PNG.png",
+    "stream_url": "https://stream.alabbassia.com/live/alabbassia/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://alabbassia.com",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AlacantiTV.es",
     "name": "Alacanti TV",
     "alt_names": [
@@ -31081,6 +31107,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/sVc8cFt.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH49/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AutoPlus.ru",
+      "feed": "SD",
+      "site": "tv.sfr.fr",
+      "site_id": "3287",
+      "site_name": "Auto Plus TV",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.autoplustv.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AutoPlus.ru",
+    "name": "Auto Plus",
+    "alt_names": [
+      "Авто Плюс"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "auto"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sVc8cFt.png",
     "stream_url": "http://31.148.48.15/Avto_Plus/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -31713,44 +31775,6 @@
     "tv_guide": null,
     "website": "https://awtv.com.br/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "AXNAsia.sg",
-    "name": "AXN Asia",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "KC Global Media Singapore Pte. Ltd.",
-      "KC Global Media Entertainment LLC"
-    ],
-    "country_code": "SG",
-    "country_name": "Singapore",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies",
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "stream_url": "http://103.58.160.157:8278/720-AXN/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AXNAsia.sg",
-      "feed": "Indonesia",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000079",
-      "site_name": "AXN",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://www.axn-asia.com/",
-    "launched": "1997-09-21",
     "closed": null
   },
   {
@@ -158062,6 +158086,83 @@
     "closed": null
   },
   {
+    "id": "KinoHit.ru",
+    "name": "KinoHit",
+    "alt_names": [
+      "Кинохит"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Ge8vkQM.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH57/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "KinoHit.ru",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "kinoxit",
+      "site_name": "Кинохит",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.nastroykino.ru/kinohit/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Kinokomedija.ru",
+    "name": "Kinokomedija",
+    "alt_names": [
+      "Кинокомедия",
+      "Kinokomedia"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/dVjtth0.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH47/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Kinokomedija.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1083",
+      "site_name": "Кинокомедия",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.nastroykino.ru/kinokomedija/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Kinopokaz.ru",
     "name": "Kinopokaz",
     "alt_names": [
@@ -158130,6 +158231,82 @@
       "sources": []
     },
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Kinosemja.ru",
+    "name": "Kinosemja",
+    "alt_names": [
+      "Киносемья"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4BF5VeK.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH25/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Kinosemja.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1651",
+      "site_name": "Киносемья",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.nastroykino.ru/kinosemja/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Kinosvidanie.ru",
+    "name": "Kinosvidanie",
+    "alt_names": [
+      "Киносвидание"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ZRaWqxj.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH21/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Kinosvidanie.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1159",
+      "site_name": "Киносвидание",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.nastroykino.ru/kinosvidanie/",
     "launched": null,
     "closed": null
   },
@@ -253324,6 +253501,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/H70LxoZ.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH23/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RodnoeKino.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1103",
+      "site_name": "Родное кино",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.nastroykino.ru/rodnoe-kino/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RodnoeKino.ru",
+    "name": "Rodnoe Kino",
+    "alt_names": [
+      "Родное Кино"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/H70LxoZ.png",
     "stream_url": "http://31.148.48.15/Rodnoe_kino/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -294772,8 +294985,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3431-294x165-FFFFFF.jpg",
-    "stream_url": "https://inliveserver.com:1936/11516/11516/playlist.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "https://stream.inliveserver.com:19360/8006/8006.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

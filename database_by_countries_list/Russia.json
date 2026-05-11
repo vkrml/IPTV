@@ -1068,6 +1068,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/sVc8cFt.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH49/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AutoPlus.ru",
+      "feed": "SD",
+      "site": "tv.sfr.fr",
+      "site_id": "3287",
+      "site_name": "Auto Plus TV",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.autoplustv.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AutoPlus.ru",
+    "name": "Auto Plus",
+    "alt_names": [
+      "Авто Плюс"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "auto"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sVc8cFt.png",
     "stream_url": "http://31.148.48.15/Avto_Plus/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -5151,6 +5187,83 @@
     "closed": null
   },
   {
+    "id": "KinoHit.ru",
+    "name": "KinoHit",
+    "alt_names": [
+      "Кинохит"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Ge8vkQM.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH57/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "KinoHit.ru",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "kinoxit",
+      "site_name": "Кинохит",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.nastroykino.ru/kinohit/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Kinokomedija.ru",
+    "name": "Kinokomedija",
+    "alt_names": [
+      "Кинокомедия",
+      "Kinokomedia"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/dVjtth0.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH47/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Kinokomedija.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1083",
+      "site_name": "Кинокомедия",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.nastroykino.ru/kinokomedija/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Kinopokaz.ru",
     "name": "Kinopokaz",
     "alt_names": [
@@ -5219,6 +5332,82 @@
       "sources": []
     },
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Kinosemja.ru",
+    "name": "Kinosemja",
+    "alt_names": [
+      "Киносемья"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4BF5VeK.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH25/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Kinosemja.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1651",
+      "site_name": "Киносемья",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.nastroykino.ru/kinosemja/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Kinosvidanie.ru",
+    "name": "Kinosvidanie",
+    "alt_names": [
+      "Киносвидание"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ZRaWqxj.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH21/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Kinosvidanie.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1159",
+      "site_name": "Киносвидание",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.nastroykino.ru/kinosvidanie/",
     "launched": null,
     "closed": null
   },
@@ -10162,6 +10351,42 @@
     },
     "website": null,
     "launched": "2016-06-01",
+    "closed": null
+  },
+  {
+    "id": "RodnoeKino.ru",
+    "name": "Rodnoe Kino",
+    "alt_names": [
+      "Родное Кино"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/H70LxoZ.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH23/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RodnoeKino.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1103",
+      "site_name": "Родное кино",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.nastroykino.ru/rodnoe-kino/",
+    "launched": null,
     "closed": null
   },
   {

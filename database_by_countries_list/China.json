@@ -16,7 +16,7 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/EpTsFVu.png",
     "stream_url": "http://play.kankanlive.com/live/1711956137852982.m3u8",
-    "stream_quality": null,
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -429,6 +429,120 @@
     "closed": null
   },
   {
+    "id": "CCTV1.cn",
+    "name": "CCTV-1",
+    "alt_names": [
+      "CCTV-1 综合"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TpA3cUl.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv1hd.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV1.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv1",
+      "site_name": "CCTV 1",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv1/",
+    "launched": "1958-09-02",
+    "closed": null
+  },
+  {
+    "id": "CCTV2.cn",
+    "name": "CCTV-2",
+    "alt_names": [
+      "CCTV-2 财经"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "business"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ILamhwU.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv2hd.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV2.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv2",
+      "site_name": "CCTV 2",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv2/",
+    "launched": "1973-05-01",
+    "closed": null
+  },
+  {
+    "id": "CCTV3.cn",
+    "name": "CCTV-3",
+    "alt_names": [
+      "CCTV-3 综艺"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/iFlkIuw.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv3hd.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV3.cn",
+      "feed": "SD",
+      "site": "tvhebdo.com",
+      "site_id": "cct3/CCT3",
+      "site_name": "CCT3",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv3/",
+    "launched": "1986-01-01",
+    "closed": null
+  },
+  {
     "id": "CCTV4America.cn",
     "name": "CCTV-4 America",
     "alt_names": [
@@ -535,6 +649,44 @@
     "closed": null
   },
   {
+    "id": "CCTV5.cn",
+    "name": "CCTV-5",
+    "alt_names": [
+      "CCTV-5 体育"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nbmnGwE.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv5hd.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV5.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv5",
+      "site_name": "CCTV 5",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv5/",
+    "launched": "1995-01-01",
+    "closed": null
+  },
+  {
     "id": "CCTV5Plus.cn",
     "name": "CCTV-5+",
     "alt_names": [
@@ -554,8 +706,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/OK8mdJV.png",
-    "stream_url": "http://69.30.246.194/live/cctv5p.m3u8",
-    "stream_quality": "576i",
+    "stream_url": "http://192.151.150.154/live/cctv5p.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -570,6 +722,82 @@
     },
     "website": "http://tv.cctv.com/cctv5plus/",
     "launched": "2006-01-01",
+    "closed": null
+  },
+  {
+    "id": "CCTV7.cn",
+    "name": "CCTV-7",
+    "alt_names": [
+      "CCTV-7 国防军事"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CKcPMQC.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv7hd.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV7.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv7",
+      "site_name": "CCTV 7",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv7/",
+    "launched": "1995-11-30",
+    "closed": null
+  },
+  {
+    "id": "CCTV8.cn",
+    "name": "CCTV-8",
+    "alt_names": [
+      "CCTV-8 电视剧"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/GyHaZ8X.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv8hd.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV8.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv8",
+      "site_name": "CCTV 8",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv8/",
+    "launched": "1996-01-01",
     "closed": null
   },
   {
@@ -677,6 +905,120 @@
     "closed": null
   },
   {
+    "id": "CCTV10.cn",
+    "name": "CCTV-10",
+    "alt_names": [
+      "CCTV-10 科教"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sSSO7UD.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv10hd.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV10.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv10",
+      "site_name": "CCTV 10",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv10/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CCTV11.cn",
+    "name": "CCTV-11",
+    "alt_names": [
+      "CCTV-11 戏曲"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CjOWx7L.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv11hd.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV11.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv11",
+      "site_name": "CCTV 11",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv11/",
+    "launched": "2001-07-09",
+    "closed": null
+  },
+  {
+    "id": "CCTV12.cn",
+    "name": "CCTV-12",
+    "alt_names": [
+      "CCTV-12 社会与法"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/3yTuiOM.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV12.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv12",
+      "site_name": "CCTV 12",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv12/",
+    "launched": "2002-05-12",
+    "closed": null
+  },
+  {
     "id": "CCTV13.cn",
     "name": "CCTV-13",
     "alt_names": [
@@ -716,6 +1058,121 @@
     "closed": null
   },
   {
+    "id": "CCTV13.cn",
+    "name": "CCTV-13",
+    "alt_names": [
+      "CCTV-13 新闻",
+      "中国中央电视台新闻频道"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6MTar6J.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv13hd.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV13.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv13",
+      "site_name": "CCTV 13",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv13/",
+    "launched": "2003-05-01",
+    "closed": null
+  },
+  {
+    "id": "CCTV14.cn",
+    "name": "CCTV-14",
+    "alt_names": [
+      "CCTV-14 少儿"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/c5SXW7i.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv14hd.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV14.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctvchild",
+      "site_name": "CCTV 14",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv14/",
+    "launched": "2003-12-28",
+    "closed": null
+  },
+  {
+    "id": "CCTV15.cn",
+    "name": "CCTV-15",
+    "alt_names": [
+      "CCTV-15 音乐"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CCV0eRG.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV15.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv15",
+      "site_name": "CCTV 15",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv15/",
+    "launched": "2004-03-29",
+    "closed": null
+  },
+  {
     "id": "CCTV16.cn",
     "name": "CCTV-16",
     "alt_names": [
@@ -736,13 +1193,44 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ZzV6JQp.png",
     "stream_url": "http://74.91.26.218:82/live/cctv16hd.m3u8",
-    "stream_quality": null,
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
     "website": "http://tv.cctv.com/cctv16/",
     "launched": "2021-10-21",
+    "closed": null
+  },
+  {
+    "id": "CCTV17.cn",
+    "name": "CCTV-17",
+    "alt_names": [
+      "CCTV-17 农业农村"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "outdoor",
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/jSQURxS.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv17hd.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://tv.cctv.com/cctv17/",
+    "launched": "2003-12-28",
     "closed": null
   },
   {

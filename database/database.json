@@ -8204,7 +8204,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/aa/abn-news-pk.png",
+    "logo": null,
     "stream_url": "http://115.42.65.142:9981/stream/channelid/966869781",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -8234,7 +8234,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/aa/abn-news-pk.png",
+    "logo": null,
     "stream_url": "https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8",
     "stream_quality": "360p",
     "stream_format": null,
@@ -14254,7 +14254,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/aa/alhaqeqa-aldawlia-jo.png",
+    "logo": null,
     "stream_url": "https://ghaasiflu.online/alhqeqa/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -21117,7 +21117,7 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/EpTsFVu.png",
     "stream_url": "http://play.kankanlive.com/live/1711956137852982.m3u8",
-    "stream_quality": null,
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -26927,7 +26927,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/aa/arko-tv.png",
+    "logo": null,
     "stream_url": "https://arkhls.wns.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -31451,7 +31451,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/aa/ava-family-iq.png",
+    "logo": null,
     "stream_url": "https://familyhls.avatv.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -32067,7 +32067,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
     "stream_url": "https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd",
     "stream_quality": "720p",
     "stream_format": null,
@@ -42321,7 +42321,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/bb/bebeto-tv-do.png",
+    "logo": null,
     "stream_url": "https://mlb.essastream.com:8081/bebetotelevision/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -46503,7 +46503,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/bb/binge-us.png",
+    "logo": null,
     "stream_url": "https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -65566,6 +65566,120 @@
     "closed": null
   },
   {
+    "id": "CCTV1.cn",
+    "name": "CCTV-1",
+    "alt_names": [
+      "CCTV-1 综合"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TpA3cUl.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv1hd.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV1.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv1",
+      "site_name": "CCTV 1",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv1/",
+    "launched": "1958-09-02",
+    "closed": null
+  },
+  {
+    "id": "CCTV2.cn",
+    "name": "CCTV-2",
+    "alt_names": [
+      "CCTV-2 财经"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "business"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ILamhwU.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv2hd.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV2.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv2",
+      "site_name": "CCTV 2",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv2/",
+    "launched": "1973-05-01",
+    "closed": null
+  },
+  {
+    "id": "CCTV3.cn",
+    "name": "CCTV-3",
+    "alt_names": [
+      "CCTV-3 综艺"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/iFlkIuw.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv3hd.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV3.cn",
+      "feed": "SD",
+      "site": "tvhebdo.com",
+      "site_id": "cct3/CCT3",
+      "site_name": "CCT3",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv3/",
+    "launched": "1986-01-01",
+    "closed": null
+  },
+  {
     "id": "CCTV4America.cn",
     "name": "CCTV-4 America",
     "alt_names": [
@@ -65672,6 +65786,44 @@
     "closed": null
   },
   {
+    "id": "CCTV5.cn",
+    "name": "CCTV-5",
+    "alt_names": [
+      "CCTV-5 体育"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nbmnGwE.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv5hd.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV5.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv5",
+      "site_name": "CCTV 5",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv5/",
+    "launched": "1995-01-01",
+    "closed": null
+  },
+  {
     "id": "CCTV5Plus.cn",
     "name": "CCTV-5+",
     "alt_names": [
@@ -65691,8 +65843,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/OK8mdJV.png",
-    "stream_url": "http://69.30.246.194/live/cctv5p.m3u8",
-    "stream_quality": "576i",
+    "stream_url": "http://192.151.150.154/live/cctv5p.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -65707,6 +65859,82 @@
     },
     "website": "http://tv.cctv.com/cctv5plus/",
     "launched": "2006-01-01",
+    "closed": null
+  },
+  {
+    "id": "CCTV7.cn",
+    "name": "CCTV-7",
+    "alt_names": [
+      "CCTV-7 国防军事"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CKcPMQC.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv7hd.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV7.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv7",
+      "site_name": "CCTV 7",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv7/",
+    "launched": "1995-11-30",
+    "closed": null
+  },
+  {
+    "id": "CCTV8.cn",
+    "name": "CCTV-8",
+    "alt_names": [
+      "CCTV-8 电视剧"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/GyHaZ8X.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv8hd.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV8.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv8",
+      "site_name": "CCTV 8",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv8/",
+    "launched": "1996-01-01",
     "closed": null
   },
   {
@@ -65814,6 +66042,120 @@
     "closed": null
   },
   {
+    "id": "CCTV10.cn",
+    "name": "CCTV-10",
+    "alt_names": [
+      "CCTV-10 科教"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sSSO7UD.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv10hd.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV10.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv10",
+      "site_name": "CCTV 10",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv10/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CCTV11.cn",
+    "name": "CCTV-11",
+    "alt_names": [
+      "CCTV-11 戏曲"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CjOWx7L.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv11hd.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV11.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv11",
+      "site_name": "CCTV 11",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv11/",
+    "launched": "2001-07-09",
+    "closed": null
+  },
+  {
+    "id": "CCTV12.cn",
+    "name": "CCTV-12",
+    "alt_names": [
+      "CCTV-12 社会与法"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/3yTuiOM.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV12.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv12",
+      "site_name": "CCTV 12",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv12/",
+    "launched": "2002-05-12",
+    "closed": null
+  },
+  {
     "id": "CCTV13.cn",
     "name": "CCTV-13",
     "alt_names": [
@@ -65853,6 +66195,121 @@
     "closed": null
   },
   {
+    "id": "CCTV13.cn",
+    "name": "CCTV-13",
+    "alt_names": [
+      "CCTV-13 新闻",
+      "中国中央电视台新闻频道"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6MTar6J.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv13hd.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV13.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv13",
+      "site_name": "CCTV 13",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv13/",
+    "launched": "2003-05-01",
+    "closed": null
+  },
+  {
+    "id": "CCTV14.cn",
+    "name": "CCTV-14",
+    "alt_names": [
+      "CCTV-14 少儿"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/c5SXW7i.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv14hd.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV14.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctvchild",
+      "site_name": "CCTV 14",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv14/",
+    "launched": "2003-12-28",
+    "closed": null
+  },
+  {
+    "id": "CCTV15.cn",
+    "name": "CCTV-15",
+    "alt_names": [
+      "CCTV-15 音乐"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CCV0eRG.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV15.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv15",
+      "site_name": "CCTV 15",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv15/",
+    "launched": "2004-03-29",
+    "closed": null
+  },
+  {
     "id": "CCTV16.cn",
     "name": "CCTV-16",
     "alt_names": [
@@ -65873,13 +66330,44 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ZzV6JQp.png",
     "stream_url": "http://74.91.26.218:82/live/cctv16hd.m3u8",
-    "stream_quality": null,
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
     "website": "http://tv.cctv.com/cctv16/",
     "launched": "2021-10-21",
+    "closed": null
+  },
+  {
+    "id": "CCTV17.cn",
+    "name": "CCTV-17",
+    "alt_names": [
+      "CCTV-17 农业农村"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "outdoor",
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/jSQURxS.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv17hd.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://tv.cctv.com/cctv17/",
+    "launched": "2003-12-28",
     "closed": null
   },
   {
@@ -70417,6 +70905,49 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/RUSX0rX.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH125/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ChannelOne.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1693",
+      "site_name": "Первый канал HD",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.1tv.ru/",
+    "launched": "1938-03-09",
+    "closed": null
+  },
+  {
+    "id": "ChannelOne.ru",
+    "name": "Channel One",
+    "alt_names": [
+      "Первый канал",
+      "Pervyy Kanal",
+      "First Channel",
+      "Channel 1 Ostankino",
+      "Public Russian Television",
+      "ORT"
+    ],
+    "network": null,
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/RUSX0rX.png",
     "stream_url": "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd",
     "stream_quality": "720p",
     "stream_format": null,
@@ -70845,7 +71376,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/cc/charana-tv-lk.png",
+    "logo": null,
     "stream_url": "https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8",
     "stream_quality": "360p",
     "stream_format": null,
@@ -71152,6 +71683,44 @@
     "tv_guide": null,
     "website": "http://www.chco.tv/",
     "launched": "2006-11-01",
+    "closed": null
+  },
+  {
+    "id": "Che.ru",
+    "name": "Che!",
+    "alt_names": [
+      "Че!"
+    ],
+    "network": null,
+    "owners": [
+      "CTC Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ZOcDGpB.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH185/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Che.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2068",
+      "site_name": "Че",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://chetv.ru/",
+    "launched": "2015-11-12",
     "closed": null
   },
   {
@@ -71916,7 +72485,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/cc/chosen-tv-ng.png",
+    "logo": null,
     "stream_url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u8",
     "stream_quality": "360p",
     "stream_format": null,
@@ -71942,7 +72511,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/cc/chosen-tv-ng.png",
+    "logo": null,
     "stream_url": "https://live20.bozztv.com/dvrfl06/astv/astv-chosentv/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -84924,7 +85493,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/radio/rr/radio-damascus-sy.png",
+    "logo": null,
     "stream_url": "https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -85194,7 +85763,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
+    "logo": null,
     "stream_url": "https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -85220,7 +85789,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
+    "logo": null,
     "stream_url": "https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -85246,7 +85815,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
+    "logo": null,
     "stream_url": "https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -85272,7 +85841,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
+    "logo": null,
     "stream_url": "https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -85298,7 +85867,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
+    "logo": null,
     "stream_url": "https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -90404,7 +90973,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/dd/dej-tv.png",
+    "logo": null,
     "stream_url": "https://rdejhls.wns.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -94769,7 +95338,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/dd/d-music-kh.png",
+    "logo": null,
     "stream_url": "http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8",
     "stream_quality": "1280p",
     "stream_format": null,
@@ -95637,6 +96206,44 @@
     "tv_guide": null,
     "website": "https://www.dokusat.de/",
     "launched": "2024-01-01",
+    "closed": null
+  },
+  {
+    "id": "DomashnieZhivotnye.ru",
+    "name": "Domashnie Zhivotnye",
+    "alt_names": [
+      "Домашние животные"
+    ],
+    "network": null,
+    "owners": [
+      "STS Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ISJzQGP.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH207/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DomashnieZhivotnye.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1333",
+      "site_name": "Домашние животные",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://domashniejivotnie.tv/",
+    "launched": null,
     "closed": null
   },
   {
@@ -98538,7 +99145,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/dd/dunya-tv-az.png",
+    "logo": null,
     "stream_url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -104226,6 +104833,34 @@
     "tv_guide": null,
     "website": "https://www.ert.gr/",
     "launched": "1988-12-14",
+    "closed": null
+  },
+  {
+    "id": "ERTCosmos.gr",
+    "name": "ERT Cosmos",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Hellenic Broadcasting Corporation"
+    ],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ERT_Cosmos_Logo_2026.svg/960px-ERT_Cosmos_Logo_2026.svg.png",
+    "stream_url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.ert.gr/tv/program/ert-cosmos/",
+    "launched": "2026-05-07",
     "closed": null
   },
   {
@@ -114281,6 +114916,37 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/tXABQDE.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH121/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://fonmusic.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FonMusic.ru",
+    "name": "Fon Music",
+    "alt_names": [
+      "TNT Music",
+      "ТНТ Music"
+    ],
+    "network": null,
+    "owners": [
+      "ООО Фонбет ТВ"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/tXABQDE.png",
     "stream_url": "https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -119271,7 +119937,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/ff/fx-1.png",
+    "logo": null,
     "stream_url": "https://fxtvhls.wns.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -119297,7 +119963,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/ff/fx-two-fr.png",
+    "logo": null,
     "stream_url": "https://toonixhls.wns.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -122226,7 +122892,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/gg/get-tv-do.png",
+    "logo": null,
     "stream_url": "https://cnn.livestreaminggroup.info:3050/live/gettv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -122283,7 +122949,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/gg/gh-canada-tv-ca.png",
+    "logo": null,
     "stream_url": "https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -122701,7 +123367,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/gg/giovanni-paolo-tv-it.png",
+    "logo": null,
     "stream_url": "https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -124235,7 +124901,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/gg/goldmines-2-in.png",
+    "logo": null,
     "stream_url": "https://cdn-2.pishow.tv/live/1460/master.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -125928,7 +126594,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/gg/grand-cinema.png",
+    "logo": null,
     "stream_url": "https://gcinemahls.wns.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -127751,7 +128417,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/gg/guinness-world-records-us.png",
+    "logo": null,
     "stream_url": "https://stream.ads.ottera.tv/cl/260421d7jmp97108ighs2i413g/1280x720_2300000_0_f.m3u8?i=475_567",
     "stream_quality": "480i",
     "stream_format": null,
@@ -130345,7 +131011,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/hh/harvest_tv_in_usa.png",
+    "logo": null,
     "stream_url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -133485,7 +134151,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/hh/hitv.png",
+    "logo": null,
     "stream_url": "https://mini.allinonereborn.fun/tata.php?id=11596",
     "stream_quality": "576p",
     "stream_format": null,
@@ -135388,7 +136054,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/hh/homeplus.png",
+    "logo": null,
     "stream_url": "https://homeplushls.wns.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -139068,7 +139734,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/ii/iccplus-us.png",
+    "logo": null,
     "stream_url": "https://icchls.wns.live/hls/stream.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -141364,6 +142030,45 @@
     "tv_guide": null,
     "website": "https://www.ipcf.org.tw/",
     "launched": "2005-07-01",
+    "closed": null
+  },
+  {
+    "id": "IndiyskoyeKino.ru",
+    "name": "Indiyskoye Kino",
+    "alt_names": [
+      "Индийское кино",
+      "Indijskoe Kino"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/LL8GyCh.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH107/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "IndiyskoyeKino.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "833",
+      "site_name": "Индийское кино",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.nastroykino.ru/indijskoe-kino/",
+    "launched": null,
     "closed": null
   },
   {
@@ -143972,7 +144677,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/ii/iran-national-revolution-tv-us.png",
+    "logo": null,
     "stream_url": "https://hls.irannrtv.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -147959,7 +148664,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/jj/jewelry-tv-2-us.png",
+    "logo": null,
     "stream_url": "https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -154133,7 +154838,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/kk/kanal-32-tr.png",
+    "logo": null,
     "stream_url": "https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -157691,7 +158396,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/kk/khabarbin-tv.png",
+    "logo": null,
     "stream_url": "https://khbhls.wns.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -157815,7 +158520,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/kk/khalij-tv.png",
+    "logo": null,
     "stream_url": "https://khalijhls.wns.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -164949,6 +165654,45 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/7jxZnuS.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH65/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "KukhnyaTV.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1094",
+      "site_name": "Кухня ТВ",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.kuhnyatv.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "KukhnyaTV.ru",
+    "name": "Kukhnya TV",
+    "alt_names": [
+      "Кухня ТВ",
+      "Kuhnya TV"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "cooking"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/7jxZnuS.png",
     "stream_url": "http://31.148.48.15/Kuhnya_TV/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -165669,7 +166413,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/kk/kvf-sjonvarp-fo.png",
+    "logo": null,
     "stream_url": "https://live.kringvarp.fo/uttanlands/720/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -168250,7 +168994,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/ll/lanthung-tv-th.png",
+    "logo": null,
     "stream_url": "https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -170368,7 +171112,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/ll/legislative-assembly-of-british-columbia-ca.png",
+    "logo": null,
     "stream_url": "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -175596,7 +176340,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/ll/luna-tv-it.png",
+    "logo": null,
     "stream_url": "https://5f22d76e220e1.streamlock.net/lunatv/lunatv/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -178192,7 +178936,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/mm/malar-tv-in.png",
+    "logo": null,
     "stream_url": "https://cdn-3.pishow.tv/live/473/master.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -179006,7 +179750,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/mm/manoranjan-prime-in.png",
+    "logo": null,
     "stream_url": "https://cdn-4.pishow.tv/live/1474/master.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -179322,7 +180066,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/mm/maria-plus-vision-italia-mx-it.png",
+    "logo": null,
     "stream_url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -179879,7 +180623,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/mm/masters-tv-ng.png",
+    "logo": null,
     "stream_url": "https://mn-nl.mncdn.com/commectv_live/masterstv/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -183075,7 +183819,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/mm/media-tv-th.png",
+    "logo": null,
     "stream_url": "http://49.0.87.24:1936/HDMediatv/Mediatv/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -183155,7 +183899,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/mm/medjugorje_italia_tv_ba.png",
+    "logo": null,
     "stream_url": "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8",
     "stream_quality": "480p",
     "stream_format": null,
@@ -184325,7 +185069,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png",
+    "logo": null,
     "stream_url": "https://metafilmhls.wns.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -185113,7 +185857,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/mm/mh-1-movies-in.png",
+    "logo": null,
     "stream_url": "https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -204558,7 +205302,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/nn/newsmax-2-us-ug.png",
+    "logo": null,
     "stream_url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -204594,7 +205338,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/nn/newsmax-2-us-ug.png",
+    "logo": null,
     "stream_url": "https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -204630,7 +205374,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/nn/newsmax-2-us-ug.png",
+    "logo": null,
     "stream_url": "https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -204666,7 +205410,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/nn/newsmax-2-us-ug.png",
+    "logo": null,
     "stream_url": "https://newsmax-klowdtv.amagi.tv/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -204702,7 +205446,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/nn/newsmax-2-us-ug.png",
+    "logo": null,
     "stream_url": "https://jmp2.uk/plu-55b179af994403942f3061d6.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -204738,7 +205482,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/nn/newsmax-2-us-ug.png",
+    "logo": null,
     "stream_url": "https://amg00217-newsmax-newsmax-rokuus-dur76.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -204774,7 +205518,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/nn/newsmax-2-us-ug.png",
+    "logo": null,
     "stream_url": "https://newsmax-samsungus.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -204810,7 +205554,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/nn/newsmax-2-us-ug.png",
+    "logo": null,
     "stream_url": "https://newsmax-vizio.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -205574,7 +206318,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/nn/new-vision-tv-ng.png",
+    "logo": null,
     "stream_url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8",
     "stream_quality": "360p",
     "stream_format": null,
@@ -207404,6 +208148,45 @@
     "closed": null
   },
   {
+    "id": "NickOnline.br",
+    "name": "NickOnline",
+    "alt_names": [
+      "Nickelodeon Online"
+    ],
+    "network": null,
+    "owners": [
+      "x1co"
+    ],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids",
+      "animation"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://x1co.com.br:8443/logo.png",
+    "stream_url": "https://sdnew.x1co.com.br/hls/stream.m3u8",
+    "stream_quality": "320p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NickOnline.br",
+      "feed": "HD",
+      "site": "x1co.com.br",
+      "site_id": "nickonline.br",
+      "site_name": "NickOnline",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://x1co.com.br",
+    "launched": "2026-01-03",
+    "closed": null
+  },
+  {
     "id": "NickOnlineSpongebob.br",
     "name": "NickOnline Spongebob",
     "alt_names": [
@@ -207872,7 +208655,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/nn/nigbati-ng.png",
+    "logo": null,
     "stream_url": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ELXULYQ68MHDUFJXLJCP/hls3/now,-1m/m.m3u8?ads.vf=DcM9DUpIwqO",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -207906,7 +208689,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/nn/nigbati-ng.png",
+    "logo": null,
     "stream_url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -209701,7 +210484,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/nn/noticias-16-do.png",
+    "logo": null,
     "stream_url": "https://edge.essastream.com/noticias16/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -212312,6 +213095,43 @@
     },
     "website": "http://pr.nsmall.com/",
     "launched": "2015-12-01",
+    "closed": null
+  },
+  {
+    "id": "NST.ru",
+    "name": "NST",
+    "alt_names": [
+      "НСТ",
+      "Настоящее Страшное Телевидение"
+    ],
+    "network": null,
+    "owners": [
+      "VGTRK"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/uv2yxa5.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH157/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NST.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "929",
+      "site_name": "Настоящее Страшное Телевидение",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://strashnoe.tv/",
+    "launched": null,
     "closed": null
   },
   {
@@ -219732,7 +220552,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/oo/on-tv-in.png",
+    "logo": null,
     "stream_url": "https://mumt03.tangotv.in/ONTV/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -226582,7 +227402,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-docs-fr.png",
+    "logo": null,
     "stream_url": "https://scihls.persiana.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -226638,7 +227458,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-fight-fr.png",
+    "logo": null,
     "stream_url": "https://fighthls.persiana.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -226666,7 +227486,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-folk-fr.png",
+    "logo": null,
     "stream_url": "https://sonhls.persiana.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -226778,7 +227598,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-latino-fr.png",
+    "logo": null,
     "stream_url": "https://latinohls.persiana.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -226806,7 +227626,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-medical-fr.png",
+    "logo": null,
     "stream_url": "https://phd2hls.persiana.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -226834,7 +227654,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-medical-fr.png",
+    "logo": null,
     "stream_url": "https://tfnhls.wns.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -226919,7 +227739,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-reality-fr.png",
+    "logo": null,
     "stream_url": "https://twohls.persiana.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -226947,7 +227767,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-series-fr.png",
+    "logo": null,
     "stream_url": "https://onehls.persiana.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -226975,7 +227795,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-teen-fr.png",
+    "logo": null,
     "stream_url": "https://kphls.persiana.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -227003,7 +227823,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-travel-fr.png",
+    "logo": null,
     "stream_url": "https://ptravelhls.persiana.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -227031,7 +227851,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-travel-fr.png",
+    "logo": null,
     "stream_url": "https://mardomhls.wns.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -227059,7 +227879,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png",
+    "logo": null,
     "stream_url": "https://turkhls.persiana.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -227087,7 +227907,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-vibe-fr.png",
+    "logo": null,
     "stream_url": "https://raphls.persiana.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -232631,7 +233451,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png",
+    "logo": null,
     "stream_url": "https://pmcrohls.wns.live/hls/stream.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -252009,6 +252829,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/0Tu5lte.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH189/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RENTV.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "2580",
+      "site_name": "РЕН ТВ HD",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://ren.tv/",
+    "launched": "1993-07-19",
+    "closed": null
+  },
+  {
+    "id": "RENTV.ru",
+    "name": "REN TV",
+    "alt_names": [
+      "РЕН ТВ"
+    ],
+    "network": null,
+    "owners": [
+      "National Media Group"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/0Tu5lte.png",
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/14.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -252929,6 +253787,44 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Retro.ru",
+    "name": "Retro",
+    "alt_names": [
+      "Ретро"
+    ],
+    "network": null,
+    "owners": [
+      "Stream"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "classic"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/p21co1w.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH149/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Retro.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "889",
+      "site_name": "Ретро",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://tv-stream.ru/tv/retro",
+    "launched": "2005-05-03",
     "closed": null
   },
   {
@@ -258073,6 +258969,42 @@
       "sources": []
     },
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RTGTV.ru",
+    "name": "RTG TV",
+    "alt_names": [
+      "Russian Travel Guide"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "travel"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ZMKPAho.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH179/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RTGTV.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1817",
+      "site_name": "Russian Travel Guide HD",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://www.rtgtv.ru/channels/rtgtv",
     "launched": null,
     "closed": null
   },
@@ -274219,7 +275151,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/ss/sairam_tv_in.png",
+    "logo": null,
     "stream_url": "https://mumt04.tangotv.in/SAIRAMTV/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -274245,7 +275177,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/ss/sairam_tv_in.png",
+    "logo": null,
     "stream_url": "https://cdn-3.pishow.tv/live/1611/master.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -276685,6 +277617,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/u4q1rMT.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH199/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Sarafan.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1179",
+      "site_name": "Сарафан",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://sarafan-tv.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Sarafan.ru",
+    "name": "Sarafan",
+    "alt_names": [
+      "Сарафан"
+    ],
+    "network": null,
+    "owners": [
+      "VGTRK"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/u4q1rMT.png",
     "stream_url": "http://31.148.48.15/Sarafan/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -278871,7 +279839,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/nn/new-jerusalem-de.png",
+    "logo": null,
     "stream_url": "https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -279275,7 +280243,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/ss/setareh-tv-uk.png",
+    "logo": null,
     "stream_url": "https://setarehhls.wns.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -289250,6 +290218,45 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/yY39nMg.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH105/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Spas.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1193",
+      "site_name": "Спас ТВ",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://spastv.ru/",
+    "launched": "2005-07-28",
+    "closed": null
+  },
+  {
+    "id": "Spas.ru",
+    "name": "Spas",
+    "alt_names": [
+      "Спас",
+      "Спас ТВ"
+    ],
+    "network": null,
+    "owners": [
+      "Moscow Patriarchate"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/yY39nMg.png",
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/15.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -292570,7 +293577,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/ss/start-tv-az.png",
+    "logo": null,
     "stream_url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -293067,7 +294074,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/ss/stimmungsgarten-tv-de.png",
+    "logo": null,
     "stream_url": "https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -300260,6 +301267,45 @@
     },
     "website": null,
     "launched": "2025-06-06",
+    "closed": null
+  },
+  {
+    "id": "T24.ru",
+    "name": "T24",
+    "alt_names": [
+      "Т24",
+      "Техно 24",
+      "Tekhno 24",
+      "24 Tekhno"
+    ],
+    "network": null,
+    "owners": [
+      "VGTRK"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/1W6R14o.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH173/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "T24.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1944",
+      "site_name": "Техно 24",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://techno24.tv/",
+    "launched": null,
     "closed": null
   },
   {
@@ -307920,7 +308966,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/tt/tele-one-16-it.png",
+    "logo": null,
     "stream_url": "https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -312799,7 +313845,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/tt/thaiban-83.png",
+    "logo": null,
     "stream_url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -318645,7 +319691,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/tt/tln-media-us.png",
+    "logo": null,
     "stream_url": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/cb165faa-41c9-42ad-83ee-ad5ca9fb927c.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -318673,7 +319719,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/tt/tln-media-us.png",
+    "logo": null,
     "stream_url": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/b29d27bb-88af-42d1-937a-5bdf76b71c17.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -319447,6 +320493,45 @@
     "tv_guide": null,
     "website": "https://tnpnews.in/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TNT4.ru",
+    "name": "TNT4",
+    "alt_names": [
+      "ТНТ4",
+      "ТНТ-Comedy"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/gBokU5i.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH71/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TNT4.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2097",
+      "site_name": "ТНТ4",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://tnt4.ru/",
+    "launched": "2014-09-01",
     "closed": null
   },
   {
@@ -332216,7 +333301,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/tt/tv-canal-sur-do.png",
+    "logo": null,
     "stream_url": "https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -334560,7 +335645,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/tt/tv-encontro-das-aguas-br.png",
+    "logo": null,
     "stream_url": "https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -348162,7 +349247,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/uu/unews-lb.png",
+    "logo": null,
     "stream_url": "https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -356130,6 +357215,44 @@
     },
     "website": "https://www.volver.com.ar/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VoprosyiOtvety.ru",
+    "name": "Voprosy i Otvety",
+    "alt_names": [
+      "Вопросы и ответы"
+    ],
+    "network": null,
+    "owners": [
+      "Stream"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/yjETxk1.png",
+    "stream_url": "http://tmptv.sunduk.tv/CH211/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "VoprosyiOtvety.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1064",
+      "site_name": "Вопросы и ответы",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://tv-stream.ru/channels",
+    "launched": "2009-10-01",
     "closed": null
   },
   {
@@ -373043,7 +374166,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/zz/zarin_tv.png",
+    "logo": null,
     "stream_url": "https://fl1002.bozztv.com/gf-zarintv/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -373594,7 +374717,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.lyngsat.com/logo/tv/zz/zed-tv.png",
+    "logo": null,
     "stream_url": "https://zedhls.wns.live/hls/stream.m3u8",
     "stream_quality": null,
     "stream_format": null,

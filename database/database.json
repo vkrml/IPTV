@@ -12382,32 +12382,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://gitlab.com/alabbassia-tv/alabbassia-tv-source/-/raw/main/Logo_PNG.png",
-    "stream_url": "srt://stream.alabbassia.com:8890?mode=caller&latency=200&streamid=read:live/alabbassia",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://alabbassia.com",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "AlabbassiaTV.iq",
-    "name": "Alabbassia TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IQ",
-    "country_name": "Iraq",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://gitlab.com/alabbassia-tv/alabbassia-tv-source/-/raw/main/Logo_PNG.png",
     "stream_url": "https://stream.alabbassia.com/live/alabbassia/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -21324,8 +21298,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/9mK6dgM.png",
-    "stream_url": "https://mini.allinonereborn.fun/tata.php?id=11619",
-    "stream_quality": "720p",
+    "stream_url": "http://149.71.34.166:8000/play/a001/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -36598,6 +36572,42 @@
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BBCNews.uk",
+      "feed": "Africa",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000116_019005",
+      "site_name": "BBC News",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.bbc.co.uk/tv/bbcnews",
+    "launched": "1997-11-09",
+    "closed": null
+  },
+  {
+    "id": "BBCNews.uk",
+    "name": "BBC News",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BBC Studios"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
+    "stream_url": "http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -79169,84 +79179,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s158150_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://103.229.254.25:7001/play/a0du/index.m3u8",
+    "stream_url": "http://149.71.34.166:8002/play/a01d/index.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ColorsInfinity.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "187",
-      "site_name": "Colors Infinity HD",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.colorstv.com/us/",
-    "launched": "2008-07-21",
-    "closed": null
-  },
-  {
-    "id": "ColorsInfinity.in",
-    "name": "Colors Infinity",
-    "alt_names": [],
-    "network": "Colors",
-    "owners": [
-      "JioStar India Pvt. Ltd.",
-      "Reliance Industries(RIL)",
-      "The Walt Disney Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s158150_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://103.72.101.252:8080/live/1158.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ColorsInfinity.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "187",
-      "site_name": "Colors Infinity HD",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.colorstv.com/us/",
-    "launched": "2008-07-21",
-    "closed": null
-  },
-  {
-    "id": "ColorsInfinity.in",
-    "name": "Colors Infinity",
-    "alt_names": [],
-    "network": "Colors",
-    "owners": [
-      "JioStar India Pvt. Ltd.",
-      "Reliance Industries(RIL)",
-      "The Walt Disney Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s158150_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://103.72.101.252:8080/live/1325.m3u8",
-    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -93297,7 +93231,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s142989_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://116.90.120.151:8000/play/a0hp/index.m3u8",
+    "stream_url": "http://149.71.34.166:8002/play/a01p/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -127465,6 +127399,42 @@
     "closed": null
   },
   {
+    "id": "GTV.ph",
+    "name": "GTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "GMA Network Inc"
+    ],
+    "country_code": "PH",
+    "country_name": "Philippines",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/rWhamwh.png",
+    "stream_url": "http://pro.reott8k.xyz/play/live.php?mac=00:1A:79:7B:BB:36&stream=1548700&extension=m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GTV.ph",
+      "feed": "SD",
+      "site": "clickthecity.com",
+      "site_id": "143",
+      "site_name": "GTV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.gmanetwork.com/news/",
+    "launched": "2021-02-22",
+    "closed": null
+  },
+  {
     "id": "GTV.si",
     "name": "GTV",
     "alt_names": [],
@@ -138396,7 +138366,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143150_ld_h15_aa.png?lock=720x540",
-    "stream_url": "https://mini.allinonereborn.fun/tata.php?id=11647",
+    "stream_url": "http://149.71.34.166:8000/play/a075/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -198300,8 +198270,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://103.157.248.140:8000/play/a012/index.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "http://149.71.34.166:8002/play/a013/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -198523,7 +198493,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143572_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://103.157.248.140:8000/play/a010/index.m3u8",
+    "stream_url": "http://149.71.34.166:8002/play/a012/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -209152,7 +209122,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU",
-    "stream_url": "https://vs20.live.opencaster.com/nortena933fm_00010364/index.m3u8",
+    "stream_url": "https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -244817,6 +244787,46 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png",
+    "stream_url": "https://srv1.adriatelekom.com/Rai1/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Rai1.it",
+      "feed": "SD",
+      "site": "webtv.delta.nl",
+      "site_id": "3020",
+      "site_name": "Rai Uno",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "https://www.rai.it/rai1/",
+    "launched": "1954-01-03",
+    "closed": null
+  },
+  {
+    "id": "Rai1.it",
+    "name": "Rai 1",
+    "alt_names": [
+      "Rai Uno",
+      "Rete 1",
+      "TV1",
+      "Programma Nazionale",
+      "ReteTV"
+    ],
+    "network": null,
+    "owners": [
+      "Rai"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png",
     "stream_url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803",
     "stream_quality": "576p",
     "stream_format": null,
@@ -245005,6 +245015,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png",
+    "stream_url": "https://srv1.adriatelekom.com/Rai2/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Rai2.it",
+      "feed": "SD",
+      "site": "web.magentatv.de",
+      "site_id": "46",
+      "site_name": "Rai 2",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "https://www.rai.it/rai2/",
+    "launched": "1961-11-04",
+    "closed": null
+  },
+  {
+    "id": "Rai2.it",
+    "name": "Rai 2",
+    "alt_names": [
+      "RAI Due"
+    ],
+    "network": null,
+    "owners": [
+      "Rai"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png",
     "stream_url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718",
     "stream_quality": "576p",
     "stream_format": null,
@@ -245121,6 +245167,44 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png",
     "stream_url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Rai3.it",
+      "feed": "HD",
+      "site": "web.magentatv.de",
+      "site_id": "210",
+      "site_name": "Rai 3",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "https://www.rai.it/rai3/",
+    "launched": "1979-12-15",
+    "closed": null
+  },
+  {
+    "id": "Rai3.it",
+    "name": "Rai 3",
+    "alt_names": [
+      "Rai Tre",
+      "Third Network",
+      "Rete 3"
+    ],
+    "network": null,
+    "owners": [
+      "Rai"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png",
+    "stream_url": "https://srv1.adriatelekom.com/Rai3/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -245353,6 +245437,40 @@
     "logo": "https://i.imgur.com/irAhPJM.png",
     "stream_url": "https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RaiGulp.it",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "al/programacioni#rai-gulp",
+      "site_name": "RAI Gulp",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "http://www.raigulp.rai.it/",
+    "launched": "2007-06-01",
+    "closed": null
+  },
+  {
+    "id": "RaiGulp.it",
+    "name": "Rai Gulp",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rai"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/irAhPJM.png",
+    "stream_url": "https://srv1.adriatelekom.com/RaiGulp/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -245715,6 +245833,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png",
+    "stream_url": "https://srv1.adriatelekom.com/RaiScuola/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RaiScuola.it",
+      "feed": "SD",
+      "site": "tv.sfr.fr",
+      "site_id": "789",
+      "site_name": "RAI SCUOLA",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "http://www.raiscuola.rai.it/",
+    "launched": "2009-10-19",
+    "closed": null
+  },
+  {
+    "id": "RaiScuola.it",
+    "name": "Rai Scuola",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rai"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png",
     "stream_url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011",
     "stream_quality": "576p",
     "stream_format": null,
@@ -245816,6 +245970,47 @@
     "closed": null
   },
   {
+    "id": "RaiSport.it",
+    "name": "Rai Sport",
+    "alt_names": [
+      "Rai Sport 1",
+      "Rai Sport +",
+      "Rai Sport Più",
+      "Rai Sport Satellite"
+    ],
+    "network": null,
+    "owners": [
+      "Rai"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6PEevOM.png",
+    "stream_url": "https://srv1.adriatelekom.com/RaiSport/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RaiSport.it",
+      "feed": "HD",
+      "site": "tv.blue.ch",
+      "site_id": "338",
+      "site_name": "Rai Sport +",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "https://www.raisport.rai.it/",
+    "launched": "1999-02-01",
+    "closed": null
+  },
+  {
     "id": "RaiStoria.it",
     "name": "Rai Storia",
     "alt_names": [
@@ -245870,6 +246065,42 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png",
     "stream_url": "https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RaiStoria.it",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "al/programacioni#rai-storia",
+      "site_name": "RAI Storia",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "http://www.rai.it/raistoria/",
+    "launched": "2002-06-17",
+    "closed": null
+  },
+  {
+    "id": "RaiStoria.it",
+    "name": "Rai Storia",
+    "alt_names": [
+      "Rai Edu 2"
+    ],
+    "network": null,
+    "owners": [
+      "Rai"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png",
+    "stream_url": "https://srv1.adriatelekom.com/RaiStoria/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -290330,6 +290561,74 @@
     "closed": null
   },
   {
+    "id": "SPOTV2.id",
+    "name": "SPOTV 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/YD8fbTH.png",
+    "stream_url": "http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119516.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SPOTV2.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000120",
+      "site_name": "SpoTV 2",
+      "lang": "id",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SPOTV.id",
+    "name": "SPOTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/HaoVsm5.png",
+    "stream_url": "http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119515.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SPOTV.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000119",
+      "site_name": "SpoTV 1",
+      "lang": "id",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SPTV.us",
     "name": "SPTV",
     "alt_names": [],
@@ -292995,6 +293294,40 @@
     "closed": null
   },
   {
+    "id": "StarUtsav.in",
+    "name": "Star Utsav",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s159132_ld_h15_aa.png?lock=720x540",
+    "stream_url": "http://149.71.34.166:8000/play/a04y/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarUtsav.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "551",
+      "site_name": "STAR Utsav",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.starttv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "StarUtsavMovies.in",
     "name": "Star Utsav Movies",
     "alt_names": [],
@@ -293010,7 +293343,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143856_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES&uid=gana-sunega&pass=krish-ka",
+    "stream_url": "http://149.71.34.166:8000/play/a059/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -293052,6 +293385,47 @@
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s144075_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://peaky.techcoder40.workers.dev/776.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarVijay.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "527",
+      "site_name": "STAR Vijay",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.hotstar.com/1260000018",
+    "launched": "1994-11-24",
+    "closed": null
+  },
+  {
+    "id": "StarVijay.in",
+    "name": "Star Vijay",
+    "alt_names": [
+      "Vijay TV",
+      "Golden Eagle Communication"
+    ],
+    "network": "JioStar",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s144075_ld_h15_aa.png?lock=720x540",
+    "stream_url": "http://149.71.34.166:8000/play/a06i/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -348260,7 +348634,9 @@
     "country_name": "Honduras",
     "subdivision": null,
     "city": null,
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/V9Fpd3Y.png",
@@ -354476,6 +354852,46 @@
     "tv_guide": null,
     "website": "https://vietnamtoday.vtv.vn/",
     "launched": "2025-09-07",
+    "closed": null
+  },
+  {
+    "id": "VijaySuper.in",
+    "name": "Vijay Super",
+    "alt_names": [
+      "Star Vijay Super"
+    ],
+    "network": "JioStar",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s158319_ld_h15_aa.png?lock=720x540",
+    "stream_url": "http://149.71.34.166:8000/play/a06c/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "VijaySuper.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "1176",
+      "site_name": "Vijay Super HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.hotstar.com/1260000018",
+    "launched": "2016-08-25",
     "closed": null
   },
   {
@@ -375649,6 +376065,42 @@
     "closed": null
   },
   {
+    "id": "ZeeThirai.in",
+    "name": "Zee Thirai",
+    "alt_names": [],
+    "network": "Z",
+    "owners": [
+      "Zee Entertainment Enterprises Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022S9BF.png?lock=720x540",
+    "stream_url": "http://149.71.34.166:8000/play/a06d/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ZeeThirai.in",
+      "feed": "SD",
+      "site": "zee5.com",
+      "site_id": "0-9-224",
+      "site_name": "Zee Thirai HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.zee5.com/channels/zee-thirai/0-9-224",
+    "launched": "2020-01-19",
+    "closed": null
+  },
+  {
     "id": "ZeeTV.in",
     "name": "Zee TV",
     "alt_names": [],
@@ -375934,37 +376386,6 @@
     },
     "website": "https://www.zeezest.com/",
     "launched": "2001-11-01",
-    "closed": null
-  },
-  {
-    "id": "zenith.fr",
-    "name": "zenith",
-    "alt_names": [
-      "zén!th"
-    ],
-    "network": "Azéna Médias",
-    "owners": [
-      "Azéna Médias"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general",
-      "culture"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://znth.tv/images/logo.png",
-    "stream_url": "https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://znth.tv",
-    "tv_guide": null,
-    "website": "https://www.znth.tv",
-    "launched": "2026-02-01",
     "closed": null
   },
   {

@@ -130230,6 +130230,40 @@
     "closed": null
   },
   {
+    "id": "HCH.hn",
+    "name": "HCH",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "HN",
+    "country_name": "Honduras",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/2CB5ezq.png",
+    "stream_url": "https://live.streamhch.com/live/streams/hch1.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HCH.hn",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "hn#hch-hable-como-habla",
+      "site_name": "Hable Como Habla",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://hch.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "HD365TV.ro",
     "name": "HD365 TV",
     "alt_names": [],
@@ -163683,42 +163717,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/UAbSwYA.png",
-    "stream_url": "https://iko-live.akamaized.net/KurdsatTV/master.m3u8",
+    "stream_url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Kurdsat.iq",
-      "feed": "SD",
-      "site": "sat.tv",
-      "site_id": "1#33#Kurdsat",
-      "site_name": "Kurdsat",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.kurdsat.tv/",
-    "launched": "2000-01-01",
-    "closed": null
-  },
-  {
-    "id": "Kurdsat.iq",
-    "name": "Kurdsat",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IQ",
-    "country_name": "Iraq",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/UAbSwYA.png",
-    "stream_url": "http://trn03.bozztv.com/gin-kurdsat/index.m3u8",
-    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -179644,34 +179644,6 @@
     },
     "website": "https://www.mbc.net/channels/mbc-iraq",
     "launched": "2019-02-17",
-    "closed": null
-  },
-  {
-    "id": "MBCLoud.sa",
-    "name": "MBC Loud",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "MBC Group"
-    ],
-    "country_code": "SA",
-    "country_name": "Saudi Arabia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/mptwwLs.png",
-    "stream_url": "https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://mbcloud.fm",
-    "launched": "2023-05-15",
     "closed": null
   },
   {
@@ -254888,6 +254860,32 @@
     "closed": null
   },
   {
+    "id": "RSVHonduras.hn",
+    "name": "RSV Honduras",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "HN",
+    "country_name": "Honduras",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/yr7Ellh.jpg",
+    "stream_url": "https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.rsvhonduras.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RT.ru",
     "name": "RT",
     "alt_names": [
@@ -302930,6 +302928,38 @@
     "closed": null
   },
   {
+    "id": "Teleceiba.hn",
+    "name": "Teleceiba",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "HN",
+    "country_name": "Honduras",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/oPSfsvy.png",
+    "stream_url": "https://teleceiba.com/stream/tlcb720.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Teleceiba.hn",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "hn#teleceiba",
+      "site_name": "Teleceiba",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://teleceiba.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Telecentro.do",
     "name": "Telecentro",
     "alt_names": [],
@@ -314415,36 +314445,6 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/500px-Thmanyah_Logo.svg.png",
     "stream_url": "https://dflive.app.tc/20.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://thmanyah.com/",
-    "launched": "2025-08-28",
-    "closed": null
-  },
-  {
-    "id": "Thmanyah2.sa",
-    "name": "Thmanyah 2",
-    "alt_names": [
-      "ثمانية ٢"
-    ],
-    "network": null,
-    "owners": [
-      "Abdulrahman Abumalih"
-    ],
-    "country_code": "SA",
-    "country_name": "Saudi Arabia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/500px-Thmanyah_Logo.svg.png",
-    "stream_url": "https://dflive.app.tc/60.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -359464,6 +359464,86 @@
     "closed": null
   },
   {
+    "id": "Whiplash.us",
+    "name": "Whiplash",
+    "alt_names": [],
+    "network": "Whiplash",
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://whiplash.cc/assets/img/channels/whiplash.png",
+    "stream_url": "https://cdn.whiplash.cc/whiplash/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://whiplash.cc/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WhiplashCinema.us",
+    "name": "Whiplash Cinema",
+    "alt_names": [],
+    "network": "Whiplash",
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://whiplash.cc/assets/img/channels/whiplashcinema.png",
+    "stream_url": "https://cdn.whiplash.cc/whiplash-cinema/index.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://whiplash.cc/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WhiplashII.us",
+    "name": "Whiplash II",
+    "alt_names": [
+      "Whiplash 2"
+    ],
+    "network": "Whiplash",
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://whiplash.cc/assets/img/channels/whiplash2.png",
+    "stream_url": "https://cdn.whiplash.cc/whiplash-2/index.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://whiplash.cc/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "WhiteChannel.th",
     "name": "White Channel",
     "alt_names": [],
@@ -360266,6 +360346,30 @@
     },
     "website": "https://www.willow.tv/willow_sports",
     "launched": "2024-10-14",
+    "closed": null
+  },
+  {
+    "id": "WindowTV.us",
+    "name": "Window TV",
+    "alt_names": [],
+    "network": "Whiplash",
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://whiplash.cc/assets/img/channels/windowtv.png",
+    "stream_url": "https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://whiplash.cc/",
+    "launched": null,
     "closed": null
   },
   {

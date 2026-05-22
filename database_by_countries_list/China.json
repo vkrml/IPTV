@@ -981,6 +981,44 @@
     "closed": null
   },
   {
+    "id": "CCTV11.cn",
+    "name": "CCTV-11",
+    "alt_names": [
+      "CCTV-11 戏曲"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CjOWx7L.png",
+    "stream_url": "https://xykt-fix.github.io/play/a02b/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV11.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv11",
+      "site_name": "CCTV 11",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv11/",
+    "launched": "2001-07-09",
+    "closed": null
+  },
+  {
     "id": "CCTV12.cn",
     "name": "CCTV-12",
     "alt_names": [
@@ -1195,6 +1233,44 @@
     "logo": "https://i.imgur.com/CCV0eRG.png",
     "stream_url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV15.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv15",
+      "site_name": "CCTV 15",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv15/",
+    "launched": "2004-03-29",
+    "closed": null
+  },
+  {
+    "id": "CCTV15.cn",
+    "name": "CCTV-15",
+    "alt_names": [
+      "CCTV-15 音乐"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CCV0eRG.png",
+    "stream_url": "https://xykt-fix.github.io/play/a02e/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

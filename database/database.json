@@ -14456,40 +14456,6 @@
     "closed": null
   },
   {
-    "id": "AlientoVision.us",
-    "name": "Aliento Vision",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/xT10iqB.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hondu-alientovision/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AlientoVision.us",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "co#aliento-vision",
-      "site_name": "Aliento Vision",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "http://www.alientovision.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "AlImanTV.id",
     "name": "Al-Iman TV",
     "alt_names": [],
@@ -32068,34 +32034,6 @@
     "closed": null
   },
   {
-    "id": "AztecaHonduras.hn",
-    "name": "Azteca Honduras",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "TV Azteca Honduras"
-    ],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/sxFh1dw.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hondu-azteca/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://azteca.com.hn/",
-    "launched": "2013-09-01",
-    "closed": null
-  },
-  {
     "id": "AztecaInternacional.mx",
     "name": "Azteca Internacional",
     "alt_names": [],
@@ -34261,6 +34199,32 @@
     },
     "website": "https://www.digitalb.al/",
     "launched": "2004-07-01",
+    "closed": null
+  },
+  {
+    "id": "BaniVision.do",
+    "name": "Bani Vision",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "DO",
+    "country_name": "Dominican Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.banivision.com/wp-content/uploads/2023/04/Bani-Vision-Favicon.png",
+    "stream_url": "https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.banivision.com/",
+    "launched": null,
     "closed": null
   },
   {
@@ -65627,6 +65591,44 @@
     "closed": null
   },
   {
+    "id": "CCTV11.cn",
+    "name": "CCTV-11",
+    "alt_names": [
+      "CCTV-11 戏曲"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CjOWx7L.png",
+    "stream_url": "https://xykt-fix.github.io/play/a02b/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV11.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv11",
+      "site_name": "CCTV 11",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv11/",
+    "launched": "2001-07-09",
+    "closed": null
+  },
+  {
     "id": "CCTV12.cn",
     "name": "CCTV-12",
     "alt_names": [
@@ -65841,6 +65843,44 @@
     "logo": "https://i.imgur.com/CCV0eRG.png",
     "stream_url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV15.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv15",
+      "site_name": "CCTV 15",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv15/",
+    "launched": "2004-03-29",
+    "closed": null
+  },
+  {
+    "id": "CCTV15.cn",
+    "name": "CCTV-15",
+    "alt_names": [
+      "CCTV-15 音乐"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CCV0eRG.png",
+    "stream_url": "https://xykt-fix.github.io/play/a02e/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -66285,32 +66325,6 @@
     "tv_guide": null,
     "website": "https://www.ceacomtv.com",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CeibaVisionCanal36.hn",
-    "name": "Ceiba Vision Canal 36",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/90h9abf.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hondu/hondu-ceibavisionhd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.ceibavision.com/",
-    "launched": "1988-01-01",
     "closed": null
   },
   {
@@ -79845,40 +79859,6 @@
     "closed": null
   },
   {
-    "id": "ComedyTV.ge",
-    "name": "Comedy TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GE",
-    "country_name": "Georgia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "comedy"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/i1TANKv.png",
-    "stream_url": "http://dvrfl05.bozztv.com/gin-comedyarxi/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ComedyTV.ge",
-      "feed": "SD",
-      "site": "magticom.ge",
-      "site_id": "58000",
-      "site_name": "კომედი არხი",
-      "lang": "ka",
-      "sources": []
-    },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Comet.us",
     "name": "Comet",
     "alt_names": [],
@@ -83486,42 +83466,6 @@
     "logo": "https://i.imgur.com/0ZHm9f6.png",
     "stream_url": "https://tv.picta.cu/cvi/cvi_0.m3u8",
     "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CubavisionInternacional.cu",
-      "feed": "SD",
-      "site": "vodafone.pt",
-      "site_id": "2785",
-      "site_name": "Cubavisión",
-      "lang": "pt",
-      "sources": []
-    },
-    "website": "https://www.cvi.icrt.cu/",
-    "launched": "1986-07-26",
-    "closed": null
-  },
-  {
-    "id": "CubavisionInternacional.cu",
-    "name": "Cubavision Internacional",
-    "alt_names": [
-      "Cubavisión Internacional"
-    ],
-    "network": "ICRT",
-    "owners": [],
-    "country_code": "CU",
-    "country_name": "Cuba",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/0ZHm9f6.png",
-    "stream_url": "https://dvrfl06.bozztv.com/astv-cubavisionint/index.m3u8",
-    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -89661,42 +89605,6 @@
     },
     "website": "https://pluto.tv/en/live-tv/deal-or-no-deal",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Decades.us",
-    "name": "Decades",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Weigel Broadcasting"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Decades_Logo.svg/960px-Decades_Logo.svg.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-decades/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Decades.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "91415",
-      "site_name": "Decades",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.decades.com/",
-    "launched": "2015-01-16",
     "closed": null
   },
   {
@@ -97111,44 +97019,6 @@
     "closed": null
   },
   {
-    "id": "DTV.hn",
-    "name": "DTV",
-    "alt_names": [
-      "D Televisión"
-    ],
-    "network": null,
-    "owners": [
-      "Sociedad Televisora Nacional S.A."
-    ],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/UpsLEAV.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hondu-dtelevision/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "DTV.hn",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "hn#dtv",
-      "site_name": "DTV",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://oncenoticias.hn/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "DTV.hu",
     "name": "DTV",
     "alt_names": [],
@@ -101371,32 +101241,6 @@
     "closed": null
   },
   {
-    "id": "ElOussraTV.mr",
-    "name": "El Oussra TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "MR",
-    "country_name": "Mauritania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/hpnL96b.png",
-    "stream_url": "https://dvrfl06.bozztv.com/astv-elousra/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.masef.gov.mr/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "ElPitucoTV.do",
     "name": "El Pituco TV",
     "alt_names": [],
@@ -103911,34 +103755,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://erzurumwebtv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Esaie45Tele.cg",
-    "name": "Esaie 45 Tele",
-    "alt_names": [
-      "Esaïe 45 Télé"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "CG",
-    "country_name": "Republic of the Congo",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/nc9QBnD.png",
-    "stream_url": "http://dvrfl05.bozztv.com/gin-esaie45/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
     "launched": null,
     "closed": null
   },
@@ -107065,34 +106881,6 @@
     },
     "website": "https://fr.euronews.com/",
     "launched": "1993-01-01",
-    "closed": null
-  },
-  {
-    "id": "EuronewsGeorgia.ge",
-    "name": "Euronews Georgia",
-    "alt_names": [],
-    "network": "Euronews",
-    "owners": [
-      "Euronews SA"
-    ],
-    "country_code": "GE",
-    "country_name": "Georgia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/VNJ4soR.png",
-    "stream_url": "http://dvrfl05.bozztv.com/gin-euronewsgeorgia/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://euronewsgeorgia.com/",
-    "launched": "2020-08-31",
     "closed": null
   },
   {
@@ -110636,32 +110424,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.fashiontv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "FassoTVKankan.gn",
-    "name": "Fasso TV Kankan",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GN",
-    "country_name": "Guinea",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/xrV3Qrr.png",
-    "stream_url": "https://dvrfl06.bozztv.com/astv-fassotv/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
     "launched": null,
     "closed": null
   },
@@ -124610,32 +124372,6 @@
     "closed": null
   },
   {
-    "id": "GoTV.hn",
-    "name": "Go TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/qPugeWX.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hondu/hondu-gotv/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.gotv.hn/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "GOTV.py",
     "name": "GO TV",
     "alt_names": [],
@@ -130192,40 +129928,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.huntingtonbeachca.gov/residents/videos/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "HCH.hn",
-    "name": "HCH",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/2CB5ezq.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hondu-hchtv/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "HCH.hn",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "hn#hch-hable-como-habla",
-      "site_name": "Hable Como Habla",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://hch.tv/",
     "launched": null,
     "closed": null
   },
@@ -152284,34 +151986,6 @@
     "closed": null
   },
   {
-    "id": "KajouTV.us",
-    "name": "Kajou TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Kajou TV Network LLC"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "culture"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/2XzghdT.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hdirect/hdirect-kajoutv/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "KalacTV.gn",
     "name": "Kalac TV",
     "alt_names": [],
@@ -154695,34 +154369,6 @@
     "closed": null
   },
   {
-    "id": "KartuliTV.ge",
-    "name": "Kartuli TV",
-    "alt_names": [
-      "ქართული TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "GE",
-    "country_name": "Georgia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "culture"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/k6kCnBZ.jpeg",
-    "stream_url": "http://dvrfl05.bozztv.com/gin-qartulitv/index.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://civilizebuli.ge/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "KashishNews.in",
     "name": "Kashish News",
     "alt_names": [],
@@ -155047,44 +154693,6 @@
     },
     "website": "https://kaumudy.tv/",
     "launched": "2013-05-05",
-    "closed": null
-  },
-  {
-    "id": "KavkasiaTV.ge",
-    "name": "Kavkasia TV",
-    "alt_names": [
-      "ტელეკომპანია კავკასია"
-    ],
-    "network": null,
-    "owners": [
-      "Telecompany Kavkasia LLC"
-    ],
-    "country_code": "GE",
-    "country_name": "Georgia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Z5b7w7K.png",
-    "stream_url": "http://dvrfl05.bozztv.com/gin-kavkasia/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "KavkasiaTV.ge",
-      "feed": "SD",
-      "site": "magticom.ge",
-      "site_id": "135",
-      "site_name": "კავკასია",
-      "lang": "ka",
-      "sources": []
-    },
-    "website": "http://www.kavkasiatv.ge/",
-    "launched": null,
     "closed": null
   },
   {
@@ -177080,40 +176688,6 @@
     "closed": null
   },
   {
-    "id": "MaraoTV.ge",
-    "name": "Marao TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GE",
-    "country_name": "Georgia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "lifestyle"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Nurmw1G.png",
-    "stream_url": "http://dvrfl05.bozztv.com/gin-marao/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MaraoTV.ge",
-      "feed": "SD",
-      "site": "magticom.ge",
-      "site_id": "137",
-      "site_name": "მარაო",
-      "lang": "ka",
-      "sources": []
-    },
-    "website": "http://www.rustavi2.ge/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Maraya.sa",
     "name": "Maraya",
     "alt_names": [
@@ -182314,32 +181888,6 @@
     "tv_guide": null,
     "website": "https://www.metropolatv.ro/",
     "launched": "2020-08-15",
-    "closed": null
-  },
-  {
-    "id": "Metropole.ht",
-    "name": "Metropole",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "HT",
-    "country_name": "Haiti",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Ei1Su4V.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hdirect/hdirect-telemetrolple2/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://metropole.ht/",
-    "launched": null,
     "closed": null
   },
   {
@@ -214672,32 +214220,6 @@
     "closed": null
   },
   {
-    "id": "OlanchitoTVCanal23.hn",
-    "name": "Olanchito TV Canal 23",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/v1o1oT5.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hondu/hondu-otvcanal23/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "OlayTurkTV.tr",
     "name": "OlayTurk TV",
     "alt_names": [
@@ -220951,32 +220473,6 @@
     "closed": null
   },
   {
-    "id": "ParadiseTV.gm",
-    "name": "Paradise TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GM",
-    "country_name": "Gambia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/0aT45vk.png",
-    "stream_url": "https://dvrfl06.bozztv.com/astv-ptvgambia/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.ptv.gm/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "ParadiseTV.it",
     "name": "Paradise TV",
     "alt_names": [],
@@ -221770,32 +221266,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/RQ5DzEE.png",
     "stream_url": "https://parshls.wns.live/hls/stream.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://parstv.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ParsTV.us",
-    "name": "Pars TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/RQ5DzEE.png",
-    "stream_url": "http://dvrfl05.bozztv.com/gin-parstv/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -231994,40 +231464,6 @@
     "closed": null
   },
   {
-    "id": "PosTV.ge",
-    "name": "Pos TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GE",
-    "country_name": "Georgia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/UOiXFEW.png",
-    "stream_url": "http://dvrfl05.bozztv.com/gin-postv/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PosTV.ge",
-      "feed": "SD",
-      "site": "magticom.ge",
-      "site_id": "65000",
-      "site_name": "პოსTV",
-      "lang": "ka",
-      "sources": []
-    },
-    "website": "https://postv.media/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "PottaDivineTVUSA.us",
     "name": "Potta-Divine TV USA",
     "alt_names": [],
@@ -241468,34 +240904,6 @@
     "closed": null
   },
   {
-    "id": "RadioTeleGinen.ht",
-    "name": "Radio Tele Ginen",
-    "alt_names": [
-      "Radio Télé Ginen"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "HT",
-    "country_name": "Haiti",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ESlt16G.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hdirect/hdirect-teleginen/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.rtghaiti.com/",
-    "launched": "1994-04-03",
-    "closed": null
-  },
-  {
     "id": "RadioTeleHit.ht",
     "name": "Radio Tele Hit",
     "alt_names": [
@@ -241626,34 +241034,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://radiotelesentinel.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RadioTeleSuperStar.ht",
-    "name": "Radio Tele SuperStar",
-    "alt_names": [
-      "Radio Télé SuperStar"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "HT",
-    "country_name": "Haiti",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/GoaeyVV.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hdirect/hdirect-telecaraibes/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.superstarhaiti.com/",
     "launched": null,
     "closed": null
   },
@@ -255446,60 +254826,6 @@
     "closed": null
   },
   {
-    "id": "RTD4.dj",
-    "name": "RTD 4",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DJ",
-    "country_name": "Djibouti",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/CERPj3J.png",
-    "stream_url": "http://dvrfl05.bozztv.com/gin-rtddjibouti/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://rtd.dj/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RTD.dj",
-    "name": "RTD",
-    "alt_names": [
-      "Radiodiffusion Télévision de Djibouti"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "DJ",
-    "country_name": "Djibouti",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.rtd.dj/images/logo.png#joomlaImage://local-images/logo.png?width=110&height=110",
-    "stream_url": "https://dvrfl06.bozztv.com/astv-djibouti/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.rtd.dj/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "RTDE.de",
     "name": "RT DE",
     "alt_names": [],
@@ -259735,30 +259061,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.rtvcanaloficial.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RTV.hn",
-    "name": "RTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/c8wAvxC.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hondu/hondu-rtvtv/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
     "launched": null,
     "closed": null
   },
@@ -270526,38 +269828,6 @@
     "closed": null
   },
   {
-    "id": "Rustavi2.ge",
-    "name": "Rustavi 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GE",
-    "country_name": "Georgia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/rPqd1Cx.png",
-    "stream_url": "http://dvrfl05.bozztv.com/gin-rustavi2/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Rustavi2.ge",
-      "feed": "SD",
-      "site": "magticom.ge",
-      "site_id": "1",
-      "site_name": "რუსთავი 2",
-      "lang": "ka",
-      "sources": []
-    },
-    "website": "http://www.rustavi2.ge/",
-    "launched": "1994-01-01",
-    "closed": null
-  },
-  {
     "id": "Ruta66TV.do",
     "name": "Ruta 66 TV",
     "alt_names": [],
@@ -281238,38 +280508,6 @@
     "closed": null
   },
   {
-    "id": "SilkUniversal.ge",
-    "name": "Silk Universal",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GE",
-    "country_name": "Georgia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/z0XHsPE.png",
-    "stream_url": "http://dvrfl05.bozztv.com/gin-silkuniversal/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SilkUniversal.ge",
-      "feed": "SD",
-      "site": "magticom.ge",
-      "site_id": "287",
-      "site_name": "Silk უნივერსალი",
-      "lang": "ka",
-      "sources": []
-    },
-    "website": "https://www.silknet.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "SilkWay.kz",
     "name": "Silk Way",
     "alt_names": [],
@@ -285635,45 +284873,6 @@
     },
     "website": "http://www.sonypix.com/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SonySAB.in",
-    "name": "Sony SAB",
-    "alt_names": [
-      "SAB TV"
-    ],
-    "network": "Sony Pictures Networks",
-    "owners": [
-      "Sony Pictures Networks India (SPNI)",
-      "Culver Max Entertainment Private Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",
-    "stream_url": "http://103.122.249.134:8000/play/a04h",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SonySAB.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "559",
-      "site_name": "SONY SAB",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.sabtv.com/en_in/",
-    "launched": "1999-04-23",
     "closed": null
   },
   {
@@ -302588,42 +301787,6 @@
     "closed": null
   },
   {
-    "id": "Telecadena7y4.hn",
-    "name": "Telecadena 7 y 4",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Corporación Televicentro"
-    ],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/3gzFNog.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hondu-telecadena/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Telecadena7y4.hn",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "hn#telecadena",
-      "site_name": "Telecadena 7 y 4",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.televicentro.hn/",
-    "launched": "1985-07-29",
-    "closed": null
-  },
-  {
     "id": "Telecafe.co",
     "name": "Telecafe",
     "alt_names": [
@@ -302892,38 +302055,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.telecaribe.co/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Teleceiba.hn",
-    "name": "Teleceiba",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/oPSfsvy.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hondu-teleceiba/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Teleceiba.hn",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "hn#teleceiba",
-      "site_name": "Teleceiba",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "http://teleceiba.com/",
     "launched": null,
     "closed": null
   },
@@ -306446,30 +305577,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://telepremier.ec/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TeleProgreso.hn",
-    "name": "TeleProgreso",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "HN",
-    "country_name": "Honduras",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/yBDI3AF.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hondu-teleprogreso/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.teleprogreso.tv/",
     "launched": null,
     "closed": null
   },
@@ -317282,36 +316389,6 @@
     "closed": null
   },
   {
-    "id": "TNH.ht",
-    "name": "TNH",
-    "alt_names": [
-      "Télévision Nationale d'Haïti"
-    ],
-    "network": null,
-    "owners": [
-      "Government of Haiti"
-    ],
-    "country_code": "HT",
-    "country_name": "Haiti",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/8nvCXzt.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hdirect/hdirect-tnhtv2/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.rtnh.ht/",
-    "launched": "1979-12-23",
-    "closed": null
-  },
-  {
     "id": "TNN16.th",
     "name": "TNN16",
     "alt_names": [
@@ -323028,40 +322105,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/960px-True_Crime_Network_logo.svg.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-truecrimenetwork/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TrueCrimeNetwork.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "91496",
-      "site_name": "True Crime Network",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.truecrimenetworktv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TrueCrimeNetwork.us",
-    "name": "True Crime Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/960px-True_Crime_Network_logo.svg.png",
     "stream_url": "https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -327815,40 +326858,6 @@
       "sources": []
     },
     "website": "https://www.24.mk/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TV25.ge",
-    "name": "TV 25",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GE",
-    "country_name": "Georgia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.magticom.ge/images/channels/MjAxOC8wOS8xMC9lNWU0YmY2OC1iNjgzLTQ1NWMtYTQzZi00YmZmYWFiYTcyYTguanBn.jpg",
-    "stream_url": "http://dvrfl05.bozztv.com/gin-tv25/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TV25.ge",
-      "feed": "SD",
-      "site": "magticom.ge",
-      "site_id": "285",
-      "site_name": "TV 25",
-      "lang": "ka",
-      "sources": []
-    },
-    "website": "https://www.tv25.ge/",
     "launched": null,
     "closed": null
   },
@@ -337700,40 +336709,6 @@
     "closed": null
   },
   {
-    "id": "TVPirveli.ge",
-    "name": "TV Pirveli",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "GE",
-    "country_name": "Georgia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/cGHsM1x.png",
-    "stream_url": "http://dvrfl05.bozztv.com/gin-tvpirveli/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPirveli.ge",
-      "feed": "SD",
-      "site": "magticom.ge",
-      "site_id": "207",
-      "site_name": "TV პირველი",
-      "lang": "ka",
-      "sources": []
-    },
-    "website": "http://www.tvpirveli.ge/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TVPlata.do",
     "name": "TV Plata",
     "alt_names": [],
@@ -346948,30 +345923,6 @@
     "closed": null
   },
   {
-    "id": "UniversalSomaliTV.uk",
-    "name": "Universal Somali TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/awa4oas.png",
-    "stream_url": "http://dvrfl05.bozztv.com/gin-universalsomali/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://universaltvsomali.net/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "UniversiteTV.tr",
     "name": "Universite TV",
     "alt_names": [
@@ -355761,45 +354712,6 @@
     "closed": null
   },
   {
-    "id": "WAGATV51.us",
-    "name": "WAGA-TV 5.1",
-    "alt_names": [
-      "Fox 5 Atlanta",
-      "WAGA-HD"
-    ],
-    "network": "FOX",
-    "owners": [
-      "New World Communications of Atlanta Inc."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/DcZoeGw.jpg",
-    "stream_url": "https://dvrfl03.bozztv.com/hondu/hondu-rick-fox5/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "WAGATV51.us",
-      "feed": "HD",
-      "site": "tvtv.us",
-      "site_id": "20430",
-      "site_name": "FOX (WAGA-DT1) Atanta, GA",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.fox5atlanta.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "WairarapaTV.nz",
     "name": "Wairarapa TV",
     "alt_names": [],
@@ -359717,34 +358629,6 @@
     "closed": null
   },
   {
-    "id": "WHSGTV634.us",
-    "name": "WHSG-TV 63.4",
-    "alt_names": [
-      "ONTV4U"
-    ],
-    "network": "Infomercials",
-    "owners": [
-      "Trinity Broadcasting of Texas Inc."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/960px-Enlace_Televisi%C3%B3n_logo.svg.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hondu/hondu-ovair1-enlacetv-atl/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "WikiTV.kh",
     "name": "Wiki TV",
     "alt_names": [],
@@ -361779,34 +360663,6 @@
     "closed": null
   },
   {
-    "id": "WKCF22.us",
-    "name": "WKCF 2.2",
-    "alt_names": [
-      "MeTV"
-    ],
-    "network": "Me-TV",
-    "owners": [
-      "Hearst Properties Inc."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/960px-True_Crime_Network_logo.svg.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hondu-lxnews/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "WKEF451.us",
     "name": "WKEF 45.1",
     "alt_names": [
@@ -361839,43 +360695,6 @@
       "sources": []
     },
     "website": "http://www.wkef22.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "WKMGTV61.us",
-    "name": "WKMG-TV 6.1",
-    "alt_names": [
-      "News 6",
-      "WKMG-DT"
-    ],
-    "network": "CBS",
-    "owners": [
-      "WKMG-TV"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "WKMGTV61.us",
-      "feed": "HD",
-      "site": "tvtv.us",
-      "site_id": "21299",
-      "site_name": "CBS 6 (WKMG-DT1) Orlando, FL",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.local6.com/",
     "launched": null,
     "closed": null
   },
@@ -361930,34 +360749,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg",
     "stream_url": "https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8",
     "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "WKOH314.us",
-    "name": "WKOH 31.4",
-    "alt_names": [
-      "KETKIDS"
-    ],
-    "network": "PBS Kids 24/7",
-    "owners": [
-      "Kentucky Authority for Educational TV"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg",
-    "stream_url": "https://dvrfl03.bozztv.com/hondu/hondu-pbs-kids/index.m3u8",
-    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -362276,45 +361067,6 @@
       "sources": []
     },
     "website": "https://fox11online.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "WLVTTV691.us",
-    "name": "WLVT-TV 69.1",
-    "alt_names": [
-      "WFMZ 69",
-      "WFMZ-HD"
-    ],
-    "network": "Independent",
-    "owners": [
-      "Lehigh Valley Public Telecommunications Corp."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "education"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/3FPFBjU.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "WLVTTV691.us",
-      "feed": "HD",
-      "site": "tvtv.us",
-      "site_id": "24783",
-      "site_name": "PBS (WLVT-DT1) Allentown, PA",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.wlvt.org/",
     "launched": null,
     "closed": null
   },
@@ -364981,38 +363733,6 @@
     "closed": null
   },
   {
-    "id": "WSBDT1.us",
-    "name": "WSB-DT1",
-    "alt_names": [],
-    "network": "ABC",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/38/WSB-TV_2_logo.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "WSBDT1.us",
-      "feed": "SD",
-      "site": "xumo.tv",
-      "site_id": "350#99991690",
-      "site_name": "WSB Atlanta",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.wsbtv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "WSBSTV221.us",
     "name": "WSBS-TV 22.1",
     "alt_names": [
@@ -365350,47 +364070,6 @@
     },
     "website": "http://www.todaystmj4.com/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "WTMOCD311.us",
-    "name": "WTMO-CD 31.1",
-    "alt_names": [
-      "Telemundo 31",
-      "channel 31",
-      "Telemundo Orlando",
-      "WTMO-CD"
-    ],
-    "network": "Telemundo",
-    "owners": [
-      "NBC Telemundo License LLC"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telemundo_31_(2019).svg/960px-Telemundo_31_(2019).svg.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "WTMOCD311.us",
-      "feed": "HD",
-      "site": "tvtv.us",
-      "site_id": "78613",
-      "site_name": "Telemundo 31 (WTMO-CD1) Orlando, FL",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.telemundo31.com/",
-    "launched": "2018-02-01",
     "closed": null
   },
   {
@@ -365967,43 +364646,6 @@
       "sources": []
     },
     "website": "https://www.wtxl.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "WUPA691.us",
-    "name": "WUPA 69.1",
-    "alt_names": [
-      "Atlanta 69",
-      "WUPA-HD"
-    ],
-    "network": "CBS",
-    "owners": [
-      "Atlanta Television Station WUPA Inc."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png",
-    "stream_url": "https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "WUPA691.us",
-      "feed": "HD",
-      "site": "tvtv.us",
-      "site_id": "32793",
-      "site_name": "CW (WUPA-DT1) Atanta, GA",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://cwatlanta.cbslocal.com/",
     "launched": null,
     "closed": null
   },

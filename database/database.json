@@ -6076,6 +6076,43 @@
     "closed": null
   },
   {
+    "id": "AajTak.in",
+    "name": "Aaj Tak",
+    "alt_names": [],
+    "network": "India Today Group",
+    "owners": [
+      "TV Today Network Ltd",
+      " Living Media India Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/JYLmXy4.png",
+    "stream_url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AajTak.in",
+      "feed": "SD",
+      "site": "zee5.com",
+      "site_id": "0-9-aajtak",
+      "site_name": "Aaj Tak",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.aajtak.in/livetv",
+    "launched": "2000-12-31",
+    "closed": null
+  },
+  {
     "id": "AakaashAath.in",
     "name": "Aakaash Aath",
     "alt_names": [],
@@ -8655,6 +8692,42 @@
     "logo": "https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540",
     "stream_url": "http://103.213.31.109:90/ABPNews/playlist.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ABPNews.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "177",
+      "site_name": "ABP News",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.abplive.com/",
+    "launched": "2012-06-01",
+    "closed": null
+  },
+  {
+    "id": "ABPNews.in",
+    "name": "ABP News",
+    "alt_names": [],
+    "network": "ABP",
+    "owners": [
+      "ABP Holdings"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -17698,6 +17771,40 @@
     "closed": null
   },
   {
+    "id": "AlQuranAlKareemTV.sa",
+    "name": "Al Quran Al Kareem TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "SA",
+    "country_name": "Saudi Arabia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png",
+    "stream_url": "https://aloula-redirect.vercel.app/7/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AlQuranAlKareemTV.sa",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000153",
+      "site_name": "Al Quran Al Kareem",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://makkahlive.net/tvquran.aspx",
+    "launched": "2009-12-17",
+    "closed": null
+  },
+  {
     "id": "AlRafidainTV.tr",
     "name": "Al-Rafidain TV",
     "alt_names": [],
@@ -23316,7 +23423,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": null,
+    "logo": "https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",
     "stream_url": "https://hls.rundletv.eu.org/LIVE$AntenaSport/6.m3u8/Level/300720051?end=END&start=LIVE",
     "stream_quality": "1280p",
     "stream_format": null,
@@ -29247,6 +29354,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://wthc.atlantachannel.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Atlas.us",
+    "name": "Atlas",
+    "alt_names": [],
+    "network": "Whiplash",
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://whiplash.cc/assets/img/channels/atlas.png",
+    "stream_url": "https://cdn.whiplash.cc/whiplash-atlas/index.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://whiplash.cc/",
     "launched": null,
     "closed": null
   },
@@ -41529,6 +41662,34 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://bcngospelchannel.com/wp-content/uploads/2025/09/bcn-gospel-channer-favicon.png",
+    "stream_url": "https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://bcngospelchannel.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BCNGospelTV.es",
+    "name": "BCN Gospel TV",
+    "alt_names": [
+      "BCN"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://bcngospelchannel.com/wp-content/uploads/2025/09/bcn-gospel-channer-favicon.png",
     "stream_url": "https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -45153,6 +45314,40 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_Samachar.png",
     "stream_url": "https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8",
     "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BharatSamachar.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "291",
+      "site_name": "Bharat Samachar",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.bharatsamachartv.in/",
+    "launched": "2016-06-01",
+    "closed": null
+  },
+  {
+    "id": "BharatSamachar.in",
+    "name": "Bharat Samachar",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_Samachar.png",
+    "stream_url": "https://d1msejlow1t3l4.cloudfront.net/fta/bharatsamachar/playlist.m3u8",
+    "stream_quality": "396p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -49604,6 +49799,40 @@
       "site_id": "3155",
       "site_name": "BR6 TV",
       "lang": "nl",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BratTV.us",
+    "name": "Brat TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Kkcp9Bk.png",
+    "stream_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BratTV.us",
+      "feed": "SD",
+      "site": "watch.whaletvplus.com",
+      "site_id": "968813239419275714",
+      "site_name": "Brat TV",
+      "lang": "en",
       "sources": []
     },
     "website": null,
@@ -81649,6 +81878,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png",
+    "stream_url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CricketGold.au",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "65e0c8c6d899afe817b9d224",
+      "site_name": "Cricket Gold",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.cricket.com.au/cricket-gold",
+    "launched": "2023-10-25",
+    "closed": null
+  },
+  {
+    "id": "CricketGold.au",
+    "name": "Cricket Gold",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Cricket Australia (CA)"
+    ],
+    "country_code": "AU",
+    "country_name": "Australia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png",
     "stream_url": "https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -87062,6 +87327,42 @@
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540",
     "stream_url": "http://103.213.31.109:90/DDIndia/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DDIndia.in",
+      "feed": "SD",
+      "site": "tvpassport.com",
+      "site_id": "dd-india-doordarshan/13650",
+      "site_name": "DD India (Doordarshan)",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://prasarbharati.gov.in/doordarshan/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DDIndia.in",
+    "name": "DD India",
+    "alt_names": [],
+    "network": "Doordarshan",
+    "owners": [
+      "Prasar Bharati"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chunks.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -96290,6 +96591,40 @@
     },
     "website": "https://www.dreamturk.com.tr/",
     "launched": "2003-03-15",
+    "closed": null
+  },
+  {
+    "id": "DreamTV.mn",
+    "name": "DreamTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "MN",
+    "country_name": "Mongolia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/YPbvzgV.png",
+    "stream_url": "https://xykt-fix.github.io/play/a02j/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DreamTV.mn",
+      "feed": "SD",
+      "site": "zuragt.mn",
+      "site_id": "dream",
+      "site_name": "Dream",
+      "lang": "mn",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
     "closed": null
   },
   {
@@ -123088,6 +123423,42 @@
     "closed": null
   },
   {
+    "id": "GODTV.uk",
+    "name": "GOD TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Angel Christian Television Trust"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/hW4g2oe.png",
+    "stream_url": "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8",
+    "stream_quality": "396p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GODTV.uk",
+      "feed": "SD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "250",
+      "site_name": "GOD TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.god.tv/",
+    "launched": "1995-01-01",
+    "closed": null
+  },
+  {
     "id": "GoienaEus.es",
     "name": "Goiena Eus",
     "alt_names": [],
@@ -131329,6 +131700,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/iuz6K6i.png",
+    "stream_url": "https://d1msejlow1t3l4.cloudfront.net/fta/hindikhabar/playlist.m3u8",
+    "stream_quality": "396p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HindiKhabar.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "344",
+      "site_name": "Hindi Khabar",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://hindikhabar.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HindiKhabar.in",
+    "name": "Hindi Khabar",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "M/S MBiztech Consulting"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/iuz6K6i.png",
     "stream_url": "https://cdn-2.pishow.tv/live/1041/master.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -135326,6 +135733,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/7Y4vQnG.png",
+    "stream_url": "https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8",
+    "stream_quality": "396p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HornbillTV.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "898",
+      "site_name": "Hornbill TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.hornbilltv.com/",
+    "launched": "2021-01-29",
+    "closed": null
+  },
+  {
+    "id": "HornbillTV.in",
+    "name": "Hornbill TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Pure Entertainment Group"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/7Y4vQnG.png",
     "stream_url": "https://cdn-2.pishow.tv/live/1463/master.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -136428,6 +136871,43 @@
     "tv_guide": null,
     "website": "https://www.houstontx.gov/htv/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HTV2.vn",
+    "name": "HTV2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Ho Chi Minh City Television Station"
+    ],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment",
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "http://liveh12.vtvprime.vn/hls/HTV2/03.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HTV2.vn",
+      "feed": "SD",
+      "site": "mujtvprogram.cz",
+      "site_id": "400",
+      "site_name": "HTV2",
+      "lang": "cs",
+      "sources": []
+    },
+    "website": "https://htv.com.vn/",
+    "launched": "2003-10-01",
     "closed": null
   },
   {
@@ -140059,6 +140539,43 @@
     "closed": null
   },
   {
+    "id": "IndiaToday.in",
+    "name": "India Today",
+    "alt_names": [],
+    "network": "India Today Group",
+    "owners": [
+      "TV Today Network Ltd",
+      " Living Media India Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143197_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "IndiaToday.in",
+      "feed": "SD",
+      "site": "zee5.com",
+      "site_id": "0-9-indiatoday",
+      "site_name": "India Today",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.indiatoday.in/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "IndiaTV.in",
     "name": "India TV",
     "alt_names": [
@@ -141149,6 +141666,40 @@
     "logo": "https://i.imgur.com/Es3QiVx.png",
     "stream_url": "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8",
     "stream_quality": "360p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "INH24x7.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "698",
+      "site_name": "INH 24X7",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.inhnews.in/livetv",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "INH24x7.in",
+    "name": "INH 24x7",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Es3QiVx.png",
+    "stream_url": "https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8",
+    "stream_quality": "396p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -151357,6 +151908,40 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/HjVEVMJ.png",
+    "stream_url": "https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "JustforLaughsGags.us",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "150#99991204",
+      "site_name": "Just for Laughs Gags",
+      "lang": "en",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "JustforLaughsGags.us",
+    "name": "Just for Laughs Gags",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/HjVEVMJ.png",
     "stream_url": "https://dzmydakq7xf9n.cloudfront.net/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -156551,6 +157136,40 @@
     },
     "website": "https://www.khabarfast.com/",
     "launched": "2012-01-01",
+    "closed": null
+  },
+  {
+    "id": "KhabrainAbhiTak.in",
+    "name": "Khabrain Abhi Tak",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143262_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://d1msejlow1t3l4.cloudfront.net/fta/khabreinabhitak/playlist.m3u8",
+    "stream_quality": "396p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "KhabrainAbhiTak.in",
+      "feed": "SD",
+      "site": "dishtv.in",
+      "site_id": "143262",
+      "site_name": "Khabrain Abhi Tak",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.khabrainabhitak.com/",
+    "launched": null,
     "closed": null
   },
   {
@@ -198798,6 +199417,43 @@
     "closed": null
   },
   {
+    "id": "NDTV24x7.in",
+    "name": "NDTV 24x7",
+    "alt_names": [],
+    "network": "NDTV",
+    "owners": [
+      "New Delhi Television Ltd",
+      "The Adani Group"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s154895_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NDTV24x7.in",
+      "feed": "SD",
+      "site": "zee5.com",
+      "site_id": "0-9-9z5942782",
+      "site_name": "NDTV 24x7",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.ndtv.com/",
+    "launched": "2003-04-14",
+    "closed": null
+  },
+  {
     "id": "NDTVGoodTimes.in",
     "name": "NDTV Good Times",
     "alt_names": [],
@@ -198818,6 +199474,43 @@
     "logo": "https://i.imgur.com/7cruYvo.png",
     "stream_url": "https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NDTVGoodTimes.in",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "63360",
+      "site_name": "NDTV Good Times",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.mygoodtimes.in/",
+    "launched": "2007-09-07",
+    "closed": null
+  },
+  {
+    "id": "NDTVGoodTimes.in",
+    "name": "NDTV Good Times",
+    "alt_names": [],
+    "network": "NDTV",
+    "owners": [
+      "New Delhi Television Ltd",
+      "The Adani Group"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/7cruYvo.png",
+    "stream_url": "https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8",
+    "stream_quality": "396p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -198891,6 +199584,43 @@
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s157588_ld_h15_aa.png?lock=720x540",
     "stream_url": "http://103.213.31.109:90/StarUtsavMovies/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NDTVIndia.in",
+      "feed": "SD",
+      "site": "zee5.com",
+      "site_id": "0-9-9z5942783",
+      "site_name": "NDTV India",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://ndtv.in/",
+    "launched": "2003-01-01",
+    "closed": null
+  },
+  {
+    "id": "NDTVIndia.in",
+    "name": "NDTV India",
+    "alt_names": [],
+    "network": "NDTV",
+    "owners": [
+      "New Delhi Television Ltd",
+      "The Adani Group"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s157588_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTVIndia.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -200076,6 +200806,42 @@
     "closed": null
   },
   {
+    "id": "News1India.in",
+    "name": "News 1 India",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Olecom Media"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/J3EWn2J.png",
+    "stream_url": "https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8",
+    "stream_quality": "396p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "News1India.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "414",
+      "site_name": "News 1 India",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.news1india.in/",
+    "launched": "2020-01-01",
+    "closed": null
+  },
+  {
     "id": "News1st.in",
     "name": "News 1st",
     "alt_names": [],
@@ -200217,6 +200983,80 @@
     },
     "website": "https://www.news9live.com/digital-live-tv",
     "launched": "2021-10-02",
+    "closed": null
+  },
+  {
+    "id": "News9Live.in",
+    "name": "News9Live",
+    "alt_names": [
+      "News9"
+    ],
+    "network": "TV9",
+    "owners": [
+      "Associated Broadcasting Company Pvt Ltd (ABCL)",
+      "Megha Engineering & Infrastructures Ltd (MEIL)",
+      "My Home Constructions Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/News9_Transparent_0ebbb3fe-a786-401a-957d-2c37168aaa22.png",
+    "stream_url": "https://vg-tv9yupp.vgcdn.net/vglive-sk-526536/v1/019e01ace8511ea540a871e333268/019e01ad3da31ea55784752988551/main.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "News9Live.in",
+      "feed": "SD",
+      "site": "zee5.com",
+      "site_id": "0-9-261",
+      "site_name": "News 9",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.news9live.com/digital-live-tv",
+    "launched": "2021-10-02",
+    "closed": null
+  },
+  {
+    "id": "News11.in",
+    "name": "News 11",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/brLsWXU.png",
+    "stream_url": "https://d1msejlow1t3l4.cloudfront.net/fta/news11bharat/playlist.m3u8",
+    "stream_quality": "396p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "News11.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "415",
+      "site_name": "News 11 Bharat",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://news11.live/",
+    "launched": null,
     "closed": null
   },
   {
@@ -204792,7 +205632,7 @@
     "id": "NickOnlineMusic.br",
     "name": "NickOnline Music",
     "alt_names": [
-      "Nickelodeon Music Online"
+      "NickMusic Online"
     ],
     "network": null,
     "owners": [
@@ -204816,7 +205656,7 @@
     "tv_guide": null,
     "website": "https://two.x1co.com.br",
     "launched": "2026-05-12",
-    "closed": null
+    "closed": "2026-05-23"
   },
   {
     "id": "NickOnlineSpongebob.br",
@@ -204847,7 +205687,7 @@
     "tv_guide": null,
     "website": "https://x1co.com.br:2083",
     "launched": "2026-04-16",
-    "closed": null
+    "closed": "2026-05-23"
   },
   {
     "id": "NickOnlineSpongebob.br",
@@ -204878,7 +205718,7 @@
     "tv_guide": null,
     "website": "https://x1co.com.br:2083",
     "launched": "2026-04-16",
-    "closed": null
+    "closed": "2026-05-23"
   },
   {
     "id": "NickPlutoTV.us",
@@ -249847,6 +250687,45 @@
     "closed": null
   },
   {
+    "id": "RepublicBharat.in",
+    "name": "Republic Bharat",
+    "alt_names": [
+      "R.भारत",
+      "रिपब्लिक भारत"
+    ],
+    "network": "Republic Media",
+    "owners": [
+      "ARG Outlier Media Pvt. Ltd."
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143724_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicBharat.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RepublicBharat.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "696",
+      "site_name": "R Bharat",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://bharat.republicworld.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RepublicKannada.in",
     "name": "Republic Kannada",
     "alt_names": [
@@ -250016,6 +250895,42 @@
     "logo": "https://dtil.tmsimg.com/assets/s143723_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://cdn-2.pishow.tv/live/271/master.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RepublicTV.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "72",
+      "site_name": "REPUBLIC TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.republicworld.com/",
+    "launched": "2017-05-06",
+    "closed": null
+  },
+  {
+    "id": "RepublicTV.in",
+    "name": "Republic TV",
+    "alt_names": [],
+    "network": "Republic Media",
+    "owners": [
+      "ARG Outlier Media Pvt. Ltd."
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143723_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicTV.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -250610,6 +251525,32 @@
     "logo": "https://i.imgur.com/viJBL6f.png",
     "stream_url": "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://retroxtv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RetroxTV.cr",
+    "name": "Retrox TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CR",
+    "country_name": "Costa Rica",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "classic"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/viJBL6f.png",
+    "stream_url": "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -253806,8 +254747,8 @@
       "channel": "RoyaKids.jo",
       "feed": "SD",
       "site": "roya-tv.com",
-      "site_id": "14",
-      "site_name": "Roya Kids",
+      "site_id": "42",
+      "site_name": "Roya Kids Originals",
       "lang": "ar",
       "sources": []
     },
@@ -293945,6 +294886,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143870_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://d1msejlow1t3l4.cloudfront.net/fta/sudarshan/playlist.m3u8",
+    "stream_quality": "396p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SudarshanNews.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "475",
+      "site_name": "Sudarshan News",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.sudarshannews.in/",
+    "launched": "2005-08-09",
+    "closed": null
+  },
+  {
+    "id": "SudarshanNews.in",
+    "name": "Sudarshan News",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Suresh Chavhanke"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143870_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sudarshan-news/index.m3u8?ads.vf=6ZWahdKAvmG",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -314794,7 +315771,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s144007_ld_h15_aa.png?lock=720x540",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NAV-BHARAT-HD-Transpatrnt.png",
     "stream_url": "https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -314831,7 +315808,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s144007_ld_h15_aa.png?lock=720x540",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NAV-BHARAT-HD-Transpatrnt.png",
     "stream_url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/navbharat_master.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -314868,7 +315845,44 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s144007_ld_h15_aa.png?lock=720x540",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NAV-BHARAT-HD-Transpatrnt.png",
+    "stream_url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/TimesNowNavbharat.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TimesNowNavbharat.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "966",
+      "site_name": "Times Now Navbharat",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.timesnownews.com/",
+    "launched": "2021-12-01",
+    "closed": null
+  },
+  {
+    "id": "TimesNowNavbharat.in",
+    "name": "Times Now Navbharat",
+    "alt_names": [],
+    "network": "Times Network",
+    "owners": [
+      "The Times Group",
+      "Bennett Coleman and Company Limited (BCCL)"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NAV-BHARAT-HD-Transpatrnt.png",
     "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/times-now-navbharat/master.m3u8?ads.vf=IUKzRul6TaG",
     "stream_quality": "720p",
     "stream_format": null,
@@ -318846,6 +319860,38 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.40mediagroup.com",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TotalTVHaryana.in",
+    "name": "Total TV Haryana",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/AHB00KG.png",
+    "stream_url": "https://d1msejlow1t3l4.cloudfront.net/fta/totaltv/playlist.m3u8",
+    "stream_quality": "396p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TotalTVHaryana.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "485",
+      "site_name": "TOTAL TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://totaltv.in/",
     "launched": null,
     "closed": null
   },
@@ -324138,7 +325184,7 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://tv1samoa.com/",
-    "launched": null,
+    "launched": "1992-12-25",
     "closed": null
   },
   {
@@ -324628,7 +325674,7 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.tv3samoa.net/",
-    "launched": null,
+    "launched": "2006-05-25",
     "closed": null
   },
   {
@@ -326204,6 +327250,44 @@
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s144027_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TV9Bharatvarsh.in",
+      "feed": "SD",
+      "site": "zee5.com",
+      "site_id": "0-9-251",
+      "site_name": "TV9 Bharatvarsh",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.tv9hindi.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TV9Bharatvarsh.in",
+    "name": "TV9 Bharatvarsh",
+    "alt_names": [],
+    "network": "TV9",
+    "owners": [
+      "Associated Broadcasting Company Pvt Ltd (ABCL)",
+      "Megha Engineering & Infrastructures Ltd (MEIL)",
+      "My Home Constructions Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s144027_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://vg-tv9yupp.vgcdn.net/vglive-sk-468570/v1/019dfce4b3371ea55784752988544/019dfce515ea1ea540a871e333259/main.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -359832,6 +360916,45 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s144087_ld_h15_aa.png?lock=720x540",
+    "stream_url": "http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "WION.in",
+      "feed": "SD",
+      "site": "zee5.com",
+      "site_id": "0-9-wion",
+      "site_name": "WION",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.wionews.com/",
+    "launched": "2016-08-15",
+    "closed": null
+  },
+  {
+    "id": "WION.in",
+    "name": "WION",
+    "alt_names": [
+      "World is One News"
+    ],
+    "network": "Zee Media",
+    "owners": [
+      "Zee Media Corporation Limited (ZMCL)",
+      "The Essel Group"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s144087_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wion-world-is-one-news/index.m3u8?ads.vf=o0Hi_3Ro5Pi",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -370681,6 +371804,43 @@
     "closed": null
   },
   {
+    "id": "ZeeBiharJharkhand.in",
+    "name": "Zee Bihar Jharkhand",
+    "alt_names": [],
+    "network": "Zee Media",
+    "owners": [
+      "Zee Media Corporation Limited (ZMCL)",
+      "The Essel Group"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00230Y44.png?lock=720x540",
+    "stream_url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ZeeBiharJharkhand.in",
+      "feed": "SD",
+      "site": "zee5.com",
+      "site_id": "0-9-zeebiharjharkhand",
+      "site_name": "Zee Bihar Jharkhand",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://zeenews.india.com/hindi/india/bihar-jharkhand",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ZeeBiskope.in",
     "name": "Zee Biskope",
     "alt_names": [],
@@ -371672,6 +372832,43 @@
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0023VWYC.png?lock=720x540",
     "stream_url": "https://dt3lrqnyx3dks.cloudfront.net/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ZeeNews.in",
+      "feed": "SD",
+      "site": "zee5.com",
+      "site_id": "0-9-zeenews",
+      "site_name": "Zee News",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://zeenews.india.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ZeeNews.in",
+    "name": "Zee News",
+    "alt_names": [],
+    "network": "Zee Media",
+    "owners": [
+      "Zee Media Corporation Limited (ZMCL)",
+      "The Essel Group"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0023VWYC.png?lock=720x540",
+    "stream_url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/main.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

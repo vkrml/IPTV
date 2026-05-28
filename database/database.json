@@ -3411,6 +3411,46 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
+    "stream_url": "https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "24Horas.es",
+      "feed": "SD",
+      "site": "vodafone.pt",
+      "site_id": "2749",
+      "site_name": "24h",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "http://www.rtve.es/alacarta/tve/24-horas/",
+    "launched": "1997-09-15",
+    "closed": null
+  },
+  {
+    "id": "24Horas.es",
+    "name": "24 Horas",
+    "alt_names": [
+      "Canal 24 Horas",
+      "24h"
+    ],
+    "network": "TVE",
+    "owners": [
+      "RTVE SA"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news",
+      "public"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
     "stream_url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -13495,7 +13535,33 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/JdKxscs.png",
     "stream_url": "https://albportal.net/albkanalemusic.m3u8",
-    "stream_quality": "720p",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://albportal.net/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AlbKanaleMusicTV.al",
+    "name": "AlbKanale Music TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AL",
+    "country_name": "Albania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/JdKxscs.png",
+    "stream_url": "https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -20968,40 +21034,6 @@
     "closed": null
   },
   {
-    "id": "ANC.ph",
-    "name": "ANC",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PH",
-    "country_name": "Philippines",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/odwRbRk.png",
-    "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ANC.ph",
-      "feed": "SD",
-      "site": "starhubtvplus.com",
-      "site_id": "5711b532-844b-441d-841a-18bdb1ef1094",
-      "site_name": "ANC",
-      "lang": "zh",
-      "sources": []
-    },
-    "website": "https://news.abs-cbn.com/anc",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Andflix.in",
     "name": "&flix",
     "alt_names": [],
@@ -27163,6 +27195,62 @@
     },
     "website": "http://armyfm.com.ua/",
     "launched": "2023-04-21",
+    "closed": null
+  },
+  {
+    "id": "ArputharYesuTV.in",
+    "name": "Arputhar Yesu TV",
+    "alt_names": [
+      "அற்புதர் இயேசு"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png",
+    "stream_url": "https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://arputharyesutv.net/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ArputharYesuTV.in",
+    "name": "Arputhar Yesu TV",
+    "alt_names": [
+      "அற்புதர் இயேசு"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png",
+    "stream_url": "https://account33.livebox.co.in/jesushelpshls/live.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://arputharyesutv.net/",
+    "launched": null,
     "closed": null
   },
   {
@@ -42387,6 +42475,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/vsktAez.png",
+    "stream_url": "http://go.bkpcp.top/mg/bjws",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BeijingSatelliteTV.cn",
+      "feed": "SD",
+      "site": "tv.sfr.fr",
+      "site_id": "771",
+      "site_name": "Beijing TV",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.brtn.cn/btv/",
+    "launched": "1979-05-16",
+    "closed": null
+  },
+  {
+    "id": "BeijingSatelliteTV.cn",
+    "name": "Beijing Satellite TV",
+    "alt_names": [
+      "北京卫视"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/vsktAez.png",
     "stream_url": "http://ivi.bupt.edu.cn/hls/btv1.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -51670,37 +51794,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/U8mcRal.png",
-    "stream_url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://btb.j00r.us/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BTB.pl",
-    "name": "BTB",
-    "alt_names": [
-      "Telewizja BTB",
-      "Bombaska Telewizja Boża"
-    ],
-    "network": "Telewizja BTB",
-    "owners": [
-      "Telewizja BTB"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/U8mcRal.png",
     "stream_url": "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -54839,40 +54932,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://www.canal4sanjuan.com.ar/digital/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Canal5.mx",
-    "name": "Canal 5",
-    "alt_names": [],
-    "network": "Televisa",
-    "owners": [],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/uZdVSoW.png",
-    "stream_url": "http://185.56.109.253/Canal5/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Canal5.mx",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "mx#xh-gc-canal-5",
-      "site_name": "Canal 5",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "http://www.televisa.com/canal5/",
     "launched": null,
     "closed": null
   },
@@ -65487,6 +65546,82 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/TpA3cUl.png",
+    "stream_url": "http://69.30.245.50/live/cctv1.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV1.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv1",
+      "site_name": "CCTV 1",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv1/",
+    "launched": "1958-09-02",
+    "closed": null
+  },
+  {
+    "id": "CCTV1.cn",
+    "name": "CCTV-1",
+    "alt_names": [
+      "CCTV-1 综合"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TpA3cUl.png",
+    "stream_url": "http://198.204.240.250:82/live/cctv1.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV1.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv1",
+      "site_name": "CCTV 1",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv1/",
+    "launched": "1958-09-02",
+    "closed": null
+  },
+  {
+    "id": "CCTV1.cn",
+    "name": "CCTV-1",
+    "alt_names": [
+      "CCTV-1 综合"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TpA3cUl.png",
     "stream_url": "http://74.91.26.218:82/live/cctv1hd.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -65617,6 +65752,44 @@
     },
     "website": "http://tv.cctv.com/cctv4america/",
     "launched": "2017-02-20",
+    "closed": null
+  },
+  {
+    "id": "CCTV4Asia.cn",
+    "name": "CCTV-4 Asia",
+    "alt_names": [
+      "CCTV-4 中文国际亚洲"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/tWt4Wou.png",
+    "stream_url": "http://74.91.26.218:82/live/cctv4hd.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV4Asia.cn",
+      "feed": "SD",
+      "site": "wavve.com",
+      "site_id": "K12",
+      "site_name": "CCTV4",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv4asia/",
+    "launched": "2015-04-15",
     "closed": null
   },
   {
@@ -65764,6 +65937,82 @@
     "closed": null
   },
   {
+    "id": "CCTV6.cn",
+    "name": "CCTV-6",
+    "alt_names": [
+      "CCTV-6 电影"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/rFiaef7.png",
+    "stream_url": "http://198.204.240.250:82/live/cctv6.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV6.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv6",
+      "site_name": "CCTV 6",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv6/",
+    "launched": "1996-01-01",
+    "closed": null
+  },
+  {
+    "id": "CCTV6.cn",
+    "name": "CCTV-6",
+    "alt_names": [
+      "CCTV-6 电影"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/rFiaef7.png",
+    "stream_url": "http://69.30.245.50/live/cctv6.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV6.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv6",
+      "site_name": "CCTV 6",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv6/",
+    "launched": "1996-01-01",
+    "closed": null
+  },
+  {
     "id": "CCTV7.cn",
     "name": "CCTV-7",
     "alt_names": [
@@ -65858,6 +66107,34 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/fxVPMJF.png",
     "stream_url": "http://198.204.240.250:82/live/cctv8k.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://tv.cctv.com/",
+    "launched": "2022-01-24",
+    "closed": null
+  },
+  {
+    "id": "CCTV8K.cn",
+    "name": "CCTV-8K",
+    "alt_names": [
+      "CCTV-8K 超高清"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/fxVPMJF.png",
+    "stream_url": "http://192.151.150.154/live/cctv8k.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -66093,6 +66370,45 @@
     },
     "website": "http://tv.cctv.com/cctv12/",
     "launched": "2002-05-12",
+    "closed": null
+  },
+  {
+    "id": "CCTV13.cn",
+    "name": "CCTV-13",
+    "alt_names": [
+      "CCTV-13 新闻",
+      "中国中央电视台新闻频道"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6MTar6J.png",
+    "stream_url": "http://go.bkpcp.top/mg/cctv13",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV13.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv13",
+      "site_name": "CCTV 13",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv13/",
+    "launched": "2003-05-01",
     "closed": null
   },
   {
@@ -66412,6 +66728,194 @@
     "closed": null
   },
   {
+    "id": "CCTVBilliards.cn",
+    "name": "CCTV-Billiards",
+    "alt_names": [
+      "CCTV-央视台球"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/WK3keM9.png",
+    "stream_url": "http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTVBilliards.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "taiqiu",
+      "site_name": "CCTV央视台球",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CCTVCultureofQuality.cn",
+    "name": "CCTV-Culture of Quality",
+    "alt_names": [
+      "CCTV-央视文化精品"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Paig8gG.png",
+    "stream_url": "http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTVCultureofQuality.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "jingpin",
+      "site_name": "CCTV央视文化精品",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CCTVGolfTennis.cn",
+    "name": "CCTV-Golf & Tennis",
+    "alt_names": [
+      "CCTV-高尔夫·网球"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/iqJJTmH.png",
+    "stream_url": "http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTVGolfTennis.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctvgaowang",
+      "site_name": "CCTV高尔夫网球",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CCTVHealth.cn",
+    "name": "CCTV-Health",
+    "alt_names": [
+      "CCTV-卫生健康"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/AzpRtCz.png",
+    "stream_url": "http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTVHealth.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "wsjk",
+      "site_name": "卫生健康",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CCTVNostalgiaTheater.cn",
+    "name": "CCTV-Nostalgia Theater",
+    "alt_names": [
+      "CCTV-怀旧剧场"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "classic"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TVs9PBc.png",
+    "stream_url": "http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTVNostalgiaTheater.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "hjjc",
+      "site_name": "CCTV怀旧剧场",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CCTVPlus1.cn",
     "name": "CCTV+ 1",
     "alt_names": [],
@@ -66468,6 +66972,188 @@
     "closed": null
   },
   {
+    "id": "CCTVStormFootball.cn",
+    "name": "CCTV-Storm Football",
+    "alt_names": [
+      "CCTV-风云足球"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Fy6HkX0.png",
+    "stream_url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTVStormFootball.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctvfyzq",
+      "site_name": "CCTV风云足球",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/",
+    "launched": "2004-01-01",
+    "closed": null
+  },
+  {
+    "id": "CCTVStormMusic.cn",
+    "name": "CCTV-Storm Music",
+    "alt_names": [
+      "CCTV-风云音乐"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/IiiRmrf.png",
+    "stream_url": "http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTVStormMusic.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "fyyy",
+      "site_name": "CCTV风云音乐",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/",
+    "launched": "2004-08-09",
+    "closed": null
+  },
+  {
+    "id": "CCTVStormTheater.cn",
+    "name": "CCTV-Storm Theater",
+    "alt_names": [
+      "CCTV-风云剧场"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/rEttkKm.png",
+    "stream_url": "http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTVStormTheater.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "fyjc",
+      "site_name": "CCTV风云剧场",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/",
+    "launched": "2004-08-09",
+    "closed": null
+  },
+  {
+    "id": "CCTVTheFirstTheater.cn",
+    "name": "CCTV-The First Theater",
+    "alt_names": [
+      "CCTV-第一剧场"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/eFxD3hq.png",
+    "stream_url": "http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTVTheFirstTheater.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "diyijuchang",
+      "site_name": "CCTV第一剧场",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/",
+    "launched": "2004-08-09",
+    "closed": null
+  },
+  {
+    "id": "CCTVWeaponTechnology.cn",
+    "name": "CCTV-Weapon & Technology",
+    "alt_names": [
+      "CCTV-兵器科技"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/QlF96eS.png",
+    "stream_url": "http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://tv.cctv.com/",
+    "launched": "2006-05-08",
+    "closed": null
+  },
+  {
     "id": "CCTVWomensFashion.cn",
     "name": "CCTV-Women's Fashion",
     "alt_names": [
@@ -66503,6 +67189,82 @@
     },
     "website": "http://tv.cctv.com/",
     "launched": "2004-01-01",
+    "closed": null
+  },
+  {
+    "id": "CCTVWomensFashion.cn",
+    "name": "CCTV-Women's Fashion",
+    "alt_names": [
+      "CCTV-女性时尚"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/FVbP0aP.png",
+    "stream_url": "http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTVWomensFashion.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "shishang",
+      "site_name": "CCTV女性时尚",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/",
+    "launched": "2004-01-01",
+    "closed": null
+  },
+  {
+    "id": "CCTVWorldGeography.cn",
+    "name": "CCTV-World Geography",
+    "alt_names": [
+      "CCTV-世界地理"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/V2ncOXi.png",
+    "stream_url": "http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTVWorldGeography.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "shijiedili",
+      "site_name": "CCTV世界地理",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/",
+    "launched": "2005-03-14",
     "closed": null
   },
   {
@@ -73306,47 +74068,6 @@
     "closed": null
   },
   {
-    "id": "CinemaOne.ph",
-    "name": "Cinema One",
-    "alt_names": [
-      "C1",
-      "C1NEMAONE",
-      "Pinoy Blockbuster Channel",
-      "Sky 1"
-    ],
-    "network": null,
-    "owners": [
-      "Creative Programs Inc."
-    ],
-    "country_code": "PH",
-    "country_name": "Philippines",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/960px-Cinema_One_2013_logo.svg.png",
-    "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CinemaOne.ph",
-      "feed": "SD",
-      "site": "mysky.com.ph",
-      "site_id": "56",
-      "site_name": "CINEMA ONE",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://cablechannels.abs-cbn.com/cinemaone",
-    "launched": "1994-06-12",
-    "closed": null
-  },
-  {
     "id": "CinemaWorld.my",
     "name": "CinemaWorld",
     "alt_names": [],
@@ -73377,42 +74098,6 @@
       "sources": []
     },
     "website": "https://cinemaworld.asia/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CineMo.ph",
-    "name": "Cine Mo!",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "ABS-CBN Corporation"
-    ],
-    "country_code": "PH",
-    "country_name": "Philippines",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/rGAOD3f.png",
-    "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CineMo.ph",
-      "feed": "SD",
-      "site": "mysky.com.ph",
-      "site_id": "7",
-      "site_name": "CINEMO!",
-      "lang": "en",
-      "sources": []
-    },
-    "website": null,
     "launched": null,
     "closed": null
   },
@@ -109900,7 +110585,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png",
-    "stream_url": "https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8",
+    "stream_url": "https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -126695,6 +127380,32 @@
     "closed": null
   },
   {
+    "id": "GTV.gh",
+    "name": "GTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "GH",
+    "country_name": "Ghana",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5cFLWKO.png",
+    "stream_url": "https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8",
+    "stream_quality": "540p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://liveghanatv.com/",
+    "tv_guide": null,
+    "website": "https://www.gbcghanaonline.com/",
+    "launched": "1965-07-31",
+    "closed": null
+  },
+  {
     "id": "GTV.gt",
     "name": "GTV",
     "alt_names": [],
@@ -126804,6 +127515,42 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "GTV.ph",
+    "name": "GTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "GMA Network Inc"
+    ],
+    "country_code": "PH",
+    "country_name": "Philippines",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/rWhamwh.png",
+    "stream_url": "http://pro.reott8k.xyz/play/live.php?mac=00:1A:79:7B:BB:36&stream=1548700&extension=m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GTV.ph",
+      "feed": "SD",
+      "site": "clickthecity.com",
+      "site_id": "143",
+      "site_name": "GTV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.gmanetwork.com/news/",
+    "launched": "2021-02-22",
     "closed": null
   },
   {
@@ -130575,6 +131322,42 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HebeiTV.cn",
+    "name": "Hebei TV",
+    "alt_names": [
+      "河北电视台"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Z5Ppzbi.png",
+    "stream_url": "https://event.pull.hebtv.com:443/live/live101.m3u8",
+    "stream_quality": "2160p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HebeiTV.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "hebei",
+      "site_name": "河北卫视",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://www.hebtv.com.cn/",
     "launched": null,
     "closed": null
   },
@@ -151091,6 +151874,62 @@
       "sources": []
     },
     "website": "https://jovempan.com.br/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "JoyTV.in",
+    "name": "Joy TV",
+    "alt_names": [
+      "ஜாய் டிவி"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://joytvchennai.org/wp-content/uploads/2026/04/cropped-512.png",
+    "stream_url": "https://joy.inet.moe/live/joytv/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://joytvchennai.org/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "JoyTV.in",
+    "name": "Joy TV",
+    "alt_names": [
+      "ஜாய் டிவி"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://joytvchennai.org/wp-content/uploads/2026/04/cropped-512.png",
+    "stream_url": "https://ktismaservers.in:3412/live/joytvlive.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://joytvchennai.org/",
     "launched": null,
     "closed": null
   },
@@ -176018,7 +176857,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.discogs.com/Fk9Bm8gTYJYeVXIJKX-EOGmYQ90sVQPtkIW5ZK4fydo/rs:fit/g:sm/q:90/h:372/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTY4/MzMtMTU2ODk0NjI5/MC01Njk2LmpwZWc.jpeg",
-    "stream_url": "https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8",
+    "stream_url": "https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -219422,7 +220261,7 @@
     "is_nsfw": false,
     "logo": "https://pbs.twimg.com/profile_images/1034118312437919744/emeWo-ag_400x400.jpg",
     "stream_url": "https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8",
-    "stream_quality": null,
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -258596,6 +259435,82 @@
     },
     "website": "http://www.rtp.pt/rtpmemoria/",
     "launched": "2004-10-04",
+    "closed": null
+  },
+  {
+    "id": "RTPMundo.pt",
+    "name": "RTP Mundo",
+    "alt_names": [
+      "RTP Internacional"
+    ],
+    "network": null,
+    "owners": [
+      "Rádio e Televisão de Portugal"
+    ],
+    "country_code": "PT",
+    "country_name": "Portugal",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png",
+    "stream_url": "https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RTPMundo.pt",
+      "feed": "SD",
+      "site": "zap.co.ao",
+      "site_id": "2262",
+      "site_name": "RTP Mundo",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://mundo.rtp.pt/",
+    "launched": "1992-06-10",
+    "closed": null
+  },
+  {
+    "id": "RTPMundo.pt",
+    "name": "RTP Mundo",
+    "alt_names": [
+      "RTP Internacional"
+    ],
+    "network": null,
+    "owners": [
+      "Rádio e Televisão de Portugal"
+    ],
+    "country_code": "PT",
+    "country_name": "Portugal",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png",
+    "stream_url": "https://op-group1-swiftservehd-1.dens.tv/s/s38/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
+    "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "RTPMundo.pt",
+      "feed": "SD",
+      "site": "zap.co.ao",
+      "site_id": "2262",
+      "site_name": "RTP Mundo",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://mundo.rtp.pt/",
+    "launched": "1992-06-10",
     "closed": null
   },
   {
@@ -325083,6 +325998,32 @@
     "closed": null
   },
   {
+    "id": "TV3.gh",
+    "name": "TV3",
+    "alt_names": [],
+    "network": "TV3",
+    "owners": [
+      "Media General Ghana Limited"
+    ],
+    "country_code": "GH",
+    "country_name": "Ghana",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/8t967Hq.png",
+    "stream_url": "https://g2qd3exjy7an-hls-live.5centscdn.com/webtv3/ghanatv.stream/playlist.m3u8",
+    "stream_quality": "540p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://liveghanatv.com/",
+    "tv_guide": null,
+    "website": "https://3news.com/",
+    "launched": "1997-01-01",
+    "closed": null
+  },
+  {
     "id": "TV3.ru",
     "name": "TV-3",
     "alt_names": [
@@ -332139,6 +333080,32 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
+    "stream_url": "https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.rtve.es/play/tve-internacional/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVEInternacionalEurope.es",
+    "name": "TVE Internacional Europe",
+    "alt_names": [],
+    "network": "TVE",
+    "owners": [
+      "RTVE"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
     "stream_url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -338056,6 +339023,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/lB4MgRI.png",
+    "stream_url": "https://lowa8026-cmyk.github.io/Poland/POLAIN.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVPWorld.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tvp-world",
+      "site_name": "TVP World",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://tvpworld.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVPWorld.pl",
+    "name": "TVP World",
+    "alt_names": [],
+    "network": "TVP",
+    "owners": [
+      "Telewizja Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/lB4MgRI.png",
     "stream_url": "https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -343188,6 +344191,30 @@
     "closed": null
   },
   {
+    "id": "TVTZgorzelec.pl",
+    "name": "TVT Zgorzelec",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/zhzVpgf.jpg",
+    "stream_url": "https://lowa8026-cmyk.github.io/Poland/TVTZGORHD.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVU.cl",
     "name": "TVU",
     "alt_names": [
@@ -346397,6 +347424,30 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://unisultv.blogspot.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "UnitedTV.gh",
+    "name": "United TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "GH",
+    "country_name": "Ghana",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/2isM8xd.png",
+    "stream_url": "https://g2qd3exjy7an-hls-live.5centscdn.com/utvgha/ghanaweb.stream/playlist.m3u8",
+    "stream_quality": "540p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://liveghanatv.com/",
+    "tv_guide": null,
+    "website": "http://utv.peacefmonline.com/",
     "launched": null,
     "closed": null
   },

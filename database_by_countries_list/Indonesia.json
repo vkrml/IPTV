@@ -1,5 +1,33 @@
 [
   {
+    "id": "AFBTVKupang.id",
+    "name": "AFBTV Kupang",
+    "alt_names": [
+      "AFB TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/bJpyzPbB/afbtv.png",
+    "stream_url": "https://afbtv.siar.us/live/afbtv.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://afbtvkupang.com/",
+    "tv_guide": null,
+    "website": "http://afbtvkupang.com/",
+    "launched": "2006-12-26",
+    "closed": null
+  },
+  {
     "id": "AlBahjahTV.id",
     "name": "Al-Bahjah TV",
     "alt_names": [],
@@ -138,39 +166,39 @@
     "closed": null
   },
   {
-    "id": "ANTV.id",
-    "name": "ANTV",
+    "id": "AntaraTV.id",
+    "name": "Antara TV",
     "alt_names": [],
     "network": null,
     "owners": [
-      "Intermedia Capital"
+      "Government of Indonesia"
     ],
     "country_code": "ID",
     "country_name": "Indonesia",
     "subdivision": null,
     "city": null,
     "categories": [
-      "general"
+      "news"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png",
-    "stream_url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8",
-    "stream_quality": "576i",
+    "logo": "https://thumbor.prod.vidiocdn.com/GZLOFeCtplhuW5-hl6yePAuO5G8=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/909905/antaratv-90a879.jpg",
+    "stream_url": "https://indihuy.streamized.net/atm/DASH/antara/manifest.mpd",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
+    "referrer": "maxstream.tv/tv-channels",
     "tv_guide": {
-      "channel": "ANTV.id",
+      "channel": "AntaraTV.id",
       "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000010",
-      "site_name": "ANTV",
+      "site": "maxstream.tv",
+      "site_id": "0_3n2pn24p",
+      "site_name": "ANTARA TV",
       "lang": "id",
       "sources": []
     },
-    "website": "https://www.antvklik.com/",
-    "launched": "1993-03-01",
+    "website": "https://en.antaranews.com/",
+    "launched": null,
     "closed": null
   },
   {
@@ -340,34 +368,6 @@
     "closed": null
   },
   {
-    "id": "BalikpapanTV.id",
-    "name": "Balikpapan TV",
-    "alt_names": [
-      "BTV"
-    ],
-    "network": "Jawa Pos Multimedia",
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/P3whqna.png",
-    "stream_url": "https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://balikpapantv.co.id/",
-    "launched": "2011-01-22",
-    "closed": null
-  },
-  {
     "id": "BaliTV.id",
     "name": "Bali TV",
     "alt_names": [],
@@ -385,11 +385,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/uH1Szme.png",
-    "stream_url": "https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd",
-    "stream_quality": "540p",
+    "stream_url": "https://indihuy.streamized.net/atm/DASH/balitv/manifest.mpd",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
+    "referrer": "maxstream.tv/tv-channels",
     "tv_guide": {
       "channel": "BaliTV.id",
       "feed": "SD",

@@ -361,34 +361,6 @@
     "closed": null
   },
   {
-    "id": "BTBMusic.pl",
-    "name": "BTB Music",
-    "alt_names": [],
-    "network": "Telewizja BTB",
-    "owners": [
-      "Telewizja BTB"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://btb.j00r.us/images/logo_BTBMusic.webp",
-    "stream_url": "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://btb.j00r.us",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "BuzzfeedUnsolved.pl",
     "name": "Buzzfeed Unsolved",
     "alt_names": [],
@@ -2518,6 +2490,40 @@
       "sources": []
     },
     "website": "https://tvp2.tvp.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVPDokument.pl",
+    "name": "TVP Dokument",
+    "alt_names": [],
+    "network": "TVP",
+    "owners": [
+      "Telewizja Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/oQUNtzs.png",
+    "stream_url": "https://tvpi.travny.workers.dev/tvpdokument.m3u",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVPDokument.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tvp-dokument",
+      "site_name": "TVP Dokument",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://www.tvp.pl/50782031/tvpdokument",
     "launched": null,
     "closed": null
   },

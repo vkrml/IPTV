@@ -2596,6 +2596,40 @@
     "closed": null
   },
   {
+    "id": "TVPNauka.pl",
+    "name": "TVP Nauka",
+    "alt_names": [],
+    "network": "TVP",
+    "owners": [
+      "Telewizja Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ga5Z8jf.png",
+    "stream_url": "https://tvpi.travny.workers.dev/tvpnauka.m3u",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVPNauka.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tvp-nauka",
+      "site_name": "TVP Nauka",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://nauka.tvp.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVPPolonia.pl",
     "name": "TVP Polonia",
     "alt_names": [],
@@ -2729,6 +2763,40 @@
     },
     "website": "https://polonia.tvp.pl/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVPRozrywka.pl",
+    "name": "TVP Rozrywka",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Telewizja Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/05Vx5px.png",
+    "stream_url": "https://tvpi.travny.workers.dev/tvprozrywka.m3u",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVPRozrywka.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tvp-rozrywka-159",
+      "site_name": "TVP Rozrywka",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://tvprozrywka.tvp.pl/",
+    "launched": "2013-04-15",
     "closed": null
   },
   {

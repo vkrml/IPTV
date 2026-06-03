@@ -15957,7 +15957,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "AlkassFive.qa",
+      "feed": "SD",
+      "site": "bein.com",
+      "site_id": "sports#37",
+      "site_name": "37",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://www.alkass.net/",
     "launched": "2006-06-06",
     "closed": null
@@ -15987,7 +15995,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "AlkassFour.qa",
+      "feed": "SD",
+      "site": "bein.com",
+      "site_id": "sports#36",
+      "site_name": "36",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://www.alkass.net/",
     "launched": "2006-06-06",
     "closed": null
@@ -16055,7 +16071,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "AlkassSeven.qa",
+      "feed": "SD",
+      "site": "bein.com",
+      "site_id": "sports#39",
+      "site_name": "39",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://www.alkass.net/",
     "launched": null,
     "closed": null
@@ -16139,7 +16163,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "AlkassSix.qa",
+      "feed": "SD",
+      "site": "bein.com",
+      "site_id": "sports#38",
+      "site_name": "38",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://www.alkass.net/",
     "launched": null,
     "closed": null
@@ -16173,9 +16205,9 @@
       "channel": "AlkassThree.qa",
       "feed": "SD",
       "site": "bein.com",
-      "site_id": "sports#33",
-      "site_name": "33",
-      "lang": "ar",
+      "site_id": "sports#35",
+      "site_name": "35",
+      "lang": "en",
       "sources": []
     },
     "website": "https://www.alkass.net/",
@@ -16211,9 +16243,9 @@
       "channel": "AlkassThree.qa",
       "feed": "SD",
       "site": "bein.com",
-      "site_id": "sports#33",
-      "site_name": "33",
-      "lang": "ar",
+      "site_id": "sports#35",
+      "site_name": "35",
+      "lang": "en",
       "sources": []
     },
     "website": "https://www.alkass.net/",
@@ -26766,6 +26798,37 @@
     "closed": null
   },
   {
+    "id": "ART.gr",
+    "name": "ART",
+    "alt_names": [
+      "Τηλεάστυ",
+      "Άστυ Ράδιο Τηλεόραση"
+    ],
+    "network": null,
+    "owners": [
+      "City News S.A."
+    ],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/mNeLu04.png",
+    "stream_url": "https://rumble.com/live-hls-dvr/78ixwi/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.arttv.info/",
+    "launched": "1990-02-14",
+    "closed": null
+  },
+  {
     "id": "arte.de",
     "name": "arte",
     "alt_names": [
@@ -33503,6 +33566,34 @@
     },
     "website": "https://balatontelevizio.hu/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BalikpapanTV.id",
+    "name": "Balikpapan TV",
+    "alt_names": [
+      "BTV"
+    ],
+    "network": "Jawa Pos Multimedia",
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/P3whqna.png",
+    "stream_url": "http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://balikpapantv.co.id/",
+    "launched": "2011-01-22",
     "closed": null
   },
   {
@@ -43016,11 +43107,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.postimg.cc/6pycF7Vx/300px-IDTV.png",
-    "stream_url": "https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008r/srtoutput/manifest.m3u8",
+    "stream_url": "https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
+    "referrer": "https://www.beritasatu.com/beritasatu-live-streaming",
     "tv_guide": {
       "channel": "BeritaSatu.id",
       "feed": "SD",
@@ -50446,11 +50537,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png",
-    "stream_url": "https://btv.secureswiftcontent.com/han/btv/btv10005r/srtoutput/manifest.m3u8",
+    "stream_url": "https://xtdslboppkkv-pull.bpmedialive.com/live/btv/abr.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
+    "referrer": "https://www.beritasatu.com/btv-live-streaming",
     "tv_guide": {
       "channel": "BTV.id",
       "feed": "SD",
@@ -104249,6 +104340,42 @@
     "closed": null
   },
   {
+    "id": "EuropaEuropa.ar",
+    "name": "Europa Europa",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "AMC Networks International"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/w5SOfyJ.png",
+    "stream_url": "http://181.119.93.83:8000/play/a1sr/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EuropaEuropa.ar",
+      "feed": "SD",
+      "site": "reportv.com.ar",
+      "site_id": "184",
+      "site_name": "EUROPA EUROPA",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.europaeuropa.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "EuropaPlusTV.ru",
     "name": "Europa Plus TV",
     "alt_names": [],
@@ -122372,11 +122499,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/jjuKnYs.png",
-    "stream_url": "https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd",
+    "stream_url": "https://indihuy.streamized.net/atm/DASH/globaltv/manifest.mpd",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
+    "referrer": "maxstream.tv/tv-channels",
     "tv_guide": {
       "channel": "GTV.id",
       "feed": "SD",
@@ -123216,42 +123343,6 @@
     "logo": "https://i.imgur.com/kqYssbW.png",
     "stream_url": "https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Gulli.fr",
-      "feed": "SD",
-      "site": "tvcesoir.fr",
-      "site_id": "76515449/gulli",
-      "site_name": "Gulli",
-      "lang": "fr",
-      "sources": []
-    },
-    "website": "http://www.gulli.fr/",
-    "launched": "2005-11-18",
-    "closed": null
-  },
-  {
-    "id": "Gulli.fr",
-    "name": "Gulli",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "M6 Group"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/kqYssbW.png",
-    "stream_url": "https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8",
-    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -132175,7 +132266,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c0/HTV7_logo.webp",
     "stream_url": "https://liveh12.vtvprime.vn/hls/HTV7HD/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -132204,7 +132295,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bf/HTV9_logo.webp",
     "stream_url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -133989,11 +134080,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/xPvrcsr.png",
-    "stream_url": "https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd",
+    "stream_url": "https://indihuy.streamized.net/atm/DASH/idx/manifest.mpd",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
+    "referrer": "maxstream.tv/tv-channels",
     "tv_guide": {
       "channel": "IDXChannel.id",
       "feed": "SD",
@@ -136021,11 +136112,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/M2R3lfg.png",
-    "stream_url": "https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd",
+    "stream_url": "https://indihuy.streamized.net/atm/DASH/inews/manifest.mpd",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
+    "referrer": "maxstream.tv/tv-channels",
     "tv_guide": {
       "channel": "iNews.id",
       "feed": "SD",
@@ -136972,6 +137063,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://www.intermediatv.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "InterPlus.ua",
+    "name": "Inter+",
+    "alt_names": [
+      "Інтер+"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Y392Hh4.png",
+    "stream_url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://interplus.ua/",
     "launched": null,
     "closed": null
   },
@@ -140975,11 +141094,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/xyLLLOi.png",
-    "stream_url": "https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd",
+    "stream_url": "https://indihuy.streamized.net/atm/DASH/JAK_TV/manifest.mpd",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
+    "referrer": "maxstream.tv/tv-channels",
     "tv_guide": {
       "channel": "JakTV.id",
       "feed": "SD",
@@ -141122,32 +141241,6 @@
     "tv_guide": null,
     "website": "https://jamaicaonlinetv.com/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "JambiTV.id",
-    "name": "Jambi TV",
-    "alt_names": [],
-    "network": "Jawa Pos Multimedia",
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/15/Jambi_TV.png",
-    "stream_url": "https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://jambitv.co.id/live-tv/",
-    "tv_guide": null,
-    "website": "https://dobrak.id/",
-    "launched": "2008-01-05",
     "closed": null
   },
   {
@@ -173173,6 +173266,42 @@
     "closed": null
   },
   {
+    "id": "MAXEats.id",
+    "name": "MAX Eats",
+    "alt_names": [],
+    "network": "IndiHome",
+    "owners": [
+      "Telkomsel Indonesia"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "cooking"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.maxstream.tv/sites/default/files/entry/0_z7t4c568/landscape_carousel_xxhdpi.webp",
+    "stream_url": "https://indihuy.streamized.net/atm/DASH/maxeats/manifest.mpd",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "maxstream.tv/tv-channels",
+    "tv_guide": {
+      "channel": "MAXEats.id",
+      "feed": "SD",
+      "site": "maxstream.tv",
+      "site_id": "0_z7t4c568",
+      "site_name": "MAXEats",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://maxstream.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "MaxivisionTV.gt",
     "name": "Maxivision TV",
     "alt_names": [
@@ -173198,6 +173327,45 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MAXKids.id",
+    "name": "MAX Kids",
+    "alt_names": [
+      "IndiKids",
+      "Fun Planet"
+    ],
+    "network": "IndiHome",
+    "owners": [
+      "Telkomsel Indonesia"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.maxstream.tv/sites/default/files/entry/0_ynh2anw4/landscape_carousel_xxhdpi.webp",
+    "stream_url": "https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "maxstream.tv/tv-channels",
+    "tv_guide": {
+      "channel": "MAXKids.id",
+      "feed": "SD",
+      "site": "maxstream.tv",
+      "site_id": "0_ynh2anw4",
+      "site_name": "MAXKids",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://maxstream.tv/",
+    "launched": "2023-10-10",
     "closed": null
   },
   {
@@ -173253,6 +173421,42 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://maxtn.in/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MAXStreak.id",
+    "name": "MAX Streak",
+    "alt_names": [],
+    "network": "IndiHome",
+    "owners": [
+      "Telkomsel Indonesia"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.maxstream.tv/sites/default/files/entry/0_720wy4x6/landscape_carousel_xxhdpi.webp",
+    "stream_url": "https://indihuy.streamized.net/atm/DASH/maxstreak/manifest.mpd",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "maxstream.tv/tv-channels",
+    "tv_guide": {
+      "channel": "MAXStreak.id",
+      "feed": "SD",
+      "site": "maxstream.tv",
+      "site_id": "0_720wy4x6",
+      "site_name": "MAXStreak",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://maxstream.tv/",
     "launched": null,
     "closed": null
   },
@@ -175015,6 +175219,38 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/960px-MDTV_logo.svg.png",
     "stream_url": "https://wahyu1ptv.pages.dev/MDTV-HD.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MDTV.id",
+      "feed": "HD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000023",
+      "site_name": "MDTV",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://mdtelevision.com/",
+    "launched": "2025-02-28",
+    "closed": null
+  },
+  {
+    "id": "MDTV.id",
+    "name": "MDTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/960px-MDTV_logo.svg.png",
+    "stream_url": "http://103.148.44.38:8000/play/a05b/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -180442,11 +180678,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/SK8pjQy.png",
-    "stream_url": "https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd",
+    "stream_url": "https://indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
+    "referrer": "maxstream.tv/tv-channels",
     "tv_guide": {
       "channel": "MNCTV.id",
       "feed": "SD",
@@ -183380,6 +183616,40 @@
     "closed": null
   },
   {
+    "id": "MQTV.id",
+    "name": "MQTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/d8dQo6E.png",
+    "stream_url": "https://indihuy.streamized.net/atm/DASH/mqtv/manifest.mpd",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "maxstream.tv/tv-channels",
+    "tv_guide": {
+      "channel": "MQTV.id",
+      "feed": "SD",
+      "site": "maxstream.tv",
+      "site_id": "0_voqn75wc",
+      "site_name": "MQTV",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "http://www.mqtv.co.id/",
+    "launched": "2003-10-28",
+    "closed": null
+  },
+  {
     "id": "MrBeanAnimated.uk",
     "name": "Mr Bean Animated",
     "alt_names": [
@@ -184801,11 +185071,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/3kGs7k0.png",
-    "stream_url": "https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd",
-    "stream_quality": "540p",
+    "stream_url": "https://indihuy.streamized.net/atm/DASH/mtatv/manifest.mpd",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
+    "referrer": "maxstream.tv/tv-channels",
     "tv_guide": {
       "channel": "MTATV.id",
       "feed": "SD",
@@ -186763,6 +187033,45 @@
       "sources": []
     },
     "website": "https://muz-tv.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Muzvar.ua",
+    "name": "Muzvar",
+    "alt_names": [
+      "Музвар"
+    ],
+    "network": null,
+    "owners": [
+      "Oleksiy Dontsov",
+      "Yulian Novak"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Klu5k9U.png",
+    "stream_url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Muzvar.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "muzwar",
+      "site_name": "Музвар",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://muzvar.com/en/contact/",
     "launched": null,
     "closed": null
   },
@@ -203148,6 +203457,45 @@
     "closed": null
   },
   {
+    "id": "NTN.ua",
+    "name": "NTN",
+    "alt_names": [
+      "НТН"
+    ],
+    "network": null,
+    "owners": [
+      "Ukrainian Media Resource",
+      "Mindon Holdings"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/AmyCNJv.png",
+    "stream_url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NTN.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "ntn-ua",
+      "site_name": "НТН",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://ntn.ua/",
+    "launched": "2004-11-01",
+    "closed": null
+  },
+  {
     "id": "NTS.ru",
     "name": "NTS",
     "alt_names": [
@@ -204248,34 +204596,6 @@
     "closed": null
   },
   {
-    "id": "NudgeSportsChannel.ph",
-    "name": "Nudge Sports Channel",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Nudge Productions"
-    ],
-    "country_code": "PH",
-    "country_name": "Philippines",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/TW0hapZ.png",
-    "stream_url": "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://nudgeproductions.co/nudge-sports-channel",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "NuevaVidaFM.pr",
     "name": "Nueva Vida FM",
     "alt_names": [],
@@ -204659,6 +204979,42 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
+    "tv_guide": {
+      "channel": "NusantaraTV.id",
+      "feed": "SD",
+      "site": "vidio.com",
+      "site_id": "7432",
+      "site_name": "Nusantara TV",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://www.nusantaratv.com/",
+    "launched": "2015-11-10",
+    "closed": null
+  },
+  {
+    "id": "NusantaraTV.id",
+    "name": "Nusantara TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NT Corp"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/viun5hj.png",
+    "stream_url": "https://indihuy.streamized.net/atm/DASH/nusantaratv/manifest.mpd",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "maxstream.tv/tv-channels",
     "tv_guide": {
       "channel": "NusantaraTV.id",
       "feed": "SD",
@@ -220733,6 +221089,42 @@
     "closed": null
   },
   {
+    "id": "Prambors.id",
+    "name": "Prambors",
+    "alt_names": [],
+    "network": "IndiHome",
+    "owners": [
+      "Masima Radio Network"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.maxstream.tv/sites/default/files/entry/0_e59etfmm/landscape_carousel_xxhdpi.webp",
+    "stream_url": "https://indihuy.streamized.net/atm/DASH/pramborstv/manifest.mpd",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "maxstream.tv/tv-channels",
+    "tv_guide": {
+      "channel": "Prambors.id",
+      "feed": "SD",
+      "site": "maxstream.tv",
+      "site_id": "0_e59etfmm",
+      "site_name": "Prambors",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://www.pramborsfm.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PrameyaNews7.in",
     "name": "Prameya News7",
     "alt_names": [],
@@ -221069,6 +221461,35 @@
     "tv_guide": null,
     "website": "http://pravdatut.ua/",
     "launched": "2014-09-01",
+    "closed": null
+  },
+  {
+    "id": "PravdaTUTLviv.ua",
+    "name": "PravdaTUT Lviv",
+    "alt_names": [
+      "ПравдаТУТ Львів",
+      "Truth is HERE Lviv"
+    ],
+    "network": null,
+    "owners": [
+      "Telekanal PravdaTUT Lviv Media Group"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/IloW37o.png",
+    "stream_url": "https://iptv.prosto.tv/ch192/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=104.28.156.59&id=742347&secret=vu2y5m72&e=1782901327&st=bflIqYjnSIr75ACfgV-mug",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://pravdatutnews.com/",
+    "launched": null,
     "closed": null
   },
   {
@@ -226154,42 +226575,6 @@
     },
     "website": "https://www.qvc.it/",
     "launched": "2010-10-01",
-    "closed": null
-  },
-  {
-    "id": "QVC.jp",
-    "name": "QVC",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Qurate Retail Group"
-    ],
-    "country_code": "JP",
-    "country_name": "Japan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "shop"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/6TWUVrh.png",
-    "stream_url": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "QVC.jp",
-      "feed": "SD",
-      "site": "tvguide.myjcom.jp",
-      "site_id": "120_417_65527",
-      "site_name": "4Ｋ QVC",
-      "lang": "ja",
-      "sources": []
-    },
-    "website": "https://qvc.jp/",
-    "launched": null,
     "closed": null
   },
   {
@@ -231933,6 +232318,38 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/dlsv1sl.png",
+    "stream_url": "https://indihuy.streamized.net/atm/DASH/RAJAWALI_TV/manifest.mpd",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "maxstream.tv/tv-channels",
+    "tv_guide": {
+      "channel": "RajawaliTV.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000011",
+      "site_name": "RTV",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://www.rtv.co.id/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RajawaliTV.id",
+    "name": "Rajawali TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/dlsv1sl.png",
     "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -234623,47 +235040,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/iLFx8ia.png",
-    "stream_url": "https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd",
+    "stream_url": "https://indihuy.streamized.net/atm/DASH/rcti/manifest.mpd",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RCTI.id",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000001",
-      "site_name": "RCTI",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://www.rcti.tv/",
-    "launched": "1989-08-24",
-    "closed": null
-  },
-  {
-    "id": "RCTI.id",
-    "name": "RCTI",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "MNC Media"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/iLFx8ia.png",
-    "stream_url": "http://103.66.62.83:8000/play/a00v/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
+    "referrer": "maxstream.tv/tv-channels",
     "tv_guide": {
       "channel": "RCTI.id",
       "feed": "SD",
@@ -240908,11 +241289,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/l6lmlqG.png",
-    "stream_url": "https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd",
+    "stream_url": "https://indihuy.streamized.net/atm/DASH/ROCK_ACTION/manifest.mpd",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
+    "referrer": "maxstream.tv/tv-channels",
     "tv_guide": {
       "channel": "ROCKAction.sg",
       "feed": "SD",
@@ -240966,11 +241347,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/PWzq0aU.png",
-    "stream_url": "http://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd",
+    "stream_url": "http://indihuy.streamized.net/atm/DASH/rock_entertainment/manifest.mpd",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
+    "referrer": "maxstream.tv/tv-channels",
     "tv_guide": {
       "channel": "ROCKEntertainment.sg",
       "feed": "SD",
@@ -241115,6 +241496,38 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
+    "tv_guide": {
+      "channel": "RodjaTV.id",
+      "feed": "SD",
+      "site": "maxstream.tv",
+      "site_id": "0_9km1pl2v",
+      "site_name": "Rodja TV",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://rodja.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RodjaTV.id",
+    "name": "Rodja TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/XwCeHlC.png",
+    "stream_url": "https://indihuy.streamized.net/atm/DASH/rodjatv/manifest.mpd",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "maxstream.tv/tv-channels",
     "tv_guide": {
       "channel": "RodjaTV.id",
       "feed": "SD",
@@ -269105,11 +269518,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/960px-SindoNewsTV_2023.png",
-    "stream_url": "https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd",
+    "stream_url": "https://indihuy.streamized.net/atm/DASH/mncnews/manifest.mpd",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
+    "referrer": "maxstream.tv/tv-channels",
     "tv_guide": {
       "channel": "SindoNewsTV.id",
       "feed": "SD",
@@ -269142,11 +269555,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png",
-    "stream_url": "https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd",
-    "stream_quality": "540p",
+    "stream_url": "https://indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
+    "referrer": "maxstream.tv/tv-channels",
     "tv_guide": {
       "channel": "SinPoTV.id",
       "feed": "HD",
@@ -274717,6 +275130,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/0CJGGgd.png",
+    "stream_url": "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Sportitalia.it",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "1387",
+      "site_name": "SPORTITALIA",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "https://www.sportitalia.com/",
+    "launched": "2004-02-06",
+    "closed": null
+  },
+  {
+    "id": "Sportitalia.it",
+    "name": "Sportitalia",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Italian Sport Communication"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/0CJGGgd.png",
     "stream_url": "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -274867,6 +275316,58 @@
     "logo": "https://i.imgur.com/hu56Ya5.png",
     "stream_url": "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SportitaliaSolocalcio.it",
+    "name": "Sportitalia Solocalcio",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/hu56Ya5.png",
+    "stream_url": "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SportitaliaSolocalcio.it",
+    "name": "Sportitalia Solocalcio",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/hu56Ya5.png",
+    "stream_url": "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -282151,6 +282652,42 @@
     "closed": null
   },
   {
+    "id": "SuperTennis.it",
+    "name": "SuperTennis",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sportcast Srl"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png",
+    "stream_url": "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SuperTennis.it",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "1386",
+      "site_name": "SuperTennis TV",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "https://www.supertennis.tv/",
+    "launched": "2008-11-10",
+    "closed": null
+  },
+  {
     "id": "SuperTV55.do",
     "name": "Super TV 55",
     "alt_names": [],
@@ -283068,6 +283605,46 @@
     "tv_guide": null,
     "website": "https://suyaitv.cl",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Svarozhychy.ua",
+    "name": "Svarozhychy",
+    "alt_names": [
+      "Сварожичи",
+      "Горизонт ТВ"
+    ],
+    "network": null,
+    "owners": [
+      "Unika-TV",
+      "Planeta"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/VnAgQA4.png",
+    "stream_url": "https://iptv.prosto.tv/ch168/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783001230&st=qEu2rz6Y32Q9vvupQDSuvA",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Svarozhychy.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "svarozhichi",
+      "site_name": "Сварожичи",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://svarozhichi.ua/",
+    "launched": "2016-01-01",
     "closed": null
   },
   {
@@ -286982,7 +287559,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/OmiVZ1u.png",
-    "stream_url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_f9bd5b30323411f0a32aaf26f944974f/index.fmp4.m3u8",
+    "stream_url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_67aeec90584911f1ab60174d68f7c06e/index.fmp4.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -305446,44 +306023,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/DLIbUMx.png",
-    "stream_url": "http://103.213.31.109:90/TraceUrbanHD/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TraceUrban.fr",
-      "feed": "SD",
-      "site": "watch.whaletvplus.com",
-      "site_id": "626513244395669364",
-      "site_name": "Trace Urban",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://fr.trace.tv/trace-urban/",
-    "launched": "2010-12-15",
-    "closed": null
-  },
-  {
-    "id": "TraceUrban.fr",
-    "name": "Trace Urban",
-    "alt_names": [
-      "Trace TV"
-    ],
-    "network": null,
-    "owners": [
-      "TPG Capital Trace Partners"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/DLIbUMx.png",
     "stream_url": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -312325,6 +312864,38 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
+    "tv_guide": {
+      "channel": "TV9Nusantara.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000028",
+      "site_name": "TV 9",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "http://www.tv9.co.id/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TV9Nusantara.id",
+    "name": "TV 9 Nusantara",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/id/e/ed/TV9_Nusantara.png",
+    "stream_url": "https://indihuy.streamized.net/atm/DASH/tv9/manifest.mpd",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "maxstream.tv/tv-channels",
     "tv_guide": {
       "channel": "TV9Nusantara.id",
       "feed": "SD",
@@ -320641,11 +321212,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png",
-    "stream_url": "https://cdn10jtedge.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd",
-    "stream_quality": "540p",
+    "stream_url": "https://indihuy.streamized.net/atm/DASH/muhammadiyahtv/manifest.mpd",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
+    "referrer": "maxstream.tv/tv-channels",
     "tv_guide": {
       "channel": "TVMu.id",
       "feed": "SD",
@@ -320673,11 +321244,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/vWtViyC.png",
-    "stream_url": "https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd",
-    "stream_quality": "540p",
+    "stream_url": "https://indihuy.streamized.net/atm/DASH/muitv/manifest.mpd",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
+    "referrer": "maxstream.tv/tv-channels",
     "tv_guide": {
       "channel": "TVMUI.id",
       "feed": "SD",
@@ -322724,6 +323295,40 @@
     "closed": null
   },
   {
+    "id": "TVPNauka.pl",
+    "name": "TVP Nauka",
+    "alt_names": [],
+    "network": "TVP",
+    "owners": [
+      "Telewizja Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ga5Z8jf.png",
+    "stream_url": "https://tvpi.travny.workers.dev/tvpnauka.m3u",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVPNauka.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tvp-nauka",
+      "site_name": "TVP Nauka",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://nauka.tvp.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVPObregon.mx",
     "name": "TVP Obregon",
     "alt_names": [
@@ -322961,6 +323566,40 @@
     "tv_guide": null,
     "website": "http://tvpro-online.ru/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVPRozrywka.pl",
+    "name": "TVP Rozrywka",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Telewizja Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/05Vx5px.png",
+    "stream_url": "https://tvpi.travny.workers.dev/tvprozrywka.m3u",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVPRozrywka.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tvp-rozrywka-159",
+      "site_name": "TVP Rozrywka",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://tvprozrywka.tvp.pl/",
+    "launched": "2013-04-15",
     "closed": null
   },
   {
@@ -330077,30 +330716,6 @@
     },
     "website": "http://www.ubs.mn/",
     "launched": "1992-01-01",
-    "closed": null
-  },
-  {
-    "id": "UBTVBrawijaya.id",
-    "name": "UBTV Brawijaya",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/BQIi7ko.png",
-    "stream_url": "https://ubmedcom.siar.us/live/ubmedcom.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://tv.ub.ac.id",
-    "tv_guide": null,
-    "website": "https://tv.ub.ac.id/",
-    "launched": "2014-01-01",
     "closed": null
   },
   {
@@ -339966,42 +340581,6 @@
     "tv_guide": null,
     "website": "http://www.walf-groupe.com/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Wanasah.ae",
-    "name": "Wanasah",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "MBC Group"
-    ],
-    "country_code": "AE",
-    "country_name": "United Arab Emirates",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/nLtiXNf.png",
-    "stream_url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Wanasah.ae",
-      "feed": "SD",
-      "site": "shahid.mbc.net",
-      "site_id": "414449",
-      "site_name": "Wanasa",
-      "lang": "fr",
-      "sources": []
-    },
-    "website": "https://www.mbc.net/en/corporate/channels/wanasah.html",
-    "launched": "2007-07-03",
     "closed": null
   },
   {

@@ -723,6 +723,40 @@
     "closed": null
   },
   {
+    "id": "GSTV.jp",
+    "name": "GSTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "JP",
+    "country_name": "Japan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "shop"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ECnVG5I.png",
+    "stream_url": "https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GSTV.jp",
+      "feed": "SD",
+      "site": "tvguide.myjcom.jp",
+      "site_id": "120_192_65406",
+      "site_name": "ジュエリー☆GSTV",
+      "lang": "ja",
+      "sources": []
+    },
+    "website": "https://www.gstv.jp/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "History.jp",
     "name": "History",
     "alt_names": [
@@ -1057,45 +1091,6 @@
     },
     "website": "https://www.nhk.or.jp/osaka/",
     "launched": "2003-12-01",
-    "closed": null
-  },
-  {
-    "id": "JOCXDTV.jp",
-    "name": "JOCX-DTV",
-    "alt_names": [
-      "Fuji TV",
-      "フジテレビ"
-    ],
-    "network": "FNN/FNS",
-    "owners": [
-      "Fuji Television Network"
-    ],
-    "country_code": "JP",
-    "country_name": "Japan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/sEWDmMD.png",
-    "stream_url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05",
-    "stream_quality": "544p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "JOCXDTV.jp",
-      "feed": "SD",
-      "site": "tvguide.myjcom.jp",
-      "site_id": "2_1056_32740",
-      "site_name": "フジテレビ",
-      "lang": "ja",
-      "sources": []
-    },
-    "website": "https://www.fujitv.co.jp/",
-    "launched": "1959-03-01",
     "closed": null
   },
   {
@@ -2368,6 +2363,42 @@
     "closed": null
   },
   {
+    "id": "QVC.jp",
+    "name": "QVC",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Qurate Retail Group"
+    ],
+    "country_code": "JP",
+    "country_name": "Japan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "shop"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6TWUVrh.png",
+    "stream_url": "https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "QVC.jp",
+      "feed": "SD",
+      "site": "tvguide.myjcom.jp",
+      "site_id": "120_417_65527",
+      "site_name": "4Ｋ QVC",
+      "lang": "ja",
+      "sources": []
+    },
+    "website": "https://qvc.jp/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ShopChannel.jp",
     "name": "Shop Channel",
     "alt_names": [
@@ -2661,6 +2692,32 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/A8uRSTS.png",
     "stream_url": "https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Weathernews.jp",
+    "name": "Weathernews",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "JP",
+    "country_name": "Japan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "weather"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/A8uRSTS.png",
+    "stream_url": "https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,

@@ -998,42 +998,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png",
-    "stream_url": "http://187.190.55.136:5501/udp/225.1.1.101:5101",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Antena3Internacional.es",
-      "feed": "SD",
-      "site": "tv.movistar.com.pe",
-      "site_id": "lch6292",
-      "site_name": "ANTENA 3",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.antena3internacional.com/",
-    "launched": "1995-01-01",
-    "closed": null
-  },
-  {
-    "id": "Antena3Internacional.es",
-    "name": "Antena 3 Internacional",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Atresmedia Corporación de Medios de Comunicación SA"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png",
     "stream_url": "http://177.10.184.193:8000/play/a06a/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -1291,40 +1255,6 @@
     "closed": null
   },
   {
-    "id": "Atrescine.es",
-    "name": "Atrescine",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png",
-    "stream_url": "http://187.190.55.136:5501/udp/225.1.1.20:5020",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Atrescine.es",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "ar#a3cine",
-      "site_name": "Atrescine",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.atrescine.com/",
-    "launched": "2018-03-02",
-    "closed": null
-  },
-  {
     "id": "BailenTV.es",
     "name": "Bailen TV",
     "alt_names": [
@@ -1400,34 +1330,6 @@
     "logo": "https://bcngospelchannel.com/wp-content/uploads/2025/09/bcn-gospel-channer-favicon.png",
     "stream_url": "https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://bcngospelchannel.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BCNGospelTV.es",
-    "name": "BCN Gospel TV",
-    "alt_names": [
-      "BCN"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://bcngospelchannel.com/wp-content/uploads/2025/09/bcn-gospel-channer-favicon.png",
-    "stream_url": "https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1610,32 +1512,6 @@
     "tv_guide": null,
     "website": "https://www.bondiatv.org/",
     "launched": "2018-11-27",
-    "closed": null
-  },
-  {
-    "id": "BurrianaTeVe.es",
-    "name": "BurrianaTeVe",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/G3nIGHh.png",
-    "stream_url": "https://www.burrianateve.com/hls/btv.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.burrianateve.com/",
-    "launched": null,
     "closed": null
   },
   {
@@ -3956,6 +3832,7 @@
     ],
     "network": null,
     "owners": [
+      "EITB",
       "Department of Culture of the Basque Government"
     ],
     "country_code": "ES",
@@ -3985,7 +3862,7 @@
     },
     "website": "https://www.eitb.eus/es/television/",
     "launched": "1996-06-03",
-    "closed": null
+    "closed": "2026-03-18"
   },
   {
     "id": "ETBEvents1.es",
@@ -3995,6 +3872,7 @@
     ],
     "network": null,
     "owners": [
+      "EITB",
       "Department of Culture of the Basque Government"
     ],
     "country_code": "ES",

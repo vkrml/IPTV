@@ -3823,13 +3823,9 @@
     "closed": null
   },
   {
-    "id": "ETBBasque.es",
-    "name": "ETB Basque",
-    "alt_names": [
-      "EiTB Basque",
-      "Canal Vasco",
-      "ETB Sat"
-    ],
+    "id": "ETB1On.es",
+    "name": "ETB1 On",
+    "alt_names": [],
     "network": null,
     "owners": [
       "EITB",
@@ -3840,29 +3836,105 @@
     "subdivision": null,
     "city": null,
     "categories": [
-      "culture",
       "public"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/960px-ETB_Basque_2022_logo.svg.png",
-    "stream_url": "https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/master.m3u8",
-    "stream_quality": "720p",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_ETB1_On_2026.svg",
+    "stream_url": "https://cdn1.etbon.eus/etb1on/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": "https://www.eitb.eus/",
-    "tv_guide": {
-      "channel": "ETBBasque.es",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "592",
-      "site_name": "etb basque",
-      "lang": "fr",
-      "sources": []
-    },
-    "website": "https://www.eitb.eus/es/television/",
-    "launched": "1996-06-03",
-    "closed": "2026-03-18"
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.eitb.eus/es/television",
+    "launched": "2026-03-18",
+    "closed": null
+  },
+  {
+    "id": "ETB1On.es",
+    "name": "ETB1 On",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "EITB",
+      "Department of Culture of the Basque Government"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "public"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_ETB1_On_2026.svg",
+    "stream_url": "https://cdn1.etbon.eus/etb1on/index.mpd",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.eitb.eus/es/television",
+    "launched": "2026-03-18",
+    "closed": null
+  },
+  {
+    "id": "ETB2On.es",
+    "name": "ETB2 On",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "EITB"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_ETB2_On_2026.svg",
+    "stream_url": "https://cdn1.etbon.eus/etb2on/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.eitb.eus/es/television",
+    "launched": "2026-03-18",
+    "closed": null
+  },
+  {
+    "id": "ETB2On.es",
+    "name": "ETB2 On",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "EITB"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_ETB2_On_2026.svg",
+    "stream_url": "https://cdn1.etbon.eus/etb2on/index.mpd",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.eitb.eus/es/television",
+    "launched": "2026-03-18",
+    "closed": null
   },
   {
     "id": "ETBEvents1.es",

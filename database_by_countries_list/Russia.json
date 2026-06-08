@@ -1052,6 +1052,43 @@
     "closed": null
   },
   {
+    "id": "BabyTime.ru",
+    "name": "Baby Time",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Bridge Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids",
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/lW3WIBD.png",
+    "stream_url": "http://89.218.32.179:18000/play/a028",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BabyTime.ru",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "baby-time",
+      "site_name": "Baby Time",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://bridgetv.ru/brands/baby_time/",
+    "launched": "2022-10-01",
+    "closed": null
+  },
+  {
     "id": "Bashkortostan24.ru",
     "name": "Bashkortostan 24",
     "alt_names": [
@@ -1815,6 +1852,42 @@
       "sources": []
     },
     "website": "https://www.5-tv.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Channel8International.ru",
+    "name": "Channel 8 International",
+    "alt_names": [
+      "8 канал International"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/I8OU9oa.png",
+    "stream_url": "https://v4.proofix.ru/8tv-europe/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Channel8International.ru",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "8kanal-eu",
+      "site_name": "8 канал International",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://8tv.ru/europe/",
     "launched": null,
     "closed": null
   },
@@ -6667,42 +6740,6 @@
     "closed": null
   },
   {
-    "id": "Moskva24.ru",
-    "name": "Moskva 24",
-    "alt_names": [
-      "Москва 24"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/gXbUMVy.png",
-    "stream_url": "https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Moskva24.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "843",
-      "site_name": "Москва-24",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://www.m24.ru/",
-    "launched": "2011-09-05",
-    "closed": null
-  },
-  {
     "id": "MosObrTV.ru",
     "name": "MosObrTV",
     "alt_names": [
@@ -8112,6 +8149,44 @@
     "logo": "https://i.imgur.com/9r1BKzK.png",
     "stream_url": "https://cdn.ntv.ru/ntv7/playlist.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NTV.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "2622",
+      "site_name": "НТВ HD",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.ntv.ru/",
+    "launched": "1967-11-04",
+    "closed": null
+  },
+  {
+    "id": "NTV.ru",
+    "name": "NTV",
+    "alt_names": [
+      "НТВ"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "stream_url": "https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -9770,6 +9845,42 @@
     "stream_format": null,
     "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
     "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "RT.ru",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000150",
+      "site_name": "RT",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://www.rt.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RT.ru",
+    "name": "RT",
+    "alt_names": [
+      "Russia Today"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540",
+    "stream_url": "http://89.218.32.179:18000/play/a025",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
     "tv_guide": {
       "channel": "RT.ru",
       "feed": "SD",
@@ -12448,6 +12559,44 @@
     "logo": "https://i.imgur.com/Osd2JHL.png",
     "stream_url": "http://31.148.48.15/Rossiya_1/index.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -16134,6 +16283,44 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png",
     "stream_url": "https://uiptv.do.am/1ufc/000000006/playlist.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia24.ru",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#rossija24",
+      "site_name": "Россиᴙ 24",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "http://vesti.ru/",
+    "launched": "2006-07-01",
+    "closed": null
+  },
+  {
+    "id": "Russia24.ru",
+    "name": "Russia-24",
+    "alt_names": [
+      "Россия-24"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png",
+    "stream_url": "https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

@@ -208,6 +208,34 @@
     "closed": null
   },
   {
+    "id": "AvtoradioUkraine.ua",
+    "name": "Avtoradio Ukraine",
+    "alt_names": [
+      "Авторадіо Украина"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "auto"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4m6ZnU3.png",
+    "stream_url": "https://iptv.prosto.tv/ch392/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&e=1783348400&st=frMNmWZJOWD8OrGKGpkBtAy5m72&e=1783344968&st=YdMJezIhdvuNSYNS6Hva_Q",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://avtoradio.ua/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BaltaTV.ua",
     "name": "Balta TV",
     "alt_names": [],
@@ -693,6 +721,44 @@
     "closed": null
   },
   {
+    "id": "FashionTV.ua",
+    "name": "Fashion TV",
+    "alt_names": [
+      "FashionTV UA"
+    ],
+    "network": null,
+    "owners": [
+      "Michel Adam Lisowski"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Bk7W39G.png",
+    "stream_url": "https://iptv.prosto.tv/ch582/tracks-v2a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783350200&st=RRhh01CY6iYIRs_Kyoc3lw",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FashionTV.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "fashion-tv",
+      "site_name": "Fashion TV",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://www.fashiontv.ua/",
+    "launched": "2020-05-01",
+    "closed": null
+  },
+  {
     "id": "FirstBusiness.ua",
     "name": "First Business",
     "alt_names": [
@@ -924,6 +990,34 @@
     },
     "website": "https://tv.hope.ua/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ICTV.ua",
+    "name": "ICTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Starlight Media Group"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/97W1NOW.png",
+    "stream_url": "https://iptv.prosto.tv/ch2/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783247829&st=byV6tMWpzsojzIhKV89Ndw",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://ictv.ua/",
+    "launched": "1992-06-15",
     "closed": null
   },
   {
@@ -2357,6 +2451,37 @@
     "closed": null
   },
   {
+    "id": "SuspilneDonbas.ua",
+    "name": "Suspilne. Donbas",
+    "alt_names": [
+      "Суспільне. Донбас",
+      "UΛ: Донбасс"
+    ],
+    "network": null,
+    "owners": [
+      "National Public Television and Radio Company of Ukraine"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/GPXrpJC.png",
+    "stream_url": "https://iptv.prosto.tv/ch191/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783350581&st=FOBLjQZsAj97omf627Quzg",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://dn.suspilne.media/",
+    "launched": "2018-01-16",
+    "closed": null
+  },
+  {
     "id": "SuspilneIvanoFrankivsk.ua",
     "name": "Suspilne. Ivano-Frankivsk",
     "alt_names": [
@@ -2477,6 +2602,39 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": "curl/8.16.0",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://central.suspilne.media/",
+    "launched": "1939-02-01",
+    "closed": null
+  },
+  {
+    "id": "SuspilneKyiv.ua",
+    "name": "Suspilne. Kyiv",
+    "alt_names": [
+      "Суспільне. Київ",
+      "UΛ: Киев",
+      "КДРТРК",
+      "Центральный Канал"
+    ],
+    "network": null,
+    "owners": [
+      "National Public Television and Radio Company of Ukraine"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/MeR1dJw.png",
+    "stream_url": "https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/nstu-kyiv/master.m3u8",
+    "stream_quality": "360p",
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": null,
     "website": "https://central.suspilne.media/",

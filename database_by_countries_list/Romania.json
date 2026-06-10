@@ -766,6 +766,42 @@
     "closed": null
   },
   {
+    "id": "ComedyCentral.ro",
+    "name": "Comedy Central",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Paramount Networks UK & Australia"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+    "stream_url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7025/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ComedyCentral.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "comedy-central",
+      "site_name": "Comedy Central",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.comedycentral.com.ro/",
+    "launched": "2016-09-20",
+    "closed": null
+  },
+  {
     "id": "ComedyPlay.ro",
     "name": "Comedy Play",
     "alt_names": [],
@@ -2438,6 +2474,32 @@
     "closed": null
   },
   {
+    "id": "TV1000.ro",
+    "name": "TV1000",
+    "alt_names": [],
+    "network": "Viasat",
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/GHNsctR.png",
+    "stream_url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6944/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://tv1000.com.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVBuzau.ro",
     "name": "TV Buzau",
     "alt_names": [],
@@ -2882,78 +2944,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.tvrplus.ro/live/tvr-info",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVRInternational.ro",
-    "name": "TVR International",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Societatea Română de Televiziune"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/w28wcHs.png",
-    "stream_url": "https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-dash/tvrinternational.mpd",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVRInternational.ro",
-      "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "631",
-      "site_name": "TV Romania International",
-      "lang": "ro",
-      "sources": []
-    },
-    "website": "http://tvri.tvr.ro/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVRInternational.ro",
-    "name": "TVR International",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Societatea Română de Televiziune"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/w28wcHs.png",
-    "stream_url": "https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVRInternational.ro",
-      "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "631",
-      "site_name": "TV Romania International",
-      "lang": "ro",
-      "sources": []
-    },
-    "website": "http://tvri.tvr.ro/",
     "launched": null,
     "closed": null
   },

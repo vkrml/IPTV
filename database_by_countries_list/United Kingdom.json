@@ -732,6 +732,40 @@
     "closed": null
   },
   {
+    "id": "BBCDrama.uk",
+    "name": "BBC Drama",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/HctHhLL.png",
+    "stream_url": "https://jmp2.uk/plu-60d35a74c63c3c0008df6a90.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BBCDrama.uk",
+      "feed": null,
+      "site": "xumo.tv",
+      "site_id": "150#99951497",
+      "site_name": "BBC Drama",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://pluto.tv/en/live-tv/bbc-drama-es",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BBCEarth.uk",
     "name": "BBC Earth",
     "alt_names": [],
@@ -751,6 +785,42 @@
     "logo": "https://i.imgur.com/nGSsUd4.png",
     "stream_url": "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BBCEarth.uk",
+      "feed": "US",
+      "site": "xumo.tv",
+      "site_id": "150#99951231",
+      "site_name": "BBC Earth",
+      "lang": "en",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BBCEarth.uk",
+    "name": "BBC Earth",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BBC Studios"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nGSsUd4.png",
+    "stream_url": "https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1405,6 +1475,42 @@
     "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BBCNews.uk",
+      "feed": "Africa",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000116_019005",
+      "site_name": "BBC News",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.bbc.co.uk/tv/bbcnews",
+    "launched": "1997-11-09",
+    "closed": null
+  },
+  {
+    "id": "BBCNews.uk",
+    "name": "BBC News",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BBC Studios"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -6380,10 +6486,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/E8SorC5.png",
-    "stream_url": "https://iptv.prosto.tv/ch111/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783344968&st=YdMJezIhdvuNSYNS6Hva_Q",
-    "stream_quality": null,
+    "stream_url": "https://iptv.prosto.tv/ch111/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
     "referrer": null,
     "tv_guide": {
       "channel": "CarsStarsTV.uk",
@@ -7069,6 +7175,174 @@
     "closed": null
   },
   {
+    "id": "DAZNCombat.uk",
+    "name": "DAZN Combat",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Access Industries"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",
+    "stream_url": "https://jmp2.uk/plu-64df7ab4dfa32400083c517b.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.dazn.com/",
+    "launched": "2016-08-10",
+    "closed": null
+  },
+  {
+    "id": "DAZNCombat.uk",
+    "name": "DAZN Combat",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Access Industries"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",
+    "stream_url": "https://jmp2.uk/plu-64805922536e0c0008a1a1e6.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.dazn.com/",
+    "launched": "2016-08-10",
+    "closed": null
+  },
+  {
+    "id": "DAZNCombat.uk",
+    "name": "DAZN Combat",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Access Industries"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",
+    "stream_url": "https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.dazn.com/",
+    "launched": "2016-08-10",
+    "closed": null
+  },
+  {
+    "id": "DAZNCombat.uk",
+    "name": "DAZN Combat",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Access Industries"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",
+    "stream_url": "https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.dazn.com/",
+    "launched": "2016-08-10",
+    "closed": null
+  },
+  {
+    "id": "DAZNCombat.uk",
+    "name": "DAZN Combat",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Access Industries"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",
+    "stream_url": "https://jmp2.uk/plu-648056f0f77b61000828f1ba.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.dazn.com/",
+    "launched": "2016-08-10",
+    "closed": null
+  },
+  {
+    "id": "DAZNCombat.uk",
+    "name": "DAZN Combat",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Access Industries"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",
+    "stream_url": "https://jmp2.uk/plu-64805755536e0c0008a19fa1.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.dazn.com/",
+    "launched": "2016-08-10",
+    "closed": null
+  },
+  {
     "id": "DeenTV.uk",
     "name": "Deen TV",
     "alt_names": [],
@@ -7614,7 +7888,403 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
+    "stream_url": "https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FIFAPlus.uk",
+      "feed": "Portuguese",
+      "site": "watch.whaletvplus.com",
+      "site_id": "999420644834214634",
+      "site_name": "FIFA+ (PT)",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.plus.fifa.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FIFAPlus.uk",
+    "name": "FIFA+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "FIFA"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
+    "stream_url": "https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FIFAPlus.uk",
+      "feed": "Portuguese",
+      "site": "watch.whaletvplus.com",
+      "site_id": "999420644834214634",
+      "site_name": "FIFA+ (PT)",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.plus.fifa.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FIFAPlus.uk",
+    "name": "FIFA+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "FIFA"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
+    "stream_url": "https://jmp2.uk/plu-660bfc032433010008def35a.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FIFAPlus.uk",
+      "feed": "Portuguese",
+      "site": "watch.whaletvplus.com",
+      "site_id": "999420644834214634",
+      "site_name": "FIFA+ (PT)",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.plus.fifa.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FIFAPlus.uk",
+    "name": "FIFA+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "FIFA"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
+    "stream_url": "https://jmp2.uk/plu-660bfc7b2433010008def3e3.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FIFAPlus.uk",
+      "feed": "Portuguese",
+      "site": "watch.whaletvplus.com",
+      "site_id": "999420644834214634",
+      "site_name": "FIFA+ (PT)",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.plus.fifa.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FIFAPlus.uk",
+    "name": "FIFA+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "FIFA"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
+    "stream_url": "https://jmp2.uk/plu-660c29f80cd4630008f1547c.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FIFAPlus.uk",
+      "feed": "Portuguese",
+      "site": "watch.whaletvplus.com",
+      "site_id": "999420644834214634",
+      "site_name": "FIFA+ (PT)",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.plus.fifa.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FIFAPlus.uk",
+    "name": "FIFA+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "FIFA"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
+    "stream_url": "https://jmp2.uk/plu-660c2a2d2433010008df7e92.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FIFAPlus.uk",
+      "feed": "Portuguese",
+      "site": "watch.whaletvplus.com",
+      "site_id": "999420644834214634",
+      "site_name": "FIFA+ (PT)",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.plus.fifa.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FIFAPlus.uk",
+    "name": "FIFA+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "FIFA"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
+    "stream_url": "https://jmp2.uk/plu-660bfc4424e1d000085b5f93.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FIFAPlus.uk",
+      "feed": "Portuguese",
+      "site": "watch.whaletvplus.com",
+      "site_id": "999420644834214634",
+      "site_name": "FIFA+ (PT)",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.plus.fifa.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FIFAPlus.uk",
+    "name": "FIFA+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "FIFA"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
+    "stream_url": "https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FIFAPlus.uk",
+      "feed": "Portuguese",
+      "site": "watch.whaletvplus.com",
+      "site_id": "999420644834214634",
+      "site_name": "FIFA+ (PT)",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.plus.fifa.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FIFAPlus.uk",
+    "name": "FIFA+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "FIFA"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
+    "stream_url": "https://jmp2.uk/plu-660bfca524e1d000085b6007.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FIFAPlus.uk",
+      "feed": "Portuguese",
+      "site": "watch.whaletvplus.com",
+      "site_id": "999420644834214634",
+      "site_name": "FIFA+ (PT)",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.plus.fifa.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FIFAPlus.uk",
+    "name": "FIFA+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "FIFA"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
+    "stream_url": "https://jmp2.uk/plu-660bfcd07bcd860008796ae8.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FIFAPlus.uk",
+      "feed": "Portuguese",
+      "site": "watch.whaletvplus.com",
+      "site_id": "999420644834214634",
+      "site_name": "FIFA+ (PT)",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.plus.fifa.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FIFAPlus.uk",
+    "name": "FIFA+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "FIFA"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
     "stream_url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FIFAPlus.uk",
+      "feed": "Portuguese",
+      "site": "watch.whaletvplus.com",
+      "site_id": "999420644834214634",
+      "site_name": "FIFA+ (PT)",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.plus.fifa.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FIFAPlus.uk",
+    "name": "FIFA+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "FIFA"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
+    "stream_url": "https://jmp2.uk/plu-63d91d2560bc8f0008a225e4.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -9553,6 +10223,35 @@
     "closed": null
   },
   {
+    "id": "Jail.uk",
+    "name": "Jail",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rights Booster Limited"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary",
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
+    "stream_url": "https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://rightsbooster.com/fast-channels",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "JimJamEurope.uk",
     "name": "JimJam Europe",
     "alt_names": [],
@@ -9929,6 +10628,102 @@
     "closed": null
   },
   {
+    "id": "MostHaunted.uk",
+    "name": "Most Haunted",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Little Dot Studios Limited",
+      "All3Media Limited",
+      "RedBird IMI",
+      "International Media Investments (IMI) Holdings FZ LLC",
+      "BIG Media"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/hTDvXxZ.png",
+    "stream_url": "https://jmp2.uk/plu-66d722d31878f200081c2c64.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.littledotstudios.com/en-us/channels",
+    "launched": "2025-10-08",
+    "closed": null
+  },
+  {
+    "id": "MostHaunted.uk",
+    "name": "Most Haunted",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Little Dot Studios Limited",
+      "All3Media Limited",
+      "RedBird IMI",
+      "International Media Investments (IMI) Holdings FZ LLC",
+      "BIG Media"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/hTDvXxZ.png",
+    "stream_url": "https://jmp2.uk/plu-6081648340382e0007f73d45.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.littledotstudios.com/en-us/channels",
+    "launched": "2025-10-08",
+    "closed": null
+  },
+  {
+    "id": "MostHaunted.uk",
+    "name": "Most Haunted",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Little Dot Studios Limited",
+      "All3Media Limited",
+      "RedBird IMI",
+      "International Media Investments (IMI) Holdings FZ LLC",
+      "BIG Media"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/hTDvXxZ.png",
+    "stream_url": "https://amg00426-lds-amg00426c17-samsung-gb-10157.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.littledotstudios.com/en-us/channels",
+    "launched": "2025-10-08",
+    "closed": null
+  },
+  {
     "id": "MrBeanAnimated.uk",
     "name": "Mr Bean Animated",
     "alt_names": [
@@ -9952,6 +10747,46 @@
     "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
     "stream_url": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MrBeanAnimated.uk",
+      "feed": "English",
+      "site": "plex.tv",
+      "site_id": "66a2e7fe94b6a49cb5054d7b",
+      "site_name": "Mr. Bean",
+      "lang": "en",
+      "sources": []
+    },
+    "website": null,
+    "launched": "2024-06-21",
+    "closed": null
+  },
+  {
+    "id": "MrBeanAnimated.uk",
+    "name": "Mr Bean Animated",
+    "alt_names": [
+      "Mr. Bean: The Animated Series",
+      "mr Bean"
+    ],
+    "network": null,
+    "owners": [
+      "Banijay Rights"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+    "stream_url": "https://jmp2.uk/plu-69fca9f9b9c0f0d444f631ca.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -10518,6 +11353,45 @@
     "tv_guide": null,
     "website": "https://www.mta.tv/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MTVGlobal.uk",
+    "name": "MTV Global",
+    "alt_names": [
+      "MTV European",
+      "MTV Europe"
+    ],
+    "network": null,
+    "owners": [
+      "Paramount Networks EMEAA"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/n2BoU7Q.png",
+    "stream_url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12055/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MTVGlobal.uk",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "hu/tvmusor#mtv-europe-hu",
+      "site_name": "MTV Europe HU",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "https://www.mtv.com/",
+    "launched": "1987-08-01",
     "closed": null
   },
   {
@@ -11486,6 +12360,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": null,
+    "stream_url": "https://jmp2.uk/plu-660c209e19ca71000846cf38.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Now90s00s.uk",
+      "feed": "Poland",
+      "site": "sky.com",
+      "site_id": "1103",
+      "site_name": "NOW 90s & 00s",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.nowmusic.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Now90s00s.uk",
+    "name": "Now 90s00s",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Universal Music Group N.V."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
     "stream_url": "https://amg01076-amg01076c19-samsung-gb-6683.playouts.now.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -11744,6 +12654,49 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/GuM4GnX.png",
+    "stream_url": "https://jmp2.uk/plu-6568a78d635c3c0008765f41.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NOWRock.uk",
+      "feed": "SD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "2030",
+      "site_name": "NOW ROCK",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.nowmusic.com/",
+    "launched": "2010-11-23",
+    "closed": null
+  },
+  {
+    "id": "NOWRock.uk",
+    "name": "NOW Rock",
+    "alt_names": [
+      "NOW 90s",
+      "Chilled 90s",
+      "Chilled TV",
+      "Planet Pop",
+      "Massive R&B",
+      "WTF"
+    ],
+    "network": null,
+    "owners": [
+      "Universal Music Group N.V."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/GuM4GnX.png",
     "stream_url": "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8",
     "stream_quality": "480p",
     "stream_format": null,
@@ -11842,6 +12795,38 @@
     "logo": "https://i.imgur.com/fGUlCY3.png",
     "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Pop.uk",
+      "feed": "SD",
+      "site": "zee5.com",
+      "site_id": "0-9-9z5910525",
+      "site_name": "POP",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.popfun.co.uk/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Pop.uk",
+    "name": "Pop",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/fGUlCY3.png",
+    "stream_url": "https://jmp2.uk/plu-664c94e80120f40008b860f0.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -12247,6 +13232,40 @@
     "website": "https://www.littledotstudios.com/en-us/channels",
     "launched": null,
     "closed": null
+  },
+  {
+    "id": "RugbyPassTV.uk",
+    "name": "RugbyPass TV",
+    "alt_names": [
+      "Setanta Sports"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "https://jmp2.uk/plu-66f137cb483d460008ece053.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RugbyPassTV.uk",
+      "feed": "SD",
+      "site": "pluto.tv",
+      "site_id": "66f137cb483d460008ece053",
+      "site_name": "Rugby Pass TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": "2021-07-31"
   },
   {
     "id": "RugbyPassTV.uk",
@@ -12685,6 +13704,279 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://static.frequency.com/studio/itv/channels/1224-400x200.png",
+    "stream_url": "https://jmp2.uk/plu-69a554497ed3b3fff0b9ca80.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SpaceLivepoweredbysen.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "300#99951545",
+      "site_name": "Space Live Powered by Sen",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sen.com/live",
+    "launched": "2025-01-27",
+    "closed": null
+  },
+  {
+    "id": "SpaceLivepoweredbysen.uk",
+    "name": "Space Live powered by sen",
+    "alt_names": [
+      "Space Live"
+    ],
+    "network": null,
+    "owners": [
+      "Sen Corporation Ltd."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "relax",
+      "travel"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.frequency.com/studio/itv/channels/1224-400x200.png",
+    "stream_url": "https://jmp2.uk/plu-69b16dc543d0f313203b714c.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SpaceLivepoweredbysen.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "300#99951545",
+      "site_name": "Space Live Powered by Sen",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sen.com/live",
+    "launched": "2025-01-27",
+    "closed": null
+  },
+  {
+    "id": "SpaceLivepoweredbysen.uk",
+    "name": "Space Live powered by sen",
+    "alt_names": [
+      "Space Live"
+    ],
+    "network": null,
+    "owners": [
+      "Sen Corporation Ltd."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "relax",
+      "travel"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.frequency.com/studio/itv/channels/1224-400x200.png",
+    "stream_url": "https://jmp2.uk/plu-69b3db5d61e8e298254c7108.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SpaceLivepoweredbysen.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "300#99951545",
+      "site_name": "Space Live Powered by Sen",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sen.com/live",
+    "launched": "2025-01-27",
+    "closed": null
+  },
+  {
+    "id": "SpaceLivepoweredbysen.uk",
+    "name": "Space Live powered by sen",
+    "alt_names": [
+      "Space Live"
+    ],
+    "network": null,
+    "owners": [
+      "Sen Corporation Ltd."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "relax",
+      "travel"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.frequency.com/studio/itv/channels/1224-400x200.png",
+    "stream_url": "https://jmp2.uk/plu-69b3db536c0414a7ecf564fb.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SpaceLivepoweredbysen.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "300#99951545",
+      "site_name": "Space Live Powered by Sen",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sen.com/live",
+    "launched": "2025-01-27",
+    "closed": null
+  },
+  {
+    "id": "SpaceLivepoweredbysen.uk",
+    "name": "Space Live powered by sen",
+    "alt_names": [
+      "Space Live"
+    ],
+    "network": null,
+    "owners": [
+      "Sen Corporation Ltd."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "relax",
+      "travel"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.frequency.com/studio/itv/channels/1224-400x200.png",
+    "stream_url": "https://jmp2.uk/plu-69b1489b5828e7c242d83064.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SpaceLivepoweredbysen.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "300#99951545",
+      "site_name": "Space Live Powered by Sen",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sen.com/live",
+    "launched": "2025-01-27",
+    "closed": null
+  },
+  {
+    "id": "SpaceLivepoweredbysen.uk",
+    "name": "Space Live powered by sen",
+    "alt_names": [
+      "Space Live"
+    ],
+    "network": null,
+    "owners": [
+      "Sen Corporation Ltd."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "relax",
+      "travel"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.frequency.com/studio/itv/channels/1224-400x200.png",
+    "stream_url": "https://jmp2.uk/plu-69b16df6ed2a2444365e7ff1.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SpaceLivepoweredbysen.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "300#99951545",
+      "site_name": "Space Live Powered by Sen",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sen.com/live",
+    "launched": "2025-01-27",
+    "closed": null
+  },
+  {
+    "id": "SpaceLivepoweredbysen.uk",
+    "name": "Space Live powered by sen",
+    "alt_names": [
+      "Space Live"
+    ],
+    "network": null,
+    "owners": [
+      "Sen Corporation Ltd."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "relax",
+      "travel"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.frequency.com/studio/itv/channels/1224-400x200.png",
+    "stream_url": "https://jmp2.uk/plu-69b16e2b65c1df7564fc750b.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SpaceLivepoweredbysen.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "300#99951545",
+      "site_name": "Space Live Powered by Sen",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sen.com/live",
+    "launched": "2025-01-27",
+    "closed": null
+  },
+  {
+    "id": "SpaceLivepoweredbysen.uk",
+    "name": "Space Live powered by sen",
+    "alt_names": [
+      "Space Live"
+    ],
+    "network": null,
+    "owners": [
+      "Sen Corporation Ltd."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "relax",
+      "travel"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.frequency.com/studio/itv/channels/1224-400x200.png",
     "stream_url": "https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -12813,6 +14105,230 @@
     },
     "website": "https://www.sparkchannel.tv/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "StrongmanChampionsLeague.uk",
+    "name": "Strongman Champions League",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rights Booster Limited"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png",
+    "stream_url": "https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://rightsbooster.com/fast-channels",
+    "launched": "2022-06-21",
+    "closed": null
+  },
+  {
+    "id": "StrongmanChampionsLeague.uk",
+    "name": "Strongman Champions League",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rights Booster Limited"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png",
+    "stream_url": "https://rightsboosterltd-scl-1-dk.samsung.wurl.tv/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://rightsbooster.com/fast-channels",
+    "launched": "2022-06-21",
+    "closed": null
+  },
+  {
+    "id": "StrongmanChampionsLeague.uk",
+    "name": "Strongman Champions League",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rights Booster Limited"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png",
+    "stream_url": "https://rightsboosterltd-scl-1-fi.samsung.wurl.tv/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://rightsbooster.com/fast-channels",
+    "launched": "2022-06-21",
+    "closed": null
+  },
+  {
+    "id": "StrongmanChampionsLeague.uk",
+    "name": "Strongman Champions League",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rights Booster Limited"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png",
+    "stream_url": "https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://rightsbooster.com/fast-channels",
+    "launched": "2022-06-21",
+    "closed": null
+  },
+  {
+    "id": "StrongmanChampionsLeague.uk",
+    "name": "Strongman Champions League",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rights Booster Limited"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png",
+    "stream_url": "https://rightsboosterltd-scl-1-no.samsung.wurl.tv/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://rightsbooster.com/fast-channels",
+    "launched": "2022-06-21",
+    "closed": null
+  },
+  {
+    "id": "StrongmanChampionsLeague.uk",
+    "name": "Strongman Champions League",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rights Booster Limited"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png",
+    "stream_url": "https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://rightsbooster.com/fast-channels",
+    "launched": "2022-06-21",
+    "closed": null
+  },
+  {
+    "id": "StrongmanChampionsLeague.uk",
+    "name": "Strongman Champions League",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rights Booster Limited"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png",
+    "stream_url": "https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://rightsbooster.com/fast-channels",
+    "launched": "2022-06-21",
+    "closed": null
+  },
+  {
+    "id": "StrongmanChampionsLeague.uk",
+    "name": "Strongman Champions League",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rights Booster Limited"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png",
+    "stream_url": "https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://rightsbooster.com/fast-channels",
+    "launched": "2022-06-21",
     "closed": null
   },
   {
@@ -12961,6 +14477,74 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/J9iWjWL.png",
+    "stream_url": "https://jmp2.uk/plu-64e50055286f6b000838c067.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Teletubbies.uk",
+      "feed": "SD",
+      "site": "pluto.tv",
+      "site_id": "66a10eeb46762a0008201e85",
+      "site_name": "Teletubbies",
+      "lang": "en",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Teletubbies.uk",
+    "name": "Teletubbies",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/J9iWjWL.png",
+    "stream_url": "https://jmp2.uk/plu-66a10eeb46762a0008201e85.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Teletubbies.uk",
+      "feed": "SD",
+      "site": "pluto.tv",
+      "site_id": "66a10eeb46762a0008201e85",
+      "site_name": "Teletubbies",
+      "lang": "en",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Teletubbies.uk",
+    "name": "Teletubbies",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/J9iWjWL.png",
     "stream_url": "https://dv8lsrd8fecw9.cloudfront.net/master.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -13033,6 +14617,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://static.wikia.nocookie.net/logopedia/images/6/68/That%27s_70s_2023.png",
+    "stream_url": "https://jmp2.uk/plu-69ef53e12f4d2b4f9c582e76.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Thats70s.uk",
+      "feed": "SD",
+      "site": "tvireland.ie",
+      "site_id": "2442/thats-christmas",
+      "site_name": "That's Christmas",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.thats.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Thats70s.uk",
+    "name": "That's 70s",
+    "alt_names": [
+      "That's Christmas"
+    ],
+    "network": null,
+    "owners": [
+      "Universal Music Group N.V."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/6/68/That%27s_70s_2023.png",
     "stream_url": "http://92.114.85.72:8000/play/a0lc",
     "stream_quality": "576p",
     "stream_format": null,
@@ -13047,6 +14669,34 @@
       "lang": "en",
       "sources": []
     },
+    "website": "http://www.thats.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Thats80s.uk",
+    "name": "That's 80s",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Universal Music Group N.V."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TdKuz1m.png",
+    "stream_url": "https://jmp2.uk/plu-69ef54f3c700cf0140272def.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
     "website": "http://www.thats.tv/",
     "launched": null,
     "closed": null
@@ -13203,8 +14853,188 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png",
+    "stream_url": "https://jmp2.uk/plu-66166ce7aec96800080f6bd3.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TheGrahamNortonShow.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "350#99951450",
+      "site_name": "The Graham Norton Show",
+      "lang": "en",
+      "sources": []
+    },
+    "website": null,
+    "launched": "2024-02-08",
+    "closed": null
+  },
+  {
+    "id": "TheGrahamNortonShow.uk",
+    "name": "The Graham Norton Show",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "ITV Studios"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png",
+    "stream_url": "https://jmp2.uk/plu-6915dd5ca570568f53431c7f.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TheGrahamNortonShow.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "350#99951450",
+      "site_name": "The Graham Norton Show",
+      "lang": "en",
+      "sources": []
+    },
+    "website": null,
+    "launched": "2024-02-08",
+    "closed": null
+  },
+  {
+    "id": "TheGrahamNortonShow.uk",
+    "name": "The Graham Norton Show",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "ITV Studios"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png",
+    "stream_url": "https://jmp2.uk/plu-6915ddcb0d121b44ad1b6bf2.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TheGrahamNortonShow.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "350#99951450",
+      "site_name": "The Graham Norton Show",
+      "lang": "en",
+      "sources": []
+    },
+    "website": null,
+    "launched": "2024-02-08",
+    "closed": null
+  },
+  {
+    "id": "TheGrahamNortonShow.uk",
+    "name": "The Graham Norton Show",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "ITV Studios"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png",
+    "stream_url": "https://jmp2.uk/plu-6915de3d74601d957afa4592.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TheGrahamNortonShow.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "350#99951450",
+      "site_name": "The Graham Norton Show",
+      "lang": "en",
+      "sources": []
+    },
+    "website": null,
+    "launched": "2024-02-08",
+    "closed": null
+  },
+  {
+    "id": "TheGrahamNortonShow.uk",
+    "name": "The Graham Norton Show",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "ITV Studios"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png",
     "stream_url": "https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TheGrahamNortonShow.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "350#99951450",
+      "site_name": "The Graham Norton Show",
+      "lang": "en",
+      "sources": []
+    },
+    "website": null,
+    "launched": "2024-02-08",
+    "closed": null
+  },
+  {
+    "id": "TheGrahamNortonShow.uk",
+    "name": "The Graham Norton Show",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "ITV Studios"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png",
+    "stream_url": "https://jmp2.uk/plu-66e06576abec540008cc17a9.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -13590,6 +15420,321 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/S6Su6QH.png",
+    "stream_url": "https://jmp2.uk/plu-638e10220aa6a6000726979f.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TopGear.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "100#99951249",
+      "site_name": "Top Gear",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.topgear.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TopGear.uk",
+    "name": "Top Gear",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment",
+      "auto"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/S6Su6QH.png",
+    "stream_url": "https://jmp2.uk/plu-64c109735dc1660008a4a2dc.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TopGear.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "100#99951249",
+      "site_name": "Top Gear",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.topgear.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TopGear.uk",
+    "name": "Top Gear",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment",
+      "auto"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/S6Su6QH.png",
+    "stream_url": "https://jmp2.uk/plu-620234d766314700075cac86.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TopGear.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "100#99951249",
+      "site_name": "Top Gear",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.topgear.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TopGear.uk",
+    "name": "Top Gear",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment",
+      "auto"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/S6Su6QH.png",
+    "stream_url": "https://jmp2.uk/plu-60d356a534f63f000850cdd7.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TopGear.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "100#99951249",
+      "site_name": "Top Gear",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.topgear.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TopGear.uk",
+    "name": "Top Gear",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment",
+      "auto"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/S6Su6QH.png",
+    "stream_url": "https://jmp2.uk/plu-64c1093824ade50008bd117f.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TopGear.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "100#99951249",
+      "site_name": "Top Gear",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.topgear.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TopGear.uk",
+    "name": "Top Gear",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment",
+      "auto"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/S6Su6QH.png",
+    "stream_url": "https://jmp2.uk/plu-64c109a4798def0008a6e03e.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TopGear.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "100#99951249",
+      "site_name": "Top Gear",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.topgear.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TopGear.uk",
+    "name": "Top Gear",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment",
+      "auto"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/S6Su6QH.png",
+    "stream_url": "https://jmp2.uk/plu-6202357dea93940007d723ca.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TopGear.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "100#99951249",
+      "site_name": "Top Gear",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.topgear.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TopGear.uk",
+    "name": "Top Gear",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment",
+      "auto"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/S6Su6QH.png",
+    "stream_url": "https://jmp2.uk/plu-620239894757070008d4812d.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TopGear.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "100#99951249",
+      "site_name": "Top Gear",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.topgear.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TopGear.uk",
+    "name": "Top Gear",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment",
+      "auto"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/S6Su6QH.png",
+    "stream_url": "https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TopGear.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "100#99951249",
+      "site_name": "Top Gear",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.topgear.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TopGear.uk",
+    "name": "Top Gear",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment",
+      "auto"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/S6Su6QH.png",
     "stream_url": "https://d1daq1khzqxpku.cloudfront.net/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -13877,6 +16022,43 @@
     },
     "website": "https://trace.plus/app",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TrueCrime.uk",
+    "name": "True Crime",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "AMC Networks International",
+      "Paramount Networks UK & Australia"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/LK2NFst.png",
+    "stream_url": "https://jmp2.uk/plu-6304fb268bd95300072d2198.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TrueCrime.uk",
+      "feed": "SD",
+      "site": "sky.com",
+      "site_id": "3352",
+      "site_name": "TRUE CRIME",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.truecrime-tv.co.uk/",
+    "launched": "2023-11-22",
     "closed": null
   },
   {

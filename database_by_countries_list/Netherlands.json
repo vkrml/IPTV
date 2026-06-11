@@ -67,10 +67,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/1Fyezng.png",
-    "stream_url": "https://iptv.prosto.tv/ch141/tracks-v1a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783319761&st=iVNWplSFICoBBURsjIVTwQ",
-    "stream_quality": null,
+    "stream_url": "https://iptv.prosto.tv/ch141/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
     "referrer": null,
     "tv_guide": {
       "channel": "360TuneBox.nl",
@@ -615,6 +615,40 @@
     "closed": null
   },
   {
+    "id": "FashionBox.nl",
+    "name": "FashionBox",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Taqj4yi.png",
+    "stream_url": "https://iptv.prosto.tv/ch369/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FashionBox.nl",
+      "feed": "SD",
+      "site": "zap.co.ao",
+      "site_id": "2447",
+      "site_name": "Fashion BOX",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "http://www.fashionboxlive.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "FeelGoodTV.nl",
     "name": "Feel Good TV",
     "alt_names": [],
@@ -664,10 +698,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/hDg35ne.png",
-    "stream_url": "https://iptv.prosto.tv/ch63/tracks-v1a1/mono.m3u8?live=1&ip=104.28.156.59&id=921233&secret=9szoe89y&21yo=0&e=1783193843&st=TtdsKDYQcxuuOa_50TuApw",
-    "stream_quality": null,
+    "stream_url": "https://iptv.prosto.tv/ch63/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Mozilla/5.0 (Linux; Android 13; SM-S908B)",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
     "referrer": null,
     "tv_guide": {
       "channel": "FilmBoxArthouse.nl",
@@ -700,10 +734,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/gXu36aD.png",
-    "stream_url": "https://iptv.prosto.tv/ch64/tracks-v1a1/mono.m3u8?live=1&ip=104.28.156.59&id=921233&secret=9szoe89y&21yo=0&e=1783193705&st=MZPvPD4AwsRPTggeYFQLrA",
-    "stream_quality": null,
+    "stream_url": "https://iptv.prosto.tv/ch64/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.filmbox.nl/",
@@ -886,6 +920,44 @@
     "tv_guide": null,
     "website": "https://www.fomix.nl",
     "launched": "2019-12-24",
+    "closed": null
+  },
+  {
+    "id": "Gametoon.nl",
+    "name": "Gametoon",
+    "alt_names": [
+      "MadScreenBox"
+    ],
+    "network": null,
+    "owners": [
+      "SPI International Inc."
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png",
+    "stream_url": "https://iptv.prosto.tv/ch256/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Gametoon.nl",
+      "feed": "SD",
+      "site": "zap.co.ao",
+      "site_id": "2443",
+      "site_name": "Gametoon",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "http://www.gametoon.com/",
+    "launched": null,
     "closed": null
   },
   {
@@ -5968,6 +6040,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/XQrMCkT.png",
+    "stream_url": "https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "XITEClassicCountry.nl",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "688d399a8ceaa3681d9425d3",
+      "site_name": "XITE Classic Country",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://xite.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "XITEClassicCountry.nl",
+    "name": "XITE Classic Country",
+    "alt_names": [],
+    "network": "XITE",
+    "owners": [
+      "XITE Networks"
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/XQrMCkT.png",
     "stream_url": "https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -6186,6 +6294,42 @@
     "logo": "https://i.imgur.com/szDM09P.png",
     "stream_url": "https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "XITERockxMetal.nl",
+      "feed": "US",
+      "site": "plex.tv",
+      "site_id": "68800806996f1a2fb393a6e5",
+      "site_name": "XITE Rock x Metal",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://xite.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "XITERockxMetal.nl",
+    "name": "XITE Rock x Metal",
+    "alt_names": [],
+    "network": "XITE",
+    "owners": [
+      "XITE Networks"
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/szDM09P.png",
+    "stream_url": "https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

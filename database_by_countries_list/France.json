@@ -1881,6 +1881,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png",
+    "stream_url": "https://jmp2.uk/plu-5ca1da6c593a5d78f0e7edce.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EuronewsEnglish.fr",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000117_019351",
+      "site_name": "Euronews",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.euronews.com/",
+    "launched": "1993-01-01",
+    "closed": null
+  },
+  {
+    "id": "EuronewsEnglish.fr",
+    "name": "Euronews English",
+    "alt_names": [],
+    "network": "Euronews",
+    "owners": [
+      "Euronews SA"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png",
     "stream_url": "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -2046,6 +2082,45 @@
       "sources": []
     },
     "website": "https://fr.euronews.com/",
+    "launched": "1993-01-01",
+    "closed": null
+  },
+  {
+    "id": "EuronewsGerman.fr",
+    "name": "Euronews German",
+    "alt_names": [
+      "Euronews Deutsch",
+      " Euronews GE"
+    ],
+    "network": "Euronews",
+    "owners": [
+      "Euronews SA"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/8t9mdg9.png",
+    "stream_url": "https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EuronewsGerman.fr",
+      "feed": "SD",
+      "site": "web.magentatv.de",
+      "site_id": "482",
+      "site_name": "Euronews Deutsch",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "https://de.euronews.com/",
     "launched": "1993-01-01",
     "closed": null
   },
@@ -2264,6 +2339,45 @@
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EuronewsSpanish.fr",
+      "feed": "SD",
+      "site": "watch.whaletvplus.com",
+      "site_id": "756063841859148746",
+      "site_name": "euronews español",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://es.euronews.com/",
+    "launched": "1993-01-01",
+    "closed": null
+  },
+  {
+    "id": "EuronewsSpanish.fr",
+    "name": "Euronews Spanish",
+    "alt_names": [
+      "euronews en español",
+      "euronews español"
+    ],
+    "network": "Euronews",
+    "owners": [
+      "Euronews SA"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://a.jsrdn.com/hls/22886/euronews-spa/extras/1080_logo.png",
+    "stream_url": "https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "EuronewsSpanish.fr",
@@ -4153,6 +4267,44 @@
     "closed": null
   },
   {
+    "id": "HistoireTV.fr",
+    "name": "Histoire TV",
+    "alt_names": [
+      "Histoire"
+    ],
+    "network": null,
+    "owners": [
+      "Groupe TF1"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/hxuJXll.png",
+    "stream_url": "https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HistoireTV.fr",
+      "feed": "SD",
+      "site": "zap.co.ao",
+      "site_id": "2322",
+      "site_name": "Histoire",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "http://www.histoire.fr/",
+    "launched": "1997-07-14",
+    "closed": null
+  },
+  {
     "id": "iciElsass.fr",
     "name": "ici Elsass",
     "alt_names": [
@@ -5156,6 +5308,120 @@
     },
     "website": "https://www.nickelodeonjunior.fr/",
     "launched": "2010-01-26",
+    "closed": null
+  },
+  {
+    "id": "NickelodeonTeen.fr",
+    "name": "Nickelodeon Teen",
+    "alt_names": [
+      "Nickelodéon Teen"
+    ],
+    "network": "Nickelodeon",
+    "owners": [
+      "Paramount Networks EMEAA"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OWRUPA4.png",
+    "stream_url": "https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NickelodeonTeen.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "78525270/nickelodeon-teen",
+      "site_name": "Nickelodéon Teen",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "http://www.nickelodeon.fr/",
+    "launched": "2014-11-19",
+    "closed": null
+  },
+  {
+    "id": "NickelodeonTeen.fr",
+    "name": "Nickelodeon Teen",
+    "alt_names": [
+      "Nickelodéon Teen"
+    ],
+    "network": "Nickelodeon",
+    "owners": [
+      "Paramount Networks EMEAA"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OWRUPA4.png",
+    "stream_url": "https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NickelodeonTeen.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "78525270/nickelodeon-teen",
+      "site_name": "Nickelodéon Teen",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "http://www.nickelodeon.fr/",
+    "launched": "2014-11-19",
+    "closed": null
+  },
+  {
+    "id": "NickelodeonTeen.fr",
+    "name": "Nickelodeon Teen",
+    "alt_names": [
+      "Nickelodéon Teen"
+    ],
+    "network": "Nickelodeon",
+    "owners": [
+      "Paramount Networks EMEAA"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OWRUPA4.png",
+    "stream_url": "https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NickelodeonTeen.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "78525270/nickelodeon-teen",
+      "site_name": "Nickelodéon Teen",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "http://www.nickelodeon.fr/",
+    "launched": "2014-11-19",
     "closed": null
   },
   {
@@ -7916,6 +8182,37 @@
     "closed": null
   },
   {
+    "id": "TV5MONDEChefs.fr",
+    "name": "TV5MONDE Chefs",
+    "alt_names": [
+      "TV5 Monde+ Chefs"
+    ],
+    "network": "TV5 Monde+",
+    "owners": [
+      "TV5Monde S.A."
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle",
+      "cooking"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://provider-static.plex.tv/epg/cms/production/9adadebc-556e-4510-a632-ee532eb5863b/LOGO_PLEX_CHEFS_1500X1000_WHITE.png",
+    "stream_url": "https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.tv5mondeplus.com/en/direct?channelid=32",
+    "launched": "2025-08-14",
+    "closed": null
+  },
+  {
     "id": "TV5MondeEurope.fr",
     "name": "TV5Monde Europe",
     "alt_names": [],
@@ -8362,6 +8659,40 @@
       "sources": []
     },
     "website": "https://www.viavosges.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WildSideTV.fr",
+    "name": "Wild Side TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/cQkfRhH.png",
+    "stream_url": "https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "WildSideTV.fr",
+      "feed": "SD",
+      "site": "i.mjh.nz",
+      "site_id": "PlutoTV/fr#60b4d6c806ad2a00073b3108",
+      "site_name": "Wild Side TV",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": null,
     "launched": null,
     "closed": null
   },

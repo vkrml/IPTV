@@ -230,6 +230,44 @@
     "closed": null
   },
   {
+    "id": "AzTV.az",
+    "name": "Az TV",
+    "alt_names": [
+      "Azərbaycan Televiziyası"
+    ],
+    "network": null,
+    "owners": [
+      "Azerbaijan Television and Radio Broadcasting Closed Joint-stock Company"
+    ],
+    "country_code": "AZ",
+    "country_name": "Azerbaijan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/snBMMeH.png",
+    "stream_url": "https://str.yodacdn.net/azertv/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AzTV.az",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2799",
+      "site_name": "AzTV",
+      "lang": "az",
+      "sources": []
+    },
+    "website": "http://www.aztv.az/",
+    "launched": "1956-02-14",
+    "closed": null
+  },
+  {
     "id": "BakuTV.az",
     "name": "Baku.TV",
     "alt_names": [],
@@ -247,6 +285,32 @@
     "logo": "https://i.imgur.com/r4FzxSg.png",
     "stream_url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://baku.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BakuTV.az",
+    "name": "Baku.TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AZ",
+    "country_name": "Azerbaijan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/r4FzxSg.png",
+    "stream_url": "https://rtmp.baku.tv/hls/bakutv.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -405,6 +469,72 @@
     "tv_guide": null,
     "website": "https://www.azernews.az/tags/43134/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MedeniyyetTV.az",
+    "name": "Medeniyyet TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Azerbaijan Television and Radio Broadcasting Closed Joint-stock Company"
+    ],
+    "country_code": "AZ",
+    "country_name": "Azerbaijan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/PlvaDIa.png",
+    "stream_url": "https://str.yodacdn.net/medeniyyettele/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MedeniyyetTV.az",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2801",
+      "site_name": "Medeniyyet TV",
+      "lang": "az",
+      "sources": []
+    },
+    "website": "http://www.medeniyyettv.az/",
+    "launched": "2011-01-01",
+    "closed": null
+  },
+  {
+    "id": "NaxcivanTV.az",
+    "name": "Naxcivan TV",
+    "alt_names": [
+      "NTV"
+    ],
+    "network": null,
+    "owners": [
+      "Government of Azerbaijan"
+    ],
+    "country_code": "AZ",
+    "country_name": "Azerbaijan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/8yLFkdE.png",
+    "stream_url": "https://str2.yodacdn.net/ntv/video.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://ntv.az/",
+    "launched": "1963-03-12",
     "closed": null
   },
   {

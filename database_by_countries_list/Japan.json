@@ -68,78 +68,6 @@
     "closed": null
   },
   {
-    "id": "GolfNetwork.jp",
-    "name": "Golf Network",
-    "alt_names": [
-      "ゴルフネットワーク"
-    ],
-    "network": null,
-    "owners": [
-      "Jupiter Golf Network Co Ltd"
-    ],
-    "country_code": "JP",
-    "country_name": "Japan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/s6lmfXF.png",
-    "stream_url": "http://202.60.106.14:8080/1335/playlist.m3u8",
-    "stream_quality": "540p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "GolfNetwork.jp",
-      "feed": "SD",
-      "site": "tvguide.myjcom.jp",
-      "site_id": "120_167_65406",
-      "site_name": "ゴルフネットワーク",
-      "lang": "ja",
-      "sources": []
-    },
-    "website": "https://www.golfnetwork.co.jp/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "GSTV.jp",
-    "name": "GSTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "JP",
-    "country_name": "Japan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "shop"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ECnVG5I.png",
-    "stream_url": "https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf)",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "GSTV.jp",
-      "feed": "SD",
-      "site": "tvguide.myjcom.jp",
-      "site_id": "120_192_65406",
-      "site_name": "ジュエリー☆GSTV",
-      "lang": "ja",
-      "sources": []
-    },
-    "website": "https://www.gstv.jp/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "GSTV.jp",
     "name": "GSTV",
     "alt_names": [],
@@ -284,6 +212,44 @@
     },
     "website": "https://www.fujitv.co.jp/",
     "launched": "1959-03-01",
+    "closed": null
+  },
+  {
+    "id": "JOEXDTV.jp",
+    "name": "JOEX-DTV",
+    "alt_names": [
+      "TV Asahi",
+      "テレビ朝日",
+      "テレ朝"
+    ],
+    "network": "ANN/TV Asahi Network",
+    "owners": [],
+    "country_code": "JP",
+    "country_name": "Japan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/YCqB5Kj.png",
+    "stream_url": "https://tvasahi.mov3.co/hls/tvasahi.m3u8",
+    "stream_quality": "540p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "JOEXDTV.jp",
+      "feed": "SD",
+      "site": "tvguide.myjcom.jp",
+      "site_id": "2_1064_32741",
+      "site_name": "テレビ朝日",
+      "lang": "ja",
+      "sources": []
+    },
+    "website": "https://www.tv-asahi.co.jp/",
+    "launched": "1959-02-01",
     "closed": null
   },
   {
@@ -664,40 +630,6 @@
       "sources": []
     },
     "website": "https://www.shopch.jp/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVAsahiChannel1.jp",
-    "name": "TV Asahi Channel 1",
-    "alt_names": [
-      "テレ朝チャンネル１"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "JP",
-    "country_name": "Japan",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/4I61QPs.png",
-    "stream_url": "https://tvasahi.mov3.co/hls/tvasahi.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVAsahiChannel1.jp",
-      "feed": "SD",
-      "site": "tvguide.myjcom.jp",
-      "site_id": "120_136_65406",
-      "site_name": "テレ朝チャンネル１",
-      "lang": "ja",
-      "sources": []
-    },
-    "website": "https://www.tv-asahi.co.jp/ch/contents/osusume/ch1/",
     "launched": null,
     "closed": null
   },

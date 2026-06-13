@@ -1817,42 +1817,6 @@
     "closed": null
   },
   {
-    "id": "GTV.id",
-    "name": "GTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "MNC Media"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/jjuKnYs.png",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/globaltv/manifest.mpd",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "GTV.id",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000003",
-      "site_name": "GTV",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://www.gtv.id/",
-    "launched": "2002-10-08",
-    "closed": null
-  },
-  {
     "id": "HumaBetangTV.id",
     "name": "Huma Betang TV",
     "alt_names": [],
@@ -5523,6 +5487,41 @@
     "tv_guide": null,
     "website": "http://www.tegartv.com/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TheIndonesiaChannel.id",
+    "name": "The Indonesia Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture",
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/jAAPgpV.png",
+    "stream_url": "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TheIndonesiaChannel.id",
+      "feed": "SD",
+      "site": "maxstream.tv",
+      "site_id": "0_cms3x58k",
+      "site_name": "The Indonesia Channel",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://www.theindonesiachannel.com/",
+    "launched": "2014-06-04",
     "closed": null
   },
   {

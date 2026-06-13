@@ -16160,42 +16160,6 @@
     "closed": null
   },
   {
-    "id": "CNBC.us",
-    "name": "CNBC",
-    "alt_names": [],
-    "network": "CNBC",
-    "owners": [
-      "Versant Media Group Inc."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "business"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg",
-    "stream_url": "https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://www.newslive.com/business/cnbc-live-free.html",
-    "tv_guide": {
-      "channel": "CNBC.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "10139",
-      "site_name": "CNBC",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.cnbc.com/",
-    "launched": "1989-04-17",
-    "closed": null
-  },
-  {
     "id": "ColdCaseFiles.us",
     "name": "Cold Case Files",
     "alt_names": [],
@@ -44584,6 +44548,43 @@
     "logo": "https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG_1764875981566.png",
     "stream_url": "https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MTVPlutoTV.us",
+      "feed": "US",
+      "site": "pluto.tv",
+      "site_id": "5ca672f515a62078d2ec0ad2",
+      "site_name": "MTV Pluto TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://pluto.tv/en/live-tv/mtv-pluto-tv",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MTVPlutoTV.us",
+    "name": "MTV Pluto TV",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Viacom International Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG_1764875981566.png",
+    "stream_url": "https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

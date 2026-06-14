@@ -2754,6 +2754,42 @@
     "closed": null
   },
   {
+    "id": "France4.fr",
+    "name": "France 4",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "France Télévisions"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png",
+    "stream_url": "https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "France4.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "82515049/france-4",
+      "site_name": "France 4",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.france.tv/france-4/",
+    "launched": "2005-03-31",
+    "closed": null
+  },
+  {
     "id": "France5.fr",
     "name": "France 5",
     "alt_names": [],
@@ -7321,42 +7357,6 @@
     },
     "website": "https://telenantes.ouest-france.fr/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TF1.fr",
-    "name": "TF1",
-    "alt_names": [
-      "Télévision française 1"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/QxHt9NC.png",
-    "stream_url": "https://test.946985.filegear-sg.me/proxy/71eb898aa398f1b9",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TF1.fr",
-      "feed": "SD",
-      "site": "tvcesoir.fr",
-      "site_id": "847049/tf-1",
-      "site_name": "TF 1",
-      "lang": "fr",
-      "sources": []
-    },
-    "website": "https://www.tf1.fr",
-    "launched": "1975-01-06",
     "closed": null
   },
   {

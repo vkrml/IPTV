@@ -1,9 +1,10 @@
 [
   {
-    "id": "2MMonde.ma",
-    "name": "2M Monde",
+    "id": "2M.ma",
+    "name": "2M",
     "alt_names": [
-      "2M International"
+      "2M وطني",
+      "2M National"
     ],
     "network": "2M",
     "owners": [
@@ -18,19 +19,19 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/MvpntzA.png",
+    "logo": "https://i.imgur.com/PJYTfHi.png",
     "stream_url": "https://stream-lb.livemediama.com/2m-tnt/hls/master.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "2MMonde.ma",
+      "channel": "2M.ma",
       "feed": "SD",
-      "site": "ziggogo.tv",
-      "site_id": "NL_000051_019047",
-      "site_name": "2M",
-      "lang": "en",
+      "site": "sat.tv",
+      "site_id": "1#38#2M وطني",
+      "site_name": "2M وطني",
+      "lang": "ar",
       "sources": []
     },
     "website": "https://2m.ma/",
@@ -248,6 +249,44 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/XjzK3gZ.png",
     "stream_url": "https://stream-lb.livemediama.com/arryadia/hls/master.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Arryadia.ma",
+      "feed": "HD",
+      "site": "tv.sfr.fr",
+      "site_id": "956",
+      "site_name": "Arryadia",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://arryadia.snrt.ma/",
+    "launched": "2006-09-16",
+    "closed": null
+  },
+  {
+    "id": "Arryadia.ma",
+    "name": "Arryadia",
+    "alt_names": [
+      "قناة الرياضية"
+    ],
+    "network": null,
+    "owners": [
+      "SNRT"
+    ],
+    "country_code": "MA",
+    "country_name": "Morocco",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/XjzK3gZ.png",
+    "stream_url": "https://stream-lb.livemediama.com/arryadia-tnt/hls/master.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

@@ -7372,44 +7372,6 @@
     "closed": null
   },
   {
-    "id": "BBCAmerica.us",
-    "name": "BBC America",
-    "alt_names": [
-      "BBCA"
-    ],
-    "network": null,
-    "owners": [
-      "AMC Networks Inc."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/pTiiPz0.png",
-    "stream_url": "https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BBCAmerica.us",
-      "feed": "East",
-      "site": "tvtv.us",
-      "site_id": "18332",
-      "site_name": "BBC America East",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.bbcamerica.com/",
-    "launched": "1998-03-29",
-    "closed": null
-  },
-  {
     "id": "BBCFood.us",
     "name": "BBC Food",
     "alt_names": [],
@@ -26802,6 +26764,42 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Qq6heRq.png",
     "stream_url": "https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FreeSpeechTV.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "16220",
+      "site_name": "Free Speech TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://freespeech.org/",
+    "launched": "1995-01-01",
+    "closed": null
+  },
+  {
+    "id": "FreeSpeechTV.us",
+    "name": "Free Speech TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Public Communicators Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Qq6heRq.png",
+    "stream_url": "https://na.linear.zype.com/f2f02a72-71d0-45f3-829f-4ae51f721102/86ef0177-697d-41c4-be57-c4d1a2b83cad-hls4/live.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,

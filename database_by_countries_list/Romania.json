@@ -803,6 +803,32 @@
     "closed": null
   },
   {
+    "id": "CineMaraton.ro",
+    "name": "CineMaraton",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/BY8UZa0.png",
+    "stream_url": "https://dokagents.site/live/cinemaraton/mono.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.cinemaraton.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ComedyCentral.ro",
     "name": "Comedy Central",
     "alt_names": [],
@@ -1296,6 +1322,44 @@
     "closed": null
   },
   {
+    "id": "Diva.ro",
+    "name": "Diva",
+    "alt_names": [
+      "Diva România"
+    ],
+    "network": null,
+    "owners": [
+      "NBCUniversal International Networks"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/bgBZgW0.png",
+    "stream_url": "https://dokagents.site/live/diva/mono.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Diva.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "diva",
+      "site_name": "Diva",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.divaromania.tv/",
+    "launched": "2010-10-03",
+    "closed": "2024-09-30"
+  },
+  {
     "id": "DottoTV.ro",
     "name": "Dotto TV",
     "alt_names": [],
@@ -1374,6 +1438,42 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.exclusivtv.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FilmNow.ro",
+    "name": "Film Now",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RCS & RDS"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sSoRvGz.png",
+    "stream_url": "https://dokagents.site/live/filmnow/mono.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FilmNow.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "film-now",
+      "site_name": "Film Now",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.digi-film.ro/",
     "launched": null,
     "closed": null
   },
@@ -2325,6 +2425,118 @@
     "closed": null
   },
   {
+    "id": "PrimaTV.ro",
+    "name": "Prima TV",
+    "alt_names": [
+      "Canal 38 Amerom Bucureşti"
+    ],
+    "network": null,
+    "owners": [
+      "Clever Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/p2umWAT.png",
+    "stream_url": "https://dokagents.site/live/primatv/mono.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PrimaTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "prima-tv",
+      "site_name": "Prima TV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.primatv.ro/",
+    "launched": "1997-12-17",
+    "closed": null
+  },
+  {
+    "id": "ProArena.ro",
+    "name": "Pro Arena",
+    "alt_names": [
+      "Pro X",
+      "Sport.ro",
+      "TV Sport"
+    ],
+    "network": "Pro TV",
+    "owners": [
+      "Pro TV SRL"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KQmB9Cc.png",
+    "stream_url": "https://dokagents.site/live/proarena/mono.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ProArena.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "pro-arena-hd",
+      "site_name": "Pro Arena HD",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.proarena.ro/",
+    "launched": "2003-07-27",
+    "closed": null
+  },
+  {
+    "id": "ProCinema.ro",
+    "name": "Pro Cinema",
+    "alt_names": [],
+    "network": "Pro TV",
+    "owners": [
+      "Pro TV SRL"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TvHFGwZ.png",
+    "stream_url": "https://dokagents.site/live/procinema/mono.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ProCinema.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "pro-cinema-hd",
+      "site_name": "Pro Cinema HD",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://procinema.protv.ro/",
+    "launched": "2004-04-19",
+    "closed": null
+  },
+  {
     "id": "PROFI24TV.ro",
     "name": "PROFI 24 TV",
     "alt_names": [],
@@ -2531,6 +2743,38 @@
     "closed": null
   },
   {
+    "id": "RealitateaPlus.ro",
+    "name": "Realitatea Plus",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/kqEPVPk.png",
+    "stream_url": "https://dokagents.site/live/realitateatv/mono.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RealitateaPlus.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "realitatea-plus",
+      "site_name": "Realitatea Plus",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.realitatea.net/",
+    "launched": "2019-11-01",
+    "closed": null
+  },
+  {
     "id": "RealitateaSportiva.ro",
     "name": "Realitatea Sportiva",
     "alt_names": [
@@ -2641,6 +2885,42 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": "https://www.romaniatv.net/live",
+    "tv_guide": {
+      "channel": "RomaniaTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "romania-tv",
+      "site_name": "România TV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.romaniatv.net/",
+    "launched": "2011-10-23",
+    "closed": null
+  },
+  {
+    "id": "RomaniaTV.ro",
+    "name": "Romania TV",
+    "alt_names": [
+      "România TV"
+    ],
+    "network": null,
+    "owners": [
+      "Ridzone Computers"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ZIfEp5I.png",
+    "stream_url": "https://dokagents.site/live/romaniatv/mono.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
     "tv_guide": {
       "channel": "RomaniaTV.ro",
       "feed": "SD",

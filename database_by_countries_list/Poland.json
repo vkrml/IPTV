@@ -234,6 +234,85 @@
     "closed": null
   },
   {
+    "id": "AXNBlack.pl",
+    "name": "AXN Black",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Nqvx6nz.png",
+    "stream_url": "http://81.15.109.89:8001/play/AXNBlack",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AXNPoland.pl",
+    "name": "AXN Poland",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/i5wOhkf.png",
+    "stream_url": "http://81.15.109.89:8001/play/AXN",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AXNWhite.pl",
+    "name": "AXN White",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series",
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/DaAyLE7.png",
+    "stream_url": "http://81.15.109.89:8001/play/AXNWhite",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BelsatTV.pl",
     "name": "Belsat TV",
     "alt_names": [
@@ -621,6 +700,42 @@
     "closed": null
   },
   {
+    "id": "CBeebies.pl",
+    "name": "CBeebies",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BBC"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
+    "stream_url": "http://81.15.109.89:8001/play/BBCCBeebies",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CBeebies.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "bbc-cbeebies-2",
+      "site_name": "BBC CBeebies",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://www.bbcpolska.com/channels/cbeebies/",
+    "launched": "2007-12-02",
+    "closed": null
+  },
+  {
     "id": "DiscoPoloMusic.pl",
     "name": "Disco Polo Music",
     "alt_names": [],
@@ -652,6 +767,78 @@
     },
     "website": "http://www.discopolomusic.pl/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DisneyChannel.pl",
+    "name": "Disney Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "The Walt Disney Company Limited"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "stream_url": "http://81.15.109.89:8001/play/DisneyChannel2",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyChannel.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "disney-channel-478",
+      "site_name": "Disney Channel",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://www.disney.pl/",
+    "launched": "2010-08-01",
+    "closed": null
+  },
+  {
+    "id": "DisneyXD.pl",
+    "name": "Disney XD",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "The Walt Disney Company"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
+    "stream_url": "http://81.15.109.89:8001/play/DisneyXD",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyXD.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "disney-xd-235",
+      "site_name": "Disney XD",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://tv.disney.pl/",
+    "launched": "2009-09-19",
     "closed": null
   },
   {
@@ -786,6 +973,43 @@
     "closed": null
   },
   {
+    "id": "EskaRockTV.pl",
+    "name": "Eska Rock TV",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/o0Fg19Q.png",
+    "stream_url": "http://81.15.109.89:8001/play/EskaRock",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EskaRockTV.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "hip-hop-tv-511",
+      "site_name": "Eska Rock TV",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://www.eska.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "EskaTV.pl",
     "name": "Eska TV",
     "alt_names": [],
@@ -897,6 +1121,43 @@
     "closed": null
   },
   {
+    "id": "EskaTVExtra.pl",
+    "name": "Eska TV Extra",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/pZAFshQ.png",
+    "stream_url": "http://81.15.109.89:8001/play/EskaTVExtra",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EskaTVExtra.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "eska-tv-extra-597",
+      "site_name": "Eska TV Extra",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://www.eska.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Euronews.pl",
     "name": "Euronews",
     "alt_names": [
@@ -959,6 +1220,42 @@
       "sources": []
     },
     "website": "https://ewtn.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FightKlub.pl",
+    "name": "Fight Klub",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "IKO Media Group"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6kaNvZi.png",
+    "stream_url": "http://81.15.109.89:8001/play/Fightklub",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FightKlub.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "fightklub-78",
+      "site_name": "Fightklub",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://fightklub.pl/",
     "launched": null,
     "closed": null
   },

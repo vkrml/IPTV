@@ -1131,43 +1131,6 @@
     "closed": null
   },
   {
-    "id": "BBCFour.uk",
-    "name": "BBC Four",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "BBC"
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary",
-      "culture"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png",
-    "stream_url": "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BBCFour.uk",
-      "feed": "UK",
-      "site": "webtv.delta.nl",
-      "site_id": "86",
-      "site_name": "BBC Four",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.bbc.co.uk/bbcfour/",
-    "launched": "2002-03-02",
-    "closed": null
-  },
-  {
     "id": "BBCLifestyle.uk",
     "name": "BBC Lifestyle",
     "alt_names": [],
@@ -7761,6 +7724,42 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.40mediagroup.com",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "EpicDrama.uk",
+    "name": "Epic Drama",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "ViaSat"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Epic-Drama-TV.jpg/960px-Epic-Drama-TV.jpg",
+    "stream_url": "https://dokagents.site/live/epicd/mono.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EpicDrama.uk",
+      "feed": "Sweden",
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#epic-drama",
+      "site_name": "Epic Drama (CEE)",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "https://epicdrama.eu/",
     "launched": null,
     "closed": null
   },

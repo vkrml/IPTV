@@ -1133,6 +1133,36 @@
     "closed": null
   },
   {
+    "id": "ConectaMaisTV.br",
+    "name": "Conecta Mais TV",
+    "alt_names": [
+      "Conecta+ TV"
+    ],
+    "network": null,
+    "owners": [
+      "Conecta Mais Ltda"
+    ],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/qHwTWlz.png",
+    "stream_url": "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ConecTVBrasil.br",
     "name": "ConecTV Brasil",
     "alt_names": [],
@@ -1322,6 +1352,32 @@
     "closed": null
   },
   {
+    "id": "ElementalChannel.br",
+    "name": "Elemental Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/8upyApg.png",
+    "stream_url": "https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.elementalchannel.com.br/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ElyTV.br",
     "name": "ElyTV",
     "alt_names": [],
@@ -1365,6 +1421,32 @@
     "logo": "https://i.imgur.com/8PxpamC.png",
     "stream_url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://eutv.com.br/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "EUTV.br",
+    "name": "EUTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/8PxpamC.png",
+    "stream_url": "https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1965,6 +2047,45 @@
     },
     "website": "https://mytimemovienetwork.com/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NickOnline.br",
+    "name": "NickOnline",
+    "alt_names": [
+      "Nickelodeon Online"
+    ],
+    "network": null,
+    "owners": [
+      "x1co"
+    ],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids",
+      "animation"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://x1co.com.br/logo.png",
+    "stream_url": "https://x1co.com.br/hls/stream.m3u8",
+    "stream_quality": "360p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NickOnline.br",
+      "feed": "HD",
+      "site": "x1co.com.br",
+      "site_id": "nickonline.br",
+      "site_name": "NickOnline",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://x1co.com.br",
+    "launched": "2026-01-03",
     "closed": null
   },
   {

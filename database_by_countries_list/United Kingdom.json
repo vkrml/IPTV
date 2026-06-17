@@ -698,6 +698,42 @@
     "closed": null
   },
   {
+    "id": "BBCBrit.uk",
+    "name": "BBC Brit",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BBC Studios"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/i4remZo.png",
+    "stream_url": "http://81.15.109.89:8001/play/BBCBrit",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BBCBrit.uk",
+      "feed": "Poland",
+      "site": "programtv.onet.pl",
+      "site_id": "bbc-brit-275",
+      "site_name": "BBC Brit",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://www.bbcafricachannels.com/channels/brit",
+    "launched": "2015-09-01",
+    "closed": null
+  },
+  {
     "id": "BBCDrama.uk",
     "name": "BBC Drama",
     "alt_names": [],
@@ -762,6 +798,42 @@
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/bbc-drama-es",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BBCEarth.uk",
+    "name": "BBC Earth",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BBC Studios"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nGSsUd4.png",
+    "stream_url": "http://81.15.109.89:8001/play/BBCEarth",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BBCEarth.uk",
+      "feed": "US",
+      "site": "xumo.tv",
+      "site_id": "150#99951231",
+      "site_name": "BBC Earth",
+      "lang": "en",
+      "sources": []
+    },
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -946,40 +1018,39 @@
     "closed": null
   },
   {
-    "id": "BBCFour.uk",
-    "name": "BBC Four",
+    "id": "BBCFirst.uk",
+    "name": "BBC First",
     "alt_names": [],
     "network": null,
     "owners": [
-      "BBC"
+      "BBC Studios"
     ],
     "country_code": "UK",
     "country_name": "United Kingdom",
     "subdivision": null,
     "city": null,
     "categories": [
-      "documentary",
-      "culture"
+      "entertainment"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png",
-    "stream_url": "https://matchmaker.live.bidi.net.uk/vs-cmaf-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.fmp4.m3u8",
-    "stream_quality": "720p",
+    "logo": "https://i.imgur.com/UBoBYUI.png",
+    "stream_url": "http://81.15.109.89:8001/play/BBCFirst",
+    "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
     "referrer": null,
     "tv_guide": {
-      "channel": "BBCFour.uk",
-      "feed": "UK",
+      "channel": "BBCFirst.uk",
+      "feed": "Benelux",
       "site": "webtv.delta.nl",
-      "site_id": "86",
-      "site_name": "BBC Four",
-      "lang": "en",
+      "site_id": "53",
+      "site_name": "BBC First",
+      "lang": "nl",
       "sources": []
     },
-    "website": "http://www.bbc.co.uk/bbcfour/",
-    "launched": "2002-03-02",
+    "website": "https://www.bbcchannels.com/",
+    "launched": "2014-08-03",
     "closed": null
   },
   {
@@ -1152,6 +1223,42 @@
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BBCLifestyle.uk",
+      "feed": "Singapore",
+      "site": "starhubtvplus.com",
+      "site_id": "047b3a4a-5094-4802-82d4-b3863b6e2cdf",
+      "site_name": "BBC Lifestyle",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "https://www.bbcstudios.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BBCLifestyle.uk",
+    "name": "BBC Lifestyle",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BBC Studios"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9mzJJ3y.png",
+    "stream_url": "http://81.15.109.89:8001/play/BBCLifestyle",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
     "referrer": null,
     "tv_guide": {
       "channel": "BBCLifestyle.uk",

@@ -2826,32 +2826,6 @@
     "closed": null
   },
   {
-    "id": "ComedyMovies.es",
-    "name": "Comedy Movies",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "comedy"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/BpsDY37.png",
-    "stream_url": "https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Condavision.es",
     "name": "Condavision",
     "alt_names": [
@@ -3268,6 +3242,42 @@
     "website": "https://www.dieztv.es/",
     "launched": null,
     "closed": null
+  },
+  {
+    "id": "DisneyChannel.es",
+    "name": "Disney Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Disney Entertainment"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "stream_url": "https://cdn.telecloud.tv/CH16265/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyChannel.es",
+      "feed": "SD",
+      "site": "programacion-tv.elpais.com",
+      "site_id": "175",
+      "site_name": "Disney Channel",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.disney.es/",
+    "launched": "1998-04-17",
+    "closed": "2025-01-07"
   },
   {
     "id": "DisneyJunior.es",

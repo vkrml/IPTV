@@ -1,5 +1,43 @@
 [
   {
+    "id": "AmericaTelevision.pe",
+    "name": "America Television",
+    "alt_names": [
+      "América Televisión"
+    ],
+    "network": null,
+    "owners": [
+      "Plural TV"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
+    "stream_url": "https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AmericaTelevision.pe",
+      "feed": "SD",
+      "site": "watch.whaletvplus.com",
+      "site_id": "989293714931712089",
+      "site_name": "America Television",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://tvgo.americatv.com.pe/",
+    "launched": "1958-12-15",
+    "closed": null
+  },
+  {
     "id": "AntaresTelevision.pe",
     "name": "Antares Television",
     "alt_names": [
@@ -428,6 +466,34 @@
     "closed": null
   },
   {
+    "id": "CanalIPe.pe",
+    "name": "Canal IPe",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "National Institute of Radio and Television of Peru"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "family"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/960px-Identidad_Peruana_ipe_2020.png",
+    "stream_url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ipe.stream/playlist.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.canalipe.tv/",
+    "launched": "2016-07-01",
+    "closed": null
+  },
+  {
     "id": "Conecta2TV.pe",
     "name": "Conecta2TV",
     "alt_names": [],
@@ -567,6 +633,40 @@
     },
     "website": "https://exitosanoticias.pe/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "GlobalTV.pe",
+    "name": "Global TV",
+    "alt_names": [],
+    "network": "Grupo ATV",
+    "owners": [],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/yuEou9C.png",
+    "stream_url": "https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GlobalTV.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch6309",
+      "site_name": "GLOBAL TV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.atv.pe/noticias/global-tv-13738",
+    "launched": "1986-07-01",
     "closed": null
   },
   {
@@ -1564,6 +1664,32 @@
     "closed": null
   },
   {
+    "id": "Telelima.pe",
+    "name": "Telelima",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/HzWRvXc.png",
+    "stream_url": "https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.telelima.pe/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Teleselva.pe",
     "name": "Teleselva",
     "alt_names": [],
@@ -2208,6 +2334,42 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://vnp.pe",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WillaxTV.pe",
+    "name": "Willax TV",
+    "alt_names": [
+      "Willax Televisión"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/bZnDDPH.png",
+    "stream_url": "https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "WillaxTV.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch2219",
+      "site_name": "WILLAX",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://willax.pe/",
     "launched": null,
     "closed": null
   }

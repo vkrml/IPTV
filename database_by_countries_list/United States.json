@@ -2510,6 +2510,44 @@
     "closed": null
   },
   {
+    "id": "AE.us",
+    "name": "A&E",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "A&E Television Networks LLC",
+      "Hearst Communications Inc.",
+      "The Walt Disney Company"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+    "stream_url": "http://23.239.31.26:8989/aande/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AE.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "21760",
+      "site_name": "A&E West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.aetv.com/",
+    "launched": "1984-02-01",
+    "closed": null
+  },
+  {
     "id": "AfroLandTV.us",
     "name": "AfroLandTV",
     "alt_names": [],
@@ -3799,6 +3837,42 @@
     },
     "website": "https://pluto.tv/en/live-tv/always-funny-videos",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AMC.us",
+    "name": "AMC",
+    "alt_names": [],
+    "network": "AMC",
+    "owners": [
+      "AMC Networks Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+    "stream_url": "http://23.239.31.26:8989/amc/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AMC.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "31556",
+      "site_name": "AMC West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.amc.com/",
+    "launched": "1984-10-01",
     "closed": null
   },
   {
@@ -6645,6 +6719,42 @@
     "closed": null
   },
   {
+    "id": "AXSTV.us",
+    "name": "AXS TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "AXS TV LLC"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png",
+    "stream_url": "http://23.239.31.26:8989/axstv/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXSTV.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "92053",
+      "site_name": "AXS TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.axs.tv/",
+    "launched": "2001-09-06",
+    "closed": null
+  },
+  {
     "id": "AyenehTV.us",
     "name": "Ayeneh TV",
     "alt_names": [],
@@ -8548,43 +8658,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Kq9WKZg.png",
     "stream_url": "https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BETPlutoTV.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5ca670f6593a5d78f0e85aed",
-      "site_name": "BET Pluto TV",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/bet-pluto-tv-ptv1",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BETPlutoTV.us",
-    "name": "BET Pluto TV",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [
-      "Black Entertainment Television LLC",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Kq9WKZg.png",
-    "stream_url": "https://jmp2.uk/plu-604f8f8622166000071a929f.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -14819,6 +14892,40 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/I5XxyLI.png",
+    "stream_url": "https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CineTerror.us",
+      "feed": "SD",
+      "site": "pluto.tv",
+      "site_id": "5d8d180092e97a5e107638d3",
+      "site_name": "Cine terror",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://pluto.tv/en/live-tv/cine-terror",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CineTerror.us",
+    "name": "Cine Terror",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/I5XxyLI.png",
     "stream_url": "https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -16069,6 +16176,43 @@
     "closed": null
   },
   {
+    "id": "CMT.us",
+    "name": "CMT",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Viacom International Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/S7DOpdY.png",
+    "stream_url": "http://23.237.104.106:8080/USA_CMT/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CMT.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "10138",
+      "site_name": "CMT East",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.cmt.com/",
+    "launched": "1983-03-05",
+    "closed": null
+  },
+  {
     "id": "CMTEqualPlay.us",
     "name": "CMT Equal Play",
     "alt_names": [],
@@ -16129,6 +16273,42 @@
     "tv_guide": null,
     "website": "https://www.costamesaca.gov/city-hall/city-departments/communications-and-marketing/news-videos",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CNBC.us",
+    "name": "CNBC",
+    "alt_names": [],
+    "network": "CNBC",
+    "owners": [
+      "Versant Media Group Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "business"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg",
+    "stream_url": "http://rezofoot.tv/CNBC/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CNBC.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "10139",
+      "site_name": "CNBC",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.cnbc.com/",
+    "launched": "1989-04-17",
     "closed": null
   },
   {
@@ -16222,32 +16402,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://tv.colliergov.net/CablecastPublicSite/watch/1?channel=1",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ComediaMadeinSpain.us",
-    "name": "Comedia Made in Spain",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "comedy"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/8ddFdSQ.png",
-    "stream_url": "https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://pluto.tv/en/live-tv/comedia-made-in-spain-es",
     "launched": null,
     "closed": null
   },
@@ -17946,6 +18100,44 @@
     "closed": null
   },
   {
+    "id": "CrimePlusInvestigation.us",
+    "name": "Crime + Investigation",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "A&E Television Networks LLC",
+      "Hearst Communications Inc.",
+      "The Walt Disney Company"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
+    "stream_url": "http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CrimePlusInvestigation.us",
+      "feed": "SD",
+      "site": "tvguide.com",
+      "site_id": "9233003673",
+      "site_name": "Crime & Investigation Network",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.crimeandinvestigationnetwork.com/",
+    "launched": "2005-04-01",
+    "closed": null
+  },
+  {
     "id": "Crunchyroll.us",
     "name": "Crunchyroll",
     "alt_names": [],
@@ -18927,32 +19119,6 @@
     },
     "website": "https://www.nbcnews.com/dateline",
     "launched": "2021-02-09",
-    "closed": null
-  },
-  {
-    "id": "Dating.us",
-    "name": "Dating",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/VXaiLtt.png",
-    "stream_url": "https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://pluto.tv/en/live-tv/dating-it",
-    "launched": null,
     "closed": null
   },
   {
@@ -26027,40 +26193,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/deeQqYZ.png",
-    "stream_url": "https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ForeverKids.us",
-      "feed": "SD",
-      "site": "pluto.tv",
-      "site_id": "56171fafada51f8004c4b40f",
-      "site_name": "Forever Kids",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/forever-kids",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ForeverKids.us",
-    "name": "Forever Kids",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/deeQqYZ.png",
     "stream_url": "https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -27087,6 +27219,79 @@
     "tv_guide": null,
     "website": "https://funroads.tv/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Fuse.us",
+    "name": "Fuse",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Fuse Media"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/mijRpPQ.jpg",
+    "stream_url": "http://23.237.104.106:8080/USA_FUSE/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Fuse.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "61483",
+      "site_name": "Fuse West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.fuse.tv/",
+    "launched": "1994-07-01",
+    "closed": null
+  },
+  {
+    "id": "FXX.us",
+    "name": "FXX",
+    "alt_names": [],
+    "network": "FX Channels",
+    "owners": [
+      "FXX Networks LLC",
+      "The Walt Disney Company"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png",
+    "stream_url": "https://cdn.telecloud.tv/CH3255/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FXX.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "82570",
+      "site_name": "FXX West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.fxnetworks.com/fxx",
+    "launched": "2013-09-02",
     "closed": null
   },
   {
@@ -29322,6 +29527,42 @@
     "tv_guide": null,
     "website": "https://guyanatvnetwork.com/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HallmarkChannel.us",
+    "name": "Hallmark Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Hallmark Cards"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "family"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png",
+    "stream_url": "http://23.237.104.106:8080/USA_HALLMARK/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HallmarkChannel.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "19933",
+      "site_name": "Hallmark Channel West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.hallmarkchannel.com/",
+    "launched": "1992-09-01",
     "closed": null
   },
   {
@@ -39611,6 +39852,44 @@
     "closed": null
   },
   {
+    "id": "Lifetime.us",
+    "name": "Lifetime",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "A&E Television Networks LLC",
+      "Hearst Communications Inc.",
+      "The Walt Disney Company"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+    "stream_url": "http://rezofoot.tv/LIFETIME/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Lifetime.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "60150",
+      "site_name": "Lifetime East",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.aenetworks.tv/our-networks/lifetime",
+    "launched": "1984-02-01",
+    "closed": null
+  },
+  {
     "id": "LifevisionTV.us",
     "name": "LifevisionTV",
     "alt_names": [],
@@ -40928,6 +41207,35 @@
     "closed": null
   },
   {
+    "id": "MagnificentMoviesNetwork.us",
+    "name": "Magnificent Movies Network",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Cannella Media DTC"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "shop"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CXjo8kn.png",
+    "stream_url": "https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "MajestadTV.us",
     "name": "Majestad TV",
     "alt_names": [
@@ -41812,6 +42120,42 @@
     "closed": null
   },
   {
+    "id": "MeTV.us",
+    "name": "MeTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Weigel Broadcasting"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/960px-MeTV_Logo.svg.png",
+    "stream_url": "https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MeTV.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "70436",
+      "site_name": "MeTV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.metv.com/",
+    "launched": "2010-12-15",
+    "closed": null
+  },
+  {
     "id": "MidnightPulp.us",
     "name": "Midnight Pulp",
     "alt_names": [],
@@ -42270,34 +42614,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://lavozdeunremanente.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Miobsesionfavorita.us",
-    "name": "Mi obsesion favorita",
-    "alt_names": [
-      "Mi obsesión favorita"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/zimPTe5.png",
-    "stream_url": "https://jmp2.uk/plu-6109ab25b84d6a0007504886.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://pluto.tv/en/live-tv/mi-obsesion-favorita",
     "launched": null,
     "closed": null
   },
@@ -43015,6 +43331,180 @@
     "tv_guide": null,
     "website": "https://cloud.castus.tv/vod/monroe/video/60832c9dcf67bb7ac0c21791?page=HOME&type=live",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MonsterJam.us",
+    "name": "Monster Jam",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Feld Entertainment Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports",
+      "outdoor"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg",
+    "stream_url": "https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.monsterjam.com/en-us/streaming/",
+    "launched": "2025-05-08",
+    "closed": null
+  },
+  {
+    "id": "MonsterJam.us",
+    "name": "Monster Jam",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Feld Entertainment Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports",
+      "outdoor"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg",
+    "stream_url": "https://jmp2.uk/plu-65c33fd4dc10a40008f26af8.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.monsterjam.com/en-us/streaming/",
+    "launched": "2025-05-08",
+    "closed": null
+  },
+  {
+    "id": "MonsterJam.us",
+    "name": "Monster Jam",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Feld Entertainment Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports",
+      "outdoor"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg",
+    "stream_url": "https://jmp2.uk/plu-65c340383a116800078c8454.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.monsterjam.com/en-us/streaming/",
+    "launched": "2025-05-08",
+    "closed": null
+  },
+  {
+    "id": "MonsterJam.us",
+    "name": "Monster Jam",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Feld Entertainment Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports",
+      "outdoor"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg",
+    "stream_url": "https://4b9627c7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vbnN0ZXJKYW1fSExT/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.monsterjam.com/en-us/streaming/",
+    "launched": "2025-05-08",
+    "closed": null
+  },
+  {
+    "id": "MonsterJam.us",
+    "name": "Monster Jam",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Feld Entertainment Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports",
+      "outdoor"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg",
+    "stream_url": "https://jmp2.uk/plu-65c340983ba51e00083988e8.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.monsterjam.com/en-us/streaming/",
+    "launched": "2025-05-08",
+    "closed": null
+  },
+  {
+    "id": "MonsterJam.us",
+    "name": "Monster Jam",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Feld Entertainment Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports",
+      "outdoor"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg",
+    "stream_url": "https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.monsterjam.com/en-us/streaming/",
+    "launched": "2025-05-08",
     "closed": null
   },
   {
@@ -43794,6 +44284,80 @@
     "closed": null
   },
   {
+    "id": "MTV2.us",
+    "name": "MTV2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Viacom International Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/960px-MTV2_logo_2013.svg.png",
+    "stream_url": "http://198.58.104.90:8989/mtv2/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MTV2.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "48129",
+      "site_name": "MTV2 West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://mtv.com/mtv2",
+    "launched": "1996-08-01",
+    "closed": null
+  },
+  {
+    "id": "MTV.us",
+    "name": "MTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Viacom International Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "stream_url": "http://198.58.104.90:8989/mtv/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MTV.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "10986",
+      "site_name": "MTV East",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.mtv.com/",
+    "launched": "1981-08-01",
+    "closed": null
+  },
+  {
     "id": "MTVAreyoutheOne.us",
     "name": "MTV Are you the One?",
     "alt_names": [],
@@ -44518,43 +45082,6 @@
     "is_nsfw": false,
     "logo": "https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG_1764875981566.png",
     "stream_url": "https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MTVPlutoTV.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5ca672f515a62078d2ec0ad2",
-      "site_name": "MTV Pluto TV",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/mtv-pluto-tv",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "MTVPlutoTV.us",
-    "name": "MTV Pluto TV",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG_1764875981566.png",
-    "stream_url": "https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -47124,6 +47651,43 @@
     "closed": null
   },
   {
+    "id": "NESN.us",
+    "name": "NESN",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Fenway Sports Group",
+      "Delaware North"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Lv1bUG5.png",
+    "stream_url": "http://23.237.104.106:8080/USA_NESN/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NESN.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "10996",
+      "site_name": "NESN",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://nesn.com/",
+    "launched": "1984-04-04",
+    "closed": null
+  },
+  {
     "id": "NEWKMOVIES.us",
     "name": "NEW K.MOVIES",
     "alt_names": [],
@@ -48475,6 +49039,36 @@
     "closed": null
   },
   {
+    "id": "NickelodeonPlutoTV.us",
+    "name": "Nickelodeon Pluto TV",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "NickenEspanol.us",
     "name": "Nick en Espanol",
     "alt_names": [
@@ -48671,43 +49265,6 @@
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/nick-jr-pluto-tv-ptv1",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NickPlutoTV.us",
-    "name": "Nick Pluto TV",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/N7rQyzN.png",
-    "stream_url": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NickPlutoTV.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5ca673e0d0bd6c2689c94ce3",
-      "site_name": "Nickelodeon Pluto TV",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/nick-pluto-tv",
     "launched": null,
     "closed": null
   },
@@ -50739,6 +51296,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Kh4MWaY.png",
+    "stream_url": "http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "OutdoorChannel.us",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000101",
+      "site_name": "Outdoor Channel",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://www.outdoorchannelplus.com/",
+    "launched": "1994-04-01",
+    "closed": null
+  },
+  {
+    "id": "OutdoorChannel.us",
+    "name": "Outdoor Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Kroenke Sports & Entertainment"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "outdoor"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Kh4MWaY.png",
     "stream_url": "https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -51202,6 +51795,43 @@
     "closed": null
   },
   {
+    "id": "Oxygen.us",
+    "name": "Oxygen",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Oxygen Media LLC",
+      "Versant Media Group Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/960px-Oxygen_TV_%282017_Logo%29.svg.png",
+    "stream_url": "http://198.58.104.90:8989/oxygen/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Oxygen.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "21744",
+      "site_name": "Oxygen West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.oxygen.com/",
+    "launched": "2000-02-01",
+    "closed": null
+  },
+  {
     "id": "P3TV.us",
     "name": "P3TV",
     "alt_names": [],
@@ -51460,6 +52090,44 @@
     },
     "website": "https://pluto.tv/en/live-tv/paramount-movie-channel",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ParamountNetwork.us",
+    "name": "Paramount Network",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Paramount Network Broadcasting Ltd",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series",
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
+    "stream_url": "http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ParamountNetwork.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "11163",
+      "site_name": "Paramount Network East",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.paramountnetwork.com/",
+    "launched": "1983-03-07",
     "closed": null
   },
   {
@@ -53072,6 +53740,118 @@
     "closed": null
   },
   {
+    "id": "PFLMMA.us",
+    "name": "PFL MMA",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Professional Fighters League Group Ltd."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1-width200-quality90.jpeg",
+    "stream_url": "https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://pflmma.com/fast-channels",
+    "launched": "2022-11-03",
+    "closed": null
+  },
+  {
+    "id": "PFLMMA.us",
+    "name": "PFL MMA",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Professional Fighters League Group Ltd."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1-width200-quality90.jpeg",
+    "stream_url": "https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://pflmma.com/fast-channels",
+    "launched": "2022-11-03",
+    "closed": null
+  },
+  {
+    "id": "PFLMMA.us",
+    "name": "PFL MMA",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Professional Fighters League Group Ltd."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1-width200-quality90.jpeg",
+    "stream_url": "https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://pflmma.com/fast-channels",
+    "launched": "2022-11-03",
+    "closed": null
+  },
+  {
+    "id": "PFLMMA.us",
+    "name": "PFL MMA",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Professional Fighters League Group Ltd."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1-width200-quality90.jpeg",
+    "stream_url": "https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://pflmma.com/fast-channels",
+    "launched": "2022-11-03",
+    "closed": null
+  },
+  {
     "id": "PGATour.us",
     "name": "PGA Tour",
     "alt_names": [],
@@ -53588,104 +54368,32 @@
     "closed": null
   },
   {
-    "id": "PlutoTVAction.us",
-    "name": "Pluto TV Action",
+    "id": "PlutoTV80sAction.us",
+    "name": "Pluto TV 80's Action",
     "alt_names": [],
     "network": "Pluto TV",
-    "owners": [],
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
     "city": null,
     "categories": [
-      "movies"
+      "movies",
+      "series"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/tDapGal.png",
-    "stream_url": "https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8",
+    "logo": "https://images.pluto.tv/channels/66d717c6abec540008ba7eb5/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-66d717c6abec540008ba7eb5.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVAction.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "561d7d484dc7c8770484914a",
-      "site_name": "Pluto TV Action",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.pluto.tv/en/live-tv/pluto-tv-action",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVAction.us",
-    "name": "Pluto TV Action",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/tDapGal.png",
-    "stream_url": "https://jmp2.uk/plu-65004605110545000842035d.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVAction.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "561d7d484dc7c8770484914a",
-      "site_name": "Pluto TV Action",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.pluto.tv/en/live-tv/pluto-tv-action",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVAction.us",
-    "name": "Pluto TV Action",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/tDapGal.png",
-    "stream_url": "https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVAction.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "561d7d484dc7c8770484914a",
-      "site_name": "Pluto TV Action",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.pluto.tv/en/live-tv/pluto-tv-action",
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -53724,6 +54432,214 @@
     "closed": null
   },
   {
+    "id": "PlutoTVActionMovies.us",
+    "name": "Pluto TV Action Movies",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/62ea3c2e4823db00072788ed/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVAdventure.us",
+    "name": "Pluto TV Adventure",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment",
+      "series",
+      "outdoor"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/653bdb0fbdf3cf00089cc395/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-653bdb0fbdf3cf00089cc395.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVAdventure.us",
+    "name": "Pluto TV Adventure",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment",
+      "series",
+      "outdoor"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/653bdb0fbdf3cf00089cc395/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-69d7ebb726eeec84158e28cb.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVALaMexicana.us",
+    "name": "Pluto TV A La Mexicana",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVAliens.us",
+    "name": "Pluto TV Aliens",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series",
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG_1746817107468.png",
+    "stream_url": "https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVAmoryMentiras.us",
+    "name": "Pluto TV Amor y Mentiras",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/698a45156dc3c71eb1ba6599/colorLogoPNG_1771861302998.png",
+    "stream_url": "https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVAnimais.us",
+    "name": "Pluto TV Animais",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PlutoTVAnime.us",
     "name": "Pluto TV Anime",
     "alt_names": [
@@ -53740,7 +54656,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png",
     "stream_url": "https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -53776,7 +54692,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png",
     "stream_url": "https://jmp2.uk/plu-68d25b620a0f3829b116bb6f.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -53812,79 +54728,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png",
-    "stream_url": "https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVAnime.us",
-      "feed": "Germany",
-      "site": "pluto.tv",
-      "site_id": "608181d420fc8500075f612a",
-      "site_name": "Pluto TV Anime",
-      "lang": "de",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-anime-it",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVAnime.us",
-    "name": "Pluto TV Anime",
-    "alt_names": [
-      "Anime All Day"
-    ],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "animation"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png",
-    "stream_url": "https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVAnime.us",
-      "feed": "Germany",
-      "site": "pluto.tv",
-      "site_id": "608181d420fc8500075f612a",
-      "site_name": "Pluto TV Anime",
-      "lang": "de",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-anime-it",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVAnime.us",
-    "name": "Pluto TV Anime",
-    "alt_names": [
-      "Anime All Day"
-    ],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "animation"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png",
     "stream_url": "https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -53920,43 +54764,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png",
-    "stream_url": "https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVAnime.us",
-      "feed": "Germany",
-      "site": "pluto.tv",
-      "site_id": "608181d420fc8500075f612a",
-      "site_name": "Pluto TV Anime",
-      "lang": "de",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-anime-it",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVAnime.us",
-    "name": "Pluto TV Anime",
-    "alt_names": [
-      "Anime All Day"
-    ],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "animation"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png",
+    "logo": "https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png",
     "stream_url": "https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -54106,6 +54914,64 @@
     "closed": null
   },
   {
+    "id": "PlutoTVBangBang.us",
+    "name": "Pluto TV Bang Bang",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/663b9dc7cb3ea10008f1a0ce/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVCanalUOL.us",
+    "name": "Pluto TV Canal UOL",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PlutoTVCars.us",
     "name": "Pluto TV Cars",
     "alt_names": [],
@@ -54191,42 +55057,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/PXhCzXn.png",
-    "stream_url": "https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVCineAccion.us",
-      "feed": "Spain",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/es#5f1ac2591dd8880007bb7d6d",
-      "site_name": "Pluto TV Cine Acción",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-cine-accion-es",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVCineAccion.us",
-    "name": "Pluto TV Cine Accion",
-    "alt_names": [
-      "Pluto TV Cine Acción"
-    ],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/PXhCzXn.png",
     "stream_url": "https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -54242,42 +55072,6 @@
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-cine-accion-es",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVCineClasico.us",
-    "name": "Pluto TV Cine Clasico",
-    "alt_names": [
-      "Pluto TV Cine Clásico"
-    ],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/hCA5BRr.png",
-    "stream_url": "https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVCineClasico.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "64b9671cdac71b0008f371df",
-      "site_name": "Cine Clásico",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-cine-clasico-es",
     "launched": null,
     "closed": null
   },
@@ -54403,40 +55197,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/1H1MHb2.png",
-    "stream_url": "https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVCineComedia.us",
-      "feed": "Spain",
-      "site": "pluto.tv",
-      "site_id": "5f513564e4622a0007c578c0",
-      "site_name": "Cine comedia",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-cine-comedia-es",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVCineComedia.us",
-    "name": "Pluto TV Cine Comedia",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/1H1MHb2.png",
     "stream_url": "https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -54490,11 +55250,16 @@
     "closed": null
   },
   {
-    "id": "PlutoTVCineDrama.us",
-    "name": "Pluto TV Cine Drama",
-    "alt_names": [],
+    "id": "PlutoTVCineComediaRomantica.us",
+    "name": "Pluto TV Cine Comedia Romantica",
+    "alt_names": [
+      "Pluto TV Cine Comédia Romântica"
+    ],
     "network": "Pluto TV",
-    "owners": [],
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -54504,22 +55269,72 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/AQBtheU.png",
-    "stream_url": "https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8",
+    "logo": "https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVCineDrama.us",
-      "feed": "Brazil",
-      "site": "pluto.tv",
-      "site_id": "5f1210d14ae1f80007bafb1d",
-      "site_name": "Pluto TV Cine Drama",
-      "lang": "pt",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-cine-drama-es",
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVCineCrime.us",
+    "name": "Pluto TV Cine Crime",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVCineCrimen.us",
+    "name": "Pluto TV Cine Crimen",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -54539,7 +55354,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/AQBtheU.png",
-    "stream_url": "https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8",
+    "stream_url": "https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -54607,7 +55422,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/v3BO4nW.png",
-    "stream_url": "https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8",
+    "stream_url": "https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -54694,6 +55509,66 @@
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-cine-familia-ptv1",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVCineInspiracao.us",
+    "name": "Pluto TV Cine Inspiracao",
+    "alt_names": [
+      "Pluto TV Cine Inspiração"
+    ],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG_1748874366972.png",
+    "stream_url": "https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVCineInspirador.us",
+    "name": "Pluto TV Cine Inspirador",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/6806d519fea7414f33f57016/colorLogoPNG_1746817663597.png",
+    "stream_url": "https://jmp2.uk/plu-6806d519fea7414f33f57016.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -54826,6 +55701,69 @@
     "closed": null
   },
   {
+    "id": "PlutoTVClassicTVVariety.us",
+    "name": "Pluto TV Classic TV Variety",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "classic"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/68d25c623175a2780d051d3a/colorLogoPNG_1758809678864.png",
+    "stream_url": "https://jmp2.uk/plu-68d25c623175a2780d051d3a.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVComedy.us",
+    "name": "Pluto TV Comedy",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/MTVrbd5.png",
+    "stream_url": "https://jmp2.uk/plu-62e92178946c8000079a3160.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PlutoTVComedy.us",
+      "feed": "US",
+      "site": "pluto.tv",
+      "site_id": "5a4d3a00ad95e4718ae8d8db",
+      "site_name": "Pluto TV Comedy",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://pluto.tv/en/live-tv/pluto-tv-comedy",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PlutoTVComedy.us",
     "name": "Pluto TV Comedy",
     "alt_names": [],
@@ -54860,6 +55798,36 @@
     "closed": null
   },
   {
+    "id": "PlutoTVComedyMovies.us",
+    "name": "Pluto TV Comedy Movies",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy",
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PlutoTVCompetencias.us",
     "name": "Pluto TV Competencias",
     "alt_names": [],
@@ -54874,6 +55842,64 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/VNa7HX6.png",
     "stream_url": "https://jmp2.uk/plu-5dd6d935d000120009bc1132.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVCompetition.us",
+    "name": "Pluto TV Competition",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVCozinha.us",
+    "name": "Pluto TV Cozinha",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -54900,40 +55926,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/9j1njE3.png",
     "stream_url": "https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVCrimeDrama.us",
-      "feed": "SD",
-      "site": "pluto.tv",
-      "site_id": "5f31fd1b4c510e00071c3103",
-      "site_name": "Pluto TV Crime Drama",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-crime-drama",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVCrimeDrama.us",
-    "name": "Pluto TV Crime Drama",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/9j1njE3.png",
-    "stream_url": "https://jmp2.uk/plu-65a6a7a00c7ff50008cba07b.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -55035,7 +56027,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/xoaIAus.png",
-    "stream_url": "https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8",
+    "stream_url": "https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -55054,36 +56046,31 @@
     "closed": null
   },
   {
-    "id": "PlutoTVCultFilms.us",
-    "name": "Pluto TV Cult Films",
+    "id": "PlutoTVCuriosidade.us",
+    "name": "Pluto TV Curiosidade",
     "alt_names": [],
     "network": "Pluto TV",
-    "owners": [],
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
     "city": null,
     "categories": [
-      "movies"
+      "documentary"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/xoaIAus.png",
-    "stream_url": "https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8",
+    "logo": "https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG_1732044385150.png",
+    "stream_url": "https://jmp2.uk/plu-6474aadc8e3c0a0008b98493.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVCultFilms.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5c665db3e6c01b72c4977bc2",
-      "site_name": "Pluto TV Cult Films",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-cult-films",
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -55104,6 +56091,37 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/0pDy6f4.png",
     "stream_url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVDesenhosClassicos.us",
+    "name": "Pluto TV Desenhos Classicos",
+    "alt_names": [
+      "Pluto TV Desenhos Clássicos"
+    ],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "classic"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/655e5c4d2c46f3000877a54b/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -55179,7 +56197,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/PvhbHTZ.png",
-    "stream_url": "https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8",
+    "stream_url": "https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -55198,11 +56216,14 @@
     "closed": null
   },
   {
-    "id": "PlutoTVDrama.us",
-    "name": "Pluto TV Drama",
+    "id": "PlutoTVDramaMovies.us",
+    "name": "Pluto TV Drama Movies",
     "alt_names": [],
     "network": "Pluto TV",
-    "owners": [],
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -55212,22 +56233,72 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/PvhbHTZ.png",
-    "stream_url": "https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8",
+    "logo": "https://images.pluto.tv/channels/62bdb0bcd707b9000739d2e5/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-62bdb0bcd707b9000739d2e5.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVDrama.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5b4e92e4694c027be6ecece1",
-      "site_name": "Pluto TV Drama",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-drama",
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVDramasCoreanos.us",
+    "name": "Pluto TV Dramas Coreanos",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG_1765467371603.png",
+    "stream_url": "https://jmp2.uk/plu-6185a9a88b2ce30007de5128.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVDramasCoreanosTeen.us",
+    "name": "Pluto TV Dramas Coreanos Teen",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/6661d5424b10960008599fa3/colorLogoPNG_1765467438253.png",
+    "stream_url": "https://jmp2.uk/plu-6661d5424b10960008599fa3.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -55328,6 +56399,64 @@
     "closed": null
   },
   {
+    "id": "PlutoTVEsportes.us",
+    "name": "Pluto TV Esportes",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVESports.us",
+    "name": "Pluto TV E-Sports",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PlutoTVEstilodeVida.us",
     "name": "Pluto TV Estilo de Vida",
     "alt_names": [],
@@ -55416,6 +56545,35 @@
     "closed": null
   },
   {
+    "id": "PlutoTVFBI.us",
+    "name": "Pluto TV FBI",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/693adae77f21340ef9746f56/colorLogoPNG_1767879898099.png",
+    "stream_url": "https://jmp2.uk/plu-693adae77f21340ef9746f56.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PlutoTVFiccaoCientifica.us",
     "name": "Pluto TV Ficcao Cientifica",
     "alt_names": [
@@ -55452,142 +56610,6 @@
     "closed": null
   },
   {
-    "id": "PlutoTVFilm.us",
-    "name": "Pluto TV Film",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/aZverZQ.png",
-    "stream_url": "https://jmp2.uk/plu-61c09515fbb4b50007d221f5.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVFilm.us",
-      "feed": "Italy",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/it#608aa17fb9f4490007e6419a",
-      "site_name": "Pluto TV Film",
-      "lang": "it",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-film-it",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVFilm.us",
-    "name": "Pluto TV Film",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/aZverZQ.png",
-    "stream_url": "https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVFilm.us",
-      "feed": "Italy",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/it#608aa17fb9f4490007e6419a",
-      "site_name": "Pluto TV Film",
-      "lang": "it",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-film-it",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVFilm.us",
-    "name": "Pluto TV Film",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/aZverZQ.png",
-    "stream_url": "https://jmp2.uk/plu-61c1e1e55deef000075aed0c.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVFilm.us",
-      "feed": "Italy",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/it#608aa17fb9f4490007e6419a",
-      "site_name": "Pluto TV Film",
-      "lang": "it",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-film-it",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVFilm.us",
-    "name": "Pluto TV Film",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/aZverZQ.png",
-    "stream_url": "https://jmp2.uk/plu-61c0afa0a09bbe00078f8378.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVFilm.us",
-      "feed": "Italy",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/it#608aa17fb9f4490007e6419a",
-      "site_name": "Pluto TV Film",
-      "lang": "it",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-film-it",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "PlutoTVFilmesAcao.us",
     "name": "Pluto TV Filmes Acao",
     "alt_names": [
@@ -55620,6 +56642,64 @@
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-filmes-acao",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVFilmesAventura.us",
+    "name": "Pluto TV Filmes Aventura",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/66c79a4262e5510008ff68a5/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVFilmesdeLuta.us",
+    "name": "Pluto TV Filmes de Luta",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/6806d62369aec5b19cd628c0/colorLogoPNG_1746817781806.png",
+    "stream_url": "https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -55692,21 +56772,26 @@
     "closed": null
   },
   {
-    "id": "PlutoTVHistoria.us",
-    "name": "Pluto TV Historia",
+    "id": "PlutoTVGamingporUbisoft.us",
+    "name": "Pluto TV Gaming por Ubisoft",
     "alt_names": [],
     "network": "Pluto TV",
-    "owners": [],
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
     "city": null,
-    "categories": [],
+    "categories": [
+      "animation"
+    ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/sgAfqzK.png",
-    "stream_url": "https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8",
-    "stream_quality": null,
+    "logo": "https://images.pluto.tv/channels/64c815e8a1c6130008fef928/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-64c815e8a1c6130008fef928.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -55729,8 +56814,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/sgAfqzK.png",
-    "stream_url": "https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -55803,74 +56888,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/XkQD5kM.png",
-    "stream_url": "https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVHistory.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5a4d35dfa5c02e717a234f86",
-      "site_name": "Pluto TV History",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-history",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVHistory.us",
-    "name": "Pluto TV History",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/XkQD5kM.png",
-    "stream_url": "https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVHistory.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5a4d35dfa5c02e717a234f86",
-      "site_name": "Pluto TV History",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-history",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVHistory.us",
-    "name": "Pluto TV History",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/XkQD5kM.png",
     "stream_url": "https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -55886,6 +56903,35 @@
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-history",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVHometownDrama.us",
+    "name": "Pluto TV Hometown Drama",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/69d6c7befde57cd5ba0160c3/colorLogoPNG_1777488284970.png",
+    "stream_url": "https://jmp2.uk/plu-69d6c7befde57cd5ba0160c3.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -55907,251 +56953,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/k6qttca.png",
     "stream_url": "https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVHorror.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "569546031a619b8f07ce6e25",
-      "site_name": "Pluto TV Horror",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-horror",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVHorror.us",
-    "name": "Pluto TV Horror",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies",
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/k6qttca.png",
-    "stream_url": "https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVHorror.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "569546031a619b8f07ce6e25",
-      "site_name": "Pluto TV Horror",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-horror",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVHorror.us",
-    "name": "Pluto TV Horror",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies",
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/k6qttca.png",
-    "stream_url": "https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVHorror.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "569546031a619b8f07ce6e25",
-      "site_name": "Pluto TV Horror",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-horror",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVHorror.us",
-    "name": "Pluto TV Horror",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies",
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/k6qttca.png",
-    "stream_url": "https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVHorror.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "569546031a619b8f07ce6e25",
-      "site_name": "Pluto TV Horror",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-horror",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVHorror.us",
-    "name": "Pluto TV Horror",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies",
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/k6qttca.png",
-    "stream_url": "https://jmp2.uk/plu-612cda102f5f18000705e0bf.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVHorror.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "569546031a619b8f07ce6e25",
-      "site_name": "Pluto TV Horror",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-horror",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVHorror.us",
-    "name": "Pluto TV Horror",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies",
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/k6qttca.png",
-    "stream_url": "https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVHorror.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "569546031a619b8f07ce6e25",
-      "site_name": "Pluto TV Horror",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-horror",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVHorror.us",
-    "name": "Pluto TV Horror",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies",
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/k6qttca.png",
-    "stream_url": "https://jmp2.uk/plu-63a19cb7847a090007f230d7.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVHorror.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "569546031a619b8f07ce6e25",
-      "site_name": "Pluto TV Horror",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-horror",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVHorror.us",
-    "name": "Pluto TV Horror",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies",
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/k6qttca.png",
-    "stream_url": "https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -56218,7 +57019,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/F7CWMB0.png",
-    "stream_url": "https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8",
+    "stream_url": "https://jmp2.uk/plu-5e8397936791b30007ebb5a7.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -56229,20 +57030,25 @@
     "closed": null
   },
   {
-    "id": "PlutoTVHumor.us",
-    "name": "Pluto TV Humor",
+    "id": "PlutoTVIcons.us",
+    "name": "Pluto TV Icons",
     "alt_names": [],
     "network": "Pluto TV",
-    "owners": [],
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
     "city": null,
-    "categories": [],
+    "categories": [
+      "movies"
+    ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/F7CWMB0.png",
-    "stream_url": "https://jmp2.uk/plu-5e8397936791b30007ebb5a7.m3u8",
+    "logo": "https://images.pluto.tv/channels/64b585f84ea480000838e446/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -56338,8 +57144,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/7sApMZS.png",
-    "stream_url": "https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -56455,6 +57261,36 @@
     "closed": null
   },
   {
+    "id": "PlutoTVKFOOD.us",
+    "name": "Pluto TV KFOOD",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "cooking",
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PlutoTVKids.us",
     "name": "Pluto TV Kids",
     "alt_names": [],
@@ -56504,8 +57340,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/yVSLWy5.png",
-    "stream_url": "https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -56523,11 +57359,14 @@
     "closed": null
   },
   {
-    "id": "PlutoTVKids.us",
-    "name": "Pluto TV Kids",
+    "id": "PlutoTVKidsClub.us",
+    "name": "Pluto TV Kids Club",
     "alt_names": [],
     "network": "Pluto TV",
-    "owners": [],
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -56537,22 +57376,14 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/yVSLWy5.png",
-    "stream_url": "https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8",
+    "logo": "https://images.pluto.tv/channels/66c8cae7fed35b0008580ec0/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVKids.us",
-      "feed": "UK",
-      "site": "pluto.tv",
-      "site_id": "5ad8d54be738977e2c310940",
-      "site_name": "Pluto TV Kids",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-kids-gb",
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -56871,6 +57702,37 @@
     "closed": null
   },
   {
+    "id": "PlutoTVMiObsesionFavorita.us",
+    "name": "Pluto TV Mi Obsesion Favorita",
+    "alt_names": [
+      "Pluto TV Mi Obsesión Favorita"
+    ],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-6109ab25b84d6a0007504886.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PlutoTVMisterios.us",
     "name": "Pluto TV Misterios",
     "alt_names": [
@@ -56965,142 +57827,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVMotor.us",
-    "name": "Pluto TV Motor",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "auto"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/LSrfnpB.png",
-    "stream_url": "https://jmp2.uk/plu-68ac51dede4a734954b5a67a.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVMotor.us",
-      "feed": "Spain",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/es#6080345ebb49b90007ce0baf",
-      "site_name": "Pluto TV Motor",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-motor-gb",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVMotor.us",
-    "name": "Pluto TV Motor",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "auto"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/LSrfnpB.png",
-    "stream_url": "https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVMotor.us",
-      "feed": "Spain",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/es#6080345ebb49b90007ce0baf",
-      "site_name": "Pluto TV Motor",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-motor-gb",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVMotor.us",
-    "name": "Pluto TV Motor",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "auto"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/LSrfnpB.png",
-    "stream_url": "https://jmp2.uk/plu-68ac52b05190a45dc990ee39.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVMotor.us",
-      "feed": "Spain",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/es#6080345ebb49b90007ce0baf",
-      "site_name": "Pluto TV Motor",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-motor-gb",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVMotor.us",
-    "name": "Pluto TV Motor",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "auto"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/LSrfnpB.png",
-    "stream_url": "https://jmp2.uk/plu-68ac52fac9b5923e0585578b.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVMotor.us",
-      "feed": "Spain",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/es#6080345ebb49b90007ce0baf",
-      "site_name": "Pluto TV Motor",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-motor-gb",
     "launched": null,
     "closed": null
   },
@@ -57267,6 +57993,66 @@
     "closed": null
   },
   {
+    "id": "PlutoTVNegocioFechado.us",
+    "name": "Pluto TV Negocio Fechado",
+    "alt_names": [
+      "Pluto TV Negócio Fechado"
+    ],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/64ad7394798def00087b2bfe/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVNetmovies.us",
+    "name": "Pluto TV Netmovies",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/663b9de4f999220008230fa8/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PlutoTVNovelas.us",
     "name": "Pluto TV Novelas",
     "alt_names": [],
@@ -57369,6 +58155,124 @@
     "closed": null
   },
   {
+    "id": "PlutoTVNovelasdeMexico.us",
+    "name": "Pluto TV Novelas de Mexico",
+    "alt_names": [
+      "Pluto TV Novelas de México"
+    ],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG_1765475296297.png",
+    "stream_url": "https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVNovelasdeOtrosContinentes.us",
+    "name": "Pluto TV Novelas de Otros Continentes",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG_1765466599084.png",
+    "stream_url": "https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVNovelasdeVenezuela.us",
+    "name": "Pluto TV Novelas de Venezuela",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG_1765471713312.png",
+    "stream_url": "https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVNuestroCine.us",
+    "name": "Pluto TV Nuestro Cine",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PlutoTVPaisagensporStingray.us",
     "name": "Pluto TV Paisagens por Stingray",
     "alt_names": [],
@@ -57418,245 +58322,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ApN6nfw.png",
-    "stream_url": "https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVParanormal.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5adf96e3e738977e2c31cb04",
-      "site_name": "Pluto TV Paranormal",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-paranormal",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVParanormal.us",
-    "name": "Pluto TV Paranormal",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ApN6nfw.png",
-    "stream_url": "https://jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVParanormal.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5adf96e3e738977e2c31cb04",
-      "site_name": "Pluto TV Paranormal",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-paranormal",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVParanormal.us",
-    "name": "Pluto TV Paranormal",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ApN6nfw.png",
     "stream_url": "https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVParanormal.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5adf96e3e738977e2c31cb04",
-      "site_name": "Pluto TV Paranormal",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-paranormal",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVParanormal.us",
-    "name": "Pluto TV Paranormal",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ApN6nfw.png",
-    "stream_url": "https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVParanormal.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5adf96e3e738977e2c31cb04",
-      "site_name": "Pluto TV Paranormal",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-paranormal",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVParanormal.us",
-    "name": "Pluto TV Paranormal",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ApN6nfw.png",
-    "stream_url": "https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVParanormal.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5adf96e3e738977e2c31cb04",
-      "site_name": "Pluto TV Paranormal",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-paranormal",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVParanormal.us",
-    "name": "Pluto TV Paranormal",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ApN6nfw.png",
-    "stream_url": "https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVParanormal.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5adf96e3e738977e2c31cb04",
-      "site_name": "Pluto TV Paranormal",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-paranormal",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVParanormal.us",
-    "name": "Pluto TV Paranormal",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ApN6nfw.png",
-    "stream_url": "https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVParanormal.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5adf96e3e738977e2c31cb04",
-      "site_name": "Pluto TV Paranormal",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-paranormal",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVParanormal.us",
-    "name": "Pluto TV Paranormal",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ApN6nfw.png",
-    "stream_url": "https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -57918,6 +58584,35 @@
     "closed": null
   },
   {
+    "id": "PlutoTVPolicial.us",
+    "name": "Pluto TV Policial",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/678fdf9e3de7c8cf948e8824/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PlutoTVReaction.us",
     "name": "Pluto TV Reaction",
     "alt_names": [],
@@ -57967,109 +58662,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/OvN7FCv.png",
-    "stream_url": "https://jmp2.uk/plu-5bd8186d53ed2c6334ea0855.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVReality.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5d8bf0b06d2d855ee15115e3",
-      "site_name": "Pluto TV Reality",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-reality",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVReality.us",
-    "name": "Pluto TV Reality",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/OvN7FCv.png",
     "stream_url": "https://jmp2.uk/plu-67922858b83355184c699699.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVReality.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5d8bf0b06d2d855ee15115e3",
-      "site_name": "Pluto TV Reality",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-reality",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVReality.us",
-    "name": "Pluto TV Reality",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/OvN7FCv.png",
-    "stream_url": "https://jmp2.uk/plu-67ebc1b6432a0e406f141341.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVReality.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5d8bf0b06d2d855ee15115e3",
-      "site_name": "Pluto TV Reality",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-reality",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVReality.us",
-    "name": "Pluto TV Reality",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/OvN7FCv.png",
-    "stream_url": "https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -58156,6 +58749,35 @@
     "closed": null
   },
   {
+    "id": "PlutoTVRecordNews.us",
+    "name": "Pluto TV Record News",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PlutoTVRetro.us",
     "name": "Pluto TV Retro",
     "alt_names": [
@@ -58188,6 +58810,123 @@
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-retro-2",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVRetroActionMovies.us",
+    "name": "Pluto TV Retro Action Movies",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "classic",
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/69a9ae4d3bd16a4ed04240d7/colorLogoPNG_1774879695281.png",
+    "stream_url": "https://jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVRetroCrimeAction.us",
+    "name": "Pluto TV Retro Crime Action",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "classic"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/69aee8a1acb7eb0bb68df641/colorLogoPNG_1774899454178.png",
+    "stream_url": "https://jmp2.uk/plu-69aee8a1acb7eb0bb68df641.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVRetroCrimeDrama.us",
+    "name": "Pluto TV Retro Crime Drama",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "classic"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/630f1e6073bd1800082107f0/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-630f1e6073bd1800082107f0.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVRetroKid.us",
+    "name": "Pluto TV Retro Kid",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -58304,76 +59043,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/uhunRoU.png",
-    "stream_url": "https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVScience.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "563a970aa1a1f7fe7c9daad7",
-      "site_name": "Pluto TV Science",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-science",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVScience.us",
-    "name": "Pluto TV Science",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "science",
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/uhunRoU.png",
-    "stream_url": "https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVScience.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "563a970aa1a1f7fe7c9daad7",
-      "site_name": "Pluto TV Science",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-science",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVScience.us",
-    "name": "Pluto TV Science",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "science",
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/uhunRoU.png",
     "stream_url": "https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -58444,252 +59113,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/vSzd5m7.png",
-    "stream_url": "https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVSciFi.us",
-      "feed": "Italy",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/it#61728bb9ee3773000840c1fa",
-      "site_name": "Pluto TV Sci-Fi",
-      "lang": "it",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-sci-fi",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVSciFi.us",
-    "name": "Pluto TV Sci-Fi",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series",
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/vSzd5m7.png",
-    "stream_url": "https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVSciFi.us",
-      "feed": "Italy",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/it#61728bb9ee3773000840c1fa",
-      "site_name": "Pluto TV Sci-Fi",
-      "lang": "it",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-sci-fi",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVSciFi.us",
-    "name": "Pluto TV Sci-Fi",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series",
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/vSzd5m7.png",
-    "stream_url": "https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVSciFi.us",
-      "feed": "Italy",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/it#61728bb9ee3773000840c1fa",
-      "site_name": "Pluto TV Sci-Fi",
-      "lang": "it",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-sci-fi",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVSciFi.us",
-    "name": "Pluto TV Sci-Fi",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series",
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/vSzd5m7.png",
-    "stream_url": "https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVSciFi.us",
-      "feed": "Italy",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/it#61728bb9ee3773000840c1fa",
-      "site_name": "Pluto TV Sci-Fi",
-      "lang": "it",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-sci-fi",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVSciFi.us",
-    "name": "Pluto TV Sci-Fi",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series",
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/vSzd5m7.png",
     "stream_url": "https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVSciFi.us",
-      "feed": "Italy",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/it#61728bb9ee3773000840c1fa",
-      "site_name": "Pluto TV Sci-Fi",
-      "lang": "it",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-sci-fi",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVSciFi.us",
-    "name": "Pluto TV Sci-Fi",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series",
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/vSzd5m7.png",
-    "stream_url": "https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVSciFi.us",
-      "feed": "Italy",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/it#61728bb9ee3773000840c1fa",
-      "site_name": "Pluto TV Sci-Fi",
-      "lang": "it",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-sci-fi",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVSciFi.us",
-    "name": "Pluto TV Sci-Fi",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series",
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/vSzd5m7.png",
-    "stream_url": "https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVSciFi.us",
-      "feed": "Italy",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/it#61728bb9ee3773000840c1fa",
-      "site_name": "Pluto TV Sci-Fi",
-      "lang": "it",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-sci-fi",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVSciFi.us",
-    "name": "Pluto TV Sci-Fi",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series",
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/vSzd5m7.png",
-    "stream_url": "https://jmp2.uk/plu-5dc02a44a9518600094273ac.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -58758,7 +59182,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/7ouD3E6.png",
-    "stream_url": "https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8",
+    "stream_url": "https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -58777,11 +59201,16 @@
     "closed": null
   },
   {
-    "id": "PlutoTVSeries.us",
-    "name": "Pluto TV Series",
-    "alt_names": [],
+    "id": "PlutoTVSeriesAcao.us",
+    "name": "Pluto TV Series Acao",
+    "alt_names": [
+      "Pluto TV Séries Ação"
+    ],
     "network": "Pluto TV",
-    "owners": [],
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -58791,22 +59220,14 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/7ouD3E6.png",
-    "stream_url": "https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8",
+    "logo": "https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVSeries.us",
-      "feed": "France",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/fr#5f8ed2d1c34c2300073bf02c",
-      "site_name": "Series by Pluto TV",
-      "lang": "fr",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-series-gb",
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -58828,6 +59249,244 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/INcTSkj.png",
     "stream_url": "https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVSeriesCriminais.us",
+    "name": "Pluto TV Series Criminais",
+    "alt_names": [
+      "Pluto TV Séries Criminais"
+    ],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVSeriesdeAccion.us",
+    "name": "Pluto TV Series de Accion",
+    "alt_names": [
+      "Pluto TV Series de Acción"
+    ],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/6479ff1c17f5e10008ad2797/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVSeriesdeComedia.us",
+    "name": "Pluto TV Series de Comedia",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/655f626d57fe4a00085c7c3e/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-655f626d57fe4a00085c7c3e.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVSeriesdeCrimen.us",
+    "name": "Pluto TV Series de Crimen",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/655f62ff954b020008c91ec6/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-655f62ff954b020008c91ec6.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVSeriesdeDrama.us",
+    "name": "Pluto TV Series de Drama",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/655f636d954b020008c93299/colorLogoPNG_1765466171343.png",
+    "stream_url": "https://jmp2.uk/plu-655f636d954b020008c93299.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVSeriesdeOtrosContinentes.us",
+    "name": "Pluto TV Series de Otros Continentes",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/6806d570c178637410ae4962/colorLogoPNG_1765466496602.png",
+    "stream_url": "https://jmp2.uk/plu-6806d570c178637410ae4962.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVSeriesdeSciFi.us",
+    "name": "Pluto TV Series de Sci-Fi",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/65662f8a2c46f300088a84cc/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVSeriesDrama.us",
+    "name": "Pluto TV Series Drama",
+    "alt_names": [
+      "Pluto TV Séries Drama"
+    ],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -58864,6 +59523,37 @@
     "closed": null
   },
   {
+    "id": "PlutoTVSeriesNovelescas.us",
+    "name": "Pluto TV Series Novelescas",
+    "alt_names": [
+      "Pluto TV Séries Novelescas"
+    ],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/691627e4a29a6123e400b3e0/colorLogoPNG_1764878235665.png",
+    "stream_url": "https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PlutoTVSeriesRetro.us",
     "name": "Pluto TV Series Retro",
     "alt_names": [],
@@ -58880,6 +59570,37 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/UpgGZJ1.png",
     "stream_url": "https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVSeriesSciFi.us",
+    "name": "Pluto TV Series Sci-Fi",
+    "alt_names": [
+      "Pluto TV Séries Sci-Fi"
+    ],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -58924,240 +59645,31 @@
     "closed": null
   },
   {
-    "id": "PlutoTVSpace.us",
-    "name": "Pluto TV Space",
+    "id": "PlutoTVSnooker900.us",
+    "name": "Pluto TV Snooker 900",
     "alt_names": [],
     "network": "Pluto TV",
-    "owners": [],
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
     "city": null,
     "categories": [
-      "science"
+      "sports"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/hQwS3ui.png",
-    "stream_url": "https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8",
+    "logo": "https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png",
+    "stream_url": "https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVSpace.us",
-      "feed": "UK",
-      "site": "pluto.tv",
-      "site_id": "5dbc2f98777f2e0009934ae7",
-      "site_name": "Pluto TV Space",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVSpace.us",
-    "name": "Pluto TV Space",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "science"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/hQwS3ui.png",
-    "stream_url": "https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVSpace.us",
-      "feed": "UK",
-      "site": "pluto.tv",
-      "site_id": "5dbc2f98777f2e0009934ae7",
-      "site_name": "Pluto TV Space",
-      "lang": "en",
-      "sources": []
-    },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVSpace.us",
-    "name": "Pluto TV Space",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "science"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/hQwS3ui.png",
-    "stream_url": "https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVSpace.us",
-      "feed": "UK",
-      "site": "pluto.tv",
-      "site_id": "5dbc2f98777f2e0009934ae7",
-      "site_name": "Pluto TV Space",
-      "lang": "en",
-      "sources": []
-    },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVSport.us",
-    "name": "Pluto TV Sport",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/y22ElOr.png",
-    "stream_url": "https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVSport.us",
-      "feed": "Italy",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/it#608030eff4b6f70007e1684c",
-      "site_name": "Pluto TV Sport",
-      "lang": "it",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-sport-it",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVSport.us",
-    "name": "Pluto TV Sport",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/y22ElOr.png",
-    "stream_url": "https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVSport.us",
-      "feed": "Italy",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/it#608030eff4b6f70007e1684c",
-      "site_name": "Pluto TV Sport",
-      "lang": "it",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-sport-it",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVSport.us",
-    "name": "Pluto TV Sport",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/y22ElOr.png",
-    "stream_url": "https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVSport.us",
-      "feed": "Italy",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/it#608030eff4b6f70007e1684c",
-      "site_name": "Pluto TV Sport",
-      "lang": "it",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-sport-it",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVSport.us",
-    "name": "Pluto TV Sport",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/y22ElOr.png",
-    "stream_url": "https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVSport.us",
-      "feed": "Italy",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/it#608030eff4b6f70007e1684c",
-      "site_name": "Pluto TV Sport",
-      "lang": "it",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-sport-it",
     "launched": null,
     "closed": null
   },
@@ -59286,6 +59798,35 @@
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-terror",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVTerrorTrash.us",
+    "name": "Pluto TV Terror Trash",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/66aa67493a4ad2000806d91b/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -59445,74 +59986,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ULKvDN7.png",
-    "stream_url": "https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVThrillers.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5b4e69e08291147bd04a9fd7",
-      "site_name": "Pluto TV Thrillers",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-thrillers",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVThrillers.us",
-    "name": "Pluto TV Thrillers",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ULKvDN7.png",
-    "stream_url": "https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVThrillers.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5b4e69e08291147bd04a9fd7",
-      "site_name": "Pluto TV Thrillers",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-thrillers",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVThrillers.us",
-    "name": "Pluto TV Thrillers",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ULKvDN7.png",
     "stream_url": "https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -59532,37 +60005,31 @@
     "closed": null
   },
   {
-    "id": "PlutoTVTrueCrime.us",
-    "name": "Pluto TV True Crime",
+    "id": "PlutoTVTrendingNow.us",
+    "name": "Pluto TV Trending Now",
     "alt_names": [],
     "network": "Pluto TV",
-    "owners": [],
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
     "city": null,
     "categories": [
-      "series",
-      "documentary"
+      "movies"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/lNfaxiv.png",
-    "stream_url": "https://jmp2.uk/plu-615333098185f00008715a56.m3u8",
+    "logo": "https://images.pluto.tv/channels/673247127d5da5000817b4d6/colorLogoPNG_1732662634386.png",
+    "stream_url": "https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVTrueCrime.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5812be1c249444e05d09cc50",
-      "site_name": "Pluto TV True Crime",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-true-crime",
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -59618,181 +60085,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/lNfaxiv.png",
-    "stream_url": "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVTrueCrime.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5812be1c249444e05d09cc50",
-      "site_name": "Pluto TV True Crime",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-true-crime",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVTrueCrime.us",
-    "name": "Pluto TV True Crime",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series",
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/lNfaxiv.png",
-    "stream_url": "https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVTrueCrime.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5812be1c249444e05d09cc50",
-      "site_name": "Pluto TV True Crime",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-true-crime",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVTrueCrime.us",
-    "name": "Pluto TV True Crime",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series",
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/lNfaxiv.png",
-    "stream_url": "https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVTrueCrime.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5812be1c249444e05d09cc50",
-      "site_name": "Pluto TV True Crime",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-true-crime",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVTrueCrime.us",
-    "name": "Pluto TV True Crime",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series",
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/lNfaxiv.png",
-    "stream_url": "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVTrueCrime.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5812be1c249444e05d09cc50",
-      "site_name": "Pluto TV True Crime",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-true-crime",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVTrueCrime.us",
-    "name": "Pluto TV True Crime",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series",
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/lNfaxiv.png",
-    "stream_url": "https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVTrueCrime.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5812be1c249444e05d09cc50",
-      "site_name": "Pluto TV True Crime",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-true-crime",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVTrueCrime.us",
-    "name": "Pluto TV True Crime",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series",
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/lNfaxiv.png",
     "stream_url": "https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -59812,6 +60104,36 @@
     "closed": null
   },
   {
+    "id": "PlutoTVTurbo.us",
+    "name": "Pluto TV Turbo",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "auto",
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PlutoTVVelocidad.us",
     "name": "Pluto TV Velocidad",
     "alt_names": [],
@@ -59826,6 +60148,35 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/4HNGHEf.png",
     "stream_url": "https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlutoTVViagens.us",
+    "name": "Pluto TV Viagens",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG_1769016717502.png",
+    "stream_url": "https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -59900,40 +60251,6 @@
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-vida-real-ptv1",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PlutoTVWesterns.us",
-    "name": "Pluto TV Westerns",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/biepi4A.png",
-    "stream_url": "https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVWesterns.us",
-      "feed": "US",
-      "site": "pluto.tv",
-      "site_id": "5b4e94282d4ec87bdcbb87cd",
-      "site_name": "Pluto TV Westerns",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/pluto-tv-westerns-ptv1",
     "launched": null,
     "closed": null
   },
@@ -62020,6 +62337,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png",
+    "stream_url": "http://23.237.104.106:8080/USA_REELZ/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Reelz.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "52199",
+      "site_name": "Reelz",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.reelz.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Reelz.us",
+    "name": "Reelz",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Hubbard Broadcasting"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png",
     "stream_url": "https://d3serb1fmh623s.cloudfront.net/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -62249,6 +62602,38 @@
       "sources": []
     },
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Revolt.us",
+    "name": "Revolt",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/eaYnGpH.png",
+    "stream_url": "http://23.237.104.106:8080/USA_REVOLT/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Revolt.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "83097",
+      "site_name": "Revolt",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://revolt.tv/",
     "launched": null,
     "closed": null
   },
@@ -63738,40 +64123,6 @@
     "closed": null
   },
   {
-    "id": "Scherzierisate.us",
-    "name": "Scherzi e risate",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "comedy"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/jVWPVvJ.png",
-    "stream_url": "https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Scherzierisate.us",
-      "feed": "Italy",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/it#609404b0a8ec810007d8de9d",
-      "site_name": "Pluto TV Scherzi e risate",
-      "lang": "it",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/scherzi-e-risate-it",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "SchwabNetwork.us",
     "name": "Schwab Network",
     "alt_names": [],
@@ -64959,13 +65310,12 @@
     "closed": null
   },
   {
-    "id": "SmithsonianChannelSelects.us",
-    "name": "Smithsonian Channel Selects",
+    "id": "SmithsonianChannelPlutoTV.us",
+    "name": "Smithsonian Channel Pluto TV",
     "alt_names": [],
     "network": "Pluto TV",
     "owners": [
-      "SNI/SI Networks L.L.C.",
-      "Smithsonian Institution",
+      "Pluto Inc.",
       "Paramount Skydance Corporation"
     ],
     "country_code": "US",
@@ -64973,26 +65323,47 @@
     "subdivision": null,
     "city": null,
     "categories": [
-      "science"
+      "documentary"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Kt5j8Vr.png",
+    "logo": "https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png",
     "stream_url": "https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "SmithsonianChannelSelects.us",
-      "feed": "SD",
-      "site": "pluto.tv",
-      "site_id": "5f21ea08007a49000762d349",
-      "site_name": "Smithsonian Channel Selects",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/smithsonian-channel-selects",
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SmithsonianChannelPlutoTV.us",
+    "name": "Smithsonian Channel Pluto TV",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [
+      "Pluto Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png",
+    "stream_url": "https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -66062,6 +66433,41 @@
     "closed": null
   },
   {
+    "id": "StarChannelLatinAmerica.us",
+    "name": "Star Channel Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "stream_url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarChannelLatinAmerica.us",
+      "feed": "South",
+      "site": "mi.tv",
+      "site_id": "ar#fox",
+      "site_name": "Star Channel",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.star-latam.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "StarTrek.us",
     "name": "Star Trek",
     "alt_names": [],
@@ -66078,74 +66484,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/8cvXYiT.png",
     "stream_url": "https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarTrek.us",
-      "feed": "SD",
-      "site": "pluto.tv",
-      "site_id": "5efbd39f8c4ce900075d7698",
-      "site_name": "Star Trek",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/star-trek-1",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "StarTrek.us",
-    "name": "Star Trek",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/8cvXYiT.png",
-    "stream_url": "https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarTrek.us",
-      "feed": "SD",
-      "site": "pluto.tv",
-      "site_id": "5efbd39f8c4ce900075d7698",
-      "site_name": "Star Trek",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://pluto.tv/en/live-tv/star-trek-1",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "StarTrek.us",
-    "name": "Star Trek",
-    "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/8cvXYiT.png",
-    "stream_url": "https://jmp2.uk/plu-61c1979dfa307000070bbe4d.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -67886,30 +68224,6 @@
     "closed": null
   },
   {
-    "id": "TBNUkraine.us",
-    "name": "TBN Ukraine",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/PhbrGyM.png",
-    "stream_url": "http://62.32.67.187:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://tbn-ua.org/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TCT.us",
     "name": "TCT",
     "alt_names": [],
@@ -68243,6 +68557,44 @@
     "logo": "https://i.imgur.com/j2O4ndp.png",
     "stream_url": "http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TelemundoInternacional.us",
+      "feed": "CentralAmerica",
+      "site": "siba.com.co",
+      "site_id": "697",
+      "site_name": "TELEMUNDO",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.telemundo.com/telemundo-internacional/telemundo-internacional",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TelemundoInternacional.us",
+    "name": "Telemundo Internacional",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NBCUniversal Telemundo Enterprises",
+      "NBCUniversal",
+      "Comcast Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/j2O4ndp.png",
+    "stream_url": "http://138.121.15.230:9002/TELEMUNDO/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -72184,6 +72536,35 @@
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/threes-company",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TimelessTV.us",
+    "name": "Timeless TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Cannella Media DTC"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "classic",
+      "shop"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/bjcpeVH.png",
+    "stream_url": "https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -77267,6 +77648,43 @@
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/vevo-true-school-hip-hop",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VH1.us",
+    "name": "VH1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Viacom International Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png",
+    "stream_url": "http://rezofoot.tv/VH1/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "VH1.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "16376",
+      "site_name": "VH1 West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.vh1.com/",
     "launched": null,
     "closed": null
   },

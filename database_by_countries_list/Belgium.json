@@ -36,6 +36,42 @@
     "closed": null
   },
   {
+    "id": "ACTV.be",
+    "name": "ACTV",
+    "alt_names": [
+      "Antenne Centre Télévision"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "BE",
+    "country_name": "Belgium",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://files.catbox.moe/8v2y8m.png",
+    "stream_url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8",
+    "stream_quality": "504p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ACTV.be",
+      "feed": "SD",
+      "site": "tv-programme.telecablesat.fr",
+      "site_id": "388",
+      "site_name": "ACTV",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.antennecentre.tv/",
+    "launched": "1982-12-18",
+    "closed": null
+  },
+  {
     "id": "ATV.be",
     "name": "ATV",
     "alt_names": [
@@ -170,6 +206,40 @@
     "closed": null
   },
   {
+    "id": "Bouke.be",
+    "name": "Bouke",
+    "alt_names": [
+      "Boukè"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "BE",
+    "country_name": "Belgium",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/STLavel.png",
+    "stream_url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8",
+    "stream_quality": "504p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Bouke.be",
+      "feed": "SD",
+      "site": "tv-programme.telecablesat.fr",
+      "site_id": "389",
+      "site_name": "Canal C",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Bruzz.be",
     "name": "Bruzz",
     "alt_names": [],
@@ -217,6 +287,38 @@
     "logo": "https://i.imgur.com/0OkSa6c.png",
     "stream_url": "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BX1.be",
+      "feed": "SD",
+      "site": "tv-programme.telecablesat.fr",
+      "site_id": "382",
+      "site_name": "BX1",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BX1.be",
+    "name": "BX1",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BE",
+    "country_name": "Belgium",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/0OkSa6c.png",
+    "stream_url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8",
+    "stream_quality": "504p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -301,6 +403,60 @@
     },
     "website": "https://www.canalzoom.be/",
     "launched": "1976-05-22",
+    "closed": null
+  },
+  {
+    "id": "EbS.be",
+    "name": "EbS",
+    "alt_names": [],
+    "network": "Europe by Satellite",
+    "owners": [
+      "European Union"
+    ],
+    "country_code": "BE",
+    "country_name": "Belgium",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "legislative"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/DIIRPNN.png",
+    "stream_url": "https://streams.prd.commavservices.eu/live/ebs/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://audiovisual.ec.europa.eu/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "EbSPlus.be",
+    "name": "EbS+",
+    "alt_names": [],
+    "network": "Europe by Satellite",
+    "owners": [],
+    "country_code": "BE",
+    "country_name": "Belgium",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "legislative"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/7V012zQ.png",
+    "stream_url": "https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://audiovisual.ec.europa.eu/",
+    "launched": null,
     "closed": null
   },
   {
@@ -1157,6 +1313,74 @@
     "closed": null
   },
   {
+    "id": "TeleMB.be",
+    "name": "Tele MB",
+    "alt_names": [
+      "Télé MB"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "BE",
+    "country_name": "Belgium",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/XAggjM4.png",
+    "stream_url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/d14f1e64/index.m3u8",
+    "stream_quality": "504p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TeleMB.be",
+      "feed": "SD",
+      "site": "tv-programme.telecablesat.fr",
+      "site_id": "387",
+      "site_name": "Télé MB",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.telemb.be/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Telesambre.be",
+    "name": "Telesambre",
+    "alt_names": [
+      "Télésambre"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "BE",
+    "country_name": "Belgium",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TuIAkA3.png",
+    "stream_url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8",
+    "stream_quality": "504p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Telesambre.be",
+      "feed": "SD",
+      "site": "tv-programme.telecablesat.fr",
+      "site_id": "383",
+      "site_name": "Télé Sambre",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.telesambre.be/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Tipik.be",
     "name": "Tipik",
     "alt_names": [
@@ -1233,6 +1457,38 @@
     "logo": "https://i.imgur.com/ljbdWkC.png",
     "stream_url": "https://tvlocales-live.freecaster.com/tvlux/95d2f632-0780-4ac1-9895-9e50212dd3b6/95d2f632-0780-4ac1-9895-9e50212dd3b6.isml/master.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVLux.be",
+      "feed": "SD",
+      "site": "tv.post.lu",
+      "site_id": "bdd3df00-1411-11ea-934c-4323fc36d546",
+      "site_name": "TVLux",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.tvlux.be/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVLux.be",
+    "name": "TV Lux",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BE",
+    "country_name": "Belgium",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ljbdWkC.png",
+    "stream_url": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8",
+    "stream_quality": "504p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

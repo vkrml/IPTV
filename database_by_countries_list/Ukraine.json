@@ -19,8 +19,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/LOY0rtp.png",
-    "stream_url": "http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8",
-    "stream_quality": "576p",
+    "stream_url": "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -57,8 +57,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/LOY0rtp.png",
-    "stream_url": "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8",
-    "stream_quality": null,
+    "stream_url": "http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1017,6 +1017,43 @@
     "closed": null
   },
   {
+    "id": "FilmUADrama.ua",
+    "name": "FilmUADrama",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "FilmUA Group"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Hnwsh5d.png",
+    "stream_url": "http://88.99.215.227/FilmUADrama/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FilmUADrama.ua",
+      "feed": "SD",
+      "site": "cgates.lt",
+      "site_id": "film-ua-drama",
+      "site_name": "Film UA Drama",
+      "lang": "uk",
+      "sources": []
+    },
+    "website": "https://drama.film.ua/",
+    "launched": "2015-10-01",
+    "closed": null
+  },
+  {
     "id": "FirstBusiness.ua",
     "name": "First Business",
     "alt_names": [
@@ -1848,6 +1885,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NationalGeographicWild.ua",
+    "name": "National Geographic Wild",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "National Geographic Society"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "stream_url": "http://46.32.176.50/natgeowild/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://natgeotv.com/ua/wild",
     "launched": null,
     "closed": null
   },

@@ -1667,42 +1667,6 @@
     "closed": null
   },
   {
-    "id": "ABCNewsLive.us",
-    "name": "ABC News Live",
-    "alt_names": [],
-    "network": "ABC",
-    "owners": [
-      "The Walt Disney Company"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
-    "stream_url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ABCNewsLive.us",
-      "feed": "SD",
-      "site": "xumo.tv",
-      "site_id": "0#99951517",
-      "site_name": "ABC News Live",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://abcnews.go.com/Live",
-    "launched": "2018-03-01",
-    "closed": null
-  },
-  {
     "id": "ABNAfghanistan.us",
     "name": "ABN Afghanistan",
     "alt_names": [
@@ -3858,6 +3822,42 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
     "stream_url": "http://23.239.31.26:8989/amc/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AMC.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "31556",
+      "site_name": "AMC West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.amc.com/",
+    "launched": "1984-10-01",
+    "closed": null
+  },
+  {
+    "id": "AMC.us",
+    "name": "AMC",
+    "alt_names": [],
+    "network": "AMC",
+    "owners": [
+      "AMC Networks Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+    "stream_url": "http://84.17.50.102/amc/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -7878,6 +7878,42 @@
     "closed": null
   },
   {
+    "id": "beINSportsUSA.us",
+    "name": "beIN Sports USA",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "beIN Media Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg",
+    "stream_url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "beINSportsUSA.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "76942",
+      "site_name": "BeIn Sports USA",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.beinsports.com/us/",
+    "launched": "2012-08-16",
+    "closed": null
+  },
+  {
     "id": "beINSPORTSXTRA.us",
     "name": "beIN SPORTS XTRA",
     "alt_names": [],
@@ -11077,6 +11113,42 @@
       "sources": []
     },
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Bravo.us",
+    "name": "Bravo",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Bravo Media LLC.",
+      "NBCUniversal",
+      "Comcast Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/JmTIRLF.png",
+    "stream_url": "http://41.205.93.154/BRAVO/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Bravo.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "31555",
+      "site_name": "Bravo West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.bravotv.com/",
     "launched": null,
     "closed": null
   },
@@ -21953,6 +22025,46 @@
     "closed": null
   },
   {
+    "id": "E.us",
+    "name": "E!",
+    "alt_names": [
+      "Entertainment",
+      "Movietime"
+    ],
+    "network": null,
+    "owners": [
+      "E! Entertainment Television LLC",
+      "Versant Media Group Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TWFDkap.png",
+    "stream_url": "http://23.237.104.106:8080/USA_E/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "E.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "91579",
+      "site_name": "E! West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.eonline.com/",
+    "launched": "1987-07-31",
+    "closed": null
+  },
+  {
     "id": "EbonyTVbyLionsgate.us",
     "name": "Ebony TV by Lionsgate",
     "alt_names": [
@@ -26212,6 +26324,42 @@
     "closed": null
   },
   {
+    "id": "Fox.us",
+    "name": "Fox",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Fox Entertainment"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+    "stream_url": "http://84.17.50.102/fox/index.m3u8",
+    "stream_quality": "540p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Fox.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "10212",
+      "site_name": "Fox East",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.fox.com/",
+    "launched": "1986-10-09",
+    "closed": null
+  },
+  {
     "id": "FoxDeportes.us",
     "name": "Fox Deportes",
     "alt_names": [],
@@ -27255,6 +27403,43 @@
     },
     "website": "https://www.fuse.tv/",
     "launched": "1994-07-01",
+    "closed": null
+  },
+  {
+    "id": "FX.us",
+    "name": "FX",
+    "alt_names": [],
+    "network": "FX Channels",
+    "owners": [
+      "FX Networks LLC",
+      "The Walt Disney Company"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ZScwrpi.png",
+    "stream_url": "http://23.237.104.106:8080/USA_FX/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FX.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "14753",
+      "site_name": "FX West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.fxnetworks.com/",
+    "launched": null,
     "closed": null
   },
   {
@@ -45026,6 +45211,42 @@
     "closed": null
   },
   {
+    "id": "MTVLive.us",
+    "name": "MTV Live",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "MTV Entertainment Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/3UByLqb.png",
+    "stream_url": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MTVLive.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "49141",
+      "site_name": "MTV Live",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.mtv.com/live",
+    "launched": "2006-01-16",
+    "closed": null
+  },
+  {
     "id": "MTVOriginals.us",
     "name": "MTV Originals",
     "alt_names": [],
@@ -46826,6 +47047,80 @@
     "tv_guide": null,
     "website": "https://videoplayer.telvue.com/player/994DtmGEsi0VDYK3jJI2BJ72GfgNIpU2/categories/1296/stream/439",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NationalGeographic.us",
+    "name": "National Geographic",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "National Geographic Partners LLC.",
+      "The Walt Disney Company"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "stream_url": "http://198.58.104.90:8989/natgeo/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalGeographic.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "71601",
+      "site_name": "National Geographic West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://channel.nationalgeographic.com/",
+    "launched": "2001-01-07",
+    "closed": null
+  },
+  {
+    "id": "NationalGeographicWild.us",
+    "name": "National Geographic Wild",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "National Geographic Partners LLC.",
+      "The Walt Disney Company"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "stream_url": "http://198.58.104.90:8989/natgeowild/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalGeographicWild.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "56425",
+      "site_name": "National Geographic Wild East",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://channel.nationalgeographic.com/wild/",
+    "launched": "2010-03-29",
     "closed": null
   },
   {
@@ -65118,6 +65413,43 @@
     "closed": null
   },
   {
+    "id": "ShowtimeFamilyZone.us",
+    "name": "Showtime Family Zone",
+    "alt_names": [],
+    "network": "Paramount+ with SHOWTIME",
+    "owners": [
+      "Showtime Networks Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "family"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/qwJUawJ.png",
+    "stream_url": "http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ShowtimeFamilyZone.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "25275",
+      "site_name": "Showtime Family Zone West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sho.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Sintetasnohayparaiso.us",
     "name": "Sin tetas no hay paraiso",
     "alt_names": [
@@ -66604,6 +66936,114 @@
     "closed": null
   },
   {
+    "id": "StarzCinema.us",
+    "name": "Starz Cinema",
+    "alt_names": [],
+    "network": "STARZ",
+    "owners": [
+      "Starz Entertainment Corp."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ghzzKoT.png",
+    "stream_url": "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarzCinema.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "19651",
+      "site_name": "Starz Cinema West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.starz.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "StarzComedy.us",
+    "name": "Starz Comedy",
+    "alt_names": [],
+    "network": "STARZ",
+    "owners": [
+      "Starz Entertainment Corp."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/JpKvjZe.png",
+    "stream_url": "http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarzComedy.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "34902",
+      "site_name": "Starz Comedy West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.starz.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "StarzKidsFamily.us",
+    "name": "Starz Kids & Family",
+    "alt_names": [],
+    "network": "STARZ",
+    "owners": [
+      "Starz Entertainment Corp."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/eE9FzEP.png",
+    "stream_url": "http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarzKidsFamily.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "57583",
+      "site_name": "Starz Kids & Family West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.starz.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "StingrayGreatestHolidayHits.us",
     "name": "Stingray Greatest Holiday Hits",
     "alt_names": [],
@@ -67373,6 +67813,35 @@
     },
     "website": "https://www.swerve.tv/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SYFY.us",
+    "name": "SYFY",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Versant Media Group Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4fMWhUE.png",
+    "stream_url": "http://23.237.104.106:8080/USA_SYFY/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.syfy.com/",
+    "launched": "1992-09-24",
     "closed": null
   },
   {
@@ -79485,6 +79954,42 @@
     },
     "website": "https://pluto.tv/en/live-tv/western-tv",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WeTV.us",
+    "name": "We TV",
+    "alt_names": [],
+    "network": "We TV",
+    "owners": [
+      "AMC Networks Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/960px-We_TV_logo_2014.svg.png",
+    "stream_url": "https://streamer1.nexgen.bz/WE_TV/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "WeTV.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "54292",
+      "site_name": "We TV West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.wetv.com/",
+    "launched": "1997-09-01",
     "closed": null
   },
   {

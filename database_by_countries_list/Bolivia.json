@@ -599,6 +599,30 @@
     "closed": null
   },
   {
+    "id": "RedCCTV.bo",
+    "name": "Red CCTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BO",
+    "country_name": "Bolivia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/YC5FRmq.png",
+    "stream_url": "https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://red-cctv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RedTVShop.bo",
     "name": "Red TV Shop",
     "alt_names": [],
@@ -845,6 +869,36 @@
     "closed": null
   },
   {
+    "id": "UMSATVULP.bo",
+    "name": "UMSA TVU LP",
+    "alt_names": [],
+    "network": "RUBI",
+    "owners": [
+      "UMSA"
+    ],
+    "country_code": "BO",
+    "country_name": "Bolivia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news",
+      "culture",
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412",
+    "stream_url": "https://edge.enhdtv.com/8190/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://tvu.umsa.bo/tvu-en-vivo-2-",
+    "launched": "2016-12-22",
+    "closed": null
+  },
+  {
     "id": "Unifranz.bo",
     "name": "Unifranz",
     "alt_names": [],
@@ -894,6 +948,42 @@
     "logo": "https://i.imgur.com/B9wg1zj.png",
     "stream_url": "https://xtream.videx.lol/Yoshiro/admin/338.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "UnitelSantaCruz.bo",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "pe#unitel",
+      "site_name": "Unitel",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://unitel.bo/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "UnitelSantaCruz.bo",
+    "name": "Unitel Santa Cruz",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Monasterio"
+    ],
+    "country_code": "BO",
+    "country_name": "Bolivia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/B9wg1zj.png",
+    "stream_url": "https://master.tucableip.com/muxunitelsc/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

@@ -1377,6 +1377,116 @@
     "closed": null
   },
   {
+    "id": "CanalPlus.fr",
+    "name": "Canal+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vivendi"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5HcyMnW.png",
+    "stream_url": "http://151.80.18.177:86/Canal+_HD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalPlus.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "82484954/canal",
+      "site_name": "Canal+",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.canalplus.com/",
+    "launched": "1984-11-04",
+    "closed": null
+  },
+  {
+    "id": "CanalPlusCinemas.fr",
+    "name": "Canal+ Cinemas",
+    "alt_names": [
+      "Canal+ Cinéma(s)"
+    ],
+    "network": null,
+    "owners": [
+      "Vivendi"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/fvPoNEa.jpeg",
+    "stream_url": "http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalPlusCinemas.fr",
+      "feed": "SD",
+      "site": "guidetnt.com",
+      "site_id": "canalplus-cinema",
+      "site_name": "Canal+ Cinéma(s)",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "http://www.canalplus.fr/pid1748-c-cinema.html",
+    "launched": "1996-04-27",
+    "closed": null
+  },
+  {
+    "id": "CanalPlusFamily.fr",
+    "name": "Canal+ Family",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vivendi"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "family"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TXI8hM1.png",
+    "stream_url": "http://151.80.18.177:86/Canal+_Family_HD/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalPlusFamily.fr",
+      "feed": "SD",
+      "site": "tv-programme.telecablesat.fr",
+      "site_id": "657",
+      "site_name": "Canal+ KIDS",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.canalplus.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CanalPlusFoot.fr",
     "name": "Canal+ Foot",
     "alt_names": [],
@@ -1410,6 +1520,42 @@
     },
     "website": "https://www.canalplus.com/sport/",
     "launched": "2022-08-31",
+    "closed": null
+  },
+  {
+    "id": "CanalPlusSport.fr",
+    "name": "Canal+ Sport",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vivendi"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/EOXnU15.png",
+    "stream_url": "http://151.80.18.177:86/Canal+_sport_HD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalPlusSport.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "82505652/canal-sport",
+      "site_name": "Canal+ Sport",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "http://www.canalplus.fr/pid1747-c-sport.html",
+    "launched": "1998-08-31",
     "closed": null
   },
   {

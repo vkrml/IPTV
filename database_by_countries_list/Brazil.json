@@ -738,6 +738,40 @@
     "closed": null
   },
   {
+    "id": "CanalRural.br",
+    "name": "Canal Rural",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "outdoor"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/w9R9IIX.png",
+    "stream_url": "https://cdn2.easy.tv.br/canalrural/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalRural.br",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "br#canal-rural",
+      "site_name": "Canal Rural",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://canalrural.uol.com.br/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CanalSaude.br",
     "name": "Canal Saude",
     "alt_names": [
@@ -1499,6 +1533,32 @@
     "logo": "https://i.imgur.com/7q2BmNc.png",
     "stream_url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://fontetv.redefonte.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FonteTV.br",
+    "name": "Fonte TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/7q2BmNc.png",
+    "stream_url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -2992,6 +3052,40 @@
     },
     "website": "http://recordtv.r7.com/",
     "launched": "2016-11-24",
+    "closed": null
+  },
+  {
+    "id": "RedeBrasil.br",
+    "name": "Rede Brasil",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TXJKwzZ.png",
+    "stream_url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RedeBrasil.br",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "br#rede-brasil",
+      "site_name": "Rede Brasil",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://rbtv.com.br/",
+    "launched": null,
     "closed": null
   },
   {

@@ -114,6 +114,36 @@
     "closed": null
   },
   {
+    "id": "Belarus4.by",
+    "name": "Belarus-4",
+    "alt_names": [
+      "Беларусь 4"
+    ],
+    "network": null,
+    "owners": [
+      "National State Television and Radio Company of the Republic of Belarus"
+    ],
+    "country_code": "BY",
+    "country_name": "Belarus",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/XNkQrMr.png",
+    "stream_url": "https://ngtrk.dc.beltelecom.by/vtv/_definst_/bt4.stream/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.tvr.by/",
+    "launched": "2015-08-08",
+    "closed": null
+  },
+  {
     "id": "Belarus5.by",
     "name": "Belarus-5",
     "alt_names": [
@@ -225,6 +255,44 @@
     },
     "website": "http://tvr.by/",
     "launched": "2013-10-21",
+    "closed": null
+  },
+  {
+    "id": "Belarus24.by",
+    "name": "Belarus-24",
+    "alt_names": [
+      "Беларусь 24"
+    ],
+    "network": null,
+    "owners": [
+      "National State Television and Radio Company of the Republic of Belarus"
+    ],
+    "country_code": "BY",
+    "country_name": "Belarus",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/BP7tY6F.png",
+    "stream_url": "http://178.124.179.122:8080/Belarus24/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Belarus24.by",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "2734",
+      "site_name": "Беларусь 24 HD",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://belarus24.by/",
+    "launched": "2005-02-01",
     "closed": null
   },
   {

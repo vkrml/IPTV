@@ -338,6 +338,52 @@
     "closed": null
   },
   {
+    "id": "Canal1.co",
+    "name": "Canal 1",
+    "alt_names": [
+      "Canal Uno",
+      "Inravisión Cadena Uno",
+      "Inravisión Cadena 1",
+      "Inravisión Primera Cadena Color",
+      "Inravisión Primera Cadena",
+      "Inravisión Canal Nacional",
+      "Televisora Nacional de Colombia",
+      "HJTV-2",
+      "HJRN-TV"
+    ],
+    "network": null,
+    "owners": [
+      "Government of Colombia"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/MiYlN0t.png",
+    "stream_url": "http://138.121.15.230:9002/CANAL-UNO/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Canal1.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "401",
+      "site_name": "CANAL 1",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://canal1.com.co/",
+    "launched": "1954-06-13",
+    "closed": null
+  },
+  {
     "id": "Canal2AlpavisionNeiva.co",
     "name": "Canal 2 Alpavision Neiva",
     "alt_names": [
@@ -568,6 +614,42 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/zAYtbYi.png",
     "stream_url": "https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalCapital.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "393",
+      "site_name": "CANAL CAPITAL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.canalcapital.gov.co/",
+    "launched": "1997-11-03",
+    "closed": null
+  },
+  {
+    "id": "CanalCapital.co",
+    "name": "Canal Capital",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Capital Sistema de Comunicación Pública de Bogotá"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/zAYtbYi.png",
+    "stream_url": "http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

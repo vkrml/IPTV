@@ -1635,6 +1635,84 @@
     "closed": null
   },
   {
+    "id": "CinePlusClassic.fr",
+    "name": "Cine+ Classic",
+    "alt_names": [
+      "Ciné+ Classic"
+    ],
+    "network": null,
+    "owners": [
+      "Canal+ Group"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/y2zeLS3.jpeg",
+    "stream_url": "http://99.27.51.147/CineClassic/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CinePlusClassic.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "82505252/cine-classic",
+      "site_name": "Ciné+ Classic",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.canalplus.com/chaines/cine-plus-ocs/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CinePlusFrisson.fr",
+    "name": "Cine+ Frisson",
+    "alt_names": [
+      "Ciné+ Frisson",
+      " Ciné+ frisson",
+      " Ciné Cinéma Frissons"
+    ],
+    "network": null,
+    "owners": [
+      "Canal+ Group"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/MwFtbnR.jpeg",
+    "stream_url": "http://99.27.51.147:8080/CineFrisson/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CinePlusFrisson.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "82505249/cine-frisson",
+      "site_name": "Ciné+ Frisson",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.canalplus.com/chaines/cine-plus-ocs/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CineWestern.fr",
     "name": "Cine Western",
     "alt_names": [
@@ -1831,6 +1909,45 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg",
     "stream_url": "http://151.80.18.177:86/Disney_Junior_HD/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyJr.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "82565549/disney-junior",
+      "site_name": "Disney Junior",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "http://www.disney.fr/disney-junior/",
+    "launched": "2011-05-28",
+    "closed": "2024-12-31"
+  },
+  {
+    "id": "DisneyJr.fr",
+    "name": "Disney Jr.",
+    "alt_names": [
+      "Disney Junior",
+      "Playhouse Disney"
+    ],
+    "network": null,
+    "owners": [
+      "The Walt Disney Company"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg",
+    "stream_url": "http://41.205.64.66/DISNEY-JUNIOR/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -7847,6 +7964,38 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.sudradio.fr/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Syfy.fr",
+    "name": "Syfy",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/gUOXdjv.png",
+    "stream_url": "http://99.27.51.147:8080/SYFY/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Syfy.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "83897070/syfy",
+      "site_name": "Syfy",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "http://www.syfy.fr/",
     "launched": null,
     "closed": null
   },

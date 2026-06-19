@@ -477,6 +477,42 @@
     "closed": null
   },
   {
+    "id": "DisneyChannel.nl",
+    "name": "Disney Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "The Walt Disney Company"
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "stream_url": "http://86.87.15.10:8004/play/a02g/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyChannel.nl",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000027_019330",
+      "site_name": "Disney Channel",
+      "lang": "nl",
+      "sources": []
+    },
+    "website": "http://www.disney.nl/",
+    "launched": "2012-01-01",
+    "closed": null
+  },
+  {
     "id": "DitisHelmond.nl",
     "name": "Dit is Helmond",
     "alt_names": [],
@@ -856,6 +892,42 @@
     },
     "website": "http://www.fightbox.com",
     "launched": "2012-06-01",
+    "closed": null
+  },
+  {
+    "id": "FilmBox.nl",
+    "name": "FilmBox",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "SPI International Inc."
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/VyaslIY.png",
+    "stream_url": "http://213.91.179.28:8000/play/a06i",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FilmBox.nl",
+      "feed": "Netherlands",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000213_020003",
+      "site_name": "FilmBox",
+      "lang": "nl",
+      "sources": []
+    },
+    "website": "https://www.filmbox.nl/",
+    "launched": "2021-05-03",
     "closed": null
   },
   {
@@ -6234,6 +6306,46 @@
     "closed": null
   },
   {
+    "id": "VeronicaDisneyJr.nl",
+    "name": "Veronica / Disney Jr.",
+    "alt_names": [
+      "Veronica",
+      "Disney Jr."
+    ],
+    "network": null,
+    "owners": [
+      "Talpa Network"
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5L5TcYz.png",
+    "stream_url": "http://86.87.15.10:8003/play/a01x/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "VeronicaDisneyJr.nl",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000008_019442",
+      "site_name": "Veronica / Disney Jr.",
+      "lang": "nl",
+      "sources": []
+    },
+    "website": "https://www.veronicatv.nl/",
+    "launched": "2003-09-20",
+    "closed": null
+  },
+  {
     "id": "WEEFFTV.nl",
     "name": "WEEFF TV",
     "alt_names": [],
@@ -6920,6 +7032,120 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.zfmzoetermeer.nl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ZiggoSport2.nl",
+    "name": "Ziggo Sport 2",
+    "alt_names": [
+      "Ziggo Sport Voetbal"
+    ],
+    "network": null,
+    "owners": [
+      "VodafoneZiggo Group B.V."
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ziggo_Sport_logo.svg",
+    "stream_url": "http://86.87.15.10:8004/play/a02b/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ZiggoSport2.nl",
+      "feed": "HD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000095_019371",
+      "site_name": "Ziggo Sport 2",
+      "lang": "nl",
+      "sources": []
+    },
+    "website": "https://www.ziggosport.nl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ZiggoSport3.nl",
+    "name": "Ziggo Sport 3",
+    "alt_names": [
+      "Ziggo Sport Racing"
+    ],
+    "network": null,
+    "owners": [
+      "VodafoneZiggo Group B.V."
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ziggo_Sport_logo.svg",
+    "stream_url": "http://86.87.15.10:8003/play/a02k/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ZiggoSport3.nl",
+      "feed": "HD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000096_019382",
+      "site_name": "Ziggo Sport 3",
+      "lang": "nl",
+      "sources": []
+    },
+    "website": "https://www.ziggosport.nl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ZiggoSport.nl",
+    "name": "Ziggo Sport",
+    "alt_names": [
+      "Ziggo Sport 1"
+    ],
+    "network": null,
+    "owners": [
+      "VodafoneZiggo Group B.V."
+    ],
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ziggo_Sport_logo.svg",
+    "stream_url": "http://86.87.15.10:8004/play/a02d/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ZiggoSport.nl",
+      "feed": "HD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000094_019321",
+      "site_name": "Ziggo Sport",
+      "lang": "nl",
+      "sources": []
+    },
+    "website": "https://www.ziggosport.nl/",
     "launched": null,
     "closed": null
   },

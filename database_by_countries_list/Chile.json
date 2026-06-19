@@ -3691,6 +3691,35 @@
     "closed": null
   },
   {
+    "id": "TVPlus.cl",
+    "name": "TV+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Media 23 SpA",
+      "PUCV Multimedios SpA"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/960px-TV%2B_%282018%29.png",
+    "stream_url": "https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.tvmas.tv/",
+    "launched": "1959-08-22",
+    "closed": null
+  },
+  {
     "id": "TVR.cl",
     "name": "TVR",
     "alt_names": [],
@@ -3956,6 +3985,34 @@
     "closed": null
   },
   {
+    "id": "UniregionTV.cl",
+    "name": "Uniregion TV",
+    "alt_names": [
+      "Uniregión TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/VEO6aos.png",
+    "stream_url": "https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://uniregion.cl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "UTV.cl",
     "name": "UTV",
     "alt_names": [],
@@ -4038,6 +4095,34 @@
     "closed": null
   },
   {
+    "id": "VersoTV.cl",
+    "name": "Verso TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Fundación Verso"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/zdv4IF8.png",
+    "stream_url": "https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.verso.cl/television",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "VisionPlusTV.cl",
     "name": "Vision Plus TV",
     "alt_names": [
@@ -4060,6 +4145,30 @@
     "referrer": "https://visionplustv.cl/",
     "tv_guide": null,
     "website": "https://www.visionplustv.cl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VivoTV.cl",
+    "name": "Vivo TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/kBRbCUb.png",
+    "stream_url": "https://5eaccbab48461.streamlock.net:1936/8264/8264/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.vivotv.cl/",
     "launched": null,
     "closed": null
   },
@@ -4108,6 +4217,40 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.canalvtv.cl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Wapp.cl",
+    "name": "Wapp",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Bv1yJ1d.png",
+    "stream_url": "https://stream.wapptv.cl/video/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Wapp.cl",
+      "feed": "SD",
+      "site": "airtelxstream.in",
+      "site_id": "DISTROTV_LIVETVCHANNEL_1733",
+      "site_name": "WappTV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.wapptv.cl/",
     "launched": null,
     "closed": null
   }

@@ -468,6 +468,32 @@
     "closed": null
   },
   {
+    "id": "BragadoTV.ar",
+    "name": "Bragado TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/xP88fKG.png",
+    "stream_url": "https://srv1053170.hstgr.cloud/hls/bragadotv.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.bragadotv.com.ar/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BravoTV.ar",
     "name": "Bravo TV",
     "alt_names": [],
@@ -2235,6 +2261,80 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DisneyChannelLatinAmerica.ar",
+    "name": "Disney Channel Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Disney Entertainment"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "stream_url": "http://190.11.225.124:5000/live/disney_hd/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyChannelLatinAmerica.ar",
+      "feed": "Center",
+      "site": "siba.com.co",
+      "site_id": "430",
+      "site_name": "DISNEY CHANNEL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.disneylatino.com/tv",
+    "launched": "2000-07-27",
+    "closed": null
+  },
+  {
+    "id": "DisneyJrLatinAmerica.ar",
+    "name": "Disney Jr. Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Disney Media Network Latin America"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "stream_url": "http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyJrLatinAmerica.ar",
+      "feed": "North",
+      "site": "reportv.com.ar",
+      "site_id": "1102",
+      "site_name": "DISNEY JR",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.disneylatino.com/",
+    "launched": "2011-04-01",
     "closed": null
   },
   {

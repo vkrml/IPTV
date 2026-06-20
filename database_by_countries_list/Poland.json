@@ -1607,34 +1607,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.ibb.co/LzgJ7hzR/KANA-ZERO.jpg",
-    "stream_url": "http://81.15.109.89:8001/play/MTV90s",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://kanalzero.pl/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "KanalZEROTV.pl",
-    "name": "Kanal ZERO TV",
-    "alt_names": [
-      "ZERO TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/LzgJ7hzR/KANA-ZERO.jpg",
     "stream_url": "http://81.15.109.89:8001/play/zero",
     "stream_quality": null,
     "stream_format": null,
@@ -3068,6 +3040,38 @@
     "closed": null
   },
   {
+    "id": "PolsatSport2.pl",
+    "name": "Polsat Sport 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/500px-Polsat_Sport_2_2024.svg.png",
+    "stream_url": "http://91.146.94.234:10001/play/a06z",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatSport2.pl",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "polsat-sport-extra",
+      "site_name": "Polsat Sport 2",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PolsatSport3.pl",
     "name": "Polsat Sport 3",
     "alt_names": [],
@@ -3085,6 +3089,38 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatSport3.pl",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "polsat-sport-news",
+      "site_name": "Polsat Sport 3",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PolsatSport3.pl",
+    "name": "Polsat Sport 3",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/500px-Polsat_Sport_3_2024.svg.png",
+    "stream_url": "http://81.15.109.89:8001/play/PolsatSport3",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
     "referrer": null,
     "tv_guide": {
       "channel": "PolsatSport3.pl",
@@ -3119,6 +3155,40 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatSportFight.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-sport-fight-546",
+      "site_name": "Polsat Sport Fight",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://www.polsatsport.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PolsatSportFight.pl",
+    "name": "Polsat Sport Fight",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/8x1FV3o.png",
+    "stream_url": "http://81.15.109.89:8001/play/PolsatSportFight",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
     "referrer": null,
     "tv_guide": {
       "channel": "PolsatSportFight.pl",
@@ -5253,6 +5323,42 @@
       "sources": []
     },
     "website": "https://tvp2.tvp.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVP3Rzeszow.pl",
+    "name": "TVP 3 Rzeszow",
+    "alt_names": [
+      "TVP 3 Rzeszów"
+    ],
+    "network": "TVP",
+    "owners": [
+      "Telewizja Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6jGX6Xy.jpg",
+    "stream_url": "http://91.246.72.88:8000/play/a00m",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVP3Rzeszow.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tvp-3-rzeszow-433",
+      "site_name": "TVP 3 Rzeszów",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": null,
     "launched": null,
     "closed": null
   },

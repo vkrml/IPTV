@@ -168,6 +168,40 @@
     "closed": null
   },
   {
+    "id": "Action.fr",
+    "name": "Action",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Zv9VsVq.png",
+    "stream_url": "http://rezofoot.tv/Action/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Action.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "82485451/action",
+      "site_name": "Action",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "http://www.actiontv.fr/",
+    "launched": "1996-05-02",
+    "closed": null
+  },
+  {
     "id": "ADNTVPlus.fr",
     "name": "ADN TV+",
     "alt_names": [],
@@ -5648,6 +5682,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/7GVp3fW.png",
+    "stream_url": "http://99.27.51.147:8080/M6/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "M6.fr",
+      "feed": "HD",
+      "site": "vodafone.pt",
+      "site_id": "2856",
+      "site_name": "M6",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.6play.fr/m6",
+    "launched": "1987-03-01",
+    "closed": null
+  },
+  {
+    "id": "M6.fr",
+    "name": "M6",
+    "alt_names": [
+      "RTL6"
+    ],
+    "network": null,
+    "owners": [
+      "Groupe M6"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/7GVp3fW.png",
     "stream_url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_q2hyb21h/index-hd720.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -5736,6 +5808,42 @@
     },
     "website": "https://www.maison-travaux.fr/",
     "launched": "1981-01-01",
+    "closed": null
+  },
+  {
+    "id": "MCM.fr",
+    "name": "MCM",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Groupe M6"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/F5WNCp0.png",
+    "stream_url": "http://rezofoot.tv/MCM/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MCM.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "82485653/mcm",
+      "site_name": "MCM",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "http://www.mcm.fr/",
+    "launched": "1989-07-01",
     "closed": null
   },
   {
@@ -5994,6 +6102,42 @@
     "tv_guide": null,
     "website": "https://www.mouv.fr/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MTV.fr",
+    "name": "MTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Paramount Networks EMEAA"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "stream_url": "http://99.27.51.147:8080/MTV/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MTV.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "82485754/mtv",
+      "site_name": "MTV",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "http://www.mtv.fr/",
+    "launched": "2000-06-20",
     "closed": null
   },
   {
@@ -7972,7 +8116,9 @@
     "name": "Syfy",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "NBCUniversal"
+    ],
     "country_code": "FR",
     "country_name": "France",
     "subdivision": null,
@@ -7997,7 +8143,7 @@
     },
     "website": "http://www.syfy.fr/",
     "launched": null,
-    "closed": null
+    "closed": "2026-03-17"
   },
   {
     "id": "T18.fr",

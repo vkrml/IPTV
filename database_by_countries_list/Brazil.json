@@ -678,6 +678,38 @@
     "closed": null
   },
   {
+    "id": "CanalOff.br",
+    "name": "Canal Off",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/1biaLgJ.png",
+    "stream_url": "http://170.82.202.31/OFF/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalOff.br",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "br#off",
+      "site_name": "Off",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://globosatplay.globo.com/canal-off/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CanalRicos.br",
     "name": "Canal Ricos",
     "alt_names": [],
@@ -1710,6 +1742,32 @@
     "closed": null
   },
   {
+    "id": "GloboplayNovelas.br",
+    "name": "Globoplay Novelas",
+    "alt_names": [
+      "Viva"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/m5TBCDL2/Globoplay-Novelas-1.png",
+    "stream_url": "http://170.82.202.31/Viva/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://globosatplay.globo.com/viva/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Gloob.br",
     "name": "Gloob",
     "alt_names": [],
@@ -1807,6 +1865,42 @@
     "tv_guide": null,
     "website": "https://discobak.github.io/gweb/",
     "launched": "2025-08-31",
+    "closed": null
+  },
+  {
+    "id": "GNT.br",
+    "name": "GNT",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Canais Globo"
+    ],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/XymcvMy.png",
+    "stream_url": "http://170.82.202.31/GNT/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GNT.br",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "br#gnt",
+      "site_name": "GNT",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "http://gnt.globo.com/",
+    "launched": "1991-11-01",
     "closed": null
   },
   {

@@ -1327,6 +1327,44 @@
     "closed": null
   },
   {
+    "id": "CitytvBogota.co",
+    "name": "Citytv Bogota",
+    "alt_names": [
+      "Citytv Bogotá"
+    ],
+    "network": "Citytv",
+    "owners": [
+      "El Tiempo Casa Editorial"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/h7K9EW9.png",
+    "stream_url": "http://138.121.15.230:9002/CITY-TV/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CitytvBogota.co",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "pe#citytv",
+      "site_name": "Citytv",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.citytv.com.co/",
+    "launched": "1999-03-19",
+    "closed": null
+  },
+  {
     "id": "CMBTelevision.co",
     "name": "CMB Television",
     "alt_names": [
@@ -4170,6 +4208,43 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/DuSSrHV.png",
     "stream_url": "http://190.60.40.34:8001/play/a0ef",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "WinSports.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "828",
+      "site_name": "WIN SPORTS",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.winsports.co/",
+    "launched": "2012-11-29",
+    "closed": null
+  },
+  {
+    "id": "WinSports.co",
+    "name": "Win Sports",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "DirecTV",
+      "RCN Televisión"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/DuSSrHV.png",
+    "stream_url": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

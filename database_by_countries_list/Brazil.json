@@ -241,6 +241,42 @@
     "closed": null
   },
   {
+    "id": "BandSports.br",
+    "name": "Band Sports",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Bandeirantes de Comunicacao"
+    ],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/EuPvzJe.png",
+    "stream_url": "https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BandSports.br",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "br#bandsports",
+      "site_name": "BandSports",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "http://bandsports.band.uol.com.br/",
+    "launched": "1967-05-13",
+    "closed": null
+  },
+  {
     "id": "BDCTV.br",
     "name": "BDC TV",
     "alt_names": [],
@@ -1739,6 +1775,42 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "GloboNews.br",
+    "name": "GloboNews",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Canais Globo"
+    ],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/3yZyaCm.png",
+    "stream_url": "http://41.205.70.146/GLOBONEWS/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GloboNews.br",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "br#globo-news",
+      "site_name": "Globo News",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "http://globonews.globo.com/",
+    "launched": "1996-10-15",
     "closed": null
   },
   {
@@ -5731,6 +5803,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.tvitape.com.br/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVLatinaSat.br",
+    "name": "TVLatinaSat",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://latinasat.com.br/logo.png",
+    "stream_url": "https://www.latinasat.com.br/hls/live/stream/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://latinasat.com.br/",
     "launched": null,
     "closed": null
   },

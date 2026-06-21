@@ -2259,6 +2259,49 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/RUSX0rX.png",
+    "stream_url": "https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ChannelOne.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1693",
+      "site_name": "Первый канал HD",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.1tv.ru/",
+    "launched": "1938-03-09",
+    "closed": null
+  },
+  {
+    "id": "ChannelOne.ru",
+    "name": "Channel One",
+    "alt_names": [
+      "Первый канал",
+      "Pervyy Kanal",
+      "First Channel",
+      "Channel 1 Ostankino",
+      "Public Russian Television",
+      "ORT"
+    ],
+    "network": null,
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/RUSX0rX.png",
     "stream_url": "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd",
     "stream_quality": "720p",
     "stream_format": null,
@@ -3375,6 +3418,40 @@
     "logo": "https://i.imgur.com/iBx7K1M.png",
     "stream_url": "https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DaVinci.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1229",
+      "site_name": "Da Vinci",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://viju.ru/telekanaly/da-vinci/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DaVinci.ru",
+    "name": "Da Vinci",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/iBx7K1M.png",
+    "stream_url": "http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -8301,6 +8378,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/BtqrHmz.png",
+    "stream_url": "http://hls127.freeott.top:8080/MUZ_TV/video.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MuzTV.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1111",
+      "site_name": "МУЗ ТВ",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://muz-tv.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MuzTV.ru",
+    "name": "Muz-TV",
+    "alt_names": [
+      "Муз-ТВ"
+    ],
+    "network": null,
+    "owners": [
+      "UTH Russia"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/BtqrHmz.png",
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/20.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -8663,6 +8778,44 @@
     "website": "https://www.nastroykino.ru/nashe-novoe-kino/",
     "launched": null,
     "closed": null
+  },
+  {
+    "id": "NationalGeographicWild.ru",
+    "name": "National Geographic Wild",
+    "alt_names": [
+      "National Geographic Wild Россия"
+    ],
+    "network": null,
+    "owners": [
+      "National Geographic Society"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "stream_url": "http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalGeographicWild.ru",
+      "feed": "SD",
+      "site": "teliatv.ee",
+      "site_id": "ru#79",
+      "site_name": "Nat Geo Wild",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://natgeotv.com/ru/wild",
+    "launched": null,
+    "closed": "2022-10-01"
   },
   {
     "id": "Nauka.ru",
@@ -12193,6 +12346,32 @@
     "closed": null
   },
   {
+    "id": "RTGint.ru",
+    "name": "RTG int.",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "travel"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ZpUNou4.png",
+    "stream_url": "http://213.91.179.28:8000/play/a0bw",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.rtgtv.ru/channels/rtgint",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RTGTV.ru",
     "name": "RTG TV",
     "alt_names": [
@@ -14420,6 +14599,44 @@
     "logo": "https://i.imgur.com/Osd2JHL.png",
     "stream_url": "https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1666",
+      "site_name": "Россия 1 HD",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "stream_url": "http://41.223.30.230/RUSSIA1/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -18182,6 +18399,44 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png",
     "stream_url": "https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia24.ru",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#rossija24",
+      "site_name": "Россиᴙ 24",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "http://vesti.ru/",
+    "launched": "2006-07-01",
+    "closed": null
+  },
+  {
+    "id": "Russia24.ru",
+    "name": "Russia-24",
+    "alt_names": [
+      "Россия-24"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png",
+    "stream_url": "http://41.223.30.230/ROSSIYA24/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

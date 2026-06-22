@@ -215,10 +215,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-    "stream_url": "http://45.136.153.199/AMC/mono.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "http://213.91.179.28:8000/play/a0by",
+    "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
     "referrer": null,
     "tv_guide": {
       "channel": "AMCEurope.uk",
@@ -251,7 +251,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-    "stream_url": "http://213.91.179.28:8000/play/a0by",
+    "stream_url": "http://212.70.131.37:8000/play/a05k",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
@@ -434,15 +434,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "AnandTV.uk",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "1486",
-      "site_name": "Anand TV",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://anandmedia.net/livetv",
     "launched": null,
     "closed": null
@@ -7143,15 +7135,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "BritAsiaTV.uk",
-      "feed": "SD",
-      "site": "distro.tv",
-      "site_id": "102778",
-      "site_name": "BritAsiaTV",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://britasia.tv/",
     "launched": "2008-04-07",
     "closed": null
@@ -7177,15 +7161,7 @@
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
     "referrer": null,
-    "tv_guide": {
-      "channel": "BritAsiaTV.uk",
-      "feed": "SD",
-      "site": "distro.tv",
-      "site_id": "102778",
-      "site_name": "BritAsiaTV",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://britasia.tv/",
     "launched": "2008-04-07",
     "closed": null
@@ -8280,6 +8256,34 @@
     "tv_guide": null,
     "website": "https://discover.film/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DisneyJuniorMENA.uk",
+    "name": "Disney Junior MENA",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "The Walt Disney Company"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "stream_url": "http://116.90.120.157:8000/play/a0qo/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.disneyme.com/",
+    "launched": "2011-06-01",
     "closed": null
   },
   {
@@ -9942,6 +9946,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png",
+    "stream_url": "https://live-gbnews.simplestreamcdn.com/s3/gbnews_subs/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GBNews.uk",
+      "feed": "SD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "2165",
+      "site_name": "GB News",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.gbnews.uk/",
+    "launched": "2021-06-13",
+    "closed": null
+  },
+  {
+    "id": "GBNews.uk",
+    "name": "GB News",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "All Perspectives Ltd."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png",
     "stream_url": "https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -11003,6 +11043,32 @@
     "closed": null
   },
   {
+    "id": "IranInternational.uk",
+    "name": "Iran International",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/55RpaF3.png",
+    "stream_url": "https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://iranintl.com/",
+    "launched": "2017-05-19",
+    "closed": null
+  },
+  {
     "id": "IslamChannel.uk",
     "name": "Islam Channel",
     "alt_names": [],
@@ -11210,7 +11276,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "Jail.uk",
+      "feed": "Poland",
+      "site": "plex.tv",
+      "site_id": "6448ba1baf92c31f4a190c27",
+      "site_name": "JAIL",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://rightsbooster.com/fast-channels",
     "launched": null,
     "closed": null
@@ -11654,7 +11728,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "MostHaunted.uk",
+      "feed": "UK",
+      "site": "pluto.tv",
+      "site_id": "6081648340382e0007f73d45",
+      "site_name": "Most Haunted",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://www.littledotstudios.com/en-us/channels",
     "launched": "2025-10-08",
     "closed": null
@@ -11686,7 +11768,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "MostHaunted.uk",
+      "feed": "UK",
+      "site": "pluto.tv",
+      "site_id": "6081648340382e0007f73d45",
+      "site_name": "Most Haunted",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://www.littledotstudios.com/en-us/channels",
     "launched": "2025-10-08",
     "closed": null
@@ -11718,7 +11808,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "MostHaunted.uk",
+      "feed": "UK",
+      "site": "pluto.tv",
+      "site_id": "6081648340382e0007f73d45",
+      "site_name": "Most Haunted",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://www.littledotstudios.com/en-us/channels",
     "launched": "2025-10-08",
     "closed": null
@@ -15169,7 +15267,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "StrongmanChampionsLeague.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "50#99951180",
+      "site_name": "Strongman Champions League",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://rightsbooster.com/fast-channels",
     "launched": "2022-06-21",
     "closed": null
@@ -15197,7 +15303,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "StrongmanChampionsLeague.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "50#99951180",
+      "site_name": "Strongman Champions League",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://rightsbooster.com/fast-channels",
     "launched": "2022-06-21",
     "closed": null
@@ -15225,7 +15339,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "StrongmanChampionsLeague.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "50#99951180",
+      "site_name": "Strongman Champions League",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://rightsbooster.com/fast-channels",
     "launched": "2022-06-21",
     "closed": null
@@ -15253,7 +15375,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "StrongmanChampionsLeague.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "50#99951180",
+      "site_name": "Strongman Champions League",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://rightsbooster.com/fast-channels",
     "launched": "2022-06-21",
     "closed": null
@@ -15281,7 +15411,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "StrongmanChampionsLeague.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "50#99951180",
+      "site_name": "Strongman Champions League",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://rightsbooster.com/fast-channels",
     "launched": "2022-06-21",
     "closed": null
@@ -15309,7 +15447,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "StrongmanChampionsLeague.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "50#99951180",
+      "site_name": "Strongman Champions League",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://rightsbooster.com/fast-channels",
     "launched": "2022-06-21",
     "closed": null
@@ -15337,7 +15483,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "StrongmanChampionsLeague.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "50#99951180",
+      "site_name": "Strongman Champions League",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://rightsbooster.com/fast-channels",
     "launched": "2022-06-21",
     "closed": null
@@ -15365,7 +15519,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "StrongmanChampionsLeague.uk",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "50#99951180",
+      "site_name": "Strongman Champions League",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://rightsbooster.com/fast-channels",
     "launched": "2022-06-21",
     "closed": null
@@ -17014,15 +17176,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "TraceUK.uk",
-      "feed": "HD",
-      "site": "distro.tv",
-      "site_id": "130974",
-      "site_name": "TRACE UK",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://trace.plus/app",
     "launched": null,
     "closed": null
@@ -17050,15 +17204,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "TraceUK.uk",
-      "feed": "HD",
-      "site": "distro.tv",
-      "site_id": "130974",
-      "site_name": "TRACE UK",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://trace.plus/app",
     "launched": null,
     "closed": null

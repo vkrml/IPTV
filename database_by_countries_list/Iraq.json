@@ -805,7 +805,9 @@
     "subdivision": null,
     "city": null,
     "categories": [
-      "general"
+      "culture",
+      "music",
+      "religious"
     ],
     "languages": [],
     "is_nsfw": false,
@@ -817,7 +819,7 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.ishtartv.com/en/about.html",
-    "launched": null,
+    "launched": "2005-01-01",
     "closed": null
   },
   {
@@ -842,6 +844,42 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Kurdistan24.iq",
+    "name": "Kurdistan 24",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Kurdistan24 for Media and Research"
+    ],
+    "country_code": "IQ",
+    "country_name": "Iraq",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9QWs2ms.png",
+    "stream_url": "https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Kurdistan24.iq",
+      "feed": "SD",
+      "site": "sat.tv",
+      "site_id": "1#33#Kurdistan 24",
+      "site_name": "Kurdistan 24",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.kurdistan24.net/",
+    "launched": "2015-10-31",
     "closed": null
   },
   {
@@ -1173,6 +1211,40 @@
     "closed": null
   },
   {
+    "id": "PayamTV.iq",
+    "name": "Payam TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IQ",
+    "country_name": "Iraq",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/qySEibb.png",
+    "stream_url": "https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PayamTV.iq",
+      "feed": "SD",
+      "site": "sat.tv",
+      "site_id": "1#33#Payam TV",
+      "site_name": "Payam TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.peyam.net/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RudawTV.iq",
     "name": "Rudaw TV",
     "alt_names": [
@@ -1191,6 +1263,42 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Zo3IWOn.png",
     "stream_url": "https://live.rudaw.net/hls/rudaw-tv/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RudawTV.iq",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "372",
+      "site_name": "Rudaw TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://rudaw.net/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RudawTV.iq",
+    "name": "Rudaw TV",
+    "alt_names": [
+      "Rûdaw TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "IQ",
+    "country_name": "Iraq",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Zo3IWOn.png",
+    "stream_url": "https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -1319,6 +1427,30 @@
     "closed": null
   },
   {
+    "id": "WaarTV.iq",
+    "name": "Waar TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IQ",
+    "country_name": "Iraq",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/rK0y02d.png",
+    "stream_url": "https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://waarmedia.com/tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ZagrosTV.iq",
     "name": "Zagros TV",
     "alt_names": [
@@ -1340,6 +1472,36 @@
     "logo": "https://i.imgur.com/9Mspf32.png",
     "stream_url": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.zagrosnews.net/",
+    "launched": "2007-03-03",
+    "closed": null
+  },
+  {
+    "id": "ZagrosTV.iq",
+    "name": "Zagros TV",
+    "alt_names": [
+      "قناة زاكروس الفضائية"
+    ],
+    "network": null,
+    "owners": [
+      "Kurdistan Democratic Party"
+    ],
+    "country_code": "IQ",
+    "country_name": "Iraq",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9Mspf32.png",
+    "stream_url": "https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

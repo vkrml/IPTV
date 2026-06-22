@@ -636,7 +636,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "VantageClassic.ee",
+      "feed": "HD",
+      "site": "vantagetv.ee",
+      "site_id": "vclassic",
+      "site_name": "Vantage Classic",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://vantagetv.ee",
     "launched": "2026-06-01",
     "closed": null
@@ -664,7 +672,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "VantageDance.ee",
+      "feed": "HD",
+      "site": "vantagetv.ee",
+      "site_id": "vdance",
+      "site_name": "Vantage Dance",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://vantagetv.ee",
     "launched": "2025-11-30",
     "closed": null
@@ -694,7 +710,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "VantageMusic.ee",
-      "feed": "SD",
+      "feed": "HD",
       "site": "vantagetv.ee",
       "site_id": "vmusic",
       "site_name": "Vantage Music",
@@ -730,7 +746,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "VantageMusic.ee",
-      "feed": "SD",
+      "feed": "HD",
       "site": "vantagetv.ee",
       "site_id": "vmusic",
       "site_name": "Vantage Music",
@@ -764,7 +780,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "VantageRock.ee",
+      "feed": "HD",
+      "site": "vantagetv.ee",
+      "site_id": "vrock",
+      "site_name": "Vantage Rock",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://vantagetv.ee",
     "launched": "2025-11-30",
     "closed": null

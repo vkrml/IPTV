@@ -1,5 +1,33 @@
 [
   {
+    "id": "AfrikInfoTV.gn",
+    "name": "Afrik Info TV",
+    "alt_names": [
+      "Afrikinfo TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "GN",
+    "country_name": "Guinea",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/hz2LOD8.jpeg",
+    "stream_url": "https://kali.vdopanel.com:3119/hybrid/play.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://afrikinfomedias.com/tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ATV.gn",
     "name": "ATV",
     "alt_names": [
@@ -62,6 +90,34 @@
     "website": "https://www.espacetvguinee.info/",
     "launched": "2014-01-01",
     "closed": "2024-05-22"
+  },
+  {
+    "id": "EvasionTV.gn",
+    "name": "Evasion TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Groupe Evasion Guinée"
+    ],
+    "country_code": "GN",
+    "country_name": "Guinea",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TTWl2Iy.png",
+    "stream_url": "https://kali.vdopanel.com:3090/hybrid/play.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://groupeevasionguinee.info/",
+    "launched": null,
+    "closed": null
   },
   {
     "id": "KabackTV.gn",

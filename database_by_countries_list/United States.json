@@ -1914,7 +1914,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "AcapulcoShore.us",
-      "feed": "SD",
+      "feed": "US",
       "site": "pluto.tv",
       "site_id": "64dab1f835425100080e1e7b",
       "site_name": "Acapulco Shore",
@@ -1948,7 +1948,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "AcapulcoShore.us",
-      "feed": "SD",
+      "feed": "US",
       "site": "pluto.tv",
       "site_id": "64dab1f835425100080e1e7b",
       "site_name": "Acapulco Shore",
@@ -5005,8 +5005,8 @@
     "tv_guide": {
       "channel": "AnimexHIDIVE.us",
       "feed": "SD",
-      "site": "plex.tv",
-      "site_id": "63dea56a2a2abb171ff6dadf",
+      "site": "pluto.tv",
+      "site_id": "6793eaa4bc03978b9bc63db1",
       "site_name": "ANIME x HIDIVE",
       "lang": "en",
       "sources": []
@@ -5042,8 +5042,8 @@
     "tv_guide": {
       "channel": "AnimexHIDIVE.us",
       "feed": "SD",
-      "site": "plex.tv",
-      "site_id": "63dea56a2a2abb171ff6dadf",
+      "site": "pluto.tv",
+      "site_id": "6793eaa4bc03978b9bc63db1",
       "site_name": "ANIME x HIDIVE",
       "lang": "en",
       "sources": []
@@ -6677,6 +6677,42 @@
     "closed": null
   },
   {
+    "id": "AXNAdria.us",
+    "name": "AXN Adria",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sony Pictures Television"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "stream_url": "http://5.57.74.130:8000/play/a0at/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXNAdria.us",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#axn",
+      "site_name": "AXN",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "http://www.axn.com/",
+    "launched": "1997-09-21",
+    "closed": null
+  },
+  {
     "id": "AXNBlack.us",
     "name": "AXN Black",
     "alt_names": [],
@@ -6839,6 +6875,78 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1280px-AXN_White_logo_%282015%29.svg.png",
     "stream_url": "http://85.14.32.26:8800/udp/239.100.10.18:5000",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXNWhite.us",
+      "feed": "Portugal",
+      "site": "vodafone.pt",
+      "site_id": "2833",
+      "site_name": "AXN White",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "http://www.axnwhite.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AXNWhite.us",
+    "name": "AXN White",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sony Pictures Television"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1280px-AXN_White_logo_%282015%29.svg.png",
+    "stream_url": "http://88.212.15.19/live/test_white/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXNWhite.us",
+      "feed": "Portugal",
+      "site": "vodafone.pt",
+      "site_id": "2833",
+      "site_name": "AXN White",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "http://www.axnwhite.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AXNWhite.us",
+    "name": "AXN White",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sony Pictures Television"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1280px-AXN_White_logo_%282015%29.svg.png",
+    "stream_url": "http://50.7.120.34:8080/AXN_WHITE/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
@@ -11690,7 +11798,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "BritishComedy.us",
+      "feed": "CA",
+      "site": "pluto.tv",
+      "site_id": "638e11951177840007fdd6b2",
+      "site_name": "Pluto TV British Comedy",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://pluto.tv/en/live-tv/british-comedy",
     "launched": null,
     "closed": null
@@ -13863,7 +13979,7 @@
       "channel": "CBSNewsMinnesota.us",
       "feed": "SD",
       "site": "pluto.tv",
-      "site_id": "62cdc9902466010007383d1a",
+      "site_id": "5eb1b0bf2240d8000732a09c",
       "site_name": "CBS News Minnesota",
       "lang": "en",
       "sources": []
@@ -13900,7 +14016,7 @@
       "channel": "CBSNewsMinnesota.us",
       "feed": "SD",
       "site": "pluto.tv",
-      "site_id": "62cdc9902466010007383d1a",
+      "site_id": "5eb1b0bf2240d8000732a09c",
       "site_name": "CBS News Minnesota",
       "lang": "en",
       "sources": []
@@ -15424,7 +15540,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "CineTerror.us",
-      "feed": "SD",
+      "feed": "US",
       "site": "pluto.tv",
       "site_id": "5d8d180092e97a5e107638d3",
       "site_name": "Cine terror",
@@ -15458,7 +15574,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "CineTerror.us",
-      "feed": "SD",
+      "feed": "US",
       "site": "pluto.tv",
       "site_id": "5d8d180092e97a5e107638d3",
       "site_name": "Cine terror",
@@ -15492,7 +15608,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "CineTerror.us",
-      "feed": "SD",
+      "feed": "US",
       "site": "pluto.tv",
       "site_id": "5d8d180092e97a5e107638d3",
       "site_name": "Cine terror",
@@ -16449,7 +16565,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "ClassicTVFamilies.us",
-      "feed": "SD",
+      "feed": "US",
       "site": "pluto.tv",
       "site_id": "61325d18f5166c00081b84e0",
       "site_name": "Classic TV: Families",
@@ -16483,7 +16599,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "ClassicTVFamilies.us",
-      "feed": "SD",
+      "feed": "US",
       "site": "pluto.tv",
       "site_id": "61325d18f5166c00081b84e0",
       "site_name": "Classic TV: Families",
@@ -17130,6 +17246,44 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ComedyCentralLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "702",
+      "site_name": "COMEDY CENTRAL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://comedycentral.la/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ComedyCentralLatinAmerica.us",
+    "name": "Comedy Central Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Comedy Partners",
+      "Viacom International Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+    "stream_url": "http://103.111.40.244:9999/play/a0i5/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
     "referrer": null,
     "tv_guide": {
       "channel": "ComedyCentralLatinAmerica.us",
@@ -22016,6 +22170,34 @@
     "closed": null
   },
   {
+    "id": "DreamWorksChannelLatinAmerica.us",
+    "name": "DreamWorks Channel Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NBCUniversal Media LLC"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png",
+    "stream_url": "https://cdn-5.nxplay.com.br/DREAMWORKS/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://dreamworkstv.com/",
+    "launched": "2022-04-01",
+    "closed": null
+  },
+  {
     "id": "DrGeneScott.us",
     "name": "Dr. Gene Scott",
     "alt_names": [],
@@ -23422,15 +23604,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "EntrepreneurTV.us",
-      "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "DISTROTV_LIVETVCHANNEL_1081",
-      "site_name": "Entrepreneur",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://www.entrepreneur.com/tv",
     "launched": null,
     "closed": null
@@ -26573,15 +26747,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "FITE247.us",
-      "feed": "SD",
-      "site": "distro.tv",
-      "site_id": "78644",
-      "site_name": "FITE 24/7",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://watch.plex.tv/live-tv/channel/fite-24-7",
     "launched": null,
     "closed": null
@@ -26607,15 +26773,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "FITE247.us",
-      "feed": "SD",
-      "site": "distro.tv",
-      "site_id": "78644",
-      "site_name": "FITE 24/7",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://watch.plex.tv/live-tv/channel/fite-24-7",
     "launched": null,
     "closed": null
@@ -26709,15 +26867,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "FloRacing.us",
-      "feed": "HD",
-      "site": "distro.tv",
-      "site_id": "112018",
-      "site_name": "FloRacing 24/7",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://flosports.tv/",
     "launched": "2025-12-08",
     "closed": null
@@ -28936,15 +29086,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "GhostDimension.us",
-      "feed": "UK",
-      "site": "pluto.tv",
-      "site_id": "5c45f5a9d40d58066869fa60",
-      "site_name": "Ghost Dimension",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://pluto.tv/en/live-tv/ghost-dimension-gb",
     "launched": null,
     "closed": null
@@ -28970,15 +29112,7 @@
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
     "referrer": null,
-    "tv_guide": {
-      "channel": "GhostDimension.us",
-      "feed": "UK",
-      "site": "pluto.tv",
-      "site_id": "5c45f5a9d40d58066869fa60",
-      "site_name": "Ghost Dimension",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://pluto.tv/en/live-tv/ghost-dimension-gb",
     "launched": null,
     "closed": null
@@ -29004,15 +29138,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "GhostDimension.us",
-      "feed": "UK",
-      "site": "pluto.tv",
-      "site_id": "5c45f5a9d40d58066869fa60",
-      "site_name": "Ghost Dimension",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://pluto.tv/en/live-tv/ghost-dimension-gb",
     "launched": null,
     "closed": null
@@ -29038,15 +29164,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "GhostDimension.us",
-      "feed": "UK",
-      "site": "pluto.tv",
-      "site_id": "5c45f5a9d40d58066869fa60",
-      "site_name": "Ghost Dimension",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://pluto.tv/en/live-tv/ghost-dimension-gb",
     "launched": null,
     "closed": null
@@ -30534,6 +30652,42 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png",
     "stream_url": "http://23.237.104.106:8080/USA_HALLMARK/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HallmarkChannel.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "19933",
+      "site_name": "Hallmark Channel West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.hallmarkchannel.com/",
+    "launched": "1992-09-01",
+    "closed": null
+  },
+  {
+    "id": "HallmarkChannel.us",
+    "name": "Hallmark Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Hallmark Cards"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "family"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png",
+    "stream_url": "http://41.223.30.230/HALLMARK/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -34285,11 +34439,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "Investiga.us",
-      "feed": "SD",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/us#5cf96b8f4f1ca3f0629f4bf1",
-      "site_name": "Investiga",
-      "lang": "en",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "5dcde27ffae9520009c0c75a",
+      "site_name": "Pluto TV Investiga",
+      "lang": "es",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/investiga-ptv1",
@@ -34319,11 +34473,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "Investiga.us",
-      "feed": "SD",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/us#5cf96b8f4f1ca3f0629f4bf1",
-      "site_name": "Investiga",
-      "lang": "en",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "5dcde27ffae9520009c0c75a",
+      "site_name": "Pluto TV Investiga",
+      "lang": "es",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/investiga-ptv1",
@@ -34562,9 +34716,9 @@
     "referrer": null,
     "tv_guide": {
       "channel": "IronChef.us",
-      "feed": "UK",
-      "site": "pluto.tv",
-      "site_id": "6193c353d46f7e0007cfb770",
+      "feed": "US",
+      "site": "plex.tv",
+      "site_id": "6707cfa5da81682f2d1e6837",
       "site_name": "Iron Chef",
       "lang": "en",
       "sources": []
@@ -34596,9 +34750,9 @@
     "referrer": null,
     "tv_guide": {
       "channel": "IronChef.us",
-      "feed": "UK",
-      "site": "pluto.tv",
-      "site_id": "6193c353d46f7e0007cfb770",
+      "feed": "US",
+      "site": "plex.tv",
+      "site_id": "6707cfa5da81682f2d1e6837",
       "site_name": "Iron Chef",
       "lang": "en",
       "sources": []
@@ -34630,9 +34784,9 @@
     "referrer": null,
     "tv_guide": {
       "channel": "IronChef.us",
-      "feed": "UK",
-      "site": "pluto.tv",
-      "site_id": "6193c353d46f7e0007cfb770",
+      "feed": "US",
+      "site": "plex.tv",
+      "site_id": "6707cfa5da81682f2d1e6837",
       "site_name": "Iron Chef",
       "lang": "en",
       "sources": []
@@ -34664,9 +34818,9 @@
     "referrer": null,
     "tv_guide": {
       "channel": "IronChef.us",
-      "feed": "UK",
-      "site": "pluto.tv",
-      "site_id": "6193c353d46f7e0007cfb770",
+      "feed": "US",
+      "site": "plex.tv",
+      "site_id": "6707cfa5da81682f2d1e6837",
       "site_name": "Iron Chef",
       "lang": "en",
       "sources": []
@@ -36154,20 +36308,12 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/XPyOTZF.jpeg",
-    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.vf=rcUK9fMyEw0",
-    "stream_quality": "720p",
+    "stream_url": "https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "KaloopyTV.us",
-      "feed": "SD",
-      "site": "distro.tv",
-      "site_id": "73234",
-      "site_name": "Kaloopy",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://www.kaloopy.com/",
     "launched": null,
     "closed": null
@@ -36598,6 +36744,36 @@
     },
     "website": "http://www.kcci.com/",
     "launched": "1955-07-31",
+    "closed": null
+  },
+  {
+    "id": "KCKSLD253.us",
+    "name": "KCKS-LD 25.3",
+    "alt_names": [
+      "Ace"
+    ],
+    "network": "ACE TV",
+    "owners": [
+      "Heartland Broadcasting LLC"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KtXQeeZ.png",
+    "stream_url": "https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.tv25.tv/",
+    "launched": "2015-07-01",
     "closed": null
   },
   {
@@ -42353,15 +42529,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "LuchaLibreAAA.us",
-      "feed": "SD",
-      "site": "pluto.tv",
-      "site_id": "5c01df1759ee03633e7b272c",
-      "site_name": "Lucha Libre AAA",
-      "lang": "es",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://pluto.tv/en/live-tv/lucha-libre-aaa",
     "launched": null,
     "closed": null
@@ -44715,7 +44883,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "MonsterJam.us",
+      "feed": "SD",
+      "site": "pluto.tv",
+      "site_id": "65c69b683ba51e00084534a3",
+      "site_name": "Monster Jam",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://www.monsterjam.com/en-us/streaming/",
     "launched": "2025-05-08",
     "closed": null
@@ -44744,7 +44920,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "MonsterJam.us",
+      "feed": "SD",
+      "site": "pluto.tv",
+      "site_id": "65c69b683ba51e00084534a3",
+      "site_name": "Monster Jam",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://www.monsterjam.com/en-us/streaming/",
     "launched": "2025-05-08",
     "closed": null
@@ -44773,7 +44957,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "MonsterJam.us",
+      "feed": "SD",
+      "site": "pluto.tv",
+      "site_id": "65c69b683ba51e00084534a3",
+      "site_name": "Monster Jam",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://www.monsterjam.com/en-us/streaming/",
     "launched": "2025-05-08",
     "closed": null
@@ -44802,7 +44994,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "MonsterJam.us",
+      "feed": "SD",
+      "site": "pluto.tv",
+      "site_id": "65c69b683ba51e00084534a3",
+      "site_name": "Monster Jam",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://www.monsterjam.com/en-us/streaming/",
     "launched": "2025-05-08",
     "closed": null
@@ -44831,7 +45031,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "MonsterJam.us",
+      "feed": "SD",
+      "site": "pluto.tv",
+      "site_id": "65c69b683ba51e00084534a3",
+      "site_name": "Monster Jam",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://www.monsterjam.com/en-us/streaming/",
     "launched": "2025-05-08",
     "closed": null
@@ -44860,7 +45068,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "MonsterJam.us",
+      "feed": "SD",
+      "site": "pluto.tv",
+      "site_id": "65c69b683ba51e00084534a3",
+      "site_name": "Monster Jam",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://www.monsterjam.com/en-us/streaming/",
     "launched": "2025-05-08",
     "closed": null
@@ -50640,7 +50856,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "NickelodeonPlutoTV.us",
+      "feed": "SD",
+      "site": "pluto.tv",
+      "site_id": "5ca673e0d0bd6c2689c94ce3",
+      "site_name": "Nickelodeon Pluto TV",
+      "lang": "en",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -50835,8 +51059,8 @@
     "tv_guide": {
       "channel": "NickJrPlutoTV.us",
       "feed": "US",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/us#5ca6748a37b88b269472dad9",
+      "site": "pluto.tv",
+      "site_id": "5ca6748a37b88b269472dad9",
       "site_name": "Nick Jr. Pluto TV",
       "lang": "en",
       "sources": []
@@ -50872,8 +51096,8 @@
     "tv_guide": {
       "channel": "NickJrPlutoTV.us",
       "feed": "US",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/us#5ca6748a37b88b269472dad9",
+      "site": "pluto.tv",
+      "site_id": "5ca6748a37b88b269472dad9",
       "site_name": "Nick Jr. Pluto TV",
       "lang": "en",
       "sources": []
@@ -51474,7 +51698,34 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/8m8gy0n.png",
-    "stream_url": "https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/tracks-v1/index.fmp4.m3u8",
+    "stream_url": "https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.nowmedia.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NowMediaTelevision.us",
+    "name": "NowMedia Television",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news",
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/8m8gy0n.png",
+    "stream_url": "https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -55485,7 +55736,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PFLMMA.us",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "50#99951203",
+      "site_name": "PFL MMA",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://pflmma.com/fast-channels",
     "launched": "2022-11-03",
     "closed": null
@@ -55513,7 +55772,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PFLMMA.us",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "50#99951203",
+      "site_name": "PFL MMA",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://pflmma.com/fast-channels",
     "launched": "2022-11-03",
     "closed": null
@@ -55541,7 +55808,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PFLMMA.us",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "50#99951203",
+      "site_name": "PFL MMA",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://pflmma.com/fast-channels",
     "launched": "2022-11-03",
     "closed": null
@@ -55569,7 +55844,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PFLMMA.us",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "50#99951203",
+      "site_name": "PFL MMA",
+      "lang": "en",
+      "sources": []
+    },
     "website": "https://pflmma.com/fast-channels",
     "launched": "2022-11-03",
     "closed": null
@@ -55949,15 +56232,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "PimpmyRide.us",
-      "feed": "UK",
-      "site": "pluto.tv",
-      "site_id": "619243059541940007d1ff86",
-      "site_name": "Pimp my Ride",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://pluto.tv/en/live-tv/pimp-my-ride-gb",
     "launched": null,
     "closed": null
@@ -55983,15 +56258,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "PimpmyRide.us",
-      "feed": "UK",
-      "site": "pluto.tv",
-      "site_id": "619243059541940007d1ff86",
-      "site_name": "Pimp my Ride",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://pluto.tv/en/live-tv/pimp-my-ride-gb",
     "launched": null,
     "closed": null
@@ -56017,15 +56284,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "PimpmyRide.us",
-      "feed": "UK",
-      "site": "pluto.tv",
-      "site_id": "619243059541940007d1ff86",
-      "site_name": "Pimp my Ride",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://pluto.tv/en/live-tv/pimp-my-ride-gb",
     "launched": null,
     "closed": null
@@ -56115,7 +56374,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTV80sAction.us",
+      "feed": "CA",
+      "site": "pluto.tv",
+      "site_id": "66d717c6abec540008ba7eb5",
+      "site_name": "Pluto TV 80's Action",
+      "lang": "en",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -56178,7 +56445,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVActionMovies.us",
+      "feed": "CA",
+      "site": "pluto.tv",
+      "site_id": "62ea3c2e4823db00072788ed",
+      "site_name": "Pluto TV Action Movies",
+      "lang": "en",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -56209,7 +56484,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVAdventure.us",
+      "feed": "US",
+      "site": "pluto.tv",
+      "site_id": "69d7ebb726eeec84158e28cb",
+      "site_name": "Pluto TV Adventure",
+      "lang": "en",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -56240,7 +56523,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVAdventure.us",
+      "feed": "US",
+      "site": "pluto.tv",
+      "site_id": "69d7ebb726eeec84158e28cb",
+      "site_name": "Pluto TV Adventure",
+      "lang": "en",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -56269,7 +56560,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVALaMexicana.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "5dfcde52d28b09000a42d7a2",
+      "site_name": "Pluto TV A La Mexicana",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -56299,7 +56598,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVAliens.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "6806d65e84f24b70109485fa",
+      "site_name": "Pluto TV Aliens",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -56328,7 +56635,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVAmoryMentiras.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "698a45156dc3c71eb1ba6599",
+      "site_name": "Pluto TV Amor y Mentiras",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -56357,7 +56672,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVAnimais.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "6474aa984cfc2c0008883a92",
+      "site_name": "Pluto TV Animais",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -56387,11 +56710,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVAnime.us",
-      "feed": "Germany",
+      "feed": "US",
       "site": "pluto.tv",
-      "site_id": "608181d420fc8500075f612a",
+      "site_id": "5812b7d3249444e05d09cc49",
       "site_name": "Pluto TV Anime",
-      "lang": "de",
+      "lang": "en",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-anime-it",
@@ -56423,11 +56746,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVAnime.us",
-      "feed": "Germany",
+      "feed": "US",
       "site": "pluto.tv",
-      "site_id": "608181d420fc8500075f612a",
+      "site_id": "5812b7d3249444e05d09cc49",
       "site_name": "Pluto TV Anime",
-      "lang": "de",
+      "lang": "en",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-anime-it",
@@ -56459,11 +56782,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVAnime.us",
-      "feed": "Germany",
+      "feed": "US",
       "site": "pluto.tv",
-      "site_id": "608181d420fc8500075f612a",
+      "site_id": "5812b7d3249444e05d09cc49",
       "site_name": "Pluto TV Anime",
-      "lang": "de",
+      "lang": "en",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-anime-it",
@@ -56495,11 +56818,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVAnime.us",
-      "feed": "Germany",
+      "feed": "US",
       "site": "pluto.tv",
-      "site_id": "608181d420fc8500075f612a",
+      "site_id": "5812b7d3249444e05d09cc49",
       "site_name": "Pluto TV Anime",
-      "lang": "de",
+      "lang": "en",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-anime-it",
@@ -56531,7 +56854,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVAnimeAcao.us",
-      "feed": "Brazil",
+      "feed": "BR",
       "site": "pluto.tv",
       "site_id": "604b79c558393100078faeef",
       "site_name": "Pluto TV Anime Ação",
@@ -56566,8 +56889,8 @@
     "tv_guide": {
       "channel": "PlutoTVAnimeMovies.us",
       "feed": "SD",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/us#67ed8f7e443f0671bc2b2368",
+      "site": "pluto.tv",
+      "site_id": "67ed8f7e443f0671bc2b2368",
       "site_name": "Pluto TV Anime Movies",
       "lang": "en",
       "sources": []
@@ -56597,7 +56920,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVAventura.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "5ddc266f80e3550009136843",
+      "site_name": "Pluto TV Aventura",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -56660,7 +56991,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVBangBang.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "663b9dc7cb3ea10008f1a0ce",
+      "site_name": "Pluto TV Bang Bang",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -56689,7 +57028,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVCanalUOL.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "64b9370b409629000802d32b",
+      "site_name": "Pluto TV Canal UOL",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -56787,9 +57134,9 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVCineAccion.us",
-      "feed": "Spain",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/es#5f1ac2591dd8880007bb7d6d",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "670edb8149c4060008e3aec8",
       "site_name": "Pluto TV Cine Acción",
       "lang": "es",
       "sources": []
@@ -56823,10 +57170,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVCineClasico.us",
-      "feed": "US",
+      "feed": "LatAm",
       "site": "pluto.tv",
-      "site_id": "64b9671cdac71b0008f371df",
-      "site_name": "Cine Clásico",
+      "site_id": "609059dc63be6e0007b4eca6",
+      "site_name": "Pluto TV Cine Clásico",
       "lang": "es",
       "sources": []
     },
@@ -56859,7 +57206,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVCineClassicos.us",
-      "feed": "Brazil",
+      "feed": "BR",
       "site": "pluto.tv",
       "site_id": "5fa1612a669ba0000702017b",
       "site_name": "Pluto TV Cine Clássicos",
@@ -56893,7 +57240,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVCineComedia.us",
-      "feed": "Spain",
+      "feed": "US",
       "site": "pluto.tv",
       "site_id": "5f513564e4622a0007c578c0",
       "site_name": "Cine comedia",
@@ -56927,7 +57274,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVCineComedia.us",
-      "feed": "Spain",
+      "feed": "US",
       "site": "pluto.tv",
       "site_id": "5f513564e4622a0007c578c0",
       "site_name": "Cine comedia",
@@ -56961,7 +57308,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVCineComedia.us",
-      "feed": "Spain",
+      "feed": "US",
       "site": "pluto.tv",
       "site_id": "5f513564e4622a0007c578c0",
       "site_name": "Cine comedia",
@@ -56998,7 +57345,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVCineComediaRomantica.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "62545ed3dab4380007582f7c",
+      "site_name": "Pluto TV Cine Comédia Romântica",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -57027,7 +57382,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVCineCrime.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "6479ff764f5ba5000878dfe2",
+      "site_name": "Pluto TV Cine Crime",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -57056,7 +57419,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVCineCrimen.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "624af40c004f8000079b784d",
+      "site_name": "Pluto TV Cine Crimen",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -57084,11 +57455,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVCineDrama.us",
-      "feed": "Brazil",
+      "feed": "LatAm",
       "site": "pluto.tv",
-      "site_id": "5f1210d14ae1f80007bafb1d",
+      "site_id": "5dcddfcb229eff00091b6bdf",
       "site_name": "Pluto TV Cine Drama",
-      "lang": "pt",
+      "lang": "es",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-cine-drama-es",
@@ -57118,11 +57489,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVCineDrama.us",
-      "feed": "Brazil",
+      "feed": "LatAm",
       "site": "pluto.tv",
-      "site_id": "5f1210d14ae1f80007bafb1d",
+      "site_id": "5dcddfcb229eff00091b6bdf",
       "site_name": "Pluto TV Cine Drama",
-      "lang": "pt",
+      "lang": "es",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-cine-drama-es",
@@ -57152,9 +57523,9 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVCineEstelar.us",
-      "feed": "Spain",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/es#5f1ac1f1b66c76000790ef27",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "670ed8dfc7626f000884c3a8",
       "site_name": "Pluto TV Cine Estelar",
       "lang": "es",
       "sources": []
@@ -57188,11 +57559,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVCineFamilia.us",
-      "feed": "Brazil",
+      "feed": "LatAm",
       "site": "pluto.tv",
-      "site_id": "5f171f032cd22e0007f17f3d",
-      "site_name": "Pluto TV Cine Família",
-      "lang": "pt",
+      "site_id": "5dd6ddb30a1d8a000908ed4c",
+      "site_name": "Pluto TV Cine Familia",
+      "lang": "es",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-cine-familia-ptv1",
@@ -57224,11 +57595,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVCineFamilia.us",
-      "feed": "Brazil",
+      "feed": "LatAm",
       "site": "pluto.tv",
-      "site_id": "5f171f032cd22e0007f17f3d",
-      "site_name": "Pluto TV Cine Família",
-      "lang": "pt",
+      "site_id": "5dd6ddb30a1d8a000908ed4c",
+      "site_name": "Pluto TV Cine Familia",
+      "lang": "es",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-cine-familia-ptv1",
@@ -57261,7 +57632,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVCineInspiracao.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "5fa991b1f09e020007e78626",
+      "site_name": "Pluto TV Cine Inspiração",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -57290,7 +57669,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVCineInspirador.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "6806d519fea7414f33f57016",
+      "site_name": "Pluto TV Cine Inspirador",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -57318,11 +57705,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVCineRomance.us",
-      "feed": "Brazil",
+      "feed": "LatAm",
       "site": "pluto.tv",
-      "site_id": "5f171f988ab9780007fa95ea",
+      "site_id": "5dd7ea2aeab5230009986735",
       "site_name": "Pluto TV Cine Romance",
-      "lang": "pt",
+      "lang": "es",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-cine-romance-ptv1",
@@ -57352,11 +57739,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVCineRomance.us",
-      "feed": "Brazil",
+      "feed": "LatAm",
       "site": "pluto.tv",
-      "site_id": "5f171f988ab9780007fa95ea",
+      "site_id": "5dd7ea2aeab5230009986735",
       "site_name": "Pluto TV Cine Romance",
-      "lang": "pt",
+      "lang": "es",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-cine-romance-ptv1",
@@ -57386,7 +57773,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVCineSucessos.us",
-      "feed": "Brazil",
+      "feed": "BR",
       "site": "pluto.tv",
       "site_id": "5f120e94a5714d00074576a1",
       "site_name": "Pluto TV Cine Sucessos",
@@ -57418,7 +57805,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVCineSuspenso.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "5ddc4e8bcbb9010009b4e84f",
+      "site_name": "Pluto TV Cine Suspenso",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -57447,7 +57842,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVClassicTVVariety.us",
+      "feed": "CA",
+      "site": "pluto.tv",
+      "site_id": "68d25c623175a2780d051d3a",
+      "site_name": "Pluto TV Classic TV Variety",
+      "lang": "en",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -57545,7 +57948,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVComedyMovies.us",
+      "feed": "CA",
+      "site": "pluto.tv",
+      "site_id": "62ea3d24b8e02600071fa296",
+      "site_name": "Pluto TV Comedy Movies",
+      "lang": "en",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -57569,7 +57980,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVCompetencias.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "5dd6d935d000120009bc1132",
+      "site_name": "Pluto TV Competencias",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -57598,7 +58017,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVCompetition.us",
+      "feed": "SD",
+      "site": "pluto.tv",
+      "site_id": "603fde9026ecbf0007752c2c",
+      "site_name": "Pluto TV Competition",
+      "lang": "en",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -57627,7 +58054,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVCozinha.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "5f1ef23020a5ac0007e5e8ea",
+      "site_name": "Pluto TV Cozinha",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -57792,7 +58227,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVCuriosidade.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "6474aadc8e3c0a0008b98493",
+      "site_name": "Pluto TV Curiosidade",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -57818,7 +58261,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVDeportes.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "5dcde07af1c85b0009b18651",
+      "site_name": "Pluto TV Deportes",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -57849,7 +58300,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVDesenhosClassicos.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "655e5c4d2c46f3000877a54b",
+      "site_name": "Pluto TV Desenhos Clássicos",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -57873,7 +58332,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVDocumentales.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "5ddc503ac7ef120009b101a2",
+      "site_name": "Pluto TV Documentales",
+      "lang": "es",
+      "sources": []
+    },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-documentales-es",
     "launched": null,
     "closed": null
@@ -57962,7 +58429,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVDramaMovies.us",
+      "feed": "CA",
+      "site": "pluto.tv",
+      "site_id": "62bdb0bcd707b9000739d2e5",
+      "site_name": "Pluto TV Drama Movies",
+      "lang": "en",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -57991,7 +58466,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVDramasCoreanos.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "6185a9a88b2ce30007de5128",
+      "site_name": "Pluto TV Dramas Coreanos",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -58020,7 +58503,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVDramasCoreanosTeen.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "6661d5424b10960008599fa3",
+      "site_name": "Pluto TV Dramas Coreanos Teen",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -58139,13 +58630,21 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": null,
+    "logo": "https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoSVG_1780355759776.svg",
     "stream_url": "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVEsportes.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "5f32d2db0af67400077f29c4",
+      "site_name": "Pluto TV Esportes",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -58174,7 +58673,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVESports.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "5ff3934600d4c7000733ff49",
+      "site_name": "Pluto TV E-Sports",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -58200,7 +58707,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVEstilodeVida.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "5dcde0657444a40009cd2422",
+      "site_name": "Pluto TV Estilo de Vida",
+      "lang": "es",
+      "sources": []
+    },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-estilo-de-vida",
     "launched": null,
     "closed": null
@@ -58291,7 +58806,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVFBI.us",
+      "feed": "CA",
+      "site": "pluto.tv",
+      "site_id": "693adae77f21340ef9746f56",
+      "site_name": "Pluto TV FBI",
+      "lang": "en",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -58321,7 +58844,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVFiccaoCientifica.us",
-      "feed": "Brazil",
+      "feed": "BR",
       "site": "pluto.tv",
       "site_id": "5fa15ad6367e170007cdd098",
       "site_name": "Pluto TV Ficção Científica",
@@ -58357,7 +58880,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVFilmesAcao.us",
-      "feed": "Brazil",
+      "feed": "BR",
       "site": "pluto.tv",
       "site_id": "5f120f41b7d403000783a6d6",
       "site_name": "Pluto TV Filmes Ação",
@@ -58392,7 +58915,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVFilmesAventura.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "66c79a4262e5510008ff68a5",
+      "site_name": "Pluto TV Filmes Aventura",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -58421,7 +58952,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVFilmesdeLuta.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "6806d62369aec5b19cd628c0",
+      "site_name": "Pluto TV Filmes de Luta",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -58449,7 +58988,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVFilmesNacionais.us",
-      "feed": "Brazil",
+      "feed": "BR",
       "site": "pluto.tv",
       "site_id": "5f5a545d0dbf7f0007c09408",
       "site_name": "Pluto TV Filmes Nacionais",
@@ -58518,7 +59057,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVGamingporUbisoft.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "64c815e8a1c6130008fef928",
+      "site_name": "Pluto TV Gaming por Ubisoft",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -58542,7 +59089,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVHistoria.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "5de5758e1a30dc00094fcd6c",
+      "site_name": "Pluto TV Historia",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -58566,7 +59121,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVHistoria.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "5de5758e1a30dc00094fcd6c",
+      "site_name": "Pluto TV Historia",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -58653,7 +59216,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVHometownDrama.us",
+      "feed": "SD",
+      "site": "pluto.tv",
+      "site_id": "69d6c7befde57cd5ba0160c3",
+      "site_name": "Pluto TV Hometown Drama",
+      "lang": "en",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -58747,7 +59318,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVHumor.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "5e8397936791b30007ebb5a7",
+      "site_name": "Pluto TV Humor",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -58776,7 +59355,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVIcons.us",
+      "feed": "SD",
+      "site": "pluto.tv",
+      "site_id": "64b585f84ea480000838e446",
+      "site_name": "Pluto TV Icons",
+      "lang": "en",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -58806,7 +59393,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVInvestigacao.us",
-      "feed": "Brazil",
+      "feed": "BR",
       "site": "pluto.tv",
       "site_id": "5f32cf37c9ff2b00082adbc8",
       "site_name": "Pluto TV Investigação",
@@ -58840,11 +59427,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVJunior.us",
-      "feed": "Brazil",
+      "feed": "LatAm",
       "site": "pluto.tv",
-      "site_id": "5f12141b146d760007934ea7",
+      "site_id": "5dcde2ac4bc6c500094ab45b",
       "site_name": "Pluto TV Junior",
-      "lang": "pt",
+      "lang": "es",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-junior-fr",
@@ -58874,11 +59461,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVJunior.us",
-      "feed": "Brazil",
+      "feed": "LatAm",
       "site": "pluto.tv",
-      "site_id": "5f12141b146d760007934ea7",
+      "site_id": "5dcde2ac4bc6c500094ab45b",
       "site_name": "Pluto TV Junior",
-      "lang": "pt",
+      "lang": "es",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-junior-fr",
@@ -58910,7 +59497,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVKaraokeporStingray.us",
-      "feed": "Brazil",
+      "feed": "BR",
       "site": "pluto.tv",
       "site_id": "604b99d633a72b00078e05ad",
       "site_name": "Pluto TV Karaokê por Stingray",
@@ -58946,7 +59533,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVKaraokeporStingray.us",
-      "feed": "Brazil",
+      "feed": "BR",
       "site": "pluto.tv",
       "site_id": "604b99d633a72b00078e05ad",
       "site_name": "Pluto TV Karaokê por Stingray",
@@ -59008,7 +59595,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVKFOOD.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "633ee9ba83c08f00076b60a6",
+      "site_name": "Pluto TV KFOOD",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -59036,11 +59631,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVKids.us",
-      "feed": "UK",
+      "feed": "LatAm",
       "site": "pluto.tv",
-      "site_id": "5ad8d54be738977e2c310940",
+      "site_id": "5dd6dae8ce788b0009eaf77b",
       "site_name": "Pluto TV Kids",
-      "lang": "en",
+      "lang": "es",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-kids-gb",
@@ -59070,11 +59665,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVKids.us",
-      "feed": "UK",
+      "feed": "LatAm",
       "site": "pluto.tv",
-      "site_id": "5ad8d54be738977e2c310940",
+      "site_id": "5dd6dae8ce788b0009eaf77b",
       "site_name": "Pluto TV Kids",
-      "lang": "en",
+      "lang": "es",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-kids-gb",
@@ -59105,7 +59700,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVKidsClub.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "66c8cae7fed35b0008580ec0",
+      "site_name": "Pluto TV Kids Club",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -59187,15 +59790,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVMelrosePlace.us",
-      "feed": null,
-      "site": "pluto.tv",
-      "site_id": "66275eed5e23700008f8c8f9",
-      "site_name": "Melrose Place",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": null,
     "launched": null,
     "closed": null
@@ -59219,15 +59814,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVMelrosePlace.us",
-      "feed": null,
-      "site": "pluto.tv",
-      "site_id": "66275eed5e23700008f8c8f9",
-      "site_name": "Melrose Place",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": null,
     "launched": null,
     "closed": null
@@ -59251,15 +59838,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVMelrosePlace.us",
-      "feed": null,
-      "site": "pluto.tv",
-      "site_id": "66275eed5e23700008f8c8f9",
-      "site_name": "Melrose Place",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": null,
     "launched": null,
     "closed": null
@@ -59283,15 +59862,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVMelrosePlace.us",
-      "feed": null,
-      "site": "pluto.tv",
-      "site_id": "66275eed5e23700008f8c8f9",
-      "site_name": "Melrose Place",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": null,
     "launched": null,
     "closed": null
@@ -59315,15 +59886,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "PlutoTVMelrosePlace.us",
-      "feed": null,
-      "site": "pluto.tv",
-      "site_id": "66275eed5e23700008f8c8f9",
-      "site_name": "Melrose Place",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": null,
     "launched": null,
     "closed": null
@@ -59387,7 +59950,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVMinhaObsessaoFavorita.us",
-      "feed": "Brazil",
+      "feed": "BR",
       "site": "pluto.tv",
       "site_id": "61843f5e491af10007f7eefa",
       "site_name": "Pluto TV Minha Obsessão Favorita",
@@ -59450,7 +60013,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVMiObsesionFavorita.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "6109ab25b84d6a0007504886",
+      "site_name": "Pluto TV Mi Obsesión Favorita",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -59480,11 +60051,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVMisterios.us",
-      "feed": "Brazil",
+      "feed": "LatAm",
       "site": "pluto.tv",
-      "site_id": "5fac52f142044f00078e2a51",
-      "site_name": "Pluto TV Mistérios",
-      "lang": "pt",
+      "site_id": "5dcde2f53449c50009b2b4dc",
+      "site_name": "Pluto TV Misterios",
+      "lang": "es",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-misterios-ptv1",
@@ -59516,11 +60087,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVMisterios.us",
-      "feed": "Brazil",
+      "feed": "LatAm",
       "site": "pluto.tv",
-      "site_id": "5fac52f142044f00078e2a51",
-      "site_name": "Pluto TV Mistérios",
-      "lang": "pt",
+      "site_id": "5dcde2f53449c50009b2b4dc",
+      "site_name": "Pluto TV Misterios",
+      "lang": "es",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-misterios-ptv1",
@@ -59670,10 +60241,10 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVNaturaleza.us",
-      "feed": "SD",
-      "site": "plex.tv",
-      "site_id": "666e2178d91d13cb4c8cbb75",
-      "site_name": "Naturaleza",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "5dd85eac039bba0009e86d1d",
+      "site_name": "Pluto TV Naturaleza",
       "lang": "es",
       "sources": []
     },
@@ -59704,7 +60275,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVNatureza.us",
-      "feed": "Brazil",
+      "feed": "BR",
       "site": "pluto.tv",
       "site_id": "5f1213ba0ecebc00070e170f",
       "site_name": "Pluto TV Natureza",
@@ -59741,7 +60312,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVNegocioFechado.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "64ad7394798def00087b2bfe",
+      "site_name": "Pluto TV Negócio Fechado",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -59770,7 +60349,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVNetmovies.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "663b9de4f999220008230fa8",
+      "site_name": "Pluto TV Netmovies",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -59798,7 +60385,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVNovelas.us",
-      "feed": "SD",
+      "feed": "US",
       "site": "pluto.tv",
       "site_id": "5cf96c0222df39f1a338d163",
       "site_name": "Pluto TV Novelas",
@@ -59832,7 +60419,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVNovelas.us",
-      "feed": "SD",
+      "feed": "US",
       "site": "pluto.tv",
       "site_id": "5cf96c0222df39f1a338d163",
       "site_name": "Pluto TV Novelas",
@@ -59866,7 +60453,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVNovelas.us",
-      "feed": "SD",
+      "feed": "US",
       "site": "pluto.tv",
       "site_id": "5cf96c0222df39f1a338d163",
       "site_name": "Pluto TV Novelas",
@@ -59903,7 +60490,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVNovelasdeMexico.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "6474a7958e3c0a0008b97cae",
+      "site_name": "Pluto TV Novelas de México",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -59932,7 +60527,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVNovelasdeOtrosContinentes.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "686eed4c677f2f98b4a1ccd4",
+      "site_name": "Pluto TV Novelas de Otros Continentes",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -59961,7 +60564,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVNovelasdeVenezuela.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "6474a86917f5e100089a0c1c",
+      "site_name": "Pluto TV Novelas de Venezuela",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -59990,7 +60601,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVNuestroCine.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "5defde6d6c07b50009cf0757",
+      "site_name": "Pluto TV Nuestro Cine",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -60018,7 +60637,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVPaisagensporStingray.us",
-      "feed": "Brazil",
+      "feed": "BR",
       "site": "pluto.tv",
       "site_id": "604a8dedbca75b0007b1c753",
       "site_name": "Pluto TV Paisagens por Stingray",
@@ -60116,7 +60735,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVPeleas.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "5e98b0447665f200078caded",
+      "site_name": "Pluto TV Peleas",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -60330,7 +60957,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVPolicial.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "678fdf9e3de7c8cf948e8824",
+      "site_name": "Pluto TV Policial",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -60495,7 +61130,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVRecordNews.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "6102e04e9ab1db0007a980a1",
+      "site_name": "Pluto TV Record News",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -60525,7 +61168,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVRetro.us",
-      "feed": "Brazil",
+      "feed": "BR",
       "site": "pluto.tv",
       "site_id": "5f1212ad1728050007a523b8",
       "site_name": "Pluto TV Retrô",
@@ -60561,7 +61204,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVRetroActionMovies.us",
+      "feed": "CA",
+      "site": "pluto.tv",
+      "site_id": "69a9ae4d3bd16a4ed04240d7",
+      "site_name": "Pluto TV Retro Action Movies",
+      "lang": "en",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -60590,7 +61241,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVRetroCrimeAction.us",
+      "feed": "CA",
+      "site": "pluto.tv",
+      "site_id": "69aee8a1acb7eb0bb68df641",
+      "site_name": "Pluto TV Retro Crime Action",
+      "lang": "en",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -60619,7 +61278,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVRetroCrimeDrama.us",
+      "feed": "CA",
+      "site": "pluto.tv",
+      "site_id": "630f1e6073bd1800082107f0",
+      "site_name": "Pluto TV Retro Crime Drama",
+      "lang": "en",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -60648,7 +61315,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVRetroKid.us",
+      "feed": "CA",
+      "site": "pluto.tv",
+      "site_id": "6408b41b83f58900081d91ad",
+      "site_name": "Pluto TV Retro Kid",
+      "lang": "en",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -60808,11 +61483,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVSciFi.us",
-      "feed": "Italy",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/it#61728bb9ee3773000840c1fa",
+      "feed": "US",
+      "site": "pluto.tv",
+      "site_id": "5b4fc274694c027be6ed3eea",
       "site_name": "Pluto TV Sci-Fi",
-      "lang": "it",
+      "lang": "en",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-sci-fi",
@@ -60843,11 +61518,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVSciFi.us",
-      "feed": "Italy",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/it#61728bb9ee3773000840c1fa",
+      "feed": "US",
+      "site": "pluto.tv",
+      "site_id": "5b4fc274694c027be6ed3eea",
       "site_name": "Pluto TV Sci-Fi",
-      "lang": "it",
+      "lang": "en",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-sci-fi",
@@ -60878,11 +61553,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVSciFi.us",
-      "feed": "Italy",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/it#61728bb9ee3773000840c1fa",
+      "feed": "US",
+      "site": "pluto.tv",
+      "site_id": "5b4fc274694c027be6ed3eea",
       "site_name": "Pluto TV Sci-Fi",
-      "lang": "it",
+      "lang": "en",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-sci-fi",
@@ -60912,11 +61587,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVSeries.us",
-      "feed": "France",
-      "site": "i.mjh.nz",
-      "site_id": "PlutoTV/fr#5f8ed2d1c34c2300073bf02c",
-      "site_name": "Series by Pluto TV",
-      "lang": "fr",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "5dcde1317578340009b751d0",
+      "site_name": "Pluto TV Series",
+      "lang": "es",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-series-gb",
@@ -60949,7 +61624,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVSeriesAcao.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "6474ab1da51cb80008bfb5f4",
+      "site_name": "Pluto TV Séries Ação",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -60976,7 +61659,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVSeriesComedia.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "655e5bc94261ca000810cb17",
+      "site_name": "Pluto TV Séries Comédia",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -61007,7 +61698,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVSeriesCriminais.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "6474ab5cdc7a760008745008",
+      "site_name": "Pluto TV Séries Criminais",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -61038,7 +61737,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVSeriesdeAccion.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "6479ff1c17f5e10008ad2797",
+      "site_name": "Pluto TV Series de Acción",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -61067,7 +61774,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVSeriesdeComedia.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "655f626d57fe4a00085c7c3e",
+      "site_name": "Pluto TV Series de Comedia",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -61096,7 +61811,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVSeriesdeCrimen.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "655f62ff954b020008c91ec6",
+      "site_name": "Pluto TV Series de Crimen",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -61125,7 +61848,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVSeriesdeDrama.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "655f636d954b020008c93299",
+      "site_name": "Pluto TV Series de Drama",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -61154,7 +61885,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVSeriesdeOtrosContinentes.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "6806d570c178637410ae4962",
+      "site_name": "Pluto TV Series de Otros Continentes",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -61183,7 +61922,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVSeriesdeSciFi.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "65662f8a2c46f300088a84cc",
+      "site_name": "Pluto TV Series de Sci-Fi",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -61214,7 +61961,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVSeriesDrama.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "65f060d84e01740008d7421f",
+      "site_name": "Pluto TV Séries Drama",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -61240,7 +61995,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVSeriesLatinas.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "5dd837642c6e9300098ad484",
+      "site_name": "Pluto TV Series Latinas",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -61271,7 +62034,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVSeriesNovelescas.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "691627e4a29a6123e400b3e0",
+      "site_name": "Pluto TV Séries Novelescas",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -61297,7 +62068,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVSeriesRetro.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "5de802659167b10009e7deba",
+      "site_name": "Pluto TV Series Retro",
+      "lang": "en",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -61328,7 +62107,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVSeriesSciFi.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "63d2ba2f60bc8f0008981a0e",
+      "site_name": "Pluto TV Séries Sci-Fi",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -61356,7 +62143,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVShowsporStingray.us",
-      "feed": "Brazil",
+      "feed": "BR",
       "site": "pluto.tv",
       "site_id": "604b91e0692f770007d9f33f",
       "site_name": "Pluto TV Shows por Stingray",
@@ -61391,7 +62178,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVSnooker900.us",
+      "feed": "CA",
+      "site": "pluto.tv",
+      "site_id": "639b4f75d3d35c0007d37b30",
+      "site_name": "Pluto TV Snooker 900",
+      "lang": "en",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -61548,7 +62343,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVTerrorTrash.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "66aa67493a4ad2000806d91b",
+      "site_name": "Pluto TV Terror Trash",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -61751,7 +62554,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVTrendingNow.us",
+      "feed": "SD",
+      "site": "pluto.tv",
+      "site_id": "673247127d5da5000817b4d6",
+      "site_name": "Pluto TV Trending Now",
+      "lang": "en",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -61851,7 +62662,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVTurbo.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "6014761dfb91870008ea6463",
+      "site_name": "Pluto TV Turbo",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -61875,7 +62694,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVVelocidad.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "5dd6dc7480e3550009133d4a",
+      "site_name": "Pluto TV Velocidad",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -61904,7 +62731,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PlutoTVViagens.us",
+      "feed": "BR",
+      "site": "pluto.tv",
+      "site_id": "5f32d432d612e50007e56133",
+      "site_name": "Pluto TV Viagens",
+      "lang": "pt",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -61932,11 +62767,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVVidaReal.us",
-      "feed": "Brazil",
+      "feed": "LatAm",
       "site": "pluto.tv",
-      "site_id": "5f32d4d9ec194100070c7449",
+      "site_id": "5df265697ec3510009df1ef0",
       "site_name": "Pluto TV Vida Real",
-      "lang": "pt",
+      "lang": "es",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-vida-real-ptv1",
@@ -61966,11 +62801,11 @@
     "referrer": null,
     "tv_guide": {
       "channel": "PlutoTVVidaReal.us",
-      "feed": "Brazil",
+      "feed": "LatAm",
       "site": "pluto.tv",
-      "site_id": "5f32d4d9ec194100070c7449",
+      "site_id": "5df265697ec3510009df1ef0",
       "site_name": "Pluto TV Vida Real",
-      "lang": "pt",
+      "lang": "es",
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/pluto-tv-vida-real-ptv1",
@@ -64908,15 +65743,7 @@
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
     "referrer": null,
-    "tv_guide": {
-      "channel": "RightNowTV.us",
-      "feed": "SD",
-      "site": "distro.tv",
-      "site_id": "34007",
-      "site_name": "Right Now Tv",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://www.rightnowtelevision.com/watch-live/",
     "launched": null,
     "closed": null
@@ -64943,15 +65770,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "RightNowTV.us",
-      "feed": "SD",
-      "site": "distro.tv",
-      "site_id": "34007",
-      "site_name": "Right Now Tv",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://www.rightnowtelevision.com/watch-live/",
     "launched": null,
     "closed": null
@@ -64978,15 +65797,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "RightNowTV.us",
-      "feed": "SD",
-      "site": "distro.tv",
-      "site_id": "34007",
-      "site_name": "Right Now Tv",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://www.rightnowtelevision.com/watch-live/",
     "launched": null,
     "closed": null
@@ -67165,7 +67976,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "SmithsonianChannelPlutoTV.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "63a084934734f30007457b2c",
+      "site_name": "Smithsonian Channel Pluto TV",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -67194,7 +68013,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "SmithsonianChannelPlutoTV.us",
+      "feed": "LatAm",
+      "site": "pluto.tv",
+      "site_id": "63a084934734f30007457b2c",
+      "site_name": "Smithsonian Channel Pluto TV",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -67443,6 +68270,40 @@
     "tv_guide": null,
     "website": "https://www.sonykal.com/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SonyMoviesLatinAmerica.us",
+    "name": "Sony Movies Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",
+    "stream_url": "https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyMoviesLatinAmerica.us",
+      "feed": "SD",
+      "site": "programacion.tcc.com.uy",
+      "site_id": "468",
+      "site_name": "Sony Movies",
+      "lang": "es",
+      "sources": []
+    },
+    "website": null,
+    "launched": "2022-04-01",
     "closed": null
   },
   {
@@ -68191,15 +69052,7 @@
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
     "referrer": null,
-    "tv_guide": {
-      "channel": "SportsTVPlus.us",
-      "feed": "SD",
-      "site": "distro.tv",
-      "site_id": "136902",
-      "site_name": "SportsTVPlus",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": null,
     "launched": null,
     "closed": null
@@ -68356,7 +69209,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "StarTrek.us",
-      "feed": "SD",
+      "feed": "US",
       "site": "pluto.tv",
       "site_id": "5efbd39f8c4ce900075d7698",
       "site_name": "Star Trek",
@@ -68390,7 +69243,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "StarTrek.us",
-      "feed": "SD",
+      "feed": "US",
       "site": "pluto.tv",
       "site_id": "5efbd39f8c4ce900075d7698",
       "site_name": "Star Trek",
@@ -68424,7 +69277,7 @@
     "referrer": null,
     "tv_guide": {
       "channel": "StarTrek.us",
-      "feed": "SD",
+      "feed": "US",
       "site": "pluto.tv",
       "site_id": "5efbd39f8c4ce900075d7698",
       "site_name": "Star Trek",
@@ -68730,15 +69583,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "Strongman.us",
-      "feed": "UK",
-      "site": "pluto.tv",
-      "site_id": "5bd81b1053ed2c6334ea0856",
-      "site_name": "Strongman",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://pluto.tv/en/live-tv/strongman-gb",
     "launched": null,
     "closed": null
@@ -68764,15 +69609,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "Strongman.us",
-      "feed": "UK",
-      "site": "pluto.tv",
-      "site_id": "5bd81b1053ed2c6334ea0856",
-      "site_name": "Strongman",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://pluto.tv/en/live-tv/strongman-gb",
     "launched": null,
     "closed": null
@@ -68798,15 +69635,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "Strongman.us",
-      "feed": "UK",
-      "site": "pluto.tv",
-      "site_id": "5bd81b1053ed2c6334ea0856",
-      "site_name": "Strongman",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://pluto.tv/en/live-tv/strongman-gb",
     "launched": null,
     "closed": null
@@ -76618,7 +77447,7 @@
       "channel": "TVLandSitcoms.us",
       "feed": "SD",
       "site": "pluto.tv",
-      "site_id": "61bd0b57872c650008ed2e38",
+      "site_id": "5c2d64ffbdf11b71587184b8",
       "site_name": "TV Land Sitcoms",
       "lang": "en",
       "sources": []
@@ -88099,15 +88928,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "YoungHollywood.us",
-      "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "DISTROTV_LIVETVCHANNEL_1032",
-      "site_name": "Young Hollywood",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": null,
     "launched": null,
     "closed": null
@@ -88133,15 +88954,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "YoungHollywood.us",
-      "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "DISTROTV_LIVETVCHANNEL_1032",
-      "site_name": "Young Hollywood",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": null,
     "launched": null,
     "closed": null
@@ -88167,15 +88980,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "YoungHollywood.us",
-      "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "DISTROTV_LIVETVCHANNEL_1032",
-      "site_name": "Young Hollywood",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": null,
     "launched": null,
     "closed": null
@@ -88201,15 +89006,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "YoungHollywood.us",
-      "feed": "SD",
-      "site": "airtelxstream.in",
-      "site_id": "DISTROTV_LIVETVCHANNEL_1032",
-      "site_name": "Young Hollywood",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": null,
     "launched": null,
     "closed": null
@@ -88708,7 +89505,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "ZNation.us",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "682512b03d06c8e426a2941a",
+      "site_name": "Z Nation",
+      "lang": "es",
+      "sources": []
+    },
     "website": "https://filmrise.com/z-nation",
     "launched": null,
     "closed": null
@@ -88737,7 +89542,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "ZNation.us",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "682512b03d06c8e426a2941a",
+      "site_name": "Z Nation",
+      "lang": "es",
+      "sources": []
+    },
     "website": "https://filmrise.com/z-nation",
     "launched": null,
     "closed": null
@@ -88766,7 +89579,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "ZNation.us",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "682512b03d06c8e426a2941a",
+      "site_name": "Z Nation",
+      "lang": "es",
+      "sources": []
+    },
     "website": "https://filmrise.com/z-nation",
     "launched": null,
     "closed": null
@@ -88795,7 +89616,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "ZNation.us",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "682512b03d06c8e426a2941a",
+      "site_name": "Z Nation",
+      "lang": "es",
+      "sources": []
+    },
     "website": "https://filmrise.com/z-nation",
     "launched": null,
     "closed": null

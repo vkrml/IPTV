@@ -455,15 +455,7 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "AfricanewsFrench.fr",
-      "feed": "SD",
-      "site": "i.mjh.nz",
-      "site_id": "Plex/fr#6430aa45fc3be5947780904e-6245f06793b402a3d1097787",
-      "site_name": "Euronews Français",
-      "lang": "fr",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://fr.africanews.com",
     "launched": "2016-01-04",
     "closed": null
@@ -5775,44 +5767,6 @@
     "closed": null
   },
   {
-    "id": "M6.fr",
-    "name": "M6",
-    "alt_names": [
-      "RTL6"
-    ],
-    "network": null,
-    "owners": [
-      "Groupe M6"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/7GVp3fW.png",
-    "stream_url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_q2hyb21h/index-hd720.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "M6.fr",
-      "feed": "HD",
-      "site": "vodafone.pt",
-      "site_id": "2856",
-      "site_name": "M6",
-      "lang": "pt",
-      "sources": []
-    },
-    "website": "https://www.6play.fr/m6",
-    "launched": "1987-03-01",
-    "closed": null
-  },
-  {
     "id": "M6Music.fr",
     "name": "M6 Music",
     "alt_names": [],
@@ -6562,15 +6516,7 @@
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
     "referrer": null,
-    "tv_guide": {
-      "channel": "Novocomedy.fr",
-      "feed": "SD",
-      "site": "distro.tv",
-      "site_id": "141346",
-      "site_name": "Novo Comedy",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "https://novocomedy.com/channel/",
     "launched": null,
     "closed": null
@@ -10195,6 +10141,42 @@
     "logo": "https://i.imgur.com/reYeMuE.png",
     "stream_url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd720.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "W9.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "82515050/w9",
+      "site_name": "W9",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.6play.fr/w9",
+    "launched": "2005-03-31",
+    "closed": null
+  },
+  {
+    "id": "W9.fr",
+    "name": "W9",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Bertelsmann"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/reYeMuE.png",
+    "stream_url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

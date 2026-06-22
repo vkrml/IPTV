@@ -428,6 +428,44 @@
     "closed": null
   },
   {
+    "id": "CCTV1.cn",
+    "name": "CCTV-1",
+    "alt_names": [
+      "CCTV-1 综合"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TpA3cUl.png",
+    "stream_url": "https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV1.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv1",
+      "site_name": "CCTV 1",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv1/",
+    "launched": "1958-09-02",
+    "closed": null
+  },
+  {
     "id": "CCTV2.cn",
     "name": "CCTV-2",
     "alt_names": [
@@ -2085,6 +2123,42 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png",
     "stream_url": "https://english-livebkali.cgtn.com/live/encgtn.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CGTN.cn",
+      "feed": "SD",
+      "site": "webtv.delta.nl",
+      "site_id": "3125",
+      "site_name": "CGTN",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.cgtn.com/tv",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CGTN.cn",
+    "name": "CGTN",
+    "alt_names": [],
+    "network": "China Global Television Network",
+    "owners": [
+      "China Media Group"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png",
+    "stream_url": "https://0472.org/hls/cgtn.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

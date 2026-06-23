@@ -28,6 +28,32 @@
     "closed": null
   },
   {
+    "id": "AhsanTV.id",
+    "name": "Ahsan TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/dZdUbYd.png",
+    "stream_url": "https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://ahsan.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AlBahjahTV.id",
     "name": "Al-Bahjah TV",
     "alt_names": [],
@@ -2562,6 +2588,42 @@
     "logo": "https://i.imgur.com/B5YiUIP.png",
     "stream_url": "http://origin5.mediacdn.ru/live/kidstv/index.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "KidsTV.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000056",
+      "site_name": "Kids TV",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://www.mncchannels.com/micro/Kids-TV",
+    "launched": "2015-01-01",
+    "closed": null
+  },
+  {
+    "id": "KidsTV.id",
+    "name": "Kids TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "MNC Vision Networks"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/B5YiUIP.png",
+    "stream_url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/kids-tv-hd.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

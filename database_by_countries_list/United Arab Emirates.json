@@ -1,5 +1,44 @@
 [
   {
+    "id": "AbuDhabiTV.ae",
+    "name": "Abu Dhabi TV",
+    "alt_names": [
+      "قناة أبوظبي",
+      "أبو ظبي تي في"
+    ],
+    "network": null,
+    "owners": [
+      "Abu Dhabi Media"
+    ],
+    "country_code": "AE",
+    "country_name": "United Arab Emirates",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/8DAriPs.png",
+    "stream_url": "http://185.9.2.18/chid_326/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AbuDhabiTV.ae",
+      "feed": "SD",
+      "site": "sat.tv",
+      "site_id": "1#38#أبو ظبي تي في",
+      "site_name": "أبو ظبي تي في",
+      "lang": "ar",
+      "sources": []
+    },
+    "website": "https://adtv.ae/",
+    "launched": "1969-08-04",
+    "closed": null
+  },
+  {
     "id": "AjmanTV.ae",
     "name": "Ajman TV",
     "alt_names": [
@@ -126,6 +165,44 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/NXFkYFj.png",
     "stream_url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Alarabiya.ae",
+      "feed": "SD",
+      "site": "tv.sfr.fr",
+      "site_id": "1540",
+      "site_name": "Al Arabiya",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.alarabiya.net/",
+    "launched": "2003-03-03",
+    "closed": null
+  },
+  {
+    "id": "Alarabiya.ae",
+    "name": "Alarabiya",
+    "alt_names": [
+      "العربية"
+    ],
+    "network": null,
+    "owners": [
+      "MBC Group"
+    ],
+    "country_code": "AE",
+    "country_name": "United Arab Emirates",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NXFkYFj.png",
+    "stream_url": "http://185.9.2.18/chid_146/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -436,6 +513,34 @@
     },
     "website": "https://www.cnbcarabia.com/",
     "launched": "2003-01-01",
+    "closed": null
+  },
+  {
+    "id": "DubaiTVInternational.ae",
+    "name": "Dubai TV International",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Dubai Media Incorporated"
+    ],
+    "country_code": "AE",
+    "country_name": "United Arab Emirates",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/UMmbyHv.png",
+    "stream_url": "http://185.9.2.18/chid_139/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.dubaitv.ae/",
+    "launched": null,
     "closed": null
   },
   {

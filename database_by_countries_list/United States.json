@@ -5989,7 +5989,9 @@
     "name": "At Home with Family Handyman",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -6023,7 +6025,9 @@
     "name": "At Home with Family Handyman",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -6857,6 +6861,114 @@
     "closed": null
   },
   {
+    "id": "AXNBlack.us",
+    "name": "AXN Black",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sony Pictures Television"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Peo1QiZ.png",
+    "stream_url": "http://82.78.243.219:45739/play/a00e/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXNBlack.us",
+      "feed": "Bulgary",
+      "site": "tvprofil.com",
+      "site_id": "bg/tv-programa#axn-black-bg",
+      "site_name": "AXN Black BG",
+      "lang": "bg",
+      "sources": []
+    },
+    "website": "https://www.axnblack.com/",
+    "launched": "2023-09-01",
+    "closed": null
+  },
+  {
+    "id": "AXNLatinAmerica.us",
+    "name": "AXN Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sony Pictures Television"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "stream_url": "http://45.167.1.138:8000/play/a04s",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXNLatinAmerica.us",
+      "feed": "Andes",
+      "site": "siba.com.co",
+      "site_id": "384",
+      "site_name": "AXN",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://la.axn.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AXNLatinAmerica.us",
+    "name": "AXN Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sony Pictures Television"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "stream_url": "http://190.11.225.124:5000/live/axn_hd/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXNLatinAmerica.us",
+      "feed": "Andes",
+      "site": "siba.com.co",
+      "site_id": "384",
+      "site_name": "AXN",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://la.axn.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AXNWhite.us",
     "name": "AXN White",
     "alt_names": [],
@@ -7022,6 +7134,42 @@
     "stream_quality": null,
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXNWhite.us",
+      "feed": "Portugal",
+      "site": "vodafone.pt",
+      "site_id": "2833",
+      "site_name": "AXN White",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "http://www.axnwhite.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AXNWhite.us",
+    "name": "AXN White",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sony Pictures Television"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1280px-AXN_White_logo_%282015%29.svg.png",
+    "stream_url": "http://82.78.243.219:45739/play/a00n/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "AXNWhite.us",
@@ -24932,8 +25080,11 @@
     "id": "FailArmy.us",
     "name": "FailArmy",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -24958,7 +25109,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/failarmy-ptv1",
+    "website": "https://www.failarmy.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -24966,8 +25117,11 @@
     "id": "FailArmy.us",
     "name": "FailArmy",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -24992,7 +25146,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/failarmy-ptv1",
+    "website": "https://www.failarmy.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -25000,8 +25154,11 @@
     "id": "FailArmy.us",
     "name": "FailArmy",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -25026,7 +25183,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/failarmy-ptv1",
+    "website": "https://www.failarmy.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -25034,8 +25191,11 @@
     "id": "FailArmy.us",
     "name": "FailArmy",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -25060,7 +25220,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/failarmy-ptv1",
+    "website": "https://www.failarmy.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -25068,8 +25228,11 @@
     "id": "FailArmy.us",
     "name": "FailArmy",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -25094,7 +25257,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/failarmy-ptv1",
+    "website": "https://www.failarmy.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -25102,8 +25265,11 @@
     "id": "FailArmy.us",
     "name": "FailArmy",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -25128,7 +25294,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/failarmy-ptv1",
+    "website": "https://www.failarmy.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -25136,8 +25302,11 @@
     "id": "FailArmy.us",
     "name": "FailArmy",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -25162,7 +25331,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/failarmy-ptv1",
+    "website": "https://www.failarmy.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -25170,8 +25339,11 @@
     "id": "FailArmy.us",
     "name": "FailArmy",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -25196,7 +25368,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/failarmy-ptv1",
+    "website": "https://www.failarmy.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -25204,8 +25376,11 @@
     "id": "FailArmy.us",
     "name": "FailArmy",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -25230,7 +25405,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/failarmy-ptv1",
+    "website": "https://www.failarmy.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -25238,8 +25413,11 @@
     "id": "FailArmy.us",
     "name": "FailArmy",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -25264,7 +25442,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/failarmy-ptv1",
+    "website": "https://www.failarmy.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -25272,8 +25450,11 @@
     "id": "FailArmy.us",
     "name": "FailArmy",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -25298,7 +25479,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/failarmy-ptv1",
+    "website": "https://www.failarmy.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -25306,8 +25487,11 @@
     "id": "FailArmy.us",
     "name": "FailArmy",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -25332,7 +25516,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/failarmy-ptv1",
+    "website": "https://www.failarmy.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -25340,8 +25524,11 @@
     "id": "FailArmy.us",
     "name": "FailArmy",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -25366,7 +25553,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/failarmy-ptv1",
+    "website": "https://www.failarmy.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -25374,8 +25561,11 @@
     "id": "FailArmy.us",
     "name": "FailArmy",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -25400,7 +25590,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/failarmy-ptv1",
+    "website": "https://www.failarmy.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -25408,8 +25598,11 @@
     "id": "FailArmy.us",
     "name": "FailArmy",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -25434,7 +25627,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/failarmy-ptv1",
+    "website": "https://www.failarmy.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -25442,8 +25635,11 @@
     "id": "FailArmy.us",
     "name": "FailArmy",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -25468,7 +25664,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/failarmy-ptv1",
+    "website": "https://www.failarmy.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -25476,8 +25672,11 @@
     "id": "FailArmy.us",
     "name": "FailArmy",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -25502,7 +25701,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/failarmy-ptv1",
+    "website": "https://www.failarmy.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -25510,8 +25709,11 @@
     "id": "FailArmy.us",
     "name": "FailArmy",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -25536,7 +25738,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/failarmy-ptv1",
+    "website": "https://www.failarmy.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -25544,8 +25746,11 @@
     "id": "FailArmy.us",
     "name": "FailArmy",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -25570,7 +25775,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/failarmy-ptv1",
+    "website": "https://www.failarmy.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -25578,8 +25783,11 @@
     "id": "FailArmy.us",
     "name": "FailArmy",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -25604,7 +25812,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/failarmy-ptv1",
+    "website": "https://www.failarmy.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -25612,8 +25820,11 @@
     "id": "FailArmy.us",
     "name": "FailArmy",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -25638,7 +25849,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/failarmy-ptv1",
+    "website": "https://www.failarmy.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -25646,8 +25857,11 @@
     "id": "FailArmy.us",
     "name": "FailArmy",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -25672,7 +25886,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/failarmy-ptv1",
+    "website": "https://www.failarmy.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -27478,44 +27692,6 @@
     },
     "website": "https://foxsoul.tv/",
     "launched": "2020-01-13",
-    "closed": null
-  },
-  {
-    "id": "FoxSports1.us",
-    "name": "Fox Sports 1",
-    "alt_names": [
-      "FS1"
-    ],
-    "network": "Fox Sports",
-    "owners": [
-      "Fox Sports Media Group"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/O9BapV9.png",
-    "stream_url": "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8",
-    "stream_quality": "1280p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FoxSports1.us",
-      "feed": "HD",
-      "site": "tvguide.com",
-      "site_id": "9233008440",
-      "site_name": "FOX Sports 1",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.foxsports.com/",
-    "launched": "2013-08-17",
     "closed": null
   },
   {
@@ -46672,6 +46848,43 @@
     "closed": null
   },
   {
+    "id": "MTVLatinAmerica.us",
+    "name": "MTV Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Viacom International Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "stream_url": "http://179.60.51.134:8888/MTV/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MTVLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "544",
+      "site_name": "MTV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.mtvla.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "MTVLive.us",
     "name": "MTV Live",
     "alt_names": [],
@@ -50832,6 +51045,43 @@
     "closed": null
   },
   {
+    "id": "NickelodeonLatinAmerica.us",
+    "name": "Nickelodeon Latin America",
+    "alt_names": [],
+    "network": "Nickelodeon",
+    "owners": [
+      "Viacom International Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "stream_url": "http://179.60.51.134:8888/NICK/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NickelodeonLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "552",
+      "site_name": "NICKELODEON",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://nickelodeon.la/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "NickelodeonPlutoTV.us",
     "name": "Nickelodeon Pluto TV",
     "alt_names": [],
@@ -51033,6 +51283,43 @@
     "closed": null
   },
   {
+    "id": "NickJrLatinAmerica.us",
+    "name": "Nick Jr. Latin America",
+    "alt_names": [],
+    "network": "Nickelodeon",
+    "owners": [
+      "Viacom International Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KT4tdQs.png",
+    "stream_url": "http://179.60.51.134:8888/NICK-JR/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NickJrLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "551",
+      "site_name": "NICK JR",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://la.nickjr.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "NickJrPlutoTV.us",
     "name": "Nick Jr. Pluto TV",
     "alt_names": [],
@@ -51124,7 +51411,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/960px-Nicktoons_Network_logo_2009.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg",
     "stream_url": "http://41.205.93.154/NICKTOONS/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -55208,7 +55495,10 @@
     "name": "People Are Awesome",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -55233,7 +55523,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://www.peopleareawesome.tv/",
+    "website": "https://www.peopleareawesome.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -55242,7 +55532,10 @@
     "name": "People Are Awesome",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -55267,7 +55560,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://www.peopleareawesome.tv/",
+    "website": "https://www.peopleareawesome.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -55276,7 +55569,10 @@
     "name": "People Are Awesome",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -55301,7 +55597,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://www.peopleareawesome.tv/",
+    "website": "https://www.peopleareawesome.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -55310,7 +55606,10 @@
     "name": "People Are Awesome",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -55335,7 +55634,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://www.peopleareawesome.tv/",
+    "website": "https://www.peopleareawesome.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -55344,7 +55643,10 @@
     "name": "People Are Awesome",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -55369,7 +55671,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://www.peopleareawesome.tv/",
+    "website": "https://www.peopleareawesome.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -55378,7 +55680,10 @@
     "name": "People Are Awesome",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -55403,7 +55708,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://www.peopleareawesome.tv/",
+    "website": "https://www.peopleareawesome.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -55412,7 +55717,10 @@
     "name": "People Are Awesome",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -55437,7 +55745,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://www.peopleareawesome.tv/",
+    "website": "https://www.peopleareawesome.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -55446,7 +55754,10 @@
     "name": "People Are Awesome",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -55471,7 +55782,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://www.peopleareawesome.tv/",
+    "website": "https://www.peopleareawesome.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -55480,7 +55791,10 @@
     "name": "People Are Awesome",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -55505,7 +55819,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://www.peopleareawesome.tv/",
+    "website": "https://www.peopleareawesome.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -55514,7 +55828,10 @@
     "name": "People Are Awesome",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -55539,7 +55856,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://www.peopleareawesome.tv/",
+    "website": "https://www.peopleareawesome.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -55548,7 +55865,10 @@
     "name": "People Are Awesome",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -55573,7 +55893,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://www.peopleareawesome.tv/",
+    "website": "https://www.peopleareawesome.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -55582,7 +55902,10 @@
     "name": "People Are Awesome",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -55607,7 +55930,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://www.peopleareawesome.tv/",
+    "website": "https://www.peopleareawesome.com/pages/streaming",
     "launched": null,
     "closed": null
   },
@@ -66987,6 +67310,38 @@
     "closed": null
   },
   {
+    "id": "SemillitasTV.us",
+    "name": "Semillitas TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/u3yujUd.png",
+    "stream_url": "http://45.5.117.99:8000/play/a0g3/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SemillitasTV.us",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "semillitas",
+      "site_name": "Canal Semillitas",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://semillitas.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SensingMurder.us",
     "name": "Sensing Murder",
     "alt_names": [],
@@ -69461,6 +69816,34 @@
       "sources": []
     },
     "website": "https://watch.plex.tv/live-tv/channel/greatest-holiday-hits-2",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "StLuciePublicSchools.us",
+    "name": "St Lucie Public Schools",
+    "alt_names": [
+      "SLPS"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/wnB0fWG.png",
+    "stream_url": "https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.stlucie.k12.fl.us/",
     "launched": null,
     "closed": null
   },
@@ -74093,8 +74476,12 @@
     "id": "ThePetCollective.us",
     "name": "The Pet Collective",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Pet Collective LLC",
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -74119,7 +74506,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/the-pet-collective",
+    "website": "https://www.thepetcollective.com/streaming/",
     "launched": null,
     "closed": null
   },
@@ -74127,8 +74514,12 @@
     "id": "ThePetCollective.us",
     "name": "The Pet Collective",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Pet Collective LLC",
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -74153,7 +74544,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/the-pet-collective",
+    "website": "https://www.thepetcollective.com/streaming/",
     "launched": null,
     "closed": null
   },
@@ -74161,8 +74552,12 @@
     "id": "ThePetCollective.us",
     "name": "The Pet Collective",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Pet Collective LLC",
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -74187,7 +74582,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/the-pet-collective",
+    "website": "https://www.thepetcollective.com/streaming/",
     "launched": null,
     "closed": null
   },
@@ -74195,8 +74590,12 @@
     "id": "ThePetCollective.us",
     "name": "The Pet Collective",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Pet Collective LLC",
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -74221,7 +74620,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/the-pet-collective",
+    "website": "https://www.thepetcollective.com/streaming/",
     "launched": null,
     "closed": null
   },
@@ -74229,8 +74628,12 @@
     "id": "ThePetCollective.us",
     "name": "The Pet Collective",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Pet Collective LLC",
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -74255,7 +74658,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/the-pet-collective",
+    "website": "https://www.thepetcollective.com/streaming/",
     "launched": null,
     "closed": null
   },
@@ -74263,8 +74666,12 @@
     "id": "ThePetCollective.us",
     "name": "The Pet Collective",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Pet Collective LLC",
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -74289,7 +74696,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/the-pet-collective",
+    "website": "https://www.thepetcollective.com/streaming/",
     "launched": null,
     "closed": null
   },
@@ -74297,8 +74704,12 @@
     "id": "ThePetCollective.us",
     "name": "The Pet Collective",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Pet Collective LLC",
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -74323,7 +74734,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/the-pet-collective",
+    "website": "https://www.thepetcollective.com/streaming/",
     "launched": null,
     "closed": null
   },
@@ -74331,8 +74742,12 @@
     "id": "ThePetCollective.us",
     "name": "The Pet Collective",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Pet Collective LLC",
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -74357,7 +74772,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/the-pet-collective",
+    "website": "https://www.thepetcollective.com/streaming/",
     "launched": null,
     "closed": null
   },
@@ -74365,8 +74780,12 @@
     "id": "ThePetCollective.us",
     "name": "The Pet Collective",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Pet Collective LLC",
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -74391,7 +74810,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/the-pet-collective",
+    "website": "https://www.thepetcollective.com/streaming/",
     "launched": null,
     "closed": null
   },
@@ -74399,8 +74818,12 @@
     "id": "ThePetCollective.us",
     "name": "The Pet Collective",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Pet Collective LLC",
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -74425,7 +74848,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/the-pet-collective",
+    "website": "https://www.thepetcollective.com/streaming/",
     "launched": null,
     "closed": null
   },
@@ -74433,8 +74856,12 @@
     "id": "ThePetCollective.us",
     "name": "The Pet Collective",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Pet Collective LLC",
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -74459,7 +74886,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/the-pet-collective",
+    "website": "https://www.thepetcollective.com/streaming/",
     "launched": null,
     "closed": null
   },
@@ -74467,8 +74894,12 @@
     "id": "ThePetCollective.us",
     "name": "The Pet Collective",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Pet Collective LLC",
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -74493,7 +74924,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/the-pet-collective",
+    "website": "https://www.thepetcollective.com/streaming/",
     "launched": null,
     "closed": null
   },
@@ -74501,8 +74932,12 @@
     "id": "ThePetCollective.us",
     "name": "The Pet Collective",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Pet Collective LLC",
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -74527,7 +74962,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/the-pet-collective",
+    "website": "https://www.thepetcollective.com/streaming/",
     "launched": null,
     "closed": null
   },
@@ -74535,8 +74970,12 @@
     "id": "ThePetCollective.us",
     "name": "The Pet Collective",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Pet Collective LLC",
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -74561,7 +75000,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/the-pet-collective",
+    "website": "https://www.thepetcollective.com/streaming/",
     "launched": null,
     "closed": null
   },
@@ -74569,8 +75008,12 @@
     "id": "ThePetCollective.us",
     "name": "The Pet Collective",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Pet Collective LLC",
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -74595,7 +75038,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/the-pet-collective",
+    "website": "https://www.thepetcollective.com/streaming/",
     "launched": null,
     "closed": null
   },
@@ -74603,8 +75046,12 @@
     "id": "ThePetCollective.us",
     "name": "The Pet Collective",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Pet Collective LLC",
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -74629,7 +75076,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/the-pet-collective",
+    "website": "https://www.thepetcollective.com/streaming/",
     "launched": null,
     "closed": null
   },
@@ -74637,8 +75084,12 @@
     "id": "ThePetCollective.us",
     "name": "The Pet Collective",
     "alt_names": [],
-    "network": "Pluto TV",
-    "owners": [],
+    "network": null,
+    "owners": [
+      "The Pet Collective LLC",
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -74663,7 +75114,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pluto.tv/en/live-tv/the-pet-collective",
+    "website": "https://www.thepetcollective.com/streaming/",
     "launched": null,
     "closed": null
   },
@@ -82444,7 +82895,9 @@
     "name": "WeatherSpy",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -82478,7 +82931,9 @@
     "name": "WeatherSpy",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Trusted Media Brands Inc."
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -87040,6 +87495,34 @@
       "sources": []
     },
     "website": "http://www.telemundo51.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WSLFLD351.us",
+    "name": "WSLF-LD 35.1",
+    "alt_names": [
+      "WSLF-LD"
+    ],
+    "network": "Daystar",
+    "owners": [
+      "Word of God Fellowship Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_(2008%E2%80%93present)_unmodified_logo.svg/960px-Daystar_(2008%E2%80%93present)_unmodified_logo.svg.png",
+    "stream_url": "https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },

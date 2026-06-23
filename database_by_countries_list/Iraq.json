@@ -382,6 +382,44 @@
     "closed": null
   },
   {
+    "id": "AlSharqiya.iq",
+    "name": "Al Sharqiya",
+    "alt_names": [
+      "الشرقية"
+    ],
+    "network": null,
+    "owners": [
+      "Saad al-Bazzaz"
+    ],
+    "country_code": "IQ",
+    "country_name": "Iraq",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/mJIG5IV.png",
+    "stream_url": "http://185.9.2.18/chid_144/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AlSharqiya.iq",
+      "feed": "SD",
+      "site": "sat.tv",
+      "site_id": "1#38#الشرقية",
+      "site_name": "الشرقية",
+      "lang": "ar",
+      "sources": []
+    },
+    "website": "http://www.alsharqiya.com/",
+    "launched": "2004-03-01",
+    "closed": null
+  },
+  {
     "id": "AlSharqiyaNews.iq",
     "name": "Al Sharqiya News",
     "alt_names": [
@@ -938,6 +976,40 @@
     "logo": "https://i.imgur.com/UAbSwYA.png",
     "stream_url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Kurdsat.iq",
+      "feed": "SD",
+      "site": "sat.tv",
+      "site_id": "1#33#Kurdsat",
+      "site_name": "Kurdsat",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.kurdsat.tv/",
+    "launched": "2000-01-01",
+    "closed": null
+  },
+  {
+    "id": "Kurdsat.iq",
+    "name": "Kurdsat",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IQ",
+    "country_name": "Iraq",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/UAbSwYA.png",
+    "stream_url": "http://185.9.2.18/chid_1/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

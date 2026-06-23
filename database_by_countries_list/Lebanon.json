@@ -126,6 +126,42 @@
     "closed": null
   },
   {
+    "id": "AlIttihadTV.lb",
+    "name": "Al Ittihad TV",
+    "alt_names": [
+      "قناة الاتحاد"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "LB",
+    "country_name": "Lebanon",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/QMUjPXx.png",
+    "stream_url": "http://89.108.183.22:8060/hls/2/2.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AlIttihadTV.lb",
+      "feed": "SD",
+      "site": "sat.tv",
+      "site_id": "1#33#Al Ittihad TV",
+      "site_name": "Al Ittihad TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.alittihad.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AlJadeed.lb",
     "name": "Al Jadeed",
     "alt_names": [
@@ -202,6 +238,44 @@
     "closed": null
   },
   {
+    "id": "AlManar.lb",
+    "name": "Al-Manar",
+    "alt_names": [
+      "المنار"
+    ],
+    "network": null,
+    "owners": [
+      "Hezbollah"
+    ],
+    "country_code": "LB",
+    "country_name": "Lebanon",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sOQLV7L.png",
+    "stream_url": "http://89.108.183.22:8060/hls/32/32.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AlManar.lb",
+      "feed": "SD",
+      "site": "elcinema.com",
+      "site_id": "1321",
+      "site_name": "Al-Manar",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.almanar.com.lb/",
+    "launched": "1991-06-04",
+    "closed": null
+  },
+  {
     "id": "AlMayadeenTV.lb",
     "name": "Al Mayadeen TV",
     "alt_names": [
@@ -223,6 +297,44 @@
     "logo": "https://i.imgur.com/GtQOKeW.png",
     "stream_url": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AlMayadeenTV.lb",
+      "feed": "SD",
+      "site": "sat.tv",
+      "site_id": "1#33#Al Mayadeen TV",
+      "site_name": "Al Mayadeen TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.almayadeen.net/",
+    "launched": "2012-06-11",
+    "closed": null
+  },
+  {
+    "id": "AlMayadeenTV.lb",
+    "name": "Al Mayadeen TV",
+    "alt_names": [
+      "الميادين"
+    ],
+    "network": null,
+    "owners": [
+      "Al-Mayadeen Media Network"
+    ],
+    "country_code": "LB",
+    "country_name": "Lebanon",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/GtQOKeW.png",
+    "stream_url": "http://89.108.183.22:8060/hls/3/3.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -409,6 +521,44 @@
     },
     "website": "https://ltv.com.lb/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "LBCInternational.lb",
+    "name": "LBC International",
+    "alt_names": [
+      "المؤسسةللإرسال انترناسيونال اللبنانية"
+    ],
+    "network": null,
+    "owners": [
+      "Pierre Daher"
+    ],
+    "country_code": "LB",
+    "country_name": "Lebanon",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/h26xtUv.png",
+    "stream_url": "http://185.9.2.18/chid_327/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "LBCInternational.lb",
+      "feed": "SD",
+      "site": "elcinema.com",
+      "site_id": "1168",
+      "site_name": "LBCI",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.lbcgroup.tv/",
+    "launched": "1985-08-23",
     "closed": null
   },
   {

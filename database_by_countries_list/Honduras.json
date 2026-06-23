@@ -653,6 +653,32 @@
     "closed": null
   },
   {
+    "id": "EmanuelTV.hn",
+    "name": "Emanuel TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "HN",
+    "country_name": "Honduras",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/I9ChVMD.png",
+    "stream_url": "https://michaelgm.live:3684/live/emanueltvlive.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://radiotrujillohn.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "GirasolTV.hn",
     "name": "Girasol TV",
     "alt_names": [],
@@ -1670,6 +1696,42 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Telecadena7y4.hn",
+    "name": "Telecadena 7 y 4",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Corporación Televicentro"
+    ],
+    "country_code": "HN",
+    "country_name": "Honduras",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/3gzFNog.png",
+    "stream_url": "http://45.167.2.101:8000/play/a07n/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Telecadena7y4.hn",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "hn#telecadena",
+      "site_name": "Telecadena 7 y 4",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.televicentro.hn/",
+    "launched": "1985-07-29",
     "closed": null
   },
   {

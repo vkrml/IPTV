@@ -651,6 +651,42 @@
     "closed": null
   },
   {
+    "id": "DisneyJunior.gr",
+    "name": "Disney Junior",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "The Walt Disney Company"
+    ],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "stream_url": "http://185.102.171.218/DisneyJunior/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyJunior.gr",
+      "feed": "SD",
+      "site": "melita.com",
+      "site_id": "b21b88e9-159f-49e3-911a-40b442fbb95c",
+      "site_name": "Disney Junior",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.disney.gr/disney-junior/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "EcclesiaTV.gr",
     "name": "Ecclesia TV",
     "alt_names": [
@@ -1201,6 +1237,34 @@
     "closed": null
   },
   {
+    "id": "HellenicParliamentTV.gr",
+    "name": "Hellenic Parliament TV",
+    "alt_names": [
+      "Βουλή Τηλεόραση"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "legislative"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/o2cvqv3.png",
+    "stream_url": "http://185.102.171.218/Vouli/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.hellenicparliament.gr/en/",
+    "launched": "1999-01-01",
+    "closed": null
+  },
+  {
     "id": "HighTV.gr",
     "name": "High TV",
     "alt_names": [],
@@ -1387,6 +1451,78 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.naftemporiki.gr/ntv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NationalGeographic.gr",
+    "name": "National Geographic",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "The Walt Disney Company Greece"
+    ],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "stream_url": "http://185.102.171.218/NatGeo/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalGeographic.gr",
+      "feed": "HD",
+      "site": "maxtvgo.mk",
+      "site_id": "610332",
+      "site_name": "National Geographic HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.natgeotv.com/gr",
+    "launched": "2001-01-01",
+    "closed": null
+  },
+  {
+    "id": "NationalGeographicWild.gr",
+    "name": "National Geographic Wild",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "National Geographic Society"
+    ],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "stream_url": "http://185.102.171.218/NatGeoWild/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalGeographicWild.gr",
+      "feed": "HD",
+      "site": "maxtvgo.mk",
+      "site_id": "610333",
+      "site_name": "National Geographic Wild",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://natgeotv.com/gr/wild",
     "launched": null,
     "closed": null
   },
@@ -2160,6 +2296,90 @@
     "tv_guide": null,
     "website": "https://www.verginanews.gr/",
     "launched": "1993-01-01",
+    "closed": null
+  },
+  {
+    "id": "ViasatExplore.gr",
+    "name": "Viasat Explore",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Viasat World LTD"
+    ],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/DyT5pKB.png",
+    "stream_url": "http://185.102.171.218/ViasatExplorer/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2017-10-01",
+    "closed": null
+  },
+  {
+    "id": "ViasatHistory.gr",
+    "name": "Viasat History",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Viasat World LTD"
+    ],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/wRP9XA7.png",
+    "stream_url": "http://185.102.171.218/ViasatHistory/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2016-01-01",
+    "closed": null
+  },
+  {
+    "id": "ViasatNature.gr",
+    "name": "Viasat Nature",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Viasat World LTD"
+    ],
+    "country_code": "GR",
+    "country_name": "Greece",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ousRqqD.png",
+    "stream_url": "http://185.102.171.218/ViasatNature/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2017-10-01",
     "closed": null
   },
   {

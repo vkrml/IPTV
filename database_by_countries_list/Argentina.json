@@ -556,6 +556,32 @@
     "closed": null
   },
   {
+    "id": "BravoTV.ar",
+    "name": "Bravo TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png",
+    "stream_url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CableImagenArmstrong.ar",
     "name": "Cable Imagen Armstrong",
     "alt_names": [],
@@ -1753,6 +1779,42 @@
     "closed": null
   },
   {
+    "id": "CanalA.ar",
+    "name": "Canal A",
+    "alt_names": [
+      "Canal (á)"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/jLLAjaw.png",
+    "stream_url": "https://edgectc.com/CANAL_A/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalA.ar",
+      "feed": "SD",
+      "site": "programacion.tcc.com.uy",
+      "site_id": "404",
+      "site_name": "Canal a",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.canalaonline.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CanalE.ar",
     "name": "Canal E",
     "alt_names": [],
@@ -2297,6 +2359,40 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DeporTV.ar",
+    "name": "DeporTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/THk9ARS.png",
+    "stream_url": "https://edgectc.com/DEPORTES_CTC_PLUS/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DeporTV.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#dxtv",
+      "site_name": "DeporTV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://deportv.gov.ar/",
+    "launched": "2013-02-21",
     "closed": null
   },
   {
@@ -3127,6 +3223,38 @@
     "closed": null
   },
   {
+    "id": "Metro.ar",
+    "name": "Metro",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/D4nRp62.png",
+    "stream_url": "https://edgectc.com/METRO/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Metro.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#metro",
+      "site_name": "Metro",
+      "lang": "es",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "MetroTV.ar",
     "name": "Metro TV",
     "alt_names": [],
@@ -3497,6 +3625,33 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://panctv.com.ar/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlimPlim.ar",
+    "name": "Plim Plim",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/MYc8srh.png",
+    "stream_url": "http://8.243.126.131:8000/play/a0od/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://plimplim.tv/",
     "launched": null,
     "closed": null
   },

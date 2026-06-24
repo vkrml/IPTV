@@ -805,6 +805,32 @@
     "closed": null
   },
   {
+    "id": "ColumnaTV.ro",
+    "name": "Columna TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/C5dIgsc.png",
+    "stream_url": "https://cdn.streamnet.pro/columnatv/live//chunklist_w944163831.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.columnatv.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ComedyCentral.ro",
     "name": "Comedy Central",
     "alt_names": [],
@@ -971,6 +997,40 @@
     "closed": null
   },
   {
+    "id": "CredoTV.ro",
+    "name": "Credo TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/RD4TgcM.png",
+    "stream_url": "https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CredoTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "credo-tv",
+      "site_name": "Credo TV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.credo.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Digi24.ro",
     "name": "Digi 24",
     "alt_names": [
@@ -1007,42 +1067,6 @@
     },
     "website": "https://www.digi24.ro/",
     "launched": "2012-03-01",
-    "closed": null
-  },
-  {
-    "id": "DigiSport1.ro",
-    "name": "Digi Sport 1",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "RCS & RDS"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/5zMxDYq.png",
-    "stream_url": "https://dokagents.site/live/digisport1/mono.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "DigiSport1.ro",
-      "feed": "SD",
-      "site": "programetv.ro",
-      "site_id": "digi-sport-1",
-      "site_name": "Digi Sport 1",
-      "lang": "ro",
-      "sources": []
-    },
-    "website": "http://digisport.ro/",
-    "launched": "2012-08-11",
     "closed": null
   },
   {
@@ -1110,42 +1134,6 @@
       "site": "programetv.ro",
       "site_id": "digi-sport-1",
       "site_name": "Digi Sport 1",
-      "lang": "ro",
-      "sources": []
-    },
-    "website": "http://digisport.ro/",
-    "launched": "2012-08-11",
-    "closed": null
-  },
-  {
-    "id": "DigiSport2.ro",
-    "name": "Digi Sport 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "RCS & RDS"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/KWDUi3v.png",
-    "stream_url": "https://dokagents.site/live/digisport2/mono.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "DigiSport2.ro",
-      "feed": "SD",
-      "site": "programetv.ro",
-      "site_id": "digi-sport-2",
-      "site_name": "Digi Sport 2",
       "lang": "ro",
       "sources": []
     },
@@ -1648,42 +1636,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://hellotaste.ro/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "History.ro",
-    "name": "History",
-    "alt_names": [
-      "History România"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
-    "stream_url": "https://dokagents.site/live/history/mono.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "History.ro",
-      "feed": "SD",
-      "site": "programetv.ro",
-      "site_id": "history",
-      "site_name": "History",
-      "lang": "ro",
-      "sources": []
-    },
-    "website": "https://www.historytv.ro/",
     "launched": null,
     "closed": null
   },
@@ -3354,32 +3306,6 @@
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tv1000.com.ro/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TV1000.ro",
-    "name": "TV1000",
-    "alt_names": [],
-    "network": "Viasat",
-    "owners": [],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/GHNsctR.png",
-    "stream_url": "https://dokagents.site/live/viasatkino/mono.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
     "referrer": null,
     "tv_guide": null,
     "website": "https://tv1000.com.ro/",

@@ -242,6 +242,34 @@
     "closed": null
   },
   {
+    "id": "CanalDiplomatico.ve",
+    "name": "Canal Diplomatico",
+    "alt_names": [
+      "Canal Diplomático"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "VE",
+    "country_name": "Venezuela",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/34vsSzS/1439-Canal-Diplomatico.png",
+    "stream_url": "https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://canaldiplomatico.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CanalI.ve",
     "name": "Canal I",
     "alt_names": [],
@@ -1601,6 +1629,42 @@
     "logo": "https://i.imgur.com/P50VjRX.png",
     "stream_url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
     "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Telesur.ve",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "1668",
+      "site_name": "teleSUR",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.telesurtv.net/",
+    "launched": "2005-07-24",
+    "closed": null
+  },
+  {
+    "id": "Telesur.ve",
+    "name": "Telesur",
+    "alt_names": [],
+    "network": "Telesur",
+    "owners": [
+      "Sistema Bolivariano de Comunicación e Información"
+    ],
+    "country_code": "VE",
+    "country_name": "Venezuela",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/P50VjRX.png",
+    "stream_url": "https://edgectc.com/TELESUR/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

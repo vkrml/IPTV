@@ -1517,6 +1517,34 @@
     "closed": null
   },
   {
+    "id": "CocukSmart.tr",
+    "name": "Cocuk Smart",
+    "alt_names": [
+      "Çocuk Smart"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "TR",
+    "country_name": "Turkiye",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/8xxO1FE.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/CocukSmart.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.dsmart.com.tr/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "DehaTV.tr",
     "name": "Deha TV",
     "alt_names": [],
@@ -3218,40 +3246,6 @@
     "logo": "https://i.imgur.com/fu6XeGS.png",
     "stream_url": "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "HaberGlobal.tr",
-      "feed": "SD",
-      "site": "tvplus.com.tr",
-      "site_id": "5",
-      "site_name": "HABER GLOBAL",
-      "lang": "tr",
-      "sources": []
-    },
-    "website": "https://www.haberglobal.com.tr/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "HaberGlobal.tr",
-    "name": "Haber Global",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/fu6XeGS.png",
-    "stream_url": "https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8",
-    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -5339,6 +5333,42 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png",
     "stream_url": "https://dogus-live.daioncdn.net/ntv/ntv.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NTV.tr",
+      "feed": "SD",
+      "site": "tvplus.com.tr",
+      "site_id": "81",
+      "site_name": "NTV",
+      "lang": "tr",
+      "sources": []
+    },
+    "website": "https://www.ntv.com.tr/",
+    "launched": "1996-11-10",
+    "closed": null
+  },
+  {
+    "id": "NTV.tr",
+    "name": "NTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Dogus Media Group"
+    ],
+    "country_code": "TR",
+    "country_name": "Turkiye",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png",
+    "stream_url": "https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

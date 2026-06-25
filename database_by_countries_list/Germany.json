@@ -78,6 +78,44 @@
     "closed": null
   },
   {
+    "id": "13thStreetUniversal.de",
+    "name": "13th Street Universal",
+    "alt_names": [
+      "13th Street"
+    ],
+    "network": null,
+    "owners": [
+      "NBCUniversal"
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/13th_Street_Universal.svg/500px-13th_Street_Universal.svg.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/13thStreet.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "13thStreetUniversal.de",
+      "feed": "SD",
+      "site": "web.magentatv.de",
+      "site_id": "255",
+      "site_name": "13TH STREET",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "http://www.13thstreet.de/",
+    "launched": "1998-05-01",
+    "closed": null
+  },
+  {
     "id": "123tv.de",
     "name": "1-2-3.tv",
     "alt_names": [],
@@ -624,6 +662,44 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ecXMjNl.png",
     "stream_url": "https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "arte.de",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000046_020053",
+      "site_name": "Arte",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "https://www.arte.tv/",
+    "launched": "1992-05-30",
+    "closed": null
+  },
+  {
+    "id": "arte.de",
+    "name": "arte",
+    "alt_names": [
+      "arte Deutschland"
+    ],
+    "network": null,
+    "owners": [
+      "ARD"
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ecXMjNl.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/Arte.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -2304,6 +2380,42 @@
     "tv_guide": null,
     "website": "https://deluxemusic.de/kontakt/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DisneyChannel.de",
+    "name": "Disney Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Disney Entertainment"
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/DisneyChannelDeutschland.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyChannel.de",
+      "feed": "SD",
+      "site": "web.magentatv.de",
+      "site_id": "27",
+      "site_name": "Disney Channel",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "http://disneychannel.de/",
+    "launched": "1999-10-16",
     "closed": null
   },
   {

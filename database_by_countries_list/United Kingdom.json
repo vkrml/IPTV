@@ -1,5 +1,113 @@
 [
   {
+    "id": "4seven.uk",
+    "name": "4seven",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "HM Government"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Fpaxyop.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/4Seven.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "4seven.uk",
+      "feed": "HD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "1903",
+      "site_name": "4SevenHD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.channel4.com/",
+    "launched": "2012-07-04",
+    "closed": null
+  },
+  {
+    "id": "5SELECT.uk",
+    "name": "5SELECT",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Paramount Networks UK & Australia"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/WJ9xR6l.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/5Select.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "5SELECT.uk",
+      "feed": "SD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "1474",
+      "site_name": "5Select",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.channel5.com/channels/5select",
+    "launched": "2018-02-13",
+    "closed": null
+  },
+  {
+    "id": "5STAR.uk",
+    "name": "5STAR",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Paramount Global"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/PI11s9s.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/5Star.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "5STAR.uk",
+      "feed": "Plus1",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "1892",
+      "site_name": "5STAR +1",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://channel5.com/5star",
+    "launched": "2006-10-15",
+    "closed": null
+  },
+  {
     "id": "AathavanTV.uk",
     "name": "Aathavan TV",
     "alt_names": [],
@@ -1135,6 +1243,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/nGSsUd4.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/BBCEarth.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BBCEarth.uk",
+      "feed": "US",
+      "site": "xumo.tv",
+      "site_id": "150#99951231",
+      "site_name": "BBC Earth",
+      "lang": "en",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BBCEarth.uk",
+    "name": "BBC Earth",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BBC Studios"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nGSsUd4.png",
     "stream_url": "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -1502,6 +1646,36 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/aH0PCPy.png",
     "stream_url": "http://193.46.58.239:8080/CbeebiesHD/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.bbc.co.uk/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BBCFourCBeebies.uk",
+    "name": "BBC Four/CBeebies",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BBC"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids",
+      "general",
+      "animation"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/aH0PCPy.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/BBCFourCBeebies.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -2902,6 +3076,46 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
     "stream_url": "http://193.46.58.239:8080/BBCOneHD/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BBCOne.uk",
+      "feed": "London",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000040_020022",
+      "site_name": "BBC One",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.bbc.co.uk/bbcone/",
+    "launched": "1936-11-02",
+    "closed": null
+  },
+  {
+    "id": "BBCOne.uk",
+    "name": "BBC One",
+    "alt_names": [
+      "BBC1",
+      "BBC Television",
+      "BBC Television Service"
+    ],
+    "network": "BBC Television",
+    "owners": [
+      "BBC"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/BBCOne.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -6962,6 +7176,36 @@
     "closed": null
   },
   {
+    "id": "BBCThreeCBBC.uk",
+    "name": "BBC Three/CBBC",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BBC"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "family",
+      "kids",
+      "animation"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CGXC5fp.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/BBCThreeCBBC.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.bbc.co.uk/",
+    "launched": "2022-02-01",
+    "closed": null
+  },
+  {
     "id": "BBCTwo.uk",
     "name": "BBC Two",
     "alt_names": [],
@@ -7125,6 +7369,42 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",
     "stream_url": "http://109.61.81.129/1197/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BBCTwo.uk",
+      "feed": "England",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000041_019369",
+      "site_name": "BBC Two",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.bbc.co.uk/bbctwo/",
+    "launched": "1964-04-21",
+    "closed": null
+  },
+  {
+    "id": "BBCTwo.uk",
+    "name": "BBC Two",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BBC"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/BBCTwo.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -7557,6 +7837,43 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/6UcPWP9.png",
     "stream_url": "https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Blaze.uk",
+      "feed": "SD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "1910",
+      "site_name": "Blaze",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.blaze.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Blaze.uk",
+    "name": "Blaze",
+    "alt_names": [],
+    "network": "A+E Networks EMEA",
+    "owners": [
+      "The Hearst Corporation",
+      "The Walt Disney Company"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6UcPWP9.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/Blaze.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -8111,6 +8428,42 @@
     "closed": null
   },
   {
+    "id": "Challenge.uk",
+    "name": "Challenge",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sky Group"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2202.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/ChallengeUK.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Challenge.uk",
+      "feed": "SD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "198",
+      "site_name": "Challenge",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.challenge.co.uk/",
+    "launched": "2012-12-03",
+    "closed": null
+  },
+  {
     "id": "Channel4.uk",
     "name": "Channel 4",
     "alt_names": [],
@@ -8255,6 +8608,42 @@
     "closed": null
   },
   {
+    "id": "Channel4.uk",
+    "name": "Channel 4",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Channel Four Television Corporation"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/Channel4.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Channel4.uk",
+      "feed": "UK",
+      "site": "tvireland.ie",
+      "site_id": "53/channel-4",
+      "site_name": "Channel 4",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.channel4.com/",
+    "launched": "1982-11-02",
+    "closed": null
+  },
+  {
     "id": "Channel5.uk",
     "name": "Channel 5",
     "alt_names": [],
@@ -8273,6 +8662,42 @@
     "is_nsfw": false,
     "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png",
     "stream_url": "http://193.46.58.239:8080/Channel5/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Channel5.uk",
+      "feed": "Plus1",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "1671",
+      "site_name": "Channel 5+1",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.channel5.com/channels/channel-5",
+    "launched": "1997-03-30",
+    "closed": null
+  },
+  {
+    "id": "Channel5.uk",
+    "name": "Channel 5",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Paramount Networks UK & Australia"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/Channel5Milkshake.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -9284,7 +9709,7 @@
     "stream_url": "http://82.78.243.219:45739/play/a01p/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "EpicDrama.uk",

@@ -899,6 +899,46 @@
     "closed": null
   },
   {
+    "id": "Antena3.es",
+    "name": "Antena 3",
+    "alt_names": [
+      "Antena Tres",
+      "A3",
+      "Antena 3 HD"
+    ],
+    "network": null,
+    "owners": [
+      "Atresmedia Corporación de Medios de Comunicación SA"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Antena_3_2025_%28Naranja%29.svg",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/Antena3.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Antena3.es",
+      "feed": null,
+      "site": "tvprofil.com",
+      "site_id": "es/programacion-tv#antena3",
+      "site_name": "Antena 3",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.antena3.com/",
+    "launched": "1990-01-25",
+    "closed": null
+  },
+  {
     "id": "Antena3Internacional.es",
     "name": "Antena 3 Internacional",
     "alt_names": [],
@@ -1103,6 +1143,40 @@
     "closed": null
   },
   {
+    "id": "Atreseries.es",
+    "name": "Atreseries",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/A3Series.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Atreseries.es",
+      "feed": "SD",
+      "site": "tv.sfr.fr",
+      "site_id": "1761",
+      "site_name": "Atres Series",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "http://atreseries.atresmedia.com/",
+    "launched": "2015-12-22",
+    "closed": null
+  },
+  {
     "id": "AXN.es",
     "name": "AXN",
     "alt_names": [
@@ -1273,11 +1347,42 @@
     "stream_url": "http://82.78.243.219:45739/play/a01n/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": null,
     "website": "https://antenna-group.com/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AXNMovies.es",
+    "name": "AXN Movies",
+    "alt_names": [
+      "AXN White Spain",
+      "Sony Entertainment Television Spain"
+    ],
+    "network": null,
+    "owners": [
+      "Sony Pictures Television"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/AXNMoviesSpain.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.axn.es/axnmovies",
+    "launched": "2012-05-07",
     "closed": null
   },
   {
@@ -1388,6 +1493,40 @@
     "tv_guide": null,
     "website": "https://www.bdncom.cat/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BeMad.es",
+    "name": "Be Mad",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Mediaset Espana"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/BeMad_2022_Logo.svg",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/BeMad.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BeMad.es",
+      "feed": "SD",
+      "site": "programacion-tv.elpais.com",
+      "site_id": "890",
+      "site_name": "Be Mad",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.bemad.es/",
+    "launched": "2016-01-01",
     "closed": null
   },
   {
@@ -1505,6 +1644,41 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.cadenaelite.es/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Calle13Universal.es",
+    "name": "Calle 13 Universal",
+    "alt_names": [
+      "Calle 13",
+      "13th Street Spain"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Calle13_logo.svg",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/Calle13.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Calle13Universal.es",
+      "feed": "SD",
+      "site": "programacion-tv.elpais.com",
+      "site_id": "64",
+      "site_name": "Calle 13",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.calle13universal.es/",
     "launched": null,
     "closed": null
   },
@@ -2437,6 +2611,38 @@
     "closed": null
   },
   {
+    "id": "CazayPesca.es",
+    "name": "Caza y Pesca",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/hXL0Fvj.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/Cazaypesca.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CazayPesca.es",
+      "feed": "SD",
+      "site": "programacion-tv.elpais.com",
+      "site_id": "386",
+      "site_name": "Caza y Pesca",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.movistar.es/particulares/movistarplus/deportes",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CetelmonTV.es",
     "name": "Cetelmon TV",
     "alt_names": [
@@ -2777,6 +2983,42 @@
     "closed": null
   },
   {
+    "id": "ComedyCentral.es",
+    "name": "Comedy Central",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Paramount Neworks EMEAA"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/ComedyCentralSpain.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ComedyCentral.es",
+      "feed": "SD",
+      "site": "programacion-tv.elpais.com",
+      "site_id": "493",
+      "site_name": "Comedy Central",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.comedycentral.es/",
+    "launched": "1999-03-01",
+    "closed": null
+  },
+  {
     "id": "Condavision.es",
     "name": "Condavision",
     "alt_names": [
@@ -2989,6 +3231,41 @@
     "closed": null
   },
   {
+    "id": "COSMO.es",
+    "name": "COSMO",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "A&E Networks",
+      "Hearst Entertaiment"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/L2KKKuB.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/Cosmo.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "COSMO.es",
+      "feed": "SD",
+      "site": "programacion-tv.elpais.com",
+      "site_id": "186",
+      "site_name": "Cosmopolitan",
+      "lang": "es",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CostaNoroesteTV.es",
     "name": "Costa Noroeste TV",
     "alt_names": [],
@@ -3079,6 +3356,42 @@
     "closed": null
   },
   {
+    "id": "Cuatro.es",
+    "name": "Cuatro",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Mediaset Espana"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NYLnABb.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/Cuatro.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Cuatro.es",
+      "feed": null,
+      "site": "tvprofil.com",
+      "site_id": "es/programacion-tv#cuatro",
+      "site_name": "Cuatro",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.cuatro.com/",
+    "launched": "2005-11-07",
+    "closed": null
+  },
+  {
     "id": "CugatTV.es",
     "name": "Cugat TV",
     "alt_names": [],
@@ -3157,6 +3470,42 @@
     "website": "https://www.dieztv.es/",
     "launched": null,
     "closed": null
+  },
+  {
+    "id": "DisneyChannel.es",
+    "name": "Disney Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Disney Entertainment"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/DisneyChannelSpain.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyChannel.es",
+      "feed": "SD",
+      "site": "programacion-tv.elpais.com",
+      "site_id": "175",
+      "site_name": "Disney Channel",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.disney.es/",
+    "launched": "1998-04-17",
+    "closed": "2025-01-07"
   },
   {
     "id": "DisneyJunior.es",
@@ -3523,6 +3872,42 @@
     "tv_guide": null,
     "website": "https://www.empordadigital.cat/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Energy.es",
+    "name": "Energy",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Mediaset Espana"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Energy.svg",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/Energy.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Energy.es",
+      "feed": "SD",
+      "site": "programacion-tv.elpais.com",
+      "site_id": "709",
+      "site_name": "Energy",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.telecinco.es/energy/",
+    "launched": "2012-01-09",
     "closed": null
   },
   {
@@ -4165,6 +4550,36 @@
     "tv_guide": null,
     "website": "https://goiena.eus/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Gol.es",
+    "name": "Gol",
+    "alt_names": [
+      "GOL PLAY"
+    ],
+    "network": null,
+    "owners": [
+      "Mediapro"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/960px-Gol.svg.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.goltelevision.com/",
+    "launched": "2016-01-01",
     "closed": null
   },
   {
@@ -5427,6 +5842,44 @@
     "tv_guide": null,
     "website": "https://www.molatv.cat/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MTV.es",
+    "name": "MTV",
+    "alt_names": [
+      "MTV España"
+    ],
+    "network": null,
+    "owners": [
+      "Paramount Networks EMEAA"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/MTVSpain.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MTV.es",
+      "feed": "SD",
+      "site": "programacion-tv.elpais.com",
+      "site_id": "159",
+      "site_name": "MTV España",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.mtv.es/",
+    "launched": "2000-09-10",
     "closed": null
   },
   {

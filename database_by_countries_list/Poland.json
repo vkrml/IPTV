@@ -2396,6 +2396,43 @@
     "closed": null
   },
   {
+    "id": "NowaTV.pl",
+    "name": "Nowa TV",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/8cHK49r.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/NowaTV.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NowaTV.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "nowa-tv-528",
+      "site_name": "Nowa TV",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://www.nowa.tv/",
+    "launched": "2016-11-09",
+    "closed": null
+  },
+  {
     "id": "NutaTV.pl",
     "name": "Nuta TV",
     "alt_names": [],
@@ -2415,6 +2452,42 @@
     "logo": "https://i.imgur.com/JHFUxDu.png",
     "stream_url": "http://78.130.250.2:8023/play/a03r/index.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NutaTV.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "nuta-tv-214",
+      "site_name": "Nuta.TV",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://nuta.tv/",
+    "launched": "2015-09-01",
+    "closed": null
+  },
+  {
+    "id": "NutaTV.pl",
+    "name": "Nuta TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "MWE Networks"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/JHFUxDu.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/NutaTV.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -2597,6 +2670,38 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/4TVDMGD.png",
     "stream_url": "https://vs2124.vcdn.biz/fab48aecdc2eda856dcf108cff23f0af_megogo/live/hls/b/700_2490_4000/u_sid/0/o/159818621/rsid/0e266c99-a1e7-4d85-b3c6-173eeac55ae0/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/217.114.34.212*asn/u_srvc/81255/u_did/web_6E1HxqCXWtsLOzgk7aeKRdeKchKJwKjL/type.live/chunklist-sid6761789432318948657-b4000000.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Polonia1.pl",
+      "feed": "SD",
+      "site": "m.tv.sms.cz",
+      "site_id": "Polonia+1",
+      "site_name": "Polonia 1",
+      "lang": "cs",
+      "sources": []
+    },
+    "website": "https://polonia1.tv/",
+    "launched": "1993-03-07",
+    "closed": null
+  },
+  {
+    "id": "Polonia1.pl",
+    "name": "Polonia 1",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4TVDMGD.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/Polonia1.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -3066,6 +3171,43 @@
     "stream_quality": null,
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatJimJam.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-jimjam-89",
+      "site_name": "Polsat JimJam",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://www.pl.jimjam.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PolsatJimJam.pl",
+    "name": "Polsat JimJam",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Cyfrowy Polsat S.A.",
+      "AMC Networks Inc."
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/GjppUlg.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/JimJamPolsat.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "PolsatJimJam.pl",
@@ -7230,6 +7372,38 @@
       "sources": []
     },
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVRepublika.pl",
+    "name": "TV Republika",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ljpK6dZ.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/RepublikaTV.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVRepublika.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tv-republika-18",
+      "site_name": "TV Republika",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://telewizjarepublika.pl/",
     "launched": null,
     "closed": null
   },

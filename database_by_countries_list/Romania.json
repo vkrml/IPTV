@@ -249,42 +249,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/EPmwuuv.png",
-    "stream_url": "https://hokrus113.zokares1.cfd/ah1/usergenx304Jtlrnd.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://canale-tv.com/",
-    "tv_guide": {
-      "channel": "Antena1.ro",
-      "feed": "SD",
-      "site": "programetv.ro",
-      "site_id": "antena-1",
-      "site_name": "Antena 1",
-      "lang": "ro",
-      "sources": []
-    },
-    "website": "http://a1.ro/",
-    "launched": "1993-11-29",
-    "closed": null
-  },
-  {
-    "id": "Antena1.ro",
-    "name": "Antena 1",
-    "alt_names": [],
-    "network": "Antena Group",
-    "owners": [
-      "Intact Media Group"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/EPmwuuv.png",
     "stream_url": "https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LIVE",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -2472,6 +2436,78 @@
     },
     "website": "https://www.nasul.tv/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NationalGeographic.ro",
+    "name": "National Geographic",
+    "alt_names": [
+      "National Geographic România"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/NatGeoRomania.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalGeographic.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "national-geographic",
+      "site_name": "National Geographic",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.natgeotv.com/ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NationalGeographicWild.ro",
+    "name": "National Geographic Wild",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "National Geographic Society"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/NatGeoWildRomania.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalGeographicWild.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "national-geographic-wild",
+      "site_name": "National Geographic Wild",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.natgeowild.ro/",
+    "launched": "2009-07-01",
     "closed": null
   },
   {

@@ -2192,6 +2192,35 @@
     "closed": null
   },
   {
+    "id": "CanalLuzTelevision.es",
+    "name": "Canal Luz Television",
+    "alt_names": [
+      "Canal Luz Televisión",
+      "Palos RTV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/H3JzQ1G.jpg",
+    "stream_url": "https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://canalluztelevision.es/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CanalMalagaRTV.es",
     "name": "Canal Malaga RTV",
     "alt_names": [
@@ -5977,6 +6006,45 @@
     "closed": null
   },
   {
+    "id": "Neox.es",
+    "name": "Neox",
+    "alt_names": [
+      "Neox 8",
+      "Antena.Neox"
+    ],
+    "network": null,
+    "owners": [
+      "Atresmedia"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/Neox.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Neox.es",
+      "feed": "SD",
+      "site": "programacion-tv.elpais.com",
+      "site_id": "508",
+      "site_name": "Neox",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.antena3.com/neox/",
+    "launched": "2005-11-30",
+    "closed": null
+  },
+  {
     "id": "Nickelodeon.es",
     "name": "Nickelodeon",
     "alt_names": [],
@@ -6013,6 +6081,76 @@
     "closed": null
   },
   {
+    "id": "Nickelodeon.es",
+    "name": "Nickelodeon",
+    "alt_names": [],
+    "network": "Nickelodeon",
+    "owners": [
+      "Paramount Networks EMEAA"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/NickelodeonSpain.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Nickelodeon.es",
+      "feed": "SD",
+      "site": "programacion-tv.elpais.com",
+      "site_id": "200",
+      "site_name": "Nickelodeon",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.nickelodeon.es/",
+    "launched": "1999-03-27",
+    "closed": null
+  },
+  {
+    "id": "NickJr.es",
+    "name": "Nick Jr.",
+    "alt_names": [],
+    "network": "Nickelodeon",
+    "owners": [],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/NickJrSpain.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NickJr.es",
+      "feed": "SD",
+      "site": "programacion-tv.elpais.com",
+      "site_id": "687",
+      "site_name": "Nick Junior",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.nickjr.es/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Nortevision.es",
     "name": "Nortevision",
     "alt_names": [
@@ -6036,6 +6174,42 @@
     "tv_guide": null,
     "website": "http://nortevision.es/directo/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Nova.es",
+    "name": "Nova",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Atresmedia"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Vx1F4o5.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/Nova.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Nova.es",
+      "feed": "SD",
+      "site": "programacion-tv.elpais.com",
+      "site_id": "509",
+      "site_name": "Nova",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://nova.atresmedia.com/",
+    "launched": "2005-11-30",
     "closed": null
   },
   {

@@ -301,10 +301,46 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/uVFenKm.png",
-    "stream_url": "https://dokagents.site/live/axns/mono.m3u8",
+    "stream_url": "https://lb.dstvmultimedia.com/AXNSpin/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXNSpin.hu",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#axn-spin",
+      "site_name": "AXN Spin",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "http://www.axnspin.com/",
+    "launched": "2012-01-11",
+    "closed": null
+  },
+  {
+    "id": "AXNSpin.hu",
+    "name": "AXN Spin",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Antenna Group"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/uVFenKm.png",
+    "stream_url": "http://xplatinmedia.com:8080/@mouilha20/IfXR3J0mu6kes9eunQPVa7kl8YO8iw/85611",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "AXNSpin.hu",
@@ -794,6 +830,42 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://estv.hu/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "EWTNBonumTV.hu",
+    "name": "EWTN/Bonum TV",
+    "alt_names": [],
+    "network": "EWTN",
+    "owners": [
+      "Eternal Word Television Network"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/LdsRz2E.png",
+    "stream_url": "https://dash2.antik.sk/live/ewtn_bonum/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EWTNBonumTV.hu",
+      "feed": "SD",
+      "site": "musor.tv",
+      "site_id": "BONUM",
+      "site_name": "EWTN / Bonum TV (HD)",
+      "lang": "hu",
+      "sources": []
+    },
+    "website": "https://katolikus.tv/musorok/",
     "launched": null,
     "closed": null
   },

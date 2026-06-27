@@ -606,6 +606,44 @@
     "closed": null
   },
   {
+    "id": "Ecuavisa.ec",
+    "name": "Ecuavisa",
+    "alt_names": [
+      "Canal 8"
+    ],
+    "network": null,
+    "owners": [
+      "Grupo Alvarado Roca"
+    ],
+    "country_code": "EC",
+    "country_name": "Ecuador",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Hl5wowk.png",
+    "stream_url": "http://179.60.51.134:8888/ECUAVISA/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Ecuavisa.ec",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "ecuavisa_ecuador",
+      "site_name": "Canal Ecuavisa (Ecuador)",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.ecuavisa.com/",
+    "launched": "1967-03-01",
+    "closed": null
+  },
+  {
     "id": "EducaTV.ec",
     "name": "Educa TV",
     "alt_names": [],
@@ -1471,6 +1509,34 @@
     "logo": "https://i.imgur.com/j5Vvxd5.png",
     "stream_url": "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://oromartv.com/",
+    "launched": "2010-11-01",
+    "closed": null
+  },
+  {
+    "id": "OromarTV.ec",
+    "name": "Oromar TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sistemas Globales de Comunicacion HCglobal S A"
+    ],
+    "country_code": "EC",
+    "country_name": "Ecuador",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/j5Vvxd5.png",
+    "stream_url": "http://179.60.51.134:8888/OROMAR-TV/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

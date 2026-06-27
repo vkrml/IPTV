@@ -522,6 +522,42 @@
     "closed": null
   },
   {
+    "id": "AMCEurope.uk",
+    "name": "AMC Europe",
+    "alt_names": [],
+    "network": "AMC Networks International UK",
+    "owners": [
+      "AMC Networks Inc."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+    "stream_url": "https://lb.dstvmultimedia.com/AMC/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AMCEurope.uk",
+      "feed": "Portugal",
+      "site": "vodafone.pt",
+      "site_id": "2996",
+      "site_name": "AMC",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://uk.amc.com/",
+    "launched": "2015-08-28",
+    "closed": null
+  },
+  {
     "id": "AnandTV.uk",
     "name": "Anand TV",
     "alt_names": [],
@@ -672,6 +708,42 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/4BDJ5FT.png",
     "stream_url": "https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BabyTV.uk",
+      "feed": "UK",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000091_019490",
+      "site_name": "BabyTV",
+      "lang": "nl",
+      "sources": []
+    },
+    "website": "http://www.babytv.com/",
+    "launched": "2005-07-04",
+    "closed": null
+  },
+  {
+    "id": "BabyTV.uk",
+    "name": "BabyTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "The Walt Disney Company Limited"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4BDJ5FT.png",
+    "stream_url": "http://179.60.51.134:8888/BABY-TV/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

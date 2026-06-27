@@ -439,6 +439,44 @@
     "closed": null
   },
   {
+    "id": "ArmyTV.ua",
+    "name": "Army TV",
+    "alt_names": [
+      "Армія ТБ"
+    ],
+    "network": null,
+    "owners": [
+      "Ministry of Defence Ukraine"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/pGByjbh.png",
+    "stream_url": "http://195.54.52.40:80/test/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ArmyTV.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "armia-tv-ua",
+      "site_name": "Армія ТБ",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://armyfm.com.ua/",
+    "launched": "2023-04-21",
+    "closed": null
+  },
+  {
     "id": "ATR.ua",
     "name": "ATR",
     "alt_names": [
@@ -2705,6 +2743,43 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NikiKids.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "niki-kids",
+      "site_name": "Niki Kids",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://niki.ua/",
+    "launched": "2017-11-15",
+    "closed": null
+  },
+  {
+    "id": "NikiKids.ua",
+    "name": "Niki Kids",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rudolph Kirnos",
+      "Karina Torres"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/HH4HZ2J.png",
+    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/NIKIKids.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "NikiKids.ua",
@@ -5169,6 +5244,45 @@
     "logo": "https://i.imgur.com/qVYt8kP.png",
     "stream_url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31764/index.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ViasatKinoComedy.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "vip-comedy-cee",
+      "site_name": "Viasat Kino Comedy",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://viasat.com.ua/channel/ViasatKinoComedy",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ViasatKinoComedy.ua",
+    "name": "Viasat Kino Comedy",
+    "alt_names": [
+      "ViP Comedy East"
+    ],
+    "network": null,
+    "owners": [
+      "Viasat Ukraine"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/qVYt8kP.png",
+    "stream_url": "http://ukr.ukrainske.tv/493/keytvainua/video.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

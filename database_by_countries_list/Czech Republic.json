@@ -477,6 +477,32 @@
     "closed": null
   },
   {
+    "id": "GolfChannel.cz",
+    "name": "Golf Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CZ",
+    "country_name": "Czech Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png",
+    "stream_url": "https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.golfchannel.cz/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "History.cz",
     "name": "History",
     "alt_names": [],
@@ -856,6 +882,44 @@
     "closed": null
   },
   {
+    "id": "OckoBlack.cz",
+    "name": "Ocko Black",
+    "alt_names": [
+      "Óčko Black"
+    ],
+    "network": null,
+    "owners": [
+      "Stanice O a s"
+    ],
+    "country_code": "CZ",
+    "country_name": "Czech Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5rw9tWy.png",
+    "stream_url": "https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "OckoBlack.cz",
+      "feed": "SD",
+      "site": "mujtvprogram.cz",
+      "site_id": "727",
+      "site_name": "Óčko Black HD",
+      "lang": "cs",
+      "sources": []
+    },
+    "website": "https://ocko.tv/",
+    "launched": "2019-02-05",
+    "closed": null
+  },
+  {
     "id": "OckoExpres.cz",
     "name": "Ocko Expres",
     "alt_names": [
@@ -951,6 +1015,44 @@
     "tv_guide": null,
     "website": "https://ocko.tv/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "OckoStar.cz",
+    "name": "Ocko Star",
+    "alt_names": [
+      "Óčko Star"
+    ],
+    "network": null,
+    "owners": [
+      "Stanice O a s"
+    ],
+    "country_code": "CZ",
+    "country_name": "Czech Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%C3%93%C4%8Dko_Star_logo.png/960px-%C3%93%C4%8Dko_Star_logo.png",
+    "stream_url": "https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "OckoStar.cz",
+      "feed": "SD",
+      "site": "mujtvprogram.cz",
+      "site_id": "352",
+      "site_name": "ÓČKO STAR",
+      "lang": "cs",
+      "sources": []
+    },
+    "website": "https://ocko.tv/",
+    "launched": "2013-06-01",
     "closed": null
   },
   {

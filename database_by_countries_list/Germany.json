@@ -926,6 +926,42 @@
     "closed": null
   },
   {
+    "id": "AXNBlack.de",
+    "name": "AXN Black",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sony Pictures Television"
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Peo1QiZ.png",
+    "stream_url": "http://xplatinmedia.com:8080/Elko/mhj8LHTJJC/79440",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXNBlack.de",
+      "feed": "SD",
+      "site": "web.magentatv.de",
+      "site_id": "110",
+      "site_name": "AXN Black",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "https://www.axnblack.com/",
+    "launched": "2023-09-01",
+    "closed": null
+  },
+  {
     "id": "BadenTV.de",
     "name": "Baden TV",
     "alt_names": [],
@@ -1903,6 +1939,44 @@
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ComedyCentral.de",
+      "feed": "SD",
+      "site": "web.magentatv.de",
+      "site_id": "50",
+      "site_name": "Comedy Central",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "http://www.comedycentral.de/",
+    "launched": "2007-01-15",
+    "closed": null
+  },
+  {
+    "id": "ComedyCentral.de",
+    "name": "Comedy Central",
+    "alt_names": [
+      "Comedy Central Deutschland"
+    ],
+    "network": null,
+    "owners": [
+      "Paramount Networks EMEAA"
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+    "stream_url": "https://lb.dstvmultimedia.com/ComedyCentral/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "ComedyCentral.de",

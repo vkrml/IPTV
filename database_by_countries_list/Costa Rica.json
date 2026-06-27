@@ -558,6 +558,34 @@
     "closed": null
   },
   {
+    "id": "ConexionPositivaTelevision.cr",
+    "name": "Conexion Positiva Television",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Conexion Positiva Medios"
+    ],
+    "country_code": "CR",
+    "country_name": "Costa Rica",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/HSSyRDs/conexion-positiva.png",
+    "stream_url": "https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://conexionpositivaradio.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CostaRicaChannel.cr",
     "name": "Costa Rica Channel",
     "alt_names": [],
@@ -672,6 +700,40 @@
     },
     "website": "https://www.enlace.org/",
     "launched": "1988-09-09",
+    "closed": null
+  },
+  {
+    "id": "EnlaceJuvenil.cr",
+    "name": "Enlace Juvenil",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CR",
+    "country_name": "Costa Rica",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/GfpPQ5D.png",
+    "stream_url": "https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EnlaceJuvenil.cr",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "co#enlace-juvenil",
+      "site_name": "Enlace Juvenil",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://ejtv.tv/",
+    "launched": null,
     "closed": null
   },
   {
@@ -963,6 +1025,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.lossantostv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "LuzNacienteTV.cr",
+    "name": "Luz Naciente TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CR",
+    "country_name": "Costa Rica",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/GC2lubh.png",
+    "stream_url": "https://streeming.protoscr.com:3858/live/streeminglive.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.luznacientetv.com/",
     "launched": null,
     "closed": null
   },
@@ -1851,6 +1939,40 @@
     "closed": null
   },
   {
+    "id": "TV8.cr",
+    "name": "TV8",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CR",
+    "country_name": "Costa Rica",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nM9iIYX.png",
+    "stream_url": "https://k20.usastreams.com:8081/tv8/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TV8.cr",
+      "feed": "SD",
+      "site": "turksatkablo.com.tr",
+      "site_id": "2614",
+      "site_name": "TV 8",
+      "lang": "tr",
+      "sources": []
+    },
+    "website": "https://tv8cr.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVN14.cr",
     "name": "TVN 14",
     "alt_names": [],
@@ -1966,6 +2088,32 @@
     "logo": "https://i.imgur.com/zEi8eMC.png",
     "stream_url": "http://k4.usastreams.com/videotour/videotour/playlist.m3u8",
     "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://videotourchannel.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VideoTourChannel.cr",
+    "name": "Video Tour Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CR",
+    "country_name": "Costa Rica",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/zEi8eMC.png",
+    "stream_url": "https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

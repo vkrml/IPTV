@@ -497,6 +497,32 @@
     "closed": null
   },
   {
+    "id": "CityTV.hu",
+    "name": "City TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/u0AKhzj.png",
+    "stream_url": "https://citytv.hu/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://citytv.hu/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CoolTV.hu",
     "name": "Cool TV",
     "alt_names": [],
@@ -579,6 +605,34 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/vVOEYuj.png",
     "stream_url": "https://5cd03f21c7193.streamlock.net/csurgotv/csurgolive/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.csurgotv.hu/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CsurgoTV.hu",
+    "name": "Csurgo TV",
+    "alt_names": [
+      "Csurgó TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/vVOEYuj.png",
+    "stream_url": "https://cstv.medialivecdn.hu/csurgotv/27725804dc13aa23b3970414524d2dbf.sdp/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -834,6 +888,32 @@
     "closed": null
   },
   {
+    "id": "ESTV.hu",
+    "name": "ESTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OCZ8CfK.png",
+    "stream_url": "https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://estv.hu/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "EWTNBonumTV.hu",
     "name": "EWTN/Bonum TV",
     "alt_names": [],
@@ -1077,6 +1157,35 @@
     "closed": null
   },
   {
+    "id": "GyongyosiTV.hu",
+    "name": "Gyongyosi TV",
+    "alt_names": [
+      "Gyöngyösi TV",
+      "GyTV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/RHgaPCk.png",
+    "stream_url": "https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://gyongyostv.hu/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "HangulatTV.hu",
     "name": "Hangulat TV",
     "alt_names": [
@@ -1153,6 +1262,43 @@
     "logo": "https://i.imgur.com/t5bw1J1.png",
     "stream_url": "https://tv.hegyvidek.hu/stream_mpeg.flv",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HegyvidekTV.hu",
+      "feed": "SD",
+      "site": "musor.tv",
+      "site_id": "HEGYVIDEK_TV",
+      "site_name": "Hegyvidék TV",
+      "lang": "hu",
+      "sources": []
+    },
+    "website": "https://hegyvidektv.hu/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HegyvidekTV.hu",
+    "name": "Hegyvidek TV",
+    "alt_names": [
+      "HTV",
+      "Hegyvidék TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/t5bw1J1.png",
+    "stream_url": "https://iptv02.eurocable.co.hu:15400/EC-HEGYVIDEKTV-FTA/index.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

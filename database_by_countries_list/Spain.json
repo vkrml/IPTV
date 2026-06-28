@@ -1042,6 +1042,37 @@
     "closed": null
   },
   {
+    "id": "APunt.es",
+    "name": "A Punt",
+    "alt_names": [
+      "À Punt"
+    ],
+    "network": null,
+    "owners": [
+      "Corporació Valenciana de Mitjans de Comunicació"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general",
+      "public"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/960px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png",
+    "stream_url": "https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.apuntmedia.es/",
+    "launched": "2017-08-30",
+    "closed": null
+  },
+  {
     "id": "ArabiTV.es",
     "name": "Arabi TV",
     "alt_names": [
@@ -1375,10 +1406,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512",
-    "stream_url": "https://adpnetworkhd-cmd.github.io/iptv/AXNMoviesSpain.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "http://xplatinmedia.com:8080/Tagtech2873/RwCXuUgkg8g5/114738",
+    "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.axn.es/axnmovies",
@@ -10115,6 +10146,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.ventdelnord.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Vision6TV.es",
+    "name": "Vision 6 TV",
+    "alt_names": [
+      "Visión 6 TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TB1wMQ7.jpg",
+    "stream_url": "https://streaming.proceso.info:8888/vision6-web/stream.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },

@@ -184,6 +184,32 @@
     "closed": null
   },
   {
+    "id": "AzanTV.ca",
+    "name": "Azan TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/JlqS6I4.jpeg",
+    "stream_url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://azan.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AzStarTV.ca",
     "name": "Az Star TV",
     "alt_names": [],
@@ -1965,6 +1991,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.deshitv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DoyelTV.ca",
+    "name": "Doyel TV",
+    "alt_names": [
+      "শ্রেষ্ঠত্বে বাংলাদেশ"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/8pR8Q4J.png",
+    "stream_url": "https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://doyeltv.com/",
     "launched": null,
     "closed": null
   },
@@ -4978,32 +5032,6 @@
     "closed": null
   },
   {
-    "id": "Nicktoons.ca",
-    "name": "Nicktoons",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CA",
-    "country_name": "Canada",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/ZpmVmC3G/IMG-0291.jpg",
-    "stream_url": "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": "2023-12-22",
-    "closed": null
-  },
-  {
     "id": "NTVPlus.ca",
     "name": "NTV+",
     "alt_names": [],
@@ -7745,11 +7773,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/RR7ATr2.png",
-    "stream_url": "https://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
+    "stream_url": "https://hls.uvagut.tv/hls/uvagut/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
+    "referrer": "https://www.uvagut.tv/",
     "tv_guide": null,
     "website": "http://uvagut.tv/",
     "launched": "2021-01-18",

@@ -1386,37 +1386,6 @@
     "closed": null
   },
   {
-    "id": "AXNMovies.es",
-    "name": "AXN Movies",
-    "alt_names": [
-      "AXN White Spain",
-      "Sony Entertainment Television Spain"
-    ],
-    "network": null,
-    "owners": [
-      "Sony Pictures Television"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512",
-    "stream_url": "http://xplatinmedia.com:8080/Tagtech2873/RwCXuUgkg8g5/114738",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.axn.es/axnmovies",
-    "launched": "2012-05-07",
-    "closed": null
-  },
-  {
     "id": "BailenTV.es",
     "name": "Bailen TV",
     "alt_names": [
@@ -7940,6 +7909,42 @@
     },
     "website": "https://www.realmadrid.com/real-madrid-tv",
     "launched": "1999-02-14",
+    "closed": null
+  },
+  {
+    "id": "RealMadridTVEnglish.es",
+    "name": "Real Madrid TV English",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Real Madrid Club de Fútbol"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5pMo7dL.png",
+    "stream_url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RealMadridTVEnglish.es",
+      "feed": "SD",
+      "site": "vidio.com",
+      "site_id": "19538",
+      "site_name": "Real Madrid TV",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://www.realmadrid.com/en-US/real-madrid-tv/",
+    "launched": null,
     "closed": null
   },
   {

@@ -337,43 +337,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/VTJqdoX.png",
-    "stream_url": "https://video1.in-news.ru/360/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "360.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "1832",
-      "site_name": "Телеканал 360° HD",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://360tv.ru/",
-    "launched": "2014-01-01",
-    "closed": null
-  },
-  {
-    "id": "360.ru",
-    "name": "360°",
-    "alt_names": [
-      "360",
-      "360TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/VTJqdoX.png",
     "stream_url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -589,42 +552,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://aisttv.ru/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Almaznyykray.ru",
-    "name": "Almaznyy kray",
-    "alt_names": [
-      "Алмазный край"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/zErXTdF.png",
-    "stream_url": "https://stream.almaz-media.tv:8080/hls/576.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Almaznyykray.ru",
-      "feed": "SD",
-      "site": "epg.iptvx.one",
-      "site_id": "almazny-kray",
-      "site_name": "Алмазный край",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://www.almaz-media.tv/",
     "launched": null,
     "closed": null
   },
@@ -2364,6 +2291,45 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/nUSx1jF.png",
     "stream_url": "http://hls127.freeott.top:8080/8_KANAL/video.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Channel8.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1048",
+      "site_name": "8 Канал",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://8tv.ru/",
+    "launched": "2010-07-05",
+    "closed": null
+  },
+  {
+    "id": "Channel8.ru",
+    "name": "Channel 8",
+    "alt_names": [
+      "8 канал",
+      "Восьмой канал"
+    ],
+    "network": null,
+    "owners": [
+      "Prime Cinema-TV"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nUSx1jF.png",
+    "stream_url": "https://v4.proofix.ru/8tv-russia/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -7613,42 +7579,6 @@
     "closed": null
   },
   {
-    "id": "Konniymir.ru",
-    "name": "Konniy mir",
-    "alt_names": [
-      "Конный мир"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "outdoor"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/X6otbK0.png",
-    "stream_url": "https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Konniymir.ru",
-      "feed": "HD",
-      "site": "tv.mail.ru",
-      "site_id": "2856",
-      "site_name": "Конный мир HD",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "http://news.sportbox.ru/Vidy_sporta/horse_world",
-    "launched": "2015-05-10",
-    "closed": null
-  },
-  {
     "id": "KrikTV.ru",
     "name": "Krik-TV",
     "alt_names": [
@@ -8163,34 +8093,6 @@
     },
     "website": "http://leva.tv/",
     "launched": "2022-05-13",
-    "closed": null
-  },
-  {
-    "id": "Luch.ru",
-    "name": "Luch",
-    "alt_names": [
-      "Луч"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/tXH51br.png",
-    "stream_url": "https://mow-9-ll.facecast.io:8443/hls_re/c631505e4fd6d14665c0.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://purmedia.ru/",
-    "launched": "1989-12-18",
     "closed": null
   },
   {
@@ -9830,84 +9732,6 @@
     "closed": null
   },
   {
-    "id": "MosObrTV.ru",
-    "name": "MosObrTV",
-    "alt_names": [
-      "МосОбрТВ",
-      "Московский образовательный"
-    ],
-    "network": null,
-    "owners": [
-      "Department of Education and Science of Moscow"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "education"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/t6PmOD5.png",
-    "stream_url": "http://retc.educom.ru/mosobrtv/tv1/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MosObrTV.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "2355",
-      "site_name": "Московский образовательный",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://mosobr.shkolamoskva.ru/",
-    "launched": "2015-09-01",
-    "closed": null
-  },
-  {
-    "id": "MosObrTV.ru",
-    "name": "MosObrTV",
-    "alt_names": [
-      "МосОбрТВ",
-      "Московский образовательный"
-    ],
-    "network": null,
-    "owners": [
-      "Department of Education and Science of Moscow"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "education"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/t6PmOD5.png",
-    "stream_url": "http://retj.educom.ru/mosobrtv/tv1/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MosObrTV.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "2355",
-      "site_name": "Московский образовательный",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://mosobr.shkolamoskva.ru/",
-    "launched": "2015-09-01",
-    "closed": null
-  },
-  {
     "id": "MoyaPlaneta.ru",
     "name": "Moya Planeta",
     "alt_names": [
@@ -11274,42 +11098,6 @@
     },
     "website": "https://jr.nickelodeon.ru/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Nicktoons.ru",
-    "name": "Nicktoons",
-    "alt_names": [],
-    "network": "Paramount Media Networks",
-    "owners": [
-      "Paramount Global"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",
-    "stream_url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/849/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Nicktoons.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "2446",
-      "site_name": "NickToons",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "http://www.nickelodeon.ru/",
-    "launched": "2018-01-01",
     "closed": null
   },
   {
@@ -15382,6 +15170,34 @@
     "is_nsfw": false,
     "logo": "https://pbs.twimg.com/media/FiHmjBrWIBsN41d.jpg",
     "stream_url": "https://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://rt.rs/",
+    "launched": "2024-12-27",
+    "closed": null
+  },
+  {
+    "id": "RTBalkan.ru",
+    "name": "RT Balkan",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://pbs.twimg.com/media/FiHmjBrWIBsN41d.jpg",
+    "stream_url": "https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -27205,6 +27021,40 @@
     "closed": null
   },
   {
+    "id": "ShotTV.ru",
+    "name": "Shot TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/MLSG7tA.png",
+    "stream_url": "http://hls127.freeott.top:8080/SHOT_TV/video.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ShotTV.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1561",
+      "site_name": "SHOT TV",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://www.shot-tv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Sibir24.ru",
     "name": "Sibir 24",
     "alt_names": [
@@ -29481,40 +29331,6 @@
     },
     "website": "https://supergeroi-tv.ru/",
     "launched": "2016-10-04",
-    "closed": null
-  },
-  {
-    "id": "Surgut24.ru",
-    "name": "Surgut 24",
-    "alt_names": [
-      "Сургут 24"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/OxvqXMt.png",
-    "stream_url": "https://video1.in-news.ru/c24/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Surgut24.ru",
-      "feed": "SD",
-      "site": "epg.iptvx.one",
-      "site_id": "surgut-24",
-      "site_name": "Сургут 24",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://in-news.ru/",
-    "launched": "2012-01-01",
     "closed": null
   },
   {
@@ -31862,38 +31678,6 @@
     "closed": null
   },
   {
-    "id": "UniverTV.ru",
-    "name": "Univer TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/r3u0mxr.png",
-    "stream_url": "https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "UniverTV.ru",
-      "feed": "SD",
-      "site": "epg.iptvx.one",
-      "site_id": "univer-tv",
-      "site_name": "Univer TV",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://universmotri.ru/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "UnknownRussia.ru",
     "name": "Unknown Russia",
     "alt_names": [
@@ -32422,40 +32206,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://vitrinatv.ru/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "VIVARussia.ru",
-    "name": "VIVA Russia",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/OFhQQCD.png",
-    "stream_url": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "VIVARussia.ru",
-      "feed": "SD",
-      "site": "epg.iptvx.one",
-      "site_id": "viva-rus",
-      "site_name": "VIVA Russia",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://viva-russia.ru/",
     "launched": null,
     "closed": null
   },

@@ -56,36 +56,6 @@
     "closed": null
   },
   {
-    "id": "ATNTelevision.co",
-    "name": "ATN Television",
-    "alt_names": [
-      "ATN Televisión"
-    ],
-    "network": null,
-    "owners": [
-      "ATN Television"
-    ],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/79sX78u.png",
-    "stream_url": "https://streaming5.globalhostla.com/rtplive/atntelevision/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://atntelevision.co/",
-    "launched": "2007-08-27",
-    "closed": null
-  },
-  {
     "id": "AupurTelevision.co",
     "name": "Aupur Television",
     "alt_names": [
@@ -286,6 +256,34 @@
     "closed": null
   },
   {
+    "id": "CableNobsaTV.co",
+    "name": "Cable Nobsa TV",
+    "alt_names": [
+      "Cable Nobsa Canal 4"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/wtf4A02.png",
+    "stream_url": "https://eu1.servers10.com:8081/8164/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://cablenobsa.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CableSurTV.co",
     "name": "Cable Sur TV",
     "alt_names": [],
@@ -309,42 +307,6 @@
     "tv_guide": null,
     "website": "https://www.cablesur.com.co/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CaliTV.co",
-    "name": "CaliTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Fundación Para el Desarrollo Social Promover"
-    ],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/2312Luq.png",
-    "stream_url": "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8",
-    "stream_quality": "540p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CaliTV.co",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "co#cali-tv",
-      "site_name": "CaliTV",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.canalcalitv.com/",
-    "launched": "2007-10-10",
     "closed": null
   },
   {
@@ -1133,32 +1095,6 @@
     "closed": null
   },
   {
-    "id": "CanalSantaMartaTV.co",
-    "name": "Canal Santa Marta TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/HbWadhJ.png",
-    "stream_url": "https://stream.amelbasoluciones.co/live/santamartalive.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://canalsantamartatv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "CanalTelefamilia.co",
     "name": "Canal Telefamilia",
     "alt_names": [],
@@ -1444,44 +1380,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/h7K9EW9.png",
-    "stream_url": "http://181.114.57.246:4000/play/u2H4dIJoRipgGI3A/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CitytvBogota.co",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "pe#citytv",
-      "site_name": "Citytv",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.citytv.com.co/",
-    "launched": "1999-03-19",
-    "closed": null
-  },
-  {
-    "id": "CitytvBogota.co",
-    "name": "Citytv Bogota",
-    "alt_names": [
-      "Citytv Bogotá"
-    ],
-    "network": "Citytv",
-    "owners": [
-      "El Tiempo Casa Editorial"
-    ],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/h7K9EW9.png",
     "stream_url": "http://138.121.15.230:9002/CITY-TV/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -1621,62 +1519,6 @@
     "closed": null
   },
   {
-    "id": "CNCChoco.co",
-    "name": "CNC Choco",
-    "alt_names": [
-      "CNC Chocó"
-    ],
-    "network": "CNC",
-    "owners": [],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/VybK6Ub.jpeg",
-    "stream_url": "https://hvtraficonew.ddns.net/corescomunicaciones/index.fmp4.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://corescomunicaciones.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CNCLaUnion.co",
-    "name": "CNC La Union",
-    "alt_names": [
-      "CNC La Unión"
-    ],
-    "network": "CNC",
-    "owners": [],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/sNWWDZK.png",
-    "stream_url": "https://live.amelbatv.co:81/cnclaunion/index.fmp4.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.cnclaunion.com.co",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "CNCPereira.co",
     "name": "CNC Pereira",
     "alt_names": [],
@@ -1802,44 +1644,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/bj7Jd2q.png",
-    "stream_url": "https://videohls2.cosmovision.tv/hls/sd.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Cosmovision.co",
-      "feed": "SD",
-      "site": "siba.com.co",
-      "site_id": "417",
-      "site_name": "COSMOVISION",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://coosmovision.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Cosmovision.co",
-    "name": "Cosmovision",
-    "alt_names": [
-      "Cosmovisión"
-    ],
-    "network": null,
-    "owners": [
-      "Producciones Cosmovision"
-    ],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/bj7Jd2q.png",
     "stream_url": "https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -1894,60 +1698,6 @@
     },
     "website": "https://cristovision.tv/",
     "launched": "2008-11-13",
-    "closed": null
-  },
-  {
-    "id": "CTVBarranquilla.co",
-    "name": "CTV Barranquilla",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/w35ICn7.png",
-    "stream_url": "https://live.ctvbarranquilla.com/live/ctv-4ad31c89f3764bf0980e642bc12fd00a.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://ctvbarranquilla.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CucutaRetroTV.co",
-    "name": "Cucuta Retro TV",
-    "alt_names": [
-      "Cúcuta Retro TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "classic"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/GltIfWW.jpeg",
-    "stream_url": "https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://homestream.fun/video/25/cucuta-retro-tv?channelName=HSF",
-    "launched": null,
     "closed": null
   },
   {
@@ -2031,30 +1781,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://104florencia.co/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "EmisoraLasVegas.co",
-    "name": "Emisora Las Vegas",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://new.opencaster.com/uploads/logos/logo_70_1759816048.png",
-    "stream_url": "https://vs20.live.opencaster.com/emisoralasvegas_b84f5781/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://new.opencaster.com/player?user=Emisora_Las_Vegas",
     "launched": null,
     "closed": null
   },
@@ -2221,62 +1947,6 @@
     "closed": null
   },
   {
-    "id": "LaCantinaMemorias.co",
-    "name": "La Cantina Memorias",
-    "alt_names": [],
-    "network": "Memorias TV",
-    "owners": [
-      "Memorias Producciones"
-    ],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/34751741_ico.png",
-    "stream_url": "https://video.xtrematv.com:3208/live/memoriaslacantinalive.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "LaCheverisimaRadioTV.co",
-    "name": "La Cheverisima Radio TV",
-    "alt_names": [
-      "La Cheverísima Radio TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/lk5D5kB.png",
-    "stream_url": "https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.lacheverisimaneira.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "LaHermandadSalsera.co",
     "name": "La Hermandad Salsera",
     "alt_names": [],
@@ -2353,34 +2023,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://lamoradaradiotv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "LunaEstereo1064FM.co",
-    "name": "Luna Estereo 106.4 FM",
-    "alt_names": [
-      "Luna Estéreo 106.4 FM"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/cESeD6R.png",
-    "stream_url": "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.lunaestereo.com/",
     "launched": null,
     "closed": null
   },
@@ -2549,240 +2191,6 @@
     "tv_guide": null,
     "website": "https://canalmci.com.co/",
     "launched": "2021-09-29",
-    "closed": null
-  },
-  {
-    "id": "MemoriasdelCorazon.co",
-    "name": "Memorias del Corazon",
-    "alt_names": [
-      "Memorias del Corazón"
-    ],
-    "network": "Memorias TV",
-    "owners": [
-      "Memorias Producciones"
-    ],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/sVLDzzM.png",
-    "stream_url": "https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://memorias.tv/memorias-del-corazon/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "MemoriasFMPopLatino.co",
-    "name": "Memorias FM Pop Latino",
-    "alt_names": [],
-    "network": "Memorias TV",
-    "owners": [
-      "Memorias Producciones"
-    ],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/34751581_ico.png",
-    "stream_url": "https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "MemoriasTVClassic.co",
-    "name": "Memorias TV Classic",
-    "alt_names": [],
-    "network": "Memorias TV",
-    "owners": [
-      "Memorias Producciones"
-    ],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/tLTQLnv.png",
-    "stream_url": "https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://memorias.tv/memorias-classic/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "MemoriasTVFilm.co",
-    "name": "Memorias TV Film",
-    "alt_names": [],
-    "network": "Memorias TV",
-    "owners": [
-      "Memorias Producciones"
-    ],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/vNfjW6Y.png",
-    "stream_url": "https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://memorias.tv/memorias-film/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "MemoriasTVSeries.co",
-    "name": "Memorias TV Series",
-    "alt_names": [],
-    "network": "Memorias TV",
-    "owners": [
-      "Memorias Producciones"
-    ],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ohCSMhY.png",
-    "stream_url": "https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://memorias.tv/memorias-series-2/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "MemoriasTVToons.co",
-    "name": "Memorias TV Toons",
-    "alt_names": [],
-    "network": "Memorias TV",
-    "owners": [
-      "Memorias Producciones"
-    ],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/2fiiNCz.png",
-    "stream_url": "https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://memorias.tv/memorias-toons/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "MemoriasTVTropical.co",
-    "name": "Memorias TV Tropical",
-    "alt_names": [],
-    "network": "Memorias TV",
-    "owners": [
-      "Memorias Producciones"
-    ],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Y9GFDcV.png",
-    "stream_url": "https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://memorias.tv/memorias-salsa/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "MiGenteTV.co",
-    "name": "Mi Gente TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Royal Net Television"
-    ],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/CSbmQlu.png",
-    "stream_url": "https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MiGenteTV.co",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "pe#mi-gente",
-      "site_name": "Mi Gente TV",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://migente.fm/",
-    "launched": "1991-11-01",
     "closed": null
   },
   {
@@ -3386,34 +2794,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.reyali.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RioTelevision.co",
-    "name": "Rio Television",
-    "alt_names": [
-      "Río Televisión"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/SYa9giW.jpeg",
-    "stream_url": "https://stream.amelbasoluciones.co/live/riotv.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://riotv.com.co/",
     "launched": null,
     "closed": null
   },
@@ -4276,34 +3656,6 @@
     "closed": null
   },
   {
-    "id": "TVPenol.co",
-    "name": "TV Penol",
-    "alt_names": [
-      "TV Peñol"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Zm4934Z.png",
-    "stream_url": "https://live20.bozztv.com/akamaissh101/ssh101/tvpenol2026/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tvpenol.wixsite.com/canaltvpenol",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TVRivera.co",
     "name": "TV Rivera",
     "alt_names": [],
@@ -4352,32 +3704,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://tvrivera.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVSanJorge.co",
-    "name": "TV San Jorge",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/vLU4Tcu.png",
-    "stream_url": "https://asucap.com/livestream/asucap_envivo.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tvsanjorge.tv/",
     "launched": null,
     "closed": null
   },
@@ -4490,75 +3816,6 @@
     "closed": null
   },
   {
-    "id": "WinPlusFutbol.co",
-    "name": "Win+ Futbol",
-    "alt_names": [
-      "Win+ Fútbol",
-      "Win Sports+"
-    ],
-    "network": null,
-    "owners": [
-      "DirecTV",
-      "RCN Televisión"
-    ],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/0UN87vB.png",
-    "stream_url": "http://190.60.40.34:8001/play/a02r",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://winplay.co/",
-    "launched": "2020-01-20",
-    "closed": null
-  },
-  {
-    "id": "WinSports.co",
-    "name": "Win Sports",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "DirecTV",
-      "RCN Televisión"
-    ],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/DuSSrHV.png",
-    "stream_url": "http://190.60.40.34:8001/play/a0ef",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "WinSports.co",
-      "feed": "SD",
-      "site": "siba.com.co",
-      "site_id": "828",
-      "site_name": "WIN SPORTS",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.winsports.co/",
-    "launched": "2012-11-29",
-    "closed": null
-  },
-  {
     "id": "WinSports.co",
     "name": "Win Sports",
     "alt_names": [],
@@ -4593,44 +3850,6 @@
     },
     "website": "https://www.winsports.co/",
     "launched": "2012-11-29",
-    "closed": null
-  },
-  {
-    "id": "Zoom.co",
-    "name": "Zoom",
-    "alt_names": [
-      "Canal Universitario de Colombia"
-    ],
-    "network": null,
-    "owners": [
-      "Asociación Colombiana de Universidades"
-    ],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "education"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/euy5zp6.png",
-    "stream_url": "https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Zoom.co",
-      "feed": "SD",
-      "site": "siba.com.co",
-      "site_id": "611",
-      "site_name": "ZOOM TV",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.zoomcanal.com.co/",
-    "launched": null,
     "closed": null
   }
 ]

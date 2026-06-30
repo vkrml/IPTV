@@ -766,6 +766,42 @@
     "closed": null
   },
   {
+    "id": "ATVPlus.pe",
+    "name": "ATV+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo ATV"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/fY9256H.png",
+    "stream_url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvplus.stream/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ATVPlus.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch2220",
+      "site_name": "ATV+",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.atv.pe/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ATVSur.pe",
     "name": "ATV Sur",
     "alt_names": [],
@@ -785,6 +821,42 @@
     "logo": "https://i.imgur.com/LnyVa5H.png",
     "stream_url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ATVSur.pe",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "pe#atv-sur",
+      "site_name": "ATV Sur",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.atv.pe/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ATVSur.pe",
+    "name": "ATV Sur",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo ATV"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/LnyVa5H.png",
+    "stream_url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1346,6 +1418,40 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://conecta2.pe/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CongresoTV.pe",
+    "name": "Congreso TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "legislative"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/r0foZ5t.png",
+    "stream_url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalelcongreso.stream/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CongresoTV.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch6310",
+      "site_name": "CONGRESO",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://comunicaciones.congreso.gob.pe/tv-congreso/",
     "launched": null,
     "closed": null
   },
@@ -2480,6 +2586,32 @@
     "closed": null
   },
   {
+    "id": "LotPlusTV.pe",
+    "name": "LotPlus TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/gBbCDCL.png",
+    "stream_url": "https://ontvcable.streamottmas.workers.dev/ontvcable.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://lot-plus.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "MasterTV.pe",
     "name": "Master TV",
     "alt_names": [],
@@ -2872,6 +3004,34 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ad0GNqa.png",
     "stream_url": "https://play.agenciastreaming.com:8081/nacionaltv/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://nacionaltvperu.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NacionalTvPeru.pe",
+    "name": "Nacional Tv Peru",
+    "alt_names": [
+      "Nacional Tv Perú"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ad0GNqa.png",
+    "stream_url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/nacionaltv_peru.stream/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -4379,6 +4539,32 @@
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.telelima.pe/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Telelima.pe",
+    "name": "Telelima",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/HzWRvXc.png",
+    "stream_url": "http://190.108.83.69:8000/play/a05o/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.telelima.pe/",

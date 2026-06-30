@@ -1131,9 +1131,9 @@
     "tv_guide": {
       "channel": "DePeliculaLatinAmerica.mx",
       "feed": "SD",
-      "site": "ontvtonight.com",
-      "site_id": "us#69046812/de-pelicula",
-      "site_name": "De Película",
+      "site": "mi.tv",
+      "site_id": "mx#de-pelicula-hd",
+      "site_name": "De Película HD",
       "lang": "es",
       "sources": []
     },
@@ -2390,6 +2390,34 @@
       "sources": []
     },
     "website": "http://www.pctvcanales.mx/canales/panico.aspx",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PopcornCentral.mx",
+    "name": "Popcorn Central",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Olympusat"
+    ],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ULGVjyC.png",
+    "stream_url": "https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://popcorncentraltv.com/",
     "launched": null,
     "closed": null
   },

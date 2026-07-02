@@ -138,7 +138,9 @@
     "name": "ATB La Paz",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "ATBMedia"
+    ],
     "country_code": "BO",
     "country_name": "Bolivia",
     "subdivision": null,
@@ -164,7 +166,9 @@
     "name": "ATB La Paz",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "ATBMedia"
+    ],
     "country_code": "BO",
     "country_name": "Bolivia",
     "subdivision": null,
@@ -245,7 +249,7 @@
     ],
     "network": null,
     "owners": [
-      "Boliviana de Televisión S.A."
+      "Albavisión"
     ],
     "country_code": "BO",
     "country_name": "Bolivia",
@@ -275,7 +279,7 @@
     ],
     "network": null,
     "owners": [
-      "Boliviana de Televisión S.A."
+      "Albavisión"
     ],
     "country_code": "BO",
     "country_name": "Bolivia",
@@ -305,7 +309,7 @@
     ],
     "network": null,
     "owners": [
-      "Boliviana de Televisión S.A."
+      "Albavisión"
     ],
     "country_code": "BO",
     "country_name": "Bolivia",
@@ -683,7 +687,9 @@
     "name": "F10 HD",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "FTTV Comunicaciones"
+    ],
     "country_code": "BO",
     "country_name": "Bolivia",
     "subdivision": null,
@@ -993,6 +999,34 @@
     "closed": null
   },
   {
+    "id": "InteractivoTelevision.bo",
+    "name": "Interactivo Television",
+    "alt_names": [
+      "Interactivo Televisión"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "BO",
+    "country_name": "Bolivia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sGOSDo2.jpeg",
+    "stream_url": "https://mist01.homestream.fun/hls/interactivotv2/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "LaExitosaTVRiberalta.bo",
     "name": "La Exitosa TV Riberalta",
     "alt_names": [],
@@ -1159,7 +1193,9 @@
     "name": "PTV",
     "alt_names": [],
     "network": "Paceñísima de Televisión",
-    "owners": [],
+    "owners": [
+      "Corp. Ultravision S.R.L."
+    ],
     "country_code": "BO",
     "country_name": "Bolivia",
     "subdivision": null,
@@ -1475,7 +1511,9 @@
     "name": "RTP",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Sistema RTP"
+    ],
     "country_code": "BO",
     "country_name": "Bolivia",
     "subdivision": null,
@@ -1501,7 +1539,9 @@
     "name": "RTP",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Sistema RTP"
+    ],
     "country_code": "BO",
     "country_name": "Bolivia",
     "subdivision": null,
@@ -1527,7 +1567,9 @@
     "name": "RTP",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Sistema RTP"
+    ],
     "country_code": "BO",
     "country_name": "Bolivia",
     "subdivision": null,
@@ -1851,6 +1893,30 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/V6wxEdh.png",
     "stream_url": "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.audiokiss.com/tvlatina/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVLatina.bo",
+    "name": "TV Latina",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BO",
+    "country_name": "Bolivia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/V6wxEdh.png",
+    "stream_url": "https://master.tucableip.com/audiokisstv/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -2370,9 +2436,11 @@
     "closed": null
   },
   {
-    "id": "UPPTV.bo",
-    "name": "UPP TV",
-    "alt_names": [],
+    "id": "VillazonTV.bo",
+    "name": "Villazon TV",
+    "alt_names": [
+      "Villazón TV"
+    ],
     "network": null,
     "owners": [],
     "country_code": "BO",
@@ -2384,14 +2452,14 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.ibb.co/Kwvbyr0/unnamed.jpg",
-    "stream_url": "https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8",
+    "logo": "https://i.imgur.com/QywfhHK.jpeg",
+    "stream_url": "https://twitch-m3u8.bastypro112.workers.dev/radioactiva919/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": "https://www.redbolivision.tv.bo/programa/upp-tv/",
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -2450,7 +2518,9 @@
     "name": "XTOTV",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Sistema Cristiano de Comunicaciones"
+    ],
     "country_code": "BO",
     "country_name": "Bolivia",
     "subdivision": null,
@@ -2474,7 +2544,9 @@
     "name": "XTOTV",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Sistema Cristiano de Comunicaciones"
+    ],
     "country_code": "BO",
     "country_name": "Bolivia",
     "subdivision": null,

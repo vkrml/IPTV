@@ -3,7 +3,10 @@
     "id": "13C.cl",
     "name": "13C",
     "alt_names": [
-      "13 Cultura"
+      "13C",
+      "Canal 13 Cable",
+      "13 Cable",
+      " 13 Cultura"
     ],
     "network": "13Go",
     "owners": [
@@ -41,7 +44,10 @@
     "id": "13C.cl",
     "name": "13C",
     "alt_names": [
-      "13 Cultura"
+      "13C",
+      "Canal 13 Cable",
+      "13 Cable",
+      " 13 Cultura"
     ],
     "network": "13Go",
     "owners": [
@@ -357,6 +363,32 @@
     "tv_guide": null,
     "website": "https://www.abajoelalinea.cl/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ADNTV.cl",
+    "name": "ADN TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/AVfTwNw.png",
+    "stream_url": "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.adnradio.cl/",
+    "launched": "2008-03-01",
     "closed": null
   },
   {
@@ -920,6 +952,32 @@
     "closed": null
   },
   {
+    "id": "Canal30Loncomilla.cl",
+    "name": "Canal 30 Loncomilla",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/dgUHqrQ.png",
+    "stream_url": "https://v1.tustreaming.cl/canal30loncomilla/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://canal30.cl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Canal74SanAntonio.cl",
     "name": "Canal 74 San Antonio",
     "alt_names": [],
@@ -998,6 +1056,38 @@
       "sources": []
     },
     "website": "http://www.clarochile.cl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CanaldelSur.cl",
+    "name": "Canal del Sur",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NVLJBzy.png",
+    "stream_url": "https://oracle.streaminghd.cl/canal-del-sur/canal-del-sur/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanaldelSur.cl",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "cl#canal-del-sur",
+      "site_name": "Canal del Sur",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.canaldelsur.cl/",
     "launched": null,
     "closed": null
   },
@@ -1086,6 +1176,30 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.canallocal.cl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CanalSurvisionAlerce.cl",
+    "name": "Canal Survision Alerce",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/FknQYSp.png",
+    "stream_url": "https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://tvsurvision.cl/",
     "launched": null,
     "closed": null
   },
@@ -1180,7 +1294,7 @@
     ],
     "network": null,
     "owners": [
-      "Paramount Skydance Corporation"
+      "Vytal Group"
     ],
     "country_code": "CL",
     "country_name": "Chile",
@@ -1289,6 +1403,34 @@
     "closed": null
   },
   {
+    "id": "ConcepcionTV.cl",
+    "name": "Concepcion TV",
+    "alt_names": [
+      "Concepción TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9k0yAxj.jpeg",
+    "stream_url": "https://stream.blserver.cl/hls/ctv/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.concepciontv.cl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Contivision.cl",
     "name": "Contivision",
     "alt_names": [
@@ -1313,6 +1455,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://w.contivision.cl/cvn/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CRTV.cl",
+    "name": "CRTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png",
+    "stream_url": "https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://crtvchile.cl/",
     "launched": null,
     "closed": null
   },
@@ -1585,6 +1753,34 @@
     "closed": null
   },
   {
+    "id": "EmocionTV.cl",
+    "name": "Emocion TV",
+    "alt_names": [
+      "Emoción TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OJ3omla.jpeg",
+    "stream_url": "https://v1.tustreaming.cl/emociontv/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.emociontv.cl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "EnerGeek.cl",
     "name": "EnerGeek",
     "alt_names": [],
@@ -1703,6 +1899,60 @@
     "closed": null
   },
   {
+    "id": "EstacionLimacheTV.cl",
+    "name": "Estacion Limache TV",
+    "alt_names": [
+      "Estación Limache TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/YAADx7P.png",
+    "stream_url": "https://v4.tustreaming.cl/limachemovil/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://limachetv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "EstacionTV.cl",
+    "name": "Estacion TV",
+    "alt_names": [
+      "Estación TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/eICyrPP.png",
+    "stream_url": "https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://estaciontv.cl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ETCTV.cl",
     "name": "ETC TV",
     "alt_names": [],
@@ -1763,6 +2013,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://consorcioeva.cl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FMPlusTV.cl",
+    "name": "FM Plus TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/1UokOyN.png",
+    "stream_url": "https://v2.tustreaming.cl/fmplus/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.fmplus.cl/",
     "launched": null,
     "closed": null
   },
@@ -1955,6 +2231,32 @@
     "closed": null
   },
   {
+    "id": "InteractivaTV.cl",
+    "name": "Interactiva TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/RcjwlX4.png",
+    "stream_url": "https://unlimited2-cl-isp.dps.live/radiointeractiva/radiointeractiva.smil/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://radiointeractivafm.cl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "InterradioTV.cl",
     "name": "Interradio TV",
     "alt_names": [],
@@ -2081,6 +2383,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.itvpatagonia.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "JuntosTV.cl",
+    "name": "Juntos TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/U62q2eM.png",
+    "stream_url": "https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.juntostvchile.cl/",
     "launched": null,
     "closed": null
   },
@@ -2312,6 +2640,42 @@
     "closed": null
   },
   {
+    "id": "LaRed.cl",
+    "name": "La Red",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Albavisión"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nJOVM6e.png",
+    "stream_url": "https://ds5i0a12qngha.cloudfront.net/ts:abr.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "LaRed.cl",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "cl#la-red",
+      "site_name": "La Red",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.lared.cl/",
+    "launched": "1991-05-12",
+    "closed": null
+  },
+  {
     "id": "LatinaNetworkTV.cl",
     "name": "Latina Network TV",
     "alt_names": [],
@@ -2494,6 +2858,34 @@
     "closed": null
   },
   {
+    "id": "Maulevision.cl",
+    "name": "Maulevision",
+    "alt_names": [
+      "Maulevisión"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KIeb7mk.png",
+    "stream_url": "https://v2.tustreaming.cl/maulevisiontv/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://maulevision.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Mega.cl",
     "name": "Mega",
     "alt_names": [],
@@ -2616,6 +3008,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.mtna.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MundosLacustresTV.cl",
+    "name": "Mundos Lacustres TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5xKtvnD.jpeg",
+    "stream_url": "https://video.ipstream.cl:3710/hybrid/play.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -3107,6 +3525,32 @@
     "closed": null
   },
   {
+    "id": "PrimitivosTV.cl",
+    "name": "Primitivos TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/w9WpbTN.jpeg",
+    "stream_url": "https://5eaccbab48461.streamlock.net:1936/heqhvtgebg/heqhvtgebg/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PuconTV.cl",
     "name": "Pucon TV",
     "alt_names": [
@@ -3318,6 +3762,58 @@
     "closed": null
   },
   {
+    "id": "RewindTV.cl",
+    "name": "Rewind TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OG0RC2e.png",
+    "stream_url": "https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://rewindtv.cl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RialTV.cl",
+    "name": "Rial TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/zcwQyPI.png",
+    "stream_url": "https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://rialtv.cl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RitoqueTV.cl",
     "name": "Ritoque TV",
     "alt_names": [],
@@ -3442,6 +3938,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.ruidosfm.cl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SanNicolasTV.cl",
+    "name": "San Nicolas TV",
+    "alt_names": [
+      "San Nicolás TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/z94YCpH.png",
+    "stream_url": "https://v4.tustreaming.cl/sannicolastv/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://sannicolastv.cl/",
     "launched": null,
     "closed": null
   },
@@ -3688,57 +4212,29 @@
     "closed": null
   },
   {
-    "id": "SuyaiTV.cl",
-    "name": "Suyai TV",
+    "id": "Teleangol.cl",
+    "name": "Teleangol",
     "alt_names": [],
-    "network": "Suyai TV",
+    "network": null,
     "owners": [],
     "country_code": "CL",
     "country_name": "Chile",
     "subdivision": null,
     "city": null,
     "categories": [
-      "culture"
+      "general"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png",
-    "stream_url": "https://signal.suyaitv.cl/live/35/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://suyaitv.cl",
-    "tv_guide": null,
-    "website": "https://suyaitv.cl",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "T13.cl",
-    "name": "T13",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Grupo Luksic"
-    ],
-    "country_code": "CL",
-    "country_name": "Chile",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/2Vlkl2x.png",
-    "stream_url": "https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
+    "logo": "https://i.imgur.com/nhPFGs8.png",
+    "stream_url": "https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": "https://www.t13.cl/",
-    "launched": "2016-04-26",
+    "website": "https://www.teleangol.cl/",
+    "launched": null,
     "closed": null
   },
   {
@@ -3938,6 +4434,30 @@
     "closed": null
   },
   {
+    "id": "TendenciasPrime.cl",
+    "name": "Tendencias Prime",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nDWW4m7.png",
+    "stream_url": "https://v4.tustreaming.cl/tendenciastv/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.tendenciastv.cl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Tevex.cl",
     "name": "Tevex",
     "alt_names": [],
@@ -4092,6 +4612,60 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://tvturf.cl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TurismoTravelTV.cl",
+    "name": "Turismo Travel TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "travel"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4ixl8Px.png",
+    "stream_url": "https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://turismotravel.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Turno.cl",
+    "name": "Turno",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Nicolás Copano"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/XuSeHBt.png",
+    "stream_url": "https://redirector.dps.live/hls/turno/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.turno.live/",
     "launched": null,
     "closed": null
   },

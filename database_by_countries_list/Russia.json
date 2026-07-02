@@ -363,7 +363,8 @@
     ],
     "network": null,
     "owners": [
-      "Gazprom Media"
+      "Gazprom Media",
+      "Red Media"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -949,7 +950,9 @@
       "Авто Плюс"
     ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Red Media"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
@@ -985,7 +988,9 @@
       "Авто Плюс"
     ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Red Media"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
@@ -1156,8 +1161,8 @@
       "sources": []
     },
     "website": "https://belros.tv/",
-    "launched": null,
-    "closed": null
+    "launched": "2017-09-25",
+    "closed": "2026-04-01"
   },
   {
     "id": "BelRos.ru",
@@ -1192,8 +1197,8 @@
       "sources": []
     },
     "website": "https://belros.tv/",
-    "launched": null,
-    "closed": null
+    "launched": "2017-09-25",
+    "closed": "2026-04-01"
   },
   {
     "id": "BelRos.ru",
@@ -1228,8 +1233,8 @@
       "sources": []
     },
     "website": "https://belros.tv/",
-    "launched": null,
-    "closed": null
+    "launched": "2017-09-25",
+    "closed": "2026-04-01"
   },
   {
     "id": "BigAsia.ru",
@@ -1305,7 +1310,8 @@
     "alt_names": [],
     "network": null,
     "owners": [
-      "Time Media Group"
+      "Time Media Group",
+      "Red Media"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -1375,7 +1381,8 @@
     "alt_names": [],
     "network": null,
     "owners": [
-      "Star Media"
+      "Star Media",
+      "Media Telecom"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -1620,7 +1627,7 @@
     ],
     "network": null,
     "owners": [
-      "Channel One",
+      "Digital telefamily",
       "VGTRK"
     ],
     "country_code": "RU",
@@ -1660,7 +1667,7 @@
     ],
     "network": null,
     "owners": [
-      "Channel One",
+      "Digital telefamily",
       "VGTRK"
     ],
     "country_code": "RU",
@@ -1700,7 +1707,7 @@
     ],
     "network": null,
     "owners": [
-      "Channel One",
+      "Digital telefamily",
       "VGTRK"
     ],
     "country_code": "RU",
@@ -1740,7 +1747,7 @@
     ],
     "network": null,
     "owners": [
-      "Channel One",
+      "Digital telefamily",
       "VGTRK"
     ],
     "country_code": "RU",
@@ -1780,7 +1787,7 @@
     ],
     "network": null,
     "owners": [
-      "Channel One",
+      "Digital telefamily",
       "VGTRK"
     ],
     "country_code": "RU",
@@ -1805,44 +1812,6 @@
       "site_id": "1000273",
       "site_name": "Karousel",
       "lang": "sl",
-      "sources": []
-    },
-    "website": "https://www.karusel-tv.ru/",
-    "launched": "2010-12-27",
-    "closed": null
-  },
-  {
-    "id": "CarouselInternational.ru",
-    "name": "Carousel International",
-    "alt_names": [
-      "Карусель International"
-    ],
-    "network": null,
-    "owners": [
-      "VGTRK"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/DnlngRZ.png",
-    "stream_url": "https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CarouselInternational.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1464",
-      "site_name": "Карусель International",
-      "lang": "ru",
       "sources": []
     },
     "website": "https://www.karusel-tv.ru/",
@@ -2160,6 +2129,45 @@
     "closed": null
   },
   {
+    "id": "Channel8.ru",
+    "name": "Channel 8",
+    "alt_names": [
+      "8 канал",
+      "Восьмой канал"
+    ],
+    "network": null,
+    "owners": [
+      "Prime Cinema-TV"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nUSx1jF.png",
+    "stream_url": "http://tshift-1.telecoma.tv/8channel/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Channel8.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1048",
+      "site_name": "8 Канал",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://8tv.ru/",
+    "launched": "2010-07-05",
+    "closed": null
+  },
+  {
     "id": "Channel8International.ru",
     "name": "Channel 8 International",
     "alt_names": [
@@ -2331,7 +2339,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/RUSX0rX.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/pervyj-hd.png",
     "stream_url": "https://streaming.thestream.cyou/live/210.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -2374,7 +2382,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/RUSX0rX.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/pervyj-hd.png",
     "stream_url": "https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -2417,7 +2425,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/RUSX0rX.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/pervyj-hd.png",
     "stream_url": "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd",
     "stream_quality": "720p",
     "stream_format": null,
@@ -2460,7 +2468,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/RUSX0rX.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/pervyj-hd.png",
     "stream_url": "http://188.113.190.13/1/video.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -2503,7 +2511,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/RUSX0rX.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/pervyj-hd.png",
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/4.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -2546,7 +2554,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/RUSX0rX.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/pervyj-hd.png",
     "stream_url": "http://31.148.48.15/Pervii_kanal_HD/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -2589,7 +2597,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/RUSX0rX.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/pervyj-hd.png",
     "stream_url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8",
     "stream_quality": "450p",
     "stream_format": null,
@@ -2616,7 +2624,7 @@
     ],
     "network": null,
     "owners": [
-      "CTC Media"
+      "STS Media"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -2654,7 +2662,7 @@
     ],
     "network": null,
     "owners": [
-      "CTC Media"
+      "STS Media"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -3965,45 +3973,6 @@
     "closed": null
   },
   {
-    "id": "DomashniyInternational.ru",
-    "name": "Domashniy International",
-    "alt_names": [
-      "Dомашний International",
-      "Домашний International"
-    ],
-    "network": null,
-    "owners": [
-      "STS Media"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "lifestyle"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/nf7GRXb.png",
-    "stream_url": "https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "DomashniyInternational.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "2144",
-      "site_name": "Dомашний International",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://domashniy.ru/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Domkino.ru",
     "name": "Dom kino",
     "alt_names": [
@@ -4011,7 +3980,8 @@
     ],
     "network": null,
     "owners": [
-      "Government of the Russian Federation"
+      "Government of the Russian Federation",
+      "Digital telefamily"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -4049,7 +4019,8 @@
     ],
     "network": null,
     "owners": [
-      "Government of the Russian Federation"
+      "Government of the Russian Federation",
+      "Digital telefamily"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -4087,7 +4058,8 @@
     ],
     "network": null,
     "owners": [
-      "Government of the Russian Federation"
+      "Government of the Russian Federation",
+      "Digital telefamily"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -4125,7 +4097,8 @@
     ],
     "network": null,
     "owners": [
-      "Government of the Russian Federation"
+      "Government of the Russian Federation",
+      "Digital telefamily"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -4444,6 +4417,34 @@
     "closed": null
   },
   {
+    "id": "Enisey.ru",
+    "name": "Enisey",
+    "alt_names": [
+      "Енисей"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/57deE7f.png",
+    "stream_url": "http://tshift-1.telecoma.tv/enisei/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.enisey.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Eurasia.ru",
     "name": "Eurasia",
     "alt_names": [
@@ -4625,7 +4626,8 @@
     ],
     "network": null,
     "owners": [
-      "Feniks-Tver"
+      "Feniks-Tver",
+      "Media Telecom"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -4879,7 +4881,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/UfmlXxe.png",
+    "logo": "https://antifriz.tv/storage/images/pack_logos/71e74d77d2a9f55f496870623e5f7203.png",
     "stream_url": "https://vod.tuva.ru/friday/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -4918,7 +4920,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/UfmlXxe.png",
+    "logo": "https://antifriz.tv/storage/images/pack_logos/71e74d77d2a9f55f496870623e5f7203.png",
     "stream_url": "http://94.230.129.31:8080/Friday/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -4957,7 +4959,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/UfmlXxe.png",
+    "logo": "https://antifriz.tv/storage/images/pack_logos/71e74d77d2a9f55f496870623e5f7203.png",
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/19.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -4996,7 +4998,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/UfmlXxe.png",
+    "logo": "https://antifriz.tv/storage/images/pack_logos/71e74d77d2a9f55f496870623e5f7203.png",
     "stream_url": "http://31.148.48.15/Pyatnica/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -5035,7 +5037,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/UfmlXxe.png",
+    "logo": "https://antifriz.tv/storage/images/pack_logos/71e74d77d2a9f55f496870623e5f7203.png",
     "stream_url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8",
     "stream_quality": "540p",
     "stream_format": null,
@@ -5052,44 +5054,6 @@
     },
     "website": "https://friday.ru/",
     "launched": "1998-09-26",
-    "closed": null
-  },
-  {
-    "id": "FridayInternational.ru",
-    "name": "Friday! International",
-    "alt_names": [
-      "Пятница! International"
-    ],
-    "network": null,
-    "owners": [
-      "Gazprom Media"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/N2z3EZC.png",
-    "stream_url": "https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FridayInternational.ru",
-      "feed": "SD",
-      "site": "magticom.ge",
-      "site_id": "124",
-      "site_name": "Пятница",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://friday.ru/",
-    "launched": null,
     "closed": null
   },
   {
@@ -6737,7 +6701,8 @@
     ],
     "network": null,
     "owners": [
-      "Karavan"
+      "Karavan",
+      "Red Media"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -6800,84 +6765,6 @@
       "sources": []
     },
     "website": "https://kuban24.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "KukhnyaTV.ru",
-    "name": "Kukhnya TV",
-    "alt_names": [
-      "Кухня ТВ",
-      "Kuhnya TV"
-    ],
-    "network": null,
-    "owners": [
-      "Gazprom Media"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "cooking"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/7jxZnuS.png",
-    "stream_url": "http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "KukhnyaTV.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1094",
-      "site_name": "Кухня ТВ",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://www.kuhnyatv.ru/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "KukhnyaTV.ru",
-    "name": "Kukhnya TV",
-    "alt_names": [
-      "Кухня ТВ",
-      "Kuhnya TV"
-    ],
-    "network": null,
-    "owners": [
-      "Gazprom Media"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "cooking"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/7jxZnuS.png",
-    "stream_url": "http://31.148.48.15/Kuhnya_TV/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "KukhnyaTV.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1094",
-      "site_name": "Кухня ТВ",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://www.kuhnyatv.ru/",
     "launched": null,
     "closed": null
   },
@@ -9169,7 +9056,7 @@
     ],
     "network": null,
     "owners": [
-      "UTH Russia"
+      "Media-1"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -9207,7 +9094,7 @@
     ],
     "network": null,
     "owners": [
-      "UTH Russia"
+      "Media-1"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -9245,7 +9132,7 @@
     ],
     "network": null,
     "owners": [
-      "UTH Russia"
+      "Media-1"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -9283,7 +9170,7 @@
     ],
     "network": null,
     "owners": [
-      "UTH Russia"
+      "Media-1"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -9321,7 +9208,7 @@
     ],
     "network": null,
     "owners": [
-      "UTH Russia"
+      "Media-1"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -9475,7 +9362,8 @@
     ],
     "network": null,
     "owners": [
-      "Government of the Russian Federation"
+      "Government of the Russian Federation",
+      "Digital telefamily"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -9514,7 +9402,8 @@
     ],
     "network": null,
     "owners": [
-      "Government of the Russian Federation"
+      "Government of the Russian Federation",
+      "Digital telefamily"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -9920,7 +9809,8 @@
     ],
     "network": null,
     "owners": [
-      "Veriselintel"
+      "Veriselintel",
+      "Red Media"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -9958,7 +9848,8 @@
     ],
     "network": null,
     "owners": [
-      "Veriselintel"
+      "Veriselintel",
+      "Red Media"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -10295,7 +10186,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "logo": "https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png",
     "stream_url": "https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -10333,7 +10224,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "logo": "https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png",
     "stream_url": "https://cdn-dvr.ntv.ru/ntv0_hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -10371,7 +10262,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "logo": "https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png",
     "stream_url": "https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -10409,7 +10300,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "logo": "https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png",
     "stream_url": "https://cdn.ntv.ru/ntv0/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -10447,7 +10338,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "logo": "https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png",
     "stream_url": "https://cdn.ntv.ru/ntv1/playlist.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -10485,7 +10376,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "logo": "https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png",
     "stream_url": "https://cdn.ntv.ru/ntv2/playlist.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -10523,7 +10414,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "logo": "https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png",
     "stream_url": "https://cdn.ntv.ru/ntv4/playlist.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -10561,7 +10452,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "logo": "https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png",
     "stream_url": "https://cdn.ntv.ru/ntv7/playlist.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -10599,7 +10490,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "logo": "https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png",
     "stream_url": "https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -10637,7 +10528,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "logo": "https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png",
     "stream_url": "http://94.230.128.107:8080/HTB/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -10675,7 +10566,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "logo": "https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png",
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/7.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -10713,7 +10604,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "logo": "https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png",
     "stream_url": "http://31.148.48.15/NTV/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -10751,7 +10642,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/9r1BKzK.png",
+    "logo": "https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png",
     "stream_url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8",
     "stream_quality": "540p",
     "stream_format": null,
@@ -11223,7 +11114,9 @@
       "О!"
     ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Digital telefamily"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
@@ -11643,7 +11536,9 @@
       "Патриот"
     ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "VGTRK"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
@@ -11662,44 +11557,6 @@
     "tv_guide": null,
     "website": "https://patriotkanal.ru/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "PeretzInternational.ru",
-    "name": "Peretz International",
-    "alt_names": [
-      "Перец International"
-    ],
-    "network": null,
-    "owners": [
-      "STS Media"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/On6ggLe.png",
-    "stream_url": "https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PeretzInternational.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "2604",
-      "site_name": "Перец International",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "http://www.ctcmedia.ru/business/peretz_int/",
-    "launched": "2013-10-15",
     "closed": null
   },
   {
@@ -11776,7 +11633,8 @@
     ],
     "network": null,
     "owners": [
-      "Government of the Russian Federation"
+      "Government of the Russian Federation",
+      "Digital telefamily"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -11812,7 +11670,8 @@
     ],
     "network": null,
     "owners": [
-      "Government of the Russian Federation"
+      "Government of the Russian Federation",
+      "Digital telefamily"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -11848,7 +11707,8 @@
     ],
     "network": null,
     "owners": [
-      "Government of the Russian Federation"
+      "Government of the Russian Federation",
+      "Digital telefamily"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -11883,13 +11743,16 @@
       "Поехали!"
     ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Digital telefamily"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
     "city": null,
     "categories": [
-      "entertainment"
+      "entertainment",
+      "outdoor"
     ],
     "languages": [],
     "is_nsfw": false,
@@ -12613,7 +12476,9 @@
     "name": ".red",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Media Telecom"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
@@ -12729,7 +12594,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/0Tu5lte.png",
+    "logo": "https://iks-online.net/storage/2018/07/REN-TV-HD.png",
     "stream_url": "http://94.230.128.107:8080/PEH_TB/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -12767,7 +12632,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/0Tu5lte.png",
+    "logo": "https://iks-online.net/storage/2018/07/REN-TV-HD.png",
     "stream_url": "http://31.148.48.15/REN-TV/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -12805,7 +12670,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/0Tu5lte.png",
+    "logo": "https://iks-online.net/storage/2018/07/REN-TV-HD.png",
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/14.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -12843,7 +12708,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/0Tu5lte.png",
+    "logo": "https://iks-online.net/storage/2018/07/REN-TV-HD.png",
     "stream_url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8",
     "stream_quality": "540p",
     "stream_format": null,
@@ -12860,44 +12725,6 @@
     },
     "website": "https://ren.tv/",
     "launched": "1993-07-19",
-    "closed": null
-  },
-  {
-    "id": "RENTVInternational.ru",
-    "name": "REN TV International",
-    "alt_names": [
-      "РЕН ТВ International"
-    ],
-    "network": null,
-    "owners": [
-      "National Media Group"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/gBjk9oF.png",
-    "stream_url": "https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RENTVInternational.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "2343",
-      "site_name": "РЕН ТВ International",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": null,
-    "launched": "2016-06-01",
     "closed": null
   },
   {
@@ -14475,7 +14302,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -14513,7 +14340,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -14551,7 +14378,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/astrahan/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -14589,7 +14416,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/belgorod/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -14627,7 +14454,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/blagoveshensk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -14665,7 +14492,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/bryansk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -14703,7 +14530,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -14741,7 +14568,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -14779,7 +14606,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -14817,7 +14644,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -14855,7 +14682,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -14893,7 +14720,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -14931,7 +14758,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -14969,7 +14796,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kazan/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15007,7 +14834,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15045,7 +14872,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaluga/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15083,7 +14910,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15121,7 +14948,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kirov/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15159,7 +14986,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kostroma/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15197,7 +15024,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15235,7 +15062,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kisil/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15273,7 +15100,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/lipetsk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15311,7 +15138,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/magadan/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15349,7 +15176,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15387,7 +15214,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nalchik/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15425,7 +15252,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15463,7 +15290,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15501,7 +15328,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/orel/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15539,7 +15366,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/orenburg/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15577,7 +15404,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15615,7 +15442,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petrozavodsk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15653,7 +15480,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petropavlosk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15691,7 +15518,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15729,7 +15556,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/rostovdon/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15767,7 +15594,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ryazan/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15805,7 +15632,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15843,7 +15670,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saransk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15881,7 +15708,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15919,7 +15746,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15957,7 +15784,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15995,7 +15822,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -16033,7 +15860,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tomsk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -16071,7 +15898,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -16109,7 +15936,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -16147,7 +15974,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -16185,7 +16012,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cheboksar/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -16223,7 +16050,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -16261,7 +16088,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ugnosahalinsk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -16299,7 +16126,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -16337,7 +16164,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://31.148.48.15/Rossiya_1/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -16375,7 +16202,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -16413,7 +16240,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://41.223.30.230/RUSSIA1/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -16451,7 +16278,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -16489,7 +16316,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -16527,7 +16354,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -16565,7 +16392,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -16603,7 +16430,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -16641,7 +16468,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -16679,7 +16506,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -16717,7 +16544,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -16755,7 +16582,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -16793,7 +16620,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -16831,7 +16658,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -16869,7 +16696,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -16907,7 +16734,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -16945,7 +16772,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/blagoveshensk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -16983,7 +16810,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/anadyr/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -17021,7 +16848,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/barnaul/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -17059,7 +16886,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/belgorod/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -17097,7 +16924,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/birobidgan/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -17135,7 +16962,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/bryansk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -17173,7 +17000,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -17211,7 +17038,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -17249,7 +17076,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -17287,7 +17114,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -17325,7 +17152,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vologda/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -17363,7 +17190,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -17401,7 +17228,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kirov/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -17439,7 +17266,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/gornoaltaysk/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -17477,7 +17304,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/grozniy/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -17515,7 +17342,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -17553,7 +17380,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/rostovdon/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -17591,7 +17418,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO4y0CelYt0/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -17629,7 +17456,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -17667,7 +17494,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/igevsk/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -17705,7 +17532,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/irkutsk/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -17743,7 +17570,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -17781,7 +17608,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nalchik/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -17819,7 +17646,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -17857,7 +17684,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaluga/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -17895,7 +17722,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/petropavlosk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -17933,7 +17760,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/petrozavodsk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -17971,7 +17798,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kostroma/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -18009,7 +17836,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnodar/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -18047,7 +17874,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -18085,7 +17912,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -18123,7 +17950,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -18161,7 +17988,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kursk/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -18199,7 +18026,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/lipetsk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -18237,7 +18064,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/astrahan/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -18275,7 +18102,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -18313,7 +18140,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/magadan/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -18351,7 +18178,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -18389,7 +18216,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/mahachkala/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -18427,7 +18254,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/saransk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -18465,7 +18292,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/murmansk/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -18503,7 +18330,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nazran/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -18541,7 +18368,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -18579,7 +18406,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -18617,7 +18444,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ryazan/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -18655,7 +18482,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/orel/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -18693,7 +18520,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/orenburg/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -18731,7 +18558,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -18769,7 +18596,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/perm/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -18807,7 +18634,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -18845,7 +18672,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -18883,7 +18710,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/salehad/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -18921,7 +18748,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -18959,7 +18786,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -18997,7 +18824,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -19035,7 +18862,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -19073,7 +18900,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ugnosahalinsk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -19111,7 +18938,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/simferopol/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -19149,7 +18976,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -19187,7 +19014,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -19225,7 +19052,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/sochi/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -19263,7 +19090,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -19301,7 +19128,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/siktivkar/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -19339,7 +19166,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -19377,7 +19204,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kazan/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -19415,7 +19242,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -19453,7 +19280,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tomsk/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -19491,7 +19318,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -19529,7 +19356,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kisil/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -19567,7 +19394,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tumen/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -19605,7 +19432,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulyanovsk/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -19643,7 +19470,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -19681,7 +19508,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -19719,7 +19546,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/hantimansisk/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -19757,7 +19584,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -19795,7 +19622,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cherkessk/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -19833,7 +19660,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -19871,7 +19698,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/cheboksar/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -19909,7 +19736,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/elista/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -19947,7 +19774,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia1-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -19985,7 +19812,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/5.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -20023,7 +19850,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "http://31.148.48.15/Rossiya_1_HD/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -20061,7 +19888,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Osd2JHL.png",
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8",
     "stream_quality": "450p",
     "stream_format": null,
@@ -24274,9 +24101,13 @@
   {
     "id": "RUTV.ru",
     "name": "RU.TV",
-    "alt_names": [],
+    "alt_names": [
+      "РУ.ТВ"
+    ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Russkaya Mediagruppa"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
@@ -24302,15 +24133,19 @@
       "sources": []
     },
     "website": "https://ru.tv/",
-    "launched": "2006-10-01",
+    "launched": "2006-10-06",
     "closed": null
   },
   {
     "id": "RUTV.ru",
     "name": "RU.TV",
-    "alt_names": [],
+    "alt_names": [
+      "РУ.ТВ"
+    ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Russkaya Mediagruppa"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
@@ -24336,15 +24171,19 @@
       "sources": []
     },
     "website": "https://ru.tv/",
-    "launched": "2006-10-01",
+    "launched": "2006-10-06",
     "closed": null
   },
   {
     "id": "RUTV.ru",
     "name": "RU.TV",
-    "alt_names": [],
+    "alt_names": [
+      "РУ.ТВ"
+    ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Russkaya Mediagruppa"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
@@ -24370,15 +24209,19 @@
       "sources": []
     },
     "website": "https://ru.tv/",
-    "launched": "2006-10-01",
+    "launched": "2006-10-06",
     "closed": null
   },
   {
     "id": "RUTV.ru",
     "name": "RU.TV",
-    "alt_names": [],
+    "alt_names": [
+      "РУ.ТВ"
+    ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Russkaya Mediagruppa"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
@@ -24404,7 +24247,7 @@
       "sources": []
     },
     "website": "https://ru.tv/",
-    "launched": "2006-10-01",
+    "launched": "2006-10-06",
     "closed": null
   },
   {
@@ -24920,7 +24763,9 @@
     "name": ".sci-fi",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Media Telecom"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
@@ -26545,7 +26390,10 @@
     "name": "Star Cinema",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Star Media",
+      "Media Telecom"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
@@ -26580,6 +26428,7 @@
     "alt_names": [],
     "network": null,
     "owners": [
+      "Star Media",
       "Media Telecom"
     ],
     "country_code": "RU",
@@ -26615,7 +26464,9 @@
     "name": "START Air",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "START Media TV"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
@@ -26687,7 +26538,9 @@
     "name": "START World",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "START Media TV"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
@@ -27024,42 +26877,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/mwiC0RG.png",
-    "stream_url": "https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "STSInternational.ru",
-      "feed": "SD",
-      "site": "magticom.ge",
-      "site_id": "65",
-      "site_name": "CTC",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "http://ctci.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "STSInternational.ru",
-    "name": "STS International",
-    "alt_names": [
-      "CTC International"
-    ],
-    "network": null,
-    "owners": [
-      "STS Media"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/mwiC0RG.png",
     "stream_url": "http://178.134.1.158:8081/CTC/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -27087,7 +26904,8 @@
     ],
     "network": null,
     "owners": [
-      "STS Media"
+      "STS Media",
+      "Media Telecom"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -27126,7 +26944,8 @@
     ],
     "network": null,
     "owners": [
-      "STS Media"
+      "STS Media",
+      "Media Telecom"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -27165,7 +26984,8 @@
     ],
     "network": null,
     "owners": [
-      "STS Media"
+      "STS Media",
+      "Media Telecom"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -28541,44 +28361,6 @@
     "closed": null
   },
   {
-    "id": "TNT4International.ru",
-    "name": "TNT4 International",
-    "alt_names": [
-      "ТНТ4 International"
-    ],
-    "network": null,
-    "owners": [
-      "Gazprom Media"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/SjdOaya.png",
-    "stream_url": "https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TNT4International.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "2630",
-      "site_name": "ТНТ4 international",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://tnt4.ru/",
-    "launched": "2017-01-31",
-    "closed": null
-  },
-  {
     "id": "TNT.ru",
     "name": "TNT",
     "alt_names": [
@@ -29333,7 +29115,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/ru/7/72/TV_Tsentr_2013_Logo.svg",
+    "logo": "https://www.moscow-telecom.ru/img/logo_channels/tvc_hd.svg",
     "stream_url": "https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -29371,7 +29153,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/ru/7/72/TV_Tsentr_2013_Logo.svg",
+    "logo": "https://www.moscow-telecom.ru/img/logo_channels/tvc_hd.svg",
     "stream_url": "http://hls127.freeott.top:8080/Tv_Center/video.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -29409,7 +29191,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/ru/7/72/TV_Tsentr_2013_Logo.svg",
+    "logo": "https://www.moscow-telecom.ru/img/logo_channels/tvc_hd.svg",
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/13.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -29447,7 +29229,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/ru/7/72/TV_Tsentr_2013_Logo.svg",
+    "logo": "https://www.moscow-telecom.ru/img/logo_channels/tvc_hd.svg",
     "stream_url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8",
     "stream_quality": "450p",
     "stream_format": null,
@@ -29459,43 +29241,6 @@
       "site": "tv.mail.ru",
       "site_id": "948",
       "site_name": "ТВ Центр",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "http://www.tvc.ru/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVCentrInternational.ru",
-    "name": "TV Centr International",
-    "alt_names": [
-      "ТВ Центр International"
-    ],
-    "network": null,
-    "owners": [
-      "ТВ Центр International",
-      "ТВЦ"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/tsCOnBW.png",
-    "stream_url": "https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVCentrInternational.ru",
-      "feed": "SD",
-      "site": "epg.iptvx.one",
-      "site_id": "tvci",
-      "site_name": "ТВ Центр International",
       "lang": "ru",
       "sources": []
     },
@@ -29616,7 +29361,9 @@
       "Ю"
     ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Media-1"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
@@ -29652,7 +29399,9 @@
       "Ю"
     ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Media-1"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
@@ -29688,7 +29437,9 @@
       "Ю"
     ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Media-1"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
@@ -29724,7 +29475,9 @@
       "Ю"
     ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Media-1"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
@@ -29760,7 +29513,9 @@
       "Ю"
     ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Media-1"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
@@ -29796,7 +29551,9 @@
       "Ю"
     ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Media-1"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
@@ -30172,7 +29929,10 @@
       "В гостях у сказки"
     ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Time Media Group",
+      "Red Media"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
@@ -30742,7 +30502,9 @@
       "Время"
     ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Digital telefamily"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
@@ -30776,7 +30538,9 @@
       "Время"
     ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Digital telefamily"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,
@@ -30810,7 +30574,9 @@
       "Время"
     ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Digital telefamily"
+    ],
     "country_code": "RU",
     "country_name": "Russia",
     "subdivision": null,

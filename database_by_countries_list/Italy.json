@@ -3061,6 +3061,42 @@
     "closed": null
   },
   {
+    "id": "MediasetItalia.it",
+    "name": "Mediaset Italia",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Reti Televisive Italiane S.p.A."
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/F4gyqhw.png",
+    "stream_url": "https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MediasetItalia.it",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000048_020052",
+      "site_name": "Mediaset Italia",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "https://mediasetitalia.com/",
+    "launched": "2009-01-01",
+    "closed": null
+  },
+  {
     "id": "MediterraniaTV.it",
     "name": "MediterraniaTV",
     "alt_names": [],
@@ -4122,6 +4158,40 @@
     "closed": null
   },
   {
+    "id": "RadioMonteCarloTV.it",
+    "name": "Radio Monte Carlo TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Mediaset"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/by9XvWF.png",
+    "stream_url": "http://91.146.94.234:10001/play/a04p",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RadioMonteCarloTV.it",
+      "feed": "SD",
+      "site": "superguidatv.it",
+      "site_id": "radio-monte-carlo/462",
+      "site_name": "Radio Monte Carlo",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "https://www.radiomontecarlo.net/",
+    "launched": "2011-01-01",
+    "closed": null
+  },
+  {
     "id": "RadioNorbaTV.it",
     "name": "Radio Norba TV",
     "alt_names": [
@@ -4596,12 +4666,10 @@
     "closed": null
   },
   {
-    "id": "Rai3.it",
-    "name": "Rai 3",
+    "id": "Rai2.it",
+    "name": "Rai 2",
     "alt_names": [
-      "Rai Tre",
-      "Third Network",
-      "Rete 3"
+      "RAI Due"
     ],
     "network": null,
     "owners": [
@@ -4614,23 +4682,23 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png",
-    "stream_url": "https://srv1.adriatelekom.com/Rai3/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png",
+    "stream_url": "https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
-      "channel": "Rai3.it",
-      "feed": "HD",
+      "channel": "Rai2.it",
+      "feed": "SD",
       "site": "web.magentatv.de",
-      "site_id": "210",
-      "site_name": "Rai 3",
+      "site_id": "46",
+      "site_name": "Rai 2",
       "lang": "de",
       "sources": []
     },
-    "website": "https://www.rai.it/rai3/",
-    "launched": "1979-12-15",
+    "website": "https://www.rai.it/rai2/",
+    "launched": "1961-11-04",
     "closed": null
   },
   {
@@ -4707,6 +4775,40 @@
     },
     "website": "https://www.rai.it/rai3/",
     "launched": "1979-12-15",
+    "closed": null
+  },
+  {
+    "id": "Rai4.it",
+    "name": "Rai 4",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rai"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sEY21rg.png",
+    "stream_url": "http://91.146.94.234:10001/play/a02p",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Rai4.it",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "330",
+      "site_name": "Rai 4",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "https://www.rai.it/rai4/",
+    "launched": "2008-07-14",
     "closed": null
   },
   {
@@ -4812,6 +4914,40 @@
     "closed": null
   },
   {
+    "id": "Rai5.it",
+    "name": "Rai 5",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rai"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/960px-Rai_5_-_Logo_2017.svg.png",
+    "stream_url": "http://91.146.94.234:10001/play/a03a",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Rai5.it",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "331",
+      "site_name": "Rai 5",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "http://www.rai.it/rai5/",
+    "launched": "2010-11-26",
+    "closed": null
+  },
+  {
     "id": "RaiGulp.it",
     "name": "Rai Gulp",
     "alt_names": [],
@@ -4827,10 +4963,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/irAhPJM.png",
-    "stream_url": "https://srv1.adriatelekom.com/RaiGulp/index.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "http://91.146.94.234:10001/play/a037",
+    "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "RaiGulp.it",
@@ -4895,6 +5031,74 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/1nN4rEP.png",
+    "stream_url": "https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RaiItalia.it",
+      "feed": "EuropeAfrica",
+      "site": "nostv.pt",
+      "site_id": "55",
+      "site_name": "Rai Italia",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "http://www.raitalia.it/",
+    "launched": "1992-01-01",
+    "closed": null
+  },
+  {
+    "id": "RaiItalia.it",
+    "name": "Rai Italia",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rai"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/1nN4rEP.png",
+    "stream_url": "https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RaiItalia.it",
+      "feed": "EuropeAfrica",
+      "site": "nostv.pt",
+      "site_id": "55",
+      "site_name": "Rai Italia",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "http://www.raitalia.it/",
+    "launched": "1992-01-01",
+    "closed": null
+  },
+  {
+    "id": "RaiItalia.it",
+    "name": "Rai Italia",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rai"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/1nN4rEP.png",
     "stream_url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/19093/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -4929,10 +5133,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/1nN4rEP.png",
-    "stream_url": "https://cignalplaymaxcdn.qzz.io/rai_italia_zte/sanjuantv/manifest.mpd",
-    "stream_quality": "576i",
+    "stream_url": "https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "RaiItalia.it",
@@ -4984,6 +5188,83 @@
     },
     "website": "http://www.rai.it/raimovie/",
     "launched": "1999-07-01",
+    "closed": null
+  },
+  {
+    "id": "RaiMovie.it",
+    "name": "Rai Movie",
+    "alt_names": [
+      "RaiSat Cinema",
+      "RaiSat Cinema World"
+    ],
+    "network": null,
+    "owners": [
+      "Rai"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/0FjxXU9.png",
+    "stream_url": "http://91.146.94.234:10001/play/a02r",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RaiMovie.it",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "334",
+      "site_name": "Rai Movie",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "http://www.rai.it/raimovie/",
+    "launched": "1999-07-01",
+    "closed": null
+  },
+  {
+    "id": "RaiNews24.it",
+    "name": "Rai News 24",
+    "alt_names": [
+      "Rai News"
+    ],
+    "network": null,
+    "owners": [
+      "Rai"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/n2u57y3.png",
+    "stream_url": "http://91.146.94.234:10001/play/a135",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RaiNews24.it",
+      "feed": "SD",
+      "site": "vodafone.pt",
+      "site_id": "2773",
+      "site_name": "Rai News",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.rainews.it/",
+    "launched": "1999-04-26",
     "closed": null
   },
   {
@@ -5062,9 +5343,12 @@
     "closed": null
   },
   {
-    "id": "RaiScuola.it",
-    "name": "Rai Scuola",
-    "alt_names": [],
+    "id": "RaiPremium.it",
+    "name": "Rai Premium",
+    "alt_names": [
+      "Rai Sat Prem1um",
+      "Rai Sat Fiction"
+    ],
     "network": null,
     "owners": [
       "Rai"
@@ -5073,28 +5357,26 @@
     "country_name": "Italy",
     "subdivision": null,
     "city": null,
-    "categories": [
-      "education"
-    ],
+    "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png",
-    "stream_url": "https://srv1.adriatelekom.com/RaiScuola/index.m3u8",
-    "stream_quality": "1080p",
+    "logo": "https://i.imgur.com/40g5Urz.png",
+    "stream_url": "http://91.146.94.234:10001/play/a02q",
+    "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
-      "channel": "RaiScuola.it",
+      "channel": "RaiPremium.it",
       "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "789",
-      "site_name": "RAI SCUOLA",
-      "lang": "fr",
+      "site": "tv.blue.ch",
+      "site_id": "336",
+      "site_name": "Rai Premium",
+      "lang": "it",
       "sources": []
     },
-    "website": "http://www.raiscuola.rai.it/",
-    "launched": "2009-10-19",
+    "website": "http://www.rai.it/raipremium/",
+    "launched": "2003-07-31",
     "closed": null
   },
   {
@@ -5134,14 +5416,9 @@
     "closed": null
   },
   {
-    "id": "RaiSport.it",
-    "name": "Rai Sport",
-    "alt_names": [
-      "Rai Sport 1",
-      "Rai Sport +",
-      "Rai Sport Più",
-      "Rai Sport Satellite"
-    ],
+    "id": "RaiScuola.it",
+    "name": "Rai Scuola",
+    "alt_names": [],
     "network": null,
     "owners": [
       "Rai"
@@ -5151,63 +5428,27 @@
     "subdivision": null,
     "city": null,
     "categories": [
-      "sports"
+      "education"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/6PEevOM.png",
-    "stream_url": "https://srv1.adriatelekom.com/RaiSport/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png",
+    "stream_url": "https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
-      "channel": "RaiSport.it",
-      "feed": "HD",
-      "site": "tv.blue.ch",
-      "site_id": "338",
-      "site_name": "Rai Sport +",
-      "lang": "it",
-      "sources": []
-    },
-    "website": "https://www.raisport.rai.it/",
-    "launched": "1999-02-01",
-    "closed": null
-  },
-  {
-    "id": "RaiStoria.it",
-    "name": "Rai Storia",
-    "alt_names": [
-      "Rai Edu 2"
-    ],
-    "network": null,
-    "owners": [
-      "Rai"
-    ],
-    "country_code": "IT",
-    "country_name": "Italy",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png",
-    "stream_url": "https://srv1.adriatelekom.com/RaiStoria/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RaiStoria.it",
+      "channel": "RaiScuola.it",
       "feed": "SD",
-      "site": "tvprofil.com",
-      "site_id": "al/programacioni#rai-storia",
-      "site_name": "RAI Storia",
-      "lang": "hr",
+      "site": "tv.sfr.fr",
+      "site_id": "789",
+      "site_name": "RAI SCUOLA",
+      "lang": "fr",
       "sources": []
     },
-    "website": "http://www.rai.it/raistoria/",
-    "launched": "2002-06-17",
+    "website": "http://www.raiscuola.rai.it/",
+    "launched": "2009-10-19",
     "closed": null
   },
   {
@@ -5247,6 +5488,66 @@
     "closed": null
   },
   {
+    "id": "RaiStoria.it",
+    "name": "Rai Storia",
+    "alt_names": [
+      "Rai Edu 2"
+    ],
+    "network": null,
+    "owners": [
+      "Rai"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png",
+    "stream_url": "https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RaiStoria.it",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "al/programacioni#rai-storia",
+      "site_name": "RAI Storia",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "http://www.rai.it/raistoria/",
+    "launched": "2002-06-17",
+    "closed": null
+  },
+  {
+    "id": "RaiWorldPremium.it",
+    "name": "Rai World Premium",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/tDuKkh3.png",
+    "stream_url": "https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.raicom.rai.it/canali-estero/",
+    "launched": "2013-05-06",
+    "closed": null
+  },
+  {
     "id": "RaiYoyo.it",
     "name": "Rai Yoyo",
     "alt_names": [
@@ -5271,6 +5572,45 @@
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RaiYoyo.it",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "341",
+      "site_name": "Rai Yoyo",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "http://www.raiyoyo.rai.it/",
+    "launched": "2006-11-01",
+    "closed": null
+  },
+  {
+    "id": "RaiYoyo.it",
+    "name": "Rai Yoyo",
+    "alt_names": [
+      "Rai YoYo",
+      "RaiSat YoYo"
+    ],
+    "network": null,
+    "owners": [
+      "Rai"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9gCxiDy.png",
+    "stream_url": "http://91.146.94.234:10001/play/a039",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "RaiYoyo.it",
@@ -7917,6 +8257,42 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TGCom24.it",
+    "name": "TGCom24",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "MFE - MediaForEurope"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/fPmvbGH.png",
+    "stream_url": "http://91.146.94.234:10001/play/a08t",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TGCom24.it",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "al/programacioni#tgcom24",
+      "site_name": "TGCOM24",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "https://www.tgcom24.mediaset.it/",
+    "launched": "2011-11-28",
     "closed": null
   },
   {

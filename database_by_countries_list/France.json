@@ -1923,6 +1923,70 @@
     "closed": null
   },
   {
+    "id": "CNews.fr",
+    "name": "CNews",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Canal+ Group"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sSNhk2g.png",
+    "stream_url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CNews.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "83495251/cnews",
+      "site_name": "CNews",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.cnews.fr/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CNEWSPRIME.fr",
+    "name": "CNEWS PRIME",
+    "alt_names": [],
+    "network": "CNews",
+    "owners": [
+      "Canal+ Group"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.cnews.fr/themes/cnews/img/cnews-prime.png",
+    "stream_url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.cnews.fr/le-direct-cnews-prime",
+    "launched": "2025-11-25",
+    "closed": null
+  },
+  {
     "id": "CStar.fr",
     "name": "C Star",
     "alt_names": [],
@@ -5708,6 +5772,42 @@
     "closed": null
   },
   {
+    "id": "LCI.fr",
+    "name": "LCI",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "TF1 Group"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/DED8EXs.png",
+    "stream_url": "http://151.80.18.177:86/LCI_HD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "LCI.fr",
+      "feed": "SD",
+      "site": "zap.co.ao",
+      "site_id": "2321",
+      "site_name": "LCI",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.lci.fr/",
+    "launched": "1994-06-24",
+    "closed": null
+  },
+  {
     "id": "LeFigaroTVIledeFrance.fr",
     "name": "Le Figaro TV Ile-de-France",
     "alt_names": [
@@ -8610,6 +8710,42 @@
     "closed": null
   },
   {
+    "id": "TF1.fr",
+    "name": "TF1",
+    "alt_names": [
+      "Télévision française 1"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/QxHt9NC.png",
+    "stream_url": "http://151.80.18.177:86/TF1_HD/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TF1.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "847049/tf-1",
+      "site_name": "TF 1",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.tf1.fr",
+    "launched": "1975-01-06",
+    "closed": null
+  },
+  {
     "id": "TiJi.fr",
     "name": "TiJi",
     "alt_names": [],
@@ -8669,6 +8805,42 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TMC.fr",
+    "name": "TMC",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Groupe TF1"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png",
+    "stream_url": "http://151.80.18.177:86/TMC/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TMC.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "82485548/tmc",
+      "site_name": "TMC",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.tf1.fr/tmc",
+    "launched": "1954-11-19",
     "closed": null
   },
   {
@@ -9426,6 +9598,40 @@
     "logo": "https://i.imgur.com/FabFP5A.png",
     "stream_url": "http://ott.watch/XE5QWWBZ87/256/tracks-v1a1/mono.ts.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TraceSportStars.fr",
+      "feed": "HD",
+      "site": "watch.whaletvplus.com",
+      "site_id": "626555045429117070",
+      "site_name": "Trace Sport Stars",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.trace.tv/fr/tv/sport",
+    "launched": "2011-06-01",
+    "closed": null
+  },
+  {
+    "id": "TraceSportStars.fr",
+    "name": "Trace Sport Stars",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/FabFP5A.png",
+    "stream_url": "https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

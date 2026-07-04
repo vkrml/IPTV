@@ -248,6 +248,34 @@
     "closed": null
   },
   {
+    "id": "Carac5.ch",
+    "name": "Carac 5",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Media One Group"
+    ],
+    "country_code": "CH",
+    "country_name": "Switzerland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/0D4CvYp.png",
+    "stream_url": "https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://carac.tv/lives/carac-5",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Couleur3.ch",
     "name": "Couleur 3",
     "alt_names": [],
@@ -660,6 +688,40 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.rhonetv.ch/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RTS1.ch",
+    "name": "RTS 1",
+    "alt_names": [
+      "RTS UN"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "CH",
+    "country_name": "Switzerland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OP5lHv9.png",
+    "stream_url": "http://41.205.70.146/RTSUN/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RTS1.ch",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "369",
+      "site_name": "RTS 1",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.rts.ch/",
     "launched": null,
     "closed": null
   },

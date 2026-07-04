@@ -108,6 +108,32 @@
     "closed": null
   },
   {
+    "id": "AgroTV.pe",
+    "name": "Agro TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "outdoor"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/1uLGa3w.png",
+    "stream_url": "https://play.agenciastreaming.com:8081/agrotv/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://agrotv.pe/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AlbriciasTV.pe",
     "name": "Albricias TV",
     "alt_names": [],
@@ -209,6 +235,34 @@
     "logo": "https://i.imgur.com/22ebHAX.jpeg",
     "stream_url": "https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AmazonicaTV.pe",
+    "name": "Amazonica TV",
+    "alt_names": [
+      "Amazónica TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/22ebHAX.jpeg",
+    "stream_url": "https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -2556,6 +2610,42 @@
     "closed": null
   },
   {
+    "id": "Latina.pe",
+    "name": "Latina",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vytal Group"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/MOsWriY.png",
+    "stream_url": "https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Latina.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch2207",
+      "site_name": "LATINA",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.latina.pe/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "LatinaClasicos.pe",
     "name": "Latina Clasicos",
     "alt_names": [
@@ -4199,6 +4289,32 @@
     "logo": "https://i.imgur.com/CVgix1C.png",
     "stream_url": "https://live-evg7.tv360.bitel.com.pe/bitel/selvatv/playlist.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.selvatv.pe/senal-en-vivo/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SelvaTV.pe",
+    "name": "SelvaTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo CPM"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CVgix1C.png",
+    "stream_url": "https://videoserver.tmcreativos.com:19360/selvatv/selvatv.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -5884,6 +6000,32 @@
     "logo": "https://i.imgur.com/CGWaunJ.jpeg",
     "stream_url": "https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://zelevesuperradio.com.pe/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ZeleveTV.pe",
+    "name": "Zeleve TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CGWaunJ.jpeg",
+    "stream_url": "https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

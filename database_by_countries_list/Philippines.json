@@ -25,9 +25,9 @@
     "tv_guide": {
       "channel": "A2Z.ph",
       "feed": "SD",
-      "site": "mysky.com.ph",
-      "site_id": "323",
-      "site_name": "A2Z",
+      "site": "clickthecity.com",
+      "site_id": "189",
+      "site_name": "a2z Channel 11",
       "lang": "en",
       "sources": []
     },
@@ -126,9 +126,13 @@
   {
     "id": "ANC.ph",
     "name": "ANC",
-    "alt_names": [],
+    "alt_names": [
+      "ABS-CBN News Channel"
+    ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "ABS-CBN Corporation"
+    ],
     "country_code": "PH",
     "country_name": "Philippines",
     "subdivision": null,
@@ -154,7 +158,7 @@
       "sources": []
     },
     "website": "https://news.abs-cbn.com/anc",
-    "launched": null,
+    "launched": "1996-05-01",
     "closed": null
   },
   {
@@ -247,7 +251,8 @@
     "alt_names": [],
     "network": null,
     "owners": [
-      "ABS-CBN Corporation"
+      "ABS-CBN Corporation",
+      "Creative Programs Inc."
     ],
     "country_code": "PH",
     "country_name": "Philippines",
@@ -264,17 +269,9 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "CineMo.ph",
-      "feed": "SD",
-      "site": "mysky.com.ph",
-      "site_id": "7",
-      "site_name": "CINEMO!",
-      "lang": "en",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": null,
-    "launched": null,
+    "launched": "2011-01-03",
     "closed": null
   },
   {
@@ -417,6 +414,7 @@
     "alt_names": [],
     "network": null,
     "owners": [
+      "ABS-CBN Corporation",
       "Creative Programs Inc."
     ],
     "country_code": "PH",
@@ -437,14 +435,42 @@
     "tv_guide": {
       "channel": "JeepneyTV.ph",
       "feed": "SD",
-      "site": "mysky.com.ph",
-      "site_id": "9",
-      "site_name": "JEEPNEY TV",
+      "site": "clickthecity.com",
+      "site_id": "179",
+      "site_name": "Jeepney TV",
       "lang": "en",
       "sources": []
     },
     "website": "https://cablechannels.abs-cbn.com/jeepneytv",
     "launched": "2012-10-22",
+    "closed": null
+  },
+  {
+    "id": "KoolTV.ph",
+    "name": "Kool TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "TGON"
+    ],
+    "country_code": "PH",
+    "country_name": "Philippines",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://yt3.googleusercontent.com/opqPJfc0Ptd9ohl4R-2hPjaquIAdWuqvRb0T_LBCmfyGznIvfGN0HOlcWZk6Lj2jk11s2Zlk=s1200-c-k-c0x00ffffff-no-rj",
+    "stream_url": "https://twitch-m3u8.bastypro112.workers.dev/kooltvlive/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
     "closed": null
   },
   {
@@ -689,32 +715,6 @@
     "closed": null
   },
   {
-    "id": "TeleRadyo.ph",
-    "name": "TeleRadyo",
-    "alt_names": [],
-    "network": "ABS-CBN News DZMM",
-    "owners": [
-      "ABS-CBN Corporation"
-    ],
-    "country_code": "PH",
-    "country_name": "Philippines",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/fTYOu5k.png",
-    "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://news.abs-cbn.com/dzmm/",
-    "launched": "2020-05-05",
-    "closed": null
-  },
-  {
     "id": "TV5.ph",
     "name": "TV5",
     "alt_names": [],
@@ -738,8 +738,8 @@
     "tv_guide": {
       "channel": "TV5.ph",
       "feed": "SD",
-      "site": "mysky.com.ph",
-      "site_id": "10",
+      "site": "clickthecity.com",
+      "site_id": "5",
       "site_name": "TV5",
       "lang": "en",
       "sources": []

@@ -157,6 +157,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/gRFQ35W.png",
+    "stream_url": "https://dash3.antik.sk/live/duck_tv/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ducktv.sk",
+      "feed": "HD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000215_020005",
+      "site_name": "ducktv",
+      "lang": "nl",
+      "sources": []
+    },
+    "website": "https://www.ducktv.tv/",
+    "launched": "2007-10-01",
+    "closed": null
+  },
+  {
+    "id": "ducktv.sk",
+    "name": "ducktv",
+    "alt_names": [
+      "Bebe TV"
+    ],
+    "network": null,
+    "owners": [
+      "Mega Max Media s.r.o."
+    ],
+    "country_code": "SK",
+    "country_name": "Slovakia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/gRFQ35W.png",
     "stream_url": "https://jmp2.uk/stvp-ESBC4700001GR",
     "stream_quality": "720p",
     "stream_format": null,
@@ -287,6 +325,42 @@
     },
     "website": "https://www.ducktv.tv/",
     "launched": "2007-10-01",
+    "closed": null
+  },
+  {
+    "id": "ducktvPLUS.sk",
+    "name": "ducktv PLUS",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Mega Max Media"
+    ],
+    "country_code": "SK",
+    "country_name": "Slovakia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/RFhxfOx.png",
+    "stream_url": "https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ducktvPLUS.sk",
+      "feed": "SD",
+      "site": "m.tv.sms.cz",
+      "site_id": "ducktv+plus",
+      "site_name": "ducktv plus",
+      "lang": "cs",
+      "sources": []
+    },
+    "website": "https://www.ducktv.tv/",
+    "launched": null,
     "closed": null
   },
   {

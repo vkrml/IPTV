@@ -3893,6 +3893,34 @@
     "closed": null
   },
   {
+    "id": "TVPABC2.pl",
+    "name": "TVP ABC 2",
+    "alt_names": [],
+    "network": "TVP",
+    "owners": [
+      "Telewizja Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Ur7CUAh.png",
+    "stream_url": "https://tvp8.cache.orange.pl/tvp/live/EkoIysgDYnUEz6n-9Jfa3A/1783369428/video/live/live249/bpk-tv/TVP_ABC_2/156/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.tvp.pl/program-tv/abc2",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVPHistoria2.pl",
     "name": "TVP Historia 2",
     "alt_names": [],
@@ -3936,6 +3964,40 @@
     "logo": "https://i.imgur.com/Bc4QZiy.png",
     "stream_url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7283/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVPHistoria.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tvp-historia-74",
+      "site_name": "TVP Historia",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://historia.tvp.pl/",
+    "launched": "2007-05-03",
+    "closed": null
+  },
+  {
+    "id": "TVPHistoria.pl",
+    "name": "TVP Historia",
+    "alt_names": [],
+    "network": "TVP",
+    "owners": [
+      "Telewizja Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Bc4QZiy.png",
+    "stream_url": "https://tvp3.cache.orange.pl/tvp/live/JQmETX58eM7X32i5AVKZRQ/1783368986/video/live/live171/nginx/TKH/156/master.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

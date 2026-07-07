@@ -19233,6 +19233,32 @@
     "closed": null
   },
   {
+    "id": "ComercioTV.us",
+    "name": "Comercio TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.amagi.com/hubfs/Group%202-3.png",
+    "stream_url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/basket_TV.stream/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://comercio.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Comet.us",
     "name": "Comet",
     "alt_names": [],
@@ -24616,6 +24642,90 @@
     "closed": null
   },
   {
+    "id": "DSports2.us",
+    "name": "DSports 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Werthein"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",
+    "stream_url": "https://streamvidex.qzz.io/videx/dsports2/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.directvsports.com/",
+    "launched": "2009-07-13",
+    "closed": null
+  },
+  {
+    "id": "DSports.us",
+    "name": "DSports",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Werthein"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
+    "stream_url": "https://streamvidex.qzz.io/videx/dsportsar/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.directvsports.com/",
+    "launched": "2009-06-13",
+    "closed": null
+  },
+  {
+    "id": "DSportsPlus.us",
+    "name": "DSports+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Werthein"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png",
+    "stream_url": "https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.directvsports.com/",
+    "launched": "2013-08-16",
+    "closed": null
+  },
+  {
     "id": "DuckDynasty.us",
     "name": "Duck Dynasty",
     "alt_names": [],
@@ -28594,6 +28704,42 @@
     "closed": null
   },
   {
+    "id": "FETV.us",
+    "name": "FETV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Family Broadcasting Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "family"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Z9xclnE.png",
+    "stream_url": "http://206.212.244.63/60/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FETV.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "73413",
+      "site_name": "FETV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://fetv.tv/contact/",
+    "launched": "2013-01-01",
+    "closed": null
+  },
+  {
     "id": "FGTV.us",
     "name": "FGTV",
     "alt_names": [],
@@ -29881,6 +30027,44 @@
     "logo": "https://i.imgur.com/O9BapV9.png",
     "stream_url": "http://cdn.haititivi.com/Fox_Sports_1/index.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FoxSports1.us",
+      "feed": "HD",
+      "site": "tvguide.com",
+      "site_id": "9233008440",
+      "site_name": "FOX Sports 1",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.foxsports.com/",
+    "launched": "2013-08-17",
+    "closed": null
+  },
+  {
+    "id": "FoxSports1.us",
+    "name": "Fox Sports 1",
+    "alt_names": [
+      "FS1"
+    ],
+    "network": "Fox Sports",
+    "owners": [
+      "Fox Sports Media Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/O9BapV9.png",
+    "stream_url": "https://streamvidex.qzz.io/videx/fox1usa/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

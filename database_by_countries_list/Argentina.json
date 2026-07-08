@@ -310,6 +310,70 @@
     "closed": null
   },
   {
+    "id": "AmericaTV.ar",
+    "name": "America TV",
+    "alt_names": [
+      "América TV"
+    ],
+    "network": "Grupo America",
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
+    "stream_url": "http://45.6.4.35/AMERICA/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AmericaTV.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#america-2-capital",
+      "site_name": "América TV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.americatv.com.ar/",
+    "launched": "1996-06-25",
+    "closed": null
+  },
+  {
+    "id": "Argentina12.ar",
+    "name": "Argentina/12",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Octubre"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Argentina12_2025.svg/330px-Argentina12_2025.svg.png",
+    "stream_url": "http://45.6.4.35/IP_NOTICIAS/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.pagina12.com.ar/",
+    "launched": "2025-11-12",
+    "closed": null
+  },
+  {
     "id": "ArgentinisimaSatelital.ar",
     "name": "Argentinisima Satelital",
     "alt_names": [
@@ -603,6 +667,40 @@
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "C5N.ar",
+    "name": "C5N",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5ZNZYjO.png",
+    "stream_url": "http://45.6.4.35/C5N/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "C5N.ar",
+      "feed": "SD",
+      "site": "programacion.tcc.com.uy",
+      "site_id": "418",
+      "site_name": "C5N",
+      "lang": "es",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -1737,6 +1835,44 @@
     "closed": null
   },
   {
+    "id": "Canal26.ar",
+    "name": "Canal 26",
+    "alt_names": [
+      "26 TV"
+    ],
+    "network": null,
+    "owners": [
+      "Telecentro"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png",
+    "stream_url": "http://45.6.4.35/CANAL_26/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Canal26.ar",
+      "feed": "SD",
+      "site": "programacion.tcc.com.uy",
+      "site_id": "420",
+      "site_name": "Canal 26",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.diario26.com/",
+    "launched": "1996-04-01",
+    "closed": null
+  },
+  {
     "id": "Canal34SanJuan.ar",
     "name": "Canal 34 San Juan",
     "alt_names": [],
@@ -2381,6 +2517,42 @@
     "closed": null
   },
   {
+    "id": "CiudadMagazine.ar",
+    "name": "Ciudad Magazine",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Clarin"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/V1xZV72.png",
+    "stream_url": "http://45.6.4.35/MAGAZINE/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CiudadMagazine.ar",
+      "feed": "SD",
+      "site": "nuevosiglo.com.uy",
+      "site_id": "CIUDAD MAGAZINE",
+      "site_name": "CIUDAD MAGAZINE",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.ciudad.com.ar/",
+    "launched": "1995-01-09",
+    "closed": null
+  },
+  {
     "id": "CiudadMagica.ar",
     "name": "Ciudad Magica",
     "alt_names": [
@@ -2740,6 +2912,43 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "stream_url": "http://177.245.131.133:8080/Disney/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyChannelLatinAmerica.ar",
+      "feed": "Center",
+      "site": "siba.com.co",
+      "site_id": "430",
+      "site_name": "DISNEY CHANNEL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.disneylatino.com/tv",
+    "launched": "2000-07-27",
+    "closed": null
+  },
+  {
+    "id": "DisneyChannelLatinAmerica.ar",
+    "name": "Disney Channel Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Disney Entertainment"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
     "stream_url": "http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -2778,6 +2987,43 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
     "stream_url": "http://45.185.163.75:8000/play/a02j/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyChannelLatinAmerica.ar",
+      "feed": "Center",
+      "site": "siba.com.co",
+      "site_id": "430",
+      "site_name": "DISNEY CHANNEL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.disneylatino.com/tv",
+    "launched": "2000-07-27",
+    "closed": null
+  },
+  {
+    "id": "DisneyChannelLatinAmerica.ar",
+    "name": "Disney Channel Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Disney Entertainment"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "stream_url": "http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -2870,6 +3116,80 @@
     "closed": null
   },
   {
+    "id": "DisneyChannelLatinAmerica.ar",
+    "name": "Disney Channel Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Disney Entertainment"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "stream_url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyChannelLatinAmerica.ar",
+      "feed": "Center",
+      "site": "siba.com.co",
+      "site_id": "430",
+      "site_name": "DISNEY CHANNEL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.disneylatino.com/tv",
+    "launched": "2000-07-27",
+    "closed": null
+  },
+  {
+    "id": "DisneyChannelLatinAmerica.ar",
+    "name": "Disney Channel Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Disney Entertainment"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "stream_url": "http://45.6.4.35/DISNEY/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyChannelLatinAmerica.ar",
+      "feed": "Center",
+      "site": "siba.com.co",
+      "site_id": "430",
+      "site_name": "DISNEY CHANNEL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.disneylatino.com/tv",
+    "launched": "2000-07-27",
+    "closed": null
+  },
+  {
     "id": "DisneyJrLatinAmerica.ar",
     "name": "Disney Jr. Latin America",
     "alt_names": [],
@@ -2890,6 +3210,43 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
     "stream_url": "http://45.189.62.33:8002/play/a0bz/index.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyJrLatinAmerica.ar",
+      "feed": "North",
+      "site": "reportv.com.ar",
+      "site_id": "1102",
+      "site_name": "DISNEY JR",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.disneylatino.com/",
+    "launched": "2011-04-01",
+    "closed": null
+  },
+  {
+    "id": "DisneyJrLatinAmerica.ar",
+    "name": "Disney Jr. Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Disney Media Network Latin America"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "stream_url": "http://177.234.249.178:8888/DISNEY-JR/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -3129,6 +3486,43 @@
     "closed": null
   },
   {
+    "id": "DisneyJrLatinAmerica.ar",
+    "name": "Disney Jr. Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Disney Media Network Latin America"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "stream_url": "http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyJrLatinAmerica.ar",
+      "feed": "North",
+      "site": "reportv.com.ar",
+      "site_id": "1102",
+      "site_name": "DISNEY JR",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.disneylatino.com/",
+    "launched": "2011-04-01",
+    "closed": null
+  },
+  {
     "id": "EcoTV.ar",
     "name": "Eco TV",
     "alt_names": [],
@@ -3155,6 +3549,78 @@
     "closed": null
   },
   {
+    "id": "ElGourmet.ar",
+    "name": "El Gourmet",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "AMC Global Media"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "cooking"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ByMyRI9.png",
+    "stream_url": "http://177.234.249.178:8888/EL-GOURMET/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ElGourmet.ar",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "485",
+      "site_name": "EL GOURMET",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://elgourmet.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ElGourmet.ar",
+    "name": "El Gourmet",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "AMC Global Media"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "cooking"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ByMyRI9.png",
+    "stream_url": "http://45.6.4.35/GOURMET/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ElGourmet.ar",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "485",
+      "site_name": "EL GOURMET",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://elgourmet.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ElNueve.ar",
     "name": "El Nueve",
     "alt_names": [],
@@ -3173,6 +3639,42 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/cJHP7bU.png",
     "stream_url": "http://playcom.trapemn.tv:1935/transcoderip/canal9.stream/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ElNueve.ar",
+      "feed": "SD",
+      "site": "programacion.tcc.com.uy",
+      "site_id": "470",
+      "site_name": "Canal 9",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.elnueve.com.ar/",
+    "launched": "1960-06-09",
+    "closed": null
+  },
+  {
+    "id": "ElNueve.ar",
+    "name": "El Nueve",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Octubre"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/cJHP7bU.png",
+    "stream_url": "http://45.6.4.35/EL_NUEVE/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -3297,6 +3799,44 @@
     "closed": null
   },
   {
+    "id": "ElTrece.ar",
+    "name": "El Trece",
+    "alt_names": [
+      "Canal 13"
+    ],
+    "network": null,
+    "owners": [
+      "Grupo Clarin"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TrgBAdA.png",
+    "stream_url": "http://45.6.4.35/EL_TRECE/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ElTrece.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#el-trece",
+      "site_name": "Canal 13",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.eltrecetv.com.ar/",
+    "launched": "1960-10-01",
+    "closed": null
+  },
+  {
     "id": "EuropaEuropa.ar",
     "name": "Europa Europa",
     "alt_names": [],
@@ -3329,6 +3869,116 @@
       "sources": []
     },
     "website": "https://www.europaeuropa.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "EuropaEuropa.ar",
+    "name": "Europa Europa",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "AMC Global Media"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/w5SOfyJ.png",
+    "stream_url": "http://45.6.4.35/EUROPA/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EuropaEuropa.ar",
+      "feed": "SD",
+      "site": "reportv.com.ar",
+      "site_id": "184",
+      "site_name": "EUROPA EUROPA",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.europaeuropa.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FilmArts.ar",
+    "name": "Film & Arts",
+    "alt_names": [
+      "Film & Arts Brasil"
+    ],
+    "network": null,
+    "owners": [
+      "AMC Global Media"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ukdmEKD.png",
+    "stream_url": "http://45.6.4.35/FILM_AND_ARTS/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FilmArts.ar",
+      "feed": "Panregional",
+      "site": "reportv.com.ar",
+      "site_id": "63",
+      "site_name": "FILM&ARTS",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.filmandarts.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FoxSports.ar",
+    "name": "Fox Sports",
+    "alt_names": [],
+    "network": "Fox Sports International",
+    "owners": [
+      "The Walt Disney Company"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
+    "stream_url": "http://45.6.4.35/FOX_SPORT/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FoxSports.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#fox-sports-hd",
+      "site_name": "FOX Sports HD",
+      "lang": "es",
+      "sources": []
+    },
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -3540,6 +4190,46 @@
     "logo": "https://i.imgur.com/Gj1kqH5.png",
     "stream_url": "http://playcom.trapemn.tv:1935/transcoderip/lanacionplus.stream/playlist.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "LaNacionPlus.ar",
+      "feed": "SD",
+      "site": "programacion.tcc.com.uy",
+      "site_id": "417",
+      "site_name": "La Nacion",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://lnmas.lanacion.com.ar/",
+    "launched": "2016-11-07",
+    "closed": null
+  },
+  {
+    "id": "LaNacionPlus.ar",
+    "name": "La Nacion +",
+    "alt_names": [
+      "La Nación +",
+      "La Nación Más",
+      "LN+"
+    ],
+    "network": null,
+    "owners": [
+      "La Nación"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Gj1kqH5.png",
+    "stream_url": "http://45.6.4.35/LA_NACION/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -4039,6 +4729,42 @@
     "closed": null
   },
   {
+    "id": "NETTV.ar",
+    "name": "NET TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Perfil"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/IhJ0BjF.png",
+    "stream_url": "http://45.134.141.161:2200/ARG/Net_TV/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NETTV.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#net-tv",
+      "site_name": "Net TV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.canalnet.tv/",
+    "launched": "2018-10-01",
+    "closed": null
+  },
+  {
     "id": "NGFederal.ar",
     "name": "NG Federal",
     "alt_names": [],
@@ -4222,6 +4948,40 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://quanticaradio.com.ar/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "QuieroMusicaenmiIdioma.ar",
+    "name": "Quiero Musica en mi Idioma",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/RO9Dz3X.png",
+    "stream_url": "http://177.234.249.178:8888/MTV/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "QuieroMusicaenmiIdioma.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#quiero",
+      "site_name": "Quiero",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.qmusica.tv/",
     "launched": null,
     "closed": null
   },
@@ -4612,6 +5372,30 @@
     "closed": null
   },
   {
+    "id": "SonyChannel.ar",
+    "name": "Sony Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",
+    "stream_url": "http://138.121.15.230:9002/SONY/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://la.sonychannel.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "T5Satelital.ar",
     "name": "T5 Satelital",
     "alt_names": [],
@@ -4750,6 +5534,66 @@
       "sources": []
     },
     "website": "https://telefe.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Telefe.ar",
+    "name": "Telefe",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Televisión Litoral"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
+    "stream_url": "http://45.6.4.35/TELEFE_INTERIOR/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Telefe.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#telefe",
+      "site_name": "Telefe",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://telefe.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TelefeBuenosAires.ar",
+    "name": "Telefe Buenos Aires",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Televisión Litoral"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
+    "stream_url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://mitelefe.com/",
     "launched": null,
     "closed": null
   },
@@ -5046,6 +5890,40 @@
     "closed": null
   },
   {
+    "id": "TN.ar",
+    "name": "TN",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/vFwPhPS.png",
+    "stream_url": "http://45.6.4.35/TN/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TN.ar",
+      "feed": "SD",
+      "site": "nuevosiglo.com.uy",
+      "site_id": "TN",
+      "site_name": "TN",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://tn.com.ar/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVManaArgentina.ar",
     "name": "TV Mana Argentina",
     "alt_names": [
@@ -5093,6 +5971,42 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/XGrkzN3.png",
     "stream_url": "http://playcom.trapemn.tv:1935/transcoderip/tvpublica.stream/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVPublica.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#canal-7-capital",
+      "site_name": "TV Pública",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.tvpublica.com.ar/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVPublica.ar",
+    "name": "TV Publica",
+    "alt_names": [
+      "TV Pública"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/XGrkzN3.png",
+    "stream_url": "http://45.6.4.35/TV_PUBLICA/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -5299,6 +6213,42 @@
     "closed": null
   },
   {
+    "id": "TyCSports.ar",
+    "name": "TyC Sports",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Torneos Clarin Group"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
+    "stream_url": "http://45.6.4.35/TyC/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TyCSports.ar",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "16275",
+      "site_name": "TyC Sports",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.tycsports.com/",
+    "launched": "1994-01-01",
+    "closed": null
+  },
+  {
     "id": "TyCSportsUSA.ar",
     "name": "TyC Sports USA",
     "alt_names": [],
@@ -5479,6 +6429,38 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://tv.villamantero.com.ar/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Volver.ar",
+    "name": "Volver",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/PYvSZMb.png",
+    "stream_url": "http://45.6.4.35/VOLVER/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Volver.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#volver",
+      "site_name": "Volver",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.volver.com.ar/",
     "launched": null,
     "closed": null
   },

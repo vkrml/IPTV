@@ -39,6 +39,45 @@
     "closed": null
   },
   {
+    "id": "1TV.ge",
+    "name": "1TV",
+    "alt_names": [
+      "პირველი არხი",
+      "First Channel"
+    ],
+    "network": null,
+    "owners": [
+      "Georgian Public Broadcaster"
+    ],
+    "country_code": "GE",
+    "country_name": "Georgia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/FSkYLPK.png",
+    "stream_url": "http://nue01-edge01.itdc.ge/gpb/mpegts",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "1TV.ge",
+      "feed": "SD",
+      "site": "magticom.ge",
+      "site_id": "3",
+      "site_name": "პირველი არხი",
+      "lang": "ka",
+      "sources": []
+    },
+    "website": "https://1tv.ge/",
+    "launched": "1956-01-01",
+    "closed": null
+  },
+  {
     "id": "2TV.ge",
     "name": "2 TV",
     "alt_names": [
@@ -238,6 +277,34 @@
     "closed": null
   },
   {
+    "id": "EuronewsGeorgia.ge",
+    "name": "Euronews Georgia",
+    "alt_names": [],
+    "network": "Euronews",
+    "owners": [
+      "Euronews SA"
+    ],
+    "country_code": "GE",
+    "country_name": "Georgia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/VNJ4soR.png",
+    "stream_url": "http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://euronewsgeorgia.com/",
+    "launched": "2020-08-31",
+    "closed": null
+  },
+  {
     "id": "Formula.ge",
     "name": "Formula",
     "alt_names": [],
@@ -359,6 +426,42 @@
     "logo": "https://i.imgur.com/94hNyxZ.png",
     "stream_url": "https://tv.cdn.xsg.ge/imedihd/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ImediTV.ge",
+      "feed": "SD",
+      "site": "magticom.ge",
+      "site_id": "4",
+      "site_name": "იმედი",
+      "lang": "ka",
+      "sources": []
+    },
+    "website": "https://www.imedi.ge/",
+    "launched": "2003-03-15",
+    "closed": null
+  },
+  {
+    "id": "ImediTV.ge",
+    "name": "Imedi TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Imedi Media Holding"
+    ],
+    "country_code": "GE",
+    "country_name": "Georgia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/94hNyxZ.png",
+    "stream_url": "http://nue01-edge01.itdc.ge/imedihd/mpegts",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -586,6 +689,38 @@
     "closed": null
   },
   {
+    "id": "Rustavi2.ge",
+    "name": "Rustavi 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "GE",
+    "country_name": "Georgia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/rPqd1Cx.png",
+    "stream_url": "http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Rustavi2.ge",
+      "feed": "SD",
+      "site": "magticom.ge",
+      "site_id": "1",
+      "site_name": "რუსთავი 2",
+      "lang": "ka",
+      "sources": []
+    },
+    "website": "http://www.rustavi2.ge/",
+    "launched": "1994-01-01",
+    "closed": null
+  },
+  {
     "id": "TVC.ge",
     "name": "TVC",
     "alt_names": [],
@@ -610,6 +745,40 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://tvc.ge/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVPirveli.ge",
+    "name": "TV Pirveli",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "GE",
+    "country_name": "Georgia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/cGHsM1x.png",
+    "stream_url": "http://nue01-edge01.itdc.ge/pirvelitv/mpegts",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVPirveli.ge",
+      "feed": "SD",
+      "site": "magticom.ge",
+      "site_id": "207",
+      "site_name": "TV პირველი",
+      "lang": "ka",
+      "sources": []
+    },
+    "website": "http://www.tvpirveli.ge/",
     "launched": null,
     "closed": null
   }

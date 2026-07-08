@@ -1,5 +1,33 @@
 [
   {
+    "id": "AlertaBogota.co",
+    "name": "Alerta Bogota",
+    "alt_names": [],
+    "network": "RCN Televisión",
+    "owners": [
+      "Organización Ardila Lülle"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/664/fantastica-bogota-1044-fm.953b1280.png",
+    "stream_url": "https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://alerta.com.co/",
+    "launched": "2025-05-05",
+    "closed": null
+  },
+  {
     "id": "AmagaTelevision.co",
     "name": "Amaga Television",
     "alt_names": [
@@ -284,6 +312,42 @@
     "closed": null
   },
   {
+    "id": "Cablenoticias.co",
+    "name": "Cablenoticias",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Global Media"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/FfhOGR9.png",
+    "stream_url": "http://138.186.23.7:8082/CABLENOTICIAS/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Cablenoticias.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "391",
+      "site_name": "CABLE NOTICIAS",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.cablenoticias.tv/",
+    "launched": "2007-10-01",
+    "closed": null
+  },
+  {
     "id": "CableSurTV.co",
     "name": "Cable Sur TV",
     "alt_names": [],
@@ -385,6 +449,52 @@
     "logo": "https://i.imgur.com/MiYlN0t.png",
     "stream_url": "http://138.121.15.230:9002/CANAL-UNO/index.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Canal1.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "401",
+      "site_name": "CANAL 1",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://canal1.com.co/",
+    "launched": "1954-06-13",
+    "closed": null
+  },
+  {
+    "id": "Canal1.co",
+    "name": "Canal 1",
+    "alt_names": [
+      "Canal Uno",
+      "Inravisión Cadena Uno",
+      "Inravisión Cadena 1",
+      "Inravisión Primera Cadena Color",
+      "Inravisión Primera Cadena",
+      "Inravisión Canal Nacional",
+      "Televisora Nacional de Colombia",
+      "HJTV-2",
+      "HJRN-TV"
+    ],
+    "network": null,
+    "owners": [
+      "Government of Colombia"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/MiYlN0t.png",
+    "stream_url": "http://177.234.249.135:8888/CANAL_UNO/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -738,6 +848,42 @@
     "closed": null
   },
   {
+    "id": "CanalCongreso.co",
+    "name": "Canal Congreso",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Government of Colombia"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "legislative"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/3VnL8dp.png",
+    "stream_url": "http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalCongreso.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "397",
+      "site_name": "CANAL DEL CONGRESO",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.senado.gov.co/",
+    "launched": "2006-06-10",
+    "closed": null
+  },
+  {
     "id": "CanalDos.co",
     "name": "Canal Dos",
     "alt_names": [
@@ -818,6 +964,47 @@
     "logo": "https://i.imgur.com/CKnf3Ua.png",
     "stream_url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalInstitucional.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "398",
+      "site_name": "CANAL INSTITUCIONAL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.canalinstitucional.tv/",
+    "launched": "2004-02-02",
+    "closed": null
+  },
+  {
+    "id": "CanalInstitucional.co",
+    "name": "Canal Institucional",
+    "alt_names": [
+      "CITV Canal Institucional",
+      "Señal Institucional",
+      "Institucional",
+      "Señal Colombia Institucional"
+    ],
+    "network": null,
+    "owners": [
+      "Government of Colombia"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CKnf3Ua.png",
+    "stream_url": "http://138.121.15.230:9002/CANAL-INSTITUCIONAL/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1095,6 +1282,44 @@
     "closed": null
   },
   {
+    "id": "CanalRCN.co",
+    "name": "Canal RCN",
+    "alt_names": [
+      "RCN Televisión"
+    ],
+    "network": "RCN Televisión",
+    "owners": [
+      "Organización Ardila Lülle"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5PhTaHp.png",
+    "stream_url": "http://177.234.249.178:8888/RCN/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalRCN.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "399",
+      "site_name": "CANAL RCN",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.canalrcn.com/",
+    "launched": "1998-07-10",
+    "closed": null
+  },
+  {
     "id": "CanalTelefamilia.co",
     "name": "Canal Telefamilia",
     "alt_names": [],
@@ -1335,6 +1560,42 @@
     "closed": null
   },
   {
+    "id": "CaracolTV.co",
+    "name": "Caracol TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Caracol Televisión S.A."
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/WbfdJbk.png",
+    "stream_url": "http://177.234.249.178:8888/CARACOL/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CaracolTV.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "394",
+      "site_name": "CANAL CARACOL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.caracoltv.com/",
+    "launched": "1998-07-10",
+    "closed": null
+  },
+  {
     "id": "Cine35mm.co",
     "name": "Cine35mm",
     "alt_names": [],
@@ -1382,6 +1643,44 @@
     "logo": "https://i.imgur.com/h7K9EW9.png",
     "stream_url": "http://138.121.15.230:9002/CITY-TV/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CitytvBogota.co",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "pe#citytv",
+      "site_name": "Citytv",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.citytv.com.co/",
+    "launched": "1999-03-19",
+    "closed": null
+  },
+  {
+    "id": "CitytvBogota.co",
+    "name": "Citytv Bogota",
+    "alt_names": [
+      "Citytv Bogotá"
+    ],
+    "network": "Citytv",
+    "owners": [
+      "El Tiempo Casa Editorial"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/h7K9EW9.png",
+    "stream_url": "http://138.186.23.7:8082/CITY/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -3835,6 +4134,43 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/DuSSrHV.png",
     "stream_url": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "WinSports.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "828",
+      "site_name": "WIN SPORTS",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.winsports.co/",
+    "launched": "2012-11-29",
+    "closed": null
+  },
+  {
+    "id": "WinSports.co",
+    "name": "Win Sports",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "DirecTV",
+      "RCN Televisión"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/DuSSrHV.png",
+    "stream_url": "http://138.186.23.7:8082/WINSPORT/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

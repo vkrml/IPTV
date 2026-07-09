@@ -1320,6 +1320,44 @@
     "closed": null
   },
   {
+    "id": "CanalRCN.co",
+    "name": "Canal RCN",
+    "alt_names": [
+      "RCN Televisión"
+    ],
+    "network": "RCN Televisión",
+    "owners": [
+      "Organización Ardila Lülle"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5PhTaHp.png",
+    "stream_url": "http://138.186.23.7:8082/RCN/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalRCN.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "399",
+      "site_name": "CANAL RCN",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.canalrcn.com/",
+    "launched": "1998-07-10",
+    "closed": null
+  },
+  {
     "id": "CanalTelefamilia.co",
     "name": "Canal Telefamilia",
     "alt_names": [],
@@ -1578,6 +1616,42 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/WbfdJbk.png",
     "stream_url": "http://177.234.249.178:8888/CARACOL/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CaracolTV.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "394",
+      "site_name": "CANAL CARACOL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.caracoltv.com/",
+    "launched": "1998-07-10",
+    "closed": null
+  },
+  {
+    "id": "CaracolTV.co",
+    "name": "Caracol TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Caracol Televisión S.A."
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/WbfdJbk.png",
+    "stream_url": "http://45.171.108.253:8888/CARACOL/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

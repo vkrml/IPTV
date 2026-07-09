@@ -3282,6 +3282,43 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "stream_url": "http://177.245.131.133:8080/DISNEYJR/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyJrLatinAmerica.ar",
+      "feed": "North",
+      "site": "reportv.com.ar",
+      "site_id": "1102",
+      "site_name": "DISNEY JR",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.disneylatino.com/",
+    "launched": "2011-04-01",
+    "closed": null
+  },
+  {
+    "id": "DisneyJrLatinAmerica.ar",
+    "name": "Disney Jr. Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Disney Media Network Latin America"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
     "stream_url": "http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -3568,6 +3605,42 @@
     "logo": "https://i.imgur.com/ByMyRI9.png",
     "stream_url": "http://177.234.249.178:8888/EL-GOURMET/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ElGourmet.ar",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "485",
+      "site_name": "EL GOURMET",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://elgourmet.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ElGourmet.ar",
+    "name": "El Gourmet",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "AMC Global Media"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "cooking"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ByMyRI9.png",
+    "stream_url": "http://177.245.131.133:8080/GOURMET/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -5924,6 +5997,32 @@
     "closed": null
   },
   {
+    "id": "TVCanal72.ar",
+    "name": "TV Canal 72",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://tvcanal72.com.ar/wp-content/uploads/2022/08/LOGO-CANAL-72-1-1024x256.png",
+    "stream_url": "https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://tvcanal72.com.ar/",
+    "launched": "2026-07-05",
+    "closed": null
+  },
+  {
     "id": "TVManaArgentina.ar",
     "name": "TV Mana Argentina",
     "alt_names": [
@@ -5949,78 +6048,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://tvmana-argentina.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVPublica.ar",
-    "name": "TV Publica",
-    "alt_names": [
-      "TV Pública"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/XGrkzN3.png",
-    "stream_url": "http://playcom.trapemn.tv:1935/transcoderip/tvpublica.stream/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPublica.ar",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "ar#canal-7-capital",
-      "site_name": "TV Pública",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.tvpublica.com.ar/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVPublica.ar",
-    "name": "TV Publica",
-    "alt_names": [
-      "TV Pública"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/XGrkzN3.png",
-    "stream_url": "http://45.6.4.35/TV_PUBLICA/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPublica.ar",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "ar#canal-7-capital",
-      "site_name": "TV Pública",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.tvpublica.com.ar/",
     "launched": null,
     "closed": null
   },

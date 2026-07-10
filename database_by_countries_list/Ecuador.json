@@ -792,6 +792,44 @@
     "closed": null
   },
   {
+    "id": "Ecuavisa.ec",
+    "name": "Ecuavisa",
+    "alt_names": [
+      "Canal 8"
+    ],
+    "network": null,
+    "owners": [
+      "Grupo Alvarado Roca"
+    ],
+    "country_code": "EC",
+    "country_name": "Ecuador",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Hl5wowk.png",
+    "stream_url": "http://45.171.108.253:8888/ECUAVISA/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Ecuavisa.ec",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "ecuavisa_ecuador",
+      "site_name": "Canal Ecuavisa (Ecuador)",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.ecuavisa.com/",
+    "launched": "1967-03-01",
+    "closed": null
+  },
+  {
     "id": "EducaTV.ec",
     "name": "Educa TV",
     "alt_names": [],
@@ -2288,6 +2326,43 @@
     "closed": null
   },
   {
+    "id": "RTS.ec",
+    "name": "RTS",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Albavisión",
+      "Grupo RTS"
+    ],
+    "country_code": "EC",
+    "country_name": "Ecuador",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/PML8cJA.png",
+    "stream_url": "http://45.171.108.253:8888/RTS/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RTS.ec",
+      "feed": "SD",
+      "site": "tv.sfr.fr",
+      "site_id": "847",
+      "site_name": "RTS 1",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "http://www.rts.com.ec/",
+    "launched": "1960-12-12",
+    "closed": null
+  },
+  {
     "id": "RTU.ec",
     "name": "RTU",
     "alt_names": [],
@@ -2474,6 +2549,36 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/okK02EN.png",
     "stream_url": "http://45.224.97.181:9999/TC/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.tctelevision.com/",
+    "launched": "1968-08-09",
+    "closed": null
+  },
+  {
+    "id": "TCTelevision.ec",
+    "name": "TC Television",
+    "alt_names": [
+      "TC Televisión"
+    ],
+    "network": null,
+    "owners": [
+      "Comunica EP"
+    ],
+    "country_code": "EC",
+    "country_name": "Ecuador",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/okK02EN.png",
+    "stream_url": "http://45.171.108.253:8888/TC/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -2820,6 +2925,35 @@
     "logo": "https://i.imgur.com/k6h5Cz2.png",
     "stream_url": "http://45.224.97.181:9999/TVC/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.tvc.com.ec/",
+    "launched": "2016-02-01",
+    "closed": null
+  },
+  {
+    "id": "TVC.ec",
+    "name": "TVC",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Albavisión",
+      "Grupo El Comercio"
+    ],
+    "country_code": "EC",
+    "country_name": "Ecuador",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/k6h5Cz2.png",
+    "stream_url": "https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8",
+    "stream_quality": "480i",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

@@ -1350,6 +1350,42 @@
     "closed": null
   },
   {
+    "id": "CFTODT.ca",
+    "name": "CFTO-DT",
+    "alt_names": [],
+    "network": "CTV",
+    "owners": [
+      "Bell Media"
+    ],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/960px-CTV_logo_2018.svg.png",
+    "stream_url": "http://stream.cammonitorplus.net/1712/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CFTODT.ca",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "44784",
+      "site_name": "CTV (CFTO-DT) Toronto ON",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://toronto.ctvnews.ca/",
+    "launched": "1960-12-31",
+    "closed": null
+  },
+  {
     "id": "CFTUDT.ca",
     "name": "CFTU-DT",
     "alt_names": [
@@ -1920,6 +1956,34 @@
     },
     "website": "https://www.cpac.ca/",
     "launched": "1992-10-01",
+    "closed": null
+  },
+  {
+    "id": "CTV2Atlantic.ca",
+    "name": "CTV 2 Atlantic",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Bell Media"
+    ],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/960px-CTV_2_2018.svg.png",
+    "stream_url": "http://stream.cammonitorplus.net/1731/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://atlantic.ctv.ca/",
+    "launched": "1983-05-29",
     "closed": null
   },
   {

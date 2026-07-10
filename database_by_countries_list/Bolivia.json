@@ -26,32 +26,6 @@
     "closed": null
   },
   {
-    "id": "AgendaMineraTV.bo",
-    "name": "Agenda Minera TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BO",
-    "country_name": "Bolivia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "business"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/hg2PiIn.png",
-    "stream_url": "https://stv2.boliviaplay.com.bo/hls/stream.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.agendaminera.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "AlegriaTV.bo",
     "name": "Alegria TV",
     "alt_names": [],
@@ -74,6 +48,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AmitelTV.bo",
+    "name": "Amitel TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BO",
+    "country_name": "Bolivia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://amiteltv.com/wp-content/uploads/2026/01/LOGO-SIN-FONDO-WEB.png",
+    "stream_url": "https://stv2.boliviaplay.com.bo/hls/stream.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://amiteltv.com/",
     "launched": null,
     "closed": null
   },
@@ -1431,6 +1431,62 @@
     "closed": null
   },
   {
+    "id": "RadioSanGabriel.bo",
+    "name": "Radio San Gabriel",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BO",
+    "country_name": "Bolivia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.mytuner.mobi/media/tvos_radios/bec3csmj7emx.jpg",
+    "stream_url": "https://twitch-m3u8.bastypro112.workers.dev/radiosangabrielbolivia/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://radiosangabriel.org.bo/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RadioUniversitariaSanAndres.bo",
+    "name": "Radio Universitaria San Andres",
+    "alt_names": [],
+    "network": "RUBI",
+    "owners": [
+      "UMSA"
+    ],
+    "country_code": "BO",
+    "country_name": "Bolivia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture",
+      "education",
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://tvu.umsa.bo/documents/780216/0/LogoRUSA+%283%29.jpg",
+    "stream_url": "https://edge.enhdtv.com/8054/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://tvu.umsa.bo/es/rusa-97.6-fm",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RadioUnoPST.bo",
     "name": "Radio Uno PST",
     "alt_names": [],
@@ -1581,6 +1637,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://red-cctv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RedRubi.bo",
+    "name": "Red Rubi",
+    "alt_names": [
+      "Red Rubí"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "BO",
+    "country_name": "Bolivia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Y4KOypc.jpeg",
+    "stream_url": "https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -1985,34 +2069,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://teleestrella.tv.bo/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TelevisionAzanaque.bo",
-    "name": "Television Azanaque",
-    "alt_names": [
-      "Televisión Azanaque"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "BO",
-    "country_name": "Bolivia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/zEIz6LU.jpeg",
-    "stream_url": "https://twitch-m3u8.bastypro112.workers.dev/radiosangabrielbolivia/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
     "launched": null,
     "closed": null
   },

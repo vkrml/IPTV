@@ -376,6 +376,44 @@
     "closed": null
   },
   {
+    "id": "AmericaTelevision.pe",
+    "name": "America Television",
+    "alt_names": [
+      "América Televisión"
+    ],
+    "network": null,
+    "owners": [
+      "America Multimedia"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
+    "stream_url": "http://187.102.210.46/AMERICA/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AmericaTelevision.pe",
+      "feed": "SD",
+      "site": "watch.whaletvplus.com",
+      "site_id": "989293714931712089",
+      "site_name": "America Television",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://tvgo.americatv.com.pe/",
+    "launched": "1958-12-15",
+    "closed": null
+  },
+  {
     "id": "AndesTelevision.pe",
     "name": "Andes Television",
     "alt_names": [
@@ -743,6 +781,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/eUzYZfg.png",
+    "stream_url": "https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ATV.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch2211",
+      "site_name": "ATV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.atv.pe/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ATV.pe",
+    "name": "ATV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo ATV"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/eUzYZfg.png",
     "stream_url": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -978,6 +1052,42 @@
     "closed": null
   },
   {
+    "id": "ATVPlus.pe",
+    "name": "ATV+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo ATV"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/fY9256H.png",
+    "stream_url": "http://45.171.108.253:8888/ATV/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ATVPlus.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch2220",
+      "site_name": "ATV+",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.atv.pe/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ATVSur.pe",
     "name": "ATV Sur",
     "alt_names": [],
@@ -1033,6 +1143,42 @@
     "logo": "https://i.imgur.com/LnyVa5H.png",
     "stream_url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ATVSur.pe",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "pe#atv-sur",
+      "site_name": "ATV Sur",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.atv.pe/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ATVSur.pe",
+    "name": "ATV Sur",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo ATV"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/LnyVa5H.png",
+    "stream_url": "https://dnhmqt6n0lkaq.cloudfront.net/ts:abr.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -2617,6 +2763,32 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Juntos_TV_Logo.png",
+    "stream_url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/juntos_tv.stream/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "JuntosTV.pe",
+    "name": "Juntos TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Juntos_TV_Logo.png",
     "stream_url": "https://live-evg8.tv360.bitel.com.pe/bitel/juntostvSRT/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -2739,6 +2911,34 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.l1max.com/",
+    "launched": "2023-02-03",
+    "closed": null
+  },
+  {
+    "id": "L1Max.pe",
+    "name": "L1 Max",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Federación Peruana de Fútbol"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/2fziU2B.png",
+    "stream_url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/liga1max.stream/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.l1max.com/",
@@ -3903,6 +4103,40 @@
     "logo": "https://i.imgur.com/uQhEDES.png",
     "stream_url": "http://177.234.249.178:8888/PANAMERICANA/index.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PanamericanaTV.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch2209",
+      "site_name": "PANAMERICANA TELEVISION",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://panamericana.pe/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PanamericanaTV.pe",
+    "name": "Panamericana TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/uQhEDES.png",
+    "stream_url": "http://45.171.108.253:8888/PANAMERICANA/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

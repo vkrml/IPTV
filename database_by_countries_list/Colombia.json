@@ -512,6 +512,52 @@
     "closed": null
   },
   {
+    "id": "Canal1.co",
+    "name": "Canal 1",
+    "alt_names": [
+      "Canal Uno",
+      "Inravisión Cadena Uno",
+      "Inravisión Cadena 1",
+      "Inravisión Primera Cadena Color",
+      "Inravisión Primera Cadena",
+      "Inravisión Canal Nacional",
+      "Televisora Nacional de Colombia",
+      "HJTV-2",
+      "HJRN-TV"
+    ],
+    "network": null,
+    "owners": [
+      "Government of Colombia"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/MiYlN0t.png",
+    "stream_url": "http://190.61.43.123:8081/CANAL1HD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Canal1.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "401",
+      "site_name": "CANAL 1",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://canal1.com.co/",
+    "launched": "1954-06-13",
+    "closed": null
+  },
+  {
     "id": "Canal2AlpavisionNeiva.co",
     "name": "Canal 2 Alpavision Neiva",
     "alt_names": [
@@ -1396,6 +1442,44 @@
     "closed": null
   },
   {
+    "id": "CanalRCN.co",
+    "name": "Canal RCN",
+    "alt_names": [
+      "RCN Televisión"
+    ],
+    "network": "RCN Televisión",
+    "owners": [
+      "Organización Ardila Lülle"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5PhTaHp.png",
+    "stream_url": "http://190.61.43.123:8081/RCNHD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalRCN.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "399",
+      "site_name": "CANAL RCN",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.canalrcn.com/",
+    "launched": "1998-07-10",
+    "closed": null
+  },
+  {
     "id": "CanalTelefamilia.co",
     "name": "Canal Telefamilia",
     "alt_names": [],
@@ -1726,6 +1810,42 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/WbfdJbk.png",
     "stream_url": "http://181.78.17.228:8081/CARACOL-HD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CaracolTV.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "394",
+      "site_name": "CANAL CARACOL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.caracoltv.com/",
+    "launched": "1998-07-10",
+    "closed": null
+  },
+  {
+    "id": "CaracolTV.co",
+    "name": "Caracol TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Caracol Televisión S.A."
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/WbfdJbk.png",
+    "stream_url": "http://190.61.43.123:8081/CARACOLHD/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -3245,6 +3365,44 @@
     "closed": null
   },
   {
+    "id": "RCNNovelas.co",
+    "name": "RCN Novelas",
+    "alt_names": [
+      "RCN Telenovelas"
+    ],
+    "network": "RCN Televisión",
+    "owners": [
+      "Organización Ardila Lülle"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9wxdWNQ.png",
+    "stream_url": "http://190.61.43.123:8081/RCNNOVELAS/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RCNNovelas.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "859",
+      "site_name": "RCN TELENOVELAS",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.rcnnovelas.com/",
+    "launched": "2009-08-27",
+    "closed": null
+  },
+  {
     "id": "RedPlus.co",
     "name": "Red+",
     "alt_names": [],
@@ -3305,6 +3463,78 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.reyali.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RumbaTV.co",
+    "name": "Rumba TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Global Media"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/WtVpWwI.png",
+    "stream_url": "http://186.148.196.100:8000/play/a02h",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RumbaTV.co",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "pe#rumba-tv",
+      "site_name": "Rumba TV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.canalrumbatv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RumbaTV.co",
+    "name": "Rumba TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Global Media"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/WtVpWwI.png",
+    "stream_url": "http://45.162.193.35:80/RUMBATV/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RumbaTV.co",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "pe#rumba-tv",
+      "site_name": "Rumba TV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.canalrumbatv.com/",
     "launched": null,
     "closed": null
   },

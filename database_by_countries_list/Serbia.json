@@ -1873,6 +1873,32 @@
     "closed": null
   },
   {
+    "id": "RTVNoviPazar.rs",
+    "name": "RTV Novi Pazar",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Radio Televizija Novi Pazar d.o.o."
+    ],
+    "country_code": "RS",
+    "country_name": "Serbia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NpyRVyC.png",
+    "stream_url": "https://tv.rtvnp.rs/stream.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://rtvnp.rs/",
+    "launched": "2002-01-01",
+    "closed": null
+  },
+  {
     "id": "SandzakTV.rs",
     "name": "Sandzak TV",
     "alt_names": [
@@ -2275,6 +2301,40 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ZICOTV.rs",
+    "name": "ZICO TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RS",
+    "country_name": "Serbia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/8wbTnNW.png",
+    "stream_url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ZICOTV.rs",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "1679",
+      "site_name": "Zico TV",
+      "lang": "sq",
+      "sources": []
+    },
+    "website": "https://zico.tv/",
     "launched": null,
     "closed": null
   }

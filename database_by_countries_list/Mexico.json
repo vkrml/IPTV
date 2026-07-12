@@ -78,6 +78,34 @@
     "closed": null
   },
   {
+    "id": "AcustikTV.mx",
+    "name": "Acustik TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Acustik"
+    ],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/dhiNIng.png",
+    "stream_url": "https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://acustik.mx/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ADN40.mx",
     "name": "ADN 40",
     "alt_names": [],
@@ -102,8 +130,8 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.adn40.mx/",
-    "launched": "1993-03-19",
-    "closed": null
+    "launched": "2006-02-21",
+    "closed": "2025-09-17"
   },
   {
     "id": "ADN40.mx",
@@ -130,8 +158,8 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.adn40.mx/",
-    "launched": "1993-03-19",
-    "closed": null
+    "launched": "2006-02-21",
+    "closed": "2025-09-17"
   },
   {
     "id": "AlcanceTV.mx",
@@ -1292,6 +1320,42 @@
     "closed": null
   },
   {
+    "id": "CineLatino.mx",
+    "name": "CineLatino",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "MVS Comunicaciones"
+    ],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/2V0R0xT.png",
+    "stream_url": "http://45.162.193.35:80/CINELATINO_HD/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CineLatino.mx",
+      "feed": "SD",
+      "site": "tvhebdo.com",
+      "site_id": "cinl/CINEL",
+      "site_name": "Cine Latino",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "http://www.cinelatino.com/",
+    "launched": "1993-10-12",
+    "closed": null
+  },
+  {
     "id": "ClaroSports.mx",
     "name": "Claro Sports",
     "alt_names": [],
@@ -1577,6 +1641,34 @@
     "logo": "https://i.imgur.com/JWOqr1a.png",
     "stream_url": "http://45.189.62.33:8002/play/a0lr/index.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://exa.tv/",
+    "launched": "2005-01-01",
+    "closed": null
+  },
+  {
+    "id": "ExaTV.mx",
+    "name": "Exa TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "MVS Comunicaciones"
+    ],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/JWOqr1a.png",
+    "stream_url": "http://190.61.90.17:40000/play/a0hk/index.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

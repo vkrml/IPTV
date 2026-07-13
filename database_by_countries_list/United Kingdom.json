@@ -7227,34 +7227,6 @@
     "closed": null
   },
   {
-    "id": "CGTNEurope.uk",
-    "name": "CGTN Europe",
-    "alt_names": [],
-    "network": "China Global Television Network",
-    "owners": [
-      "China Media Group"
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/oz0FQsE.png",
-    "stream_url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/cgtneurope.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.cgtn.com/tv",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Channel4.uk",
     "name": "Channel 4",
     "alt_names": [],
@@ -7471,6 +7443,46 @@
     },
     "website": "https://www.crimeandinvestigation.nl/",
     "launched": "2006-07-10",
+    "closed": null
+  },
+  {
+    "id": "DAZN5.uk",
+    "name": "DAZN 5",
+    "alt_names": [
+      "DAZN Eleven 5",
+      "Eleven 5",
+      "Eleven Sports 5"
+    ],
+    "network": null,
+    "owners": [
+      "Andrea Radrizzani"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/HD2XaeS.png",
+    "stream_url": "http://znty.dyndns.org:5010/hls/eleven5.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DAZN5.uk",
+      "feed": "Portugal",
+      "site": "vodafone.pt",
+      "site_id": "3889",
+      "site_name": "DAZN 5",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.elevensports.pt/",
+    "launched": "2018-01-01",
     "closed": null
   },
   {

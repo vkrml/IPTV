@@ -4454,6 +4454,32 @@
     "closed": null
   },
   {
+    "id": "PreludioTV.cl",
+    "name": "Preludio TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.preludioradio.cl/wp-content/uploads/2023/06/logopreludio.png",
+    "stream_url": "https://tv.arkeo.cl:1936/preludio/preludio/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.preludioradio.cl/tv/#",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PRIDEtvLATAM.cl",
     "name": "PRIDEtv LATAM",
     "alt_names": [],
@@ -7462,6 +7488,42 @@
     "closed": null
   },
   {
+    "id": "ViaX.cl",
+    "name": "Via X",
+    "alt_names": [
+      "Vía X"
+    ],
+    "network": null,
+    "owners": [
+      "TVI Filmocentro Televisión"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png",
+    "stream_url": "http://45.162.193.35/VIAX/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ViaX.cl",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "cl#via-x",
+      "site_name": "Vía X",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.canalviax.com/",
+    "launched": "1994-10-07",
+    "closed": null
+  },
+  {
     "id": "VidaNuevaTV.cl",
     "name": "Vida Nueva TV",
     "alt_names": [],
@@ -7657,6 +7719,40 @@
     "logo": "https://i.imgur.com/lMyZZtk.png",
     "stream_url": "http://45.170.130.224:8000/play/a00x/index.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ZonaLatina.cl",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "cl#zona-latina",
+      "site_name": "Zona Latina",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.zonalatinatv.com/",
+    "launched": "1997-08-01",
+    "closed": null
+  },
+  {
+    "id": "ZonaLatina.cl",
+    "name": "Zona Latina",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vía Comunicaciones S.A."
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/lMyZZtk.png",
+    "stream_url": "http://45.162.193.35/ZONALATINA/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

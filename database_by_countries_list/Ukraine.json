@@ -386,6 +386,72 @@
     "closed": null
   },
   {
+    "id": "Bigudi.ua",
+    "name": "Bigudi",
+    "alt_names": [
+      "Бігуді",
+      "Bihudi"
+    ],
+    "network": null,
+    "owners": [
+      "1+1 Media Group"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/dy9ZKG1.png",
+    "stream_url": "http://176.122.125.10:8080/bigudi/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://biguditv.com/",
+    "launched": "2014-01-13",
+    "closed": null
+  },
+  {
+    "id": "Bolt.ua",
+    "name": "Bolt",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "FILM.UA Group"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/YdIHXOR.png",
+    "stream_url": "http://176.122.125.10:8080/bolt/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Bolt.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "bolt",
+      "site_name": "Bolt",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://bolt.starmediatv.ru/",
+    "launched": "2016-06-10",
+    "closed": null
+  },
+  {
     "id": "Channel5.ua",
     "name": "Channel 5",
     "alt_names": [
@@ -407,6 +473,45 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/a9JJXPk.png",
     "stream_url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Channel5.ua",
+      "feed": "SD",
+      "site": "m.tv.sms.cz",
+      "site_id": "5+Kanal",
+      "site_name": "5 Kanal",
+      "lang": "cs",
+      "sources": []
+    },
+    "website": "http://5.ua/",
+    "launched": "2003-09-01",
+    "closed": null
+  },
+  {
+    "id": "Channel5.ua",
+    "name": "Channel 5",
+    "alt_names": [
+      "5 канал",
+      "Пятый канал"
+    ],
+    "network": null,
+    "owners": [
+      "Free Media Holding"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/a9JJXPk.png",
+    "stream_url": "http://176.122.125.10:8080/5ch/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -599,6 +704,114 @@
     "closed": null
   },
   {
+    "id": "CinePlus.ua",
+    "name": "Cine+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Volia"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/SAtdShq.png",
+    "stream_url": "http://176.122.125.10:8080/CinePlusHD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CinePlus.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "cine-plus",
+      "site_name": "Cine+",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://cineplus.volia.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CinePlusHit.ua",
+    "name": "Cine+ Hit",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Volia"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/b3FcLU1.png",
+    "stream_url": "http://176.122.125.10:8080/CinePlusHitHD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CinePlusHit.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "cine-plus-hit-hd",
+      "site_name": "Cine+ Hit",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://cineplus.volia.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CinePlusKids.ua",
+    "name": "Cine+ Kids",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Volia"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/lmfc2u4.png",
+    "stream_url": "http://176.122.125.10:8080/CinePlusKids/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CinePlusKids.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "cine-plus-kids",
+      "site_name": "Cine+ Kids",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": null,
+    "launched": "2016-01-01",
+    "closed": null
+  },
+  {
     "id": "Dacha.ua",
     "name": "Dacha",
     "alt_names": [
@@ -760,6 +973,44 @@
     "closed": null
   },
   {
+    "id": "EnterFilm.ua",
+    "name": "Enter-Film",
+    "alt_names": [
+      "Enter-фільм"
+    ],
+    "network": null,
+    "owners": [
+      "Inter Media Group"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/wQbiGs6.png",
+    "stream_url": "http://176.122.125.10:8080/enterfilm/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EnterFilm.ua",
+      "feed": "SD",
+      "site": "m.tv.sms.cz",
+      "site_id": "Enter+Film",
+      "site_name": "Enter Film",
+      "lang": "cs",
+      "sources": []
+    },
+    "website": "http://enterfilm.com.ua/",
+    "launched": "2002-02-25",
+    "closed": null
+  },
+  {
     "id": "EspresoTV.ua",
     "name": "Espreso TV",
     "alt_names": [
@@ -857,6 +1108,44 @@
     "logo": "https://i.imgur.com/xNatV8K.png",
     "stream_url": "https://dash2.antik.sk/live/test_espresso/playlist.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EspresoTV.ua",
+      "feed": "SD",
+      "site": "horizon.tv",
+      "site_id": "10192",
+      "site_name": "Espreso TV",
+      "lang": "sk",
+      "sources": []
+    },
+    "website": "https://espreso.tv/",
+    "launched": "2013-11-01",
+    "closed": null
+  },
+  {
+    "id": "EspresoTV.ua",
+    "name": "Espreso TV",
+    "alt_names": [
+      "Еспресо TV"
+    ],
+    "network": null,
+    "owners": [
+      "Goldberry LLC"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/xNatV8K.png",
+    "stream_url": "http://176.122.125.10:8080/espresso/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1238,6 +1527,42 @@
     "closed": null
   },
   {
+    "id": "ICTV2.ua",
+    "name": "ICTV2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Starlight Media Group"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/J4zlRGv.png",
+    "stream_url": "http://176.122.125.10:8080/ictv2/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ICTV2.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "ictv-ukraine",
+      "site_name": "ICTV2",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://ictv.ua/ictv2/",
+    "launched": "2022-12-17",
+    "closed": null
+  },
+  {
     "id": "ICTV.ua",
     "name": "ICTV",
     "alt_names": [],
@@ -1315,6 +1640,36 @@
     "logo": "https://i.imgur.com/Y392Hh4.png",
     "stream_url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://interplus.ua/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "InterPlus.ua",
+    "name": "Inter+",
+    "alt_names": [
+      "Інтер+"
+    ],
+    "network": null,
+    "owners": [
+      "Inter Media Group"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Y392Hh4.png",
+    "stream_url": "http://176.122.125.10:8080/interplus/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1484,6 +1839,70 @@
     "tv_guide": null,
     "website": "http://izmailtv.com/",
     "launched": "1991-11-18",
+    "closed": null
+  },
+  {
+    "id": "K1.ua",
+    "name": "K1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Inter Media Group"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/uuRGpEn.png",
+    "stream_url": "http://176.122.125.10:8080/k1/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://k1.ua/",
+    "launched": "2005-06-20",
+    "closed": null
+  },
+  {
+    "id": "K2.ua",
+    "name": "K2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Inter Media Group"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NMhydr5.png",
+    "stream_url": "http://176.122.125.10:8080/k2/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "K2.ua",
+      "feed": "SD",
+      "site": "m.tv.sms.cz",
+      "site_id": "K2+UA",
+      "site_name": "K2 UA",
+      "lang": "cs",
+      "sources": []
+    },
+    "website": "http://k2.ua/",
+    "launched": "2005-08-01",
     "closed": null
   },
   {
@@ -1685,6 +2104,34 @@
     "closed": null
   },
   {
+    "id": "M1.ua",
+    "name": "M1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Starlight Media"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/wbRdUw8.png",
+    "stream_url": "http://176.122.125.10:8080/m1/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://m1.tv/",
+    "launched": "2002-01-01",
+    "closed": null
+  },
+  {
     "id": "M2.ua",
     "name": "M2",
     "alt_names": [],
@@ -1710,6 +2157,71 @@
     "tv_guide": null,
     "website": "http://m2.tv/",
     "launched": "2007-09-01",
+    "closed": null
+  },
+  {
+    "id": "M2.ua",
+    "name": "M2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Starlight Media"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/AfcBWCg.png",
+    "stream_url": "http://176.122.125.10:8080/m2/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://m2.tv/",
+    "launched": "2007-09-01",
+    "closed": null
+  },
+  {
+    "id": "Mega.ua",
+    "name": "Mega",
+    "alt_names": [
+      "Мега",
+      "Мегаспорт"
+    ],
+    "network": null,
+    "owners": [
+      "GDF Media Limited"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Hsr0EvO.png",
+    "stream_url": "http://176.122.125.10:8080/mega/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Mega.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "mega-ua",
+      "site_name": "Мега",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://megatv.kiev.ua/",
+    "launched": "2005-05-30",
     "closed": null
   },
   {
@@ -1936,6 +2448,45 @@
     "closed": null
   },
   {
+    "id": "NTN.ua",
+    "name": "NTN",
+    "alt_names": [
+      "НТН"
+    ],
+    "network": null,
+    "owners": [
+      "Ukrainian Media Resource",
+      "Mindon Holdings"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/AmyCNJv.png",
+    "stream_url": "http://176.122.125.10:8080/ntn/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NTN.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "ntn-ua",
+      "site_name": "НТН",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://ntn.ua/",
+    "launched": "2004-11-01",
+    "closed": null
+  },
+  {
     "id": "ObshchestvennoeNezavisimoeTelevidenie.ua",
     "name": "Obshchestvennoe Nezavisimoe Televidenie",
     "alt_names": [
@@ -1990,6 +2541,44 @@
     "tv_guide": null,
     "website": "http://orbita.dn.ua/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "OTSE.ua",
+    "name": "OTSE",
+    "alt_names": [
+      "ОЦЕ"
+    ],
+    "network": null,
+    "owners": [
+      "Khmarochos Holdings"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/SeRNJIS.png",
+    "stream_url": "http://176.122.125.10:8080/oce/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "OTSE.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "otse",
+      "site_name": "Оце",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://www.otsetv.ua/",
+    "launched": "2017-09-01",
     "closed": null
   },
   {
@@ -2142,6 +2731,74 @@
     "tv_guide": null,
     "website": "http://1tv.od.ua/",
     "launched": "2004-01-01",
+    "closed": null
+  },
+  {
+    "id": "PixelTV.ua",
+    "name": "Pixel TV",
+    "alt_names": [
+      "Піксель TV"
+    ],
+    "network": null,
+    "owners": [
+      "Inter Media Group"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ECro8Ah.png",
+    "stream_url": "http://176.122.125.10:8080/pixel/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://pixelua.tv/",
+    "launched": "2012-04-15",
+    "closed": null
+  },
+  {
+    "id": "PLUSPLUS.ua",
+    "name": "PLUSPLUS",
+    "alt_names": [
+      "ПЛЮСПЛЮС"
+    ],
+    "network": null,
+    "owners": [
+      "1+1 Media Group"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9bPhStm.png",
+    "stream_url": "http://176.122.125.10:8080/plusplus/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PLUSPLUS.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "plusplus",
+      "site_name": "ПлюсПлюс",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://www.plus-plus.tv/",
+    "launched": "2012-08-04",
     "closed": null
   },
   {
@@ -2508,6 +3165,40 @@
     "closed": null
   },
   {
+    "id": "StarCinema.ua",
+    "name": "Star Cinema",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5sis895.png",
+    "stream_url": "http://176.122.125.10:8080/starcinema/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarCinema.ua",
+      "feed": "SD",
+      "site": "meo.pt",
+      "site_id": "STARCIN",
+      "site_name": "Star Cinema",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "http://starcinema.starmediatv.ru/",
+    "launched": "2016-02-01",
+    "closed": null
+  },
+  {
     "id": "SuspilneKyiv.ua",
     "name": "Suspilne. Kyiv",
     "alt_names": [
@@ -2538,6 +3229,46 @@
     "tv_guide": null,
     "website": "https://central.suspilne.media/",
     "launched": "1939-02-01",
+    "closed": null
+  },
+  {
+    "id": "Svarozhychy.ua",
+    "name": "Svarozhychy",
+    "alt_names": [
+      "Сварожичи",
+      "Горизонт ТВ"
+    ],
+    "network": null,
+    "owners": [
+      "Unika-TV",
+      "Planeta"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/VnAgQA4.png",
+    "stream_url": "http://176.122.125.10:8080/svarogichi/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Svarozhychy.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "svarozhichi",
+      "site_name": "Сварожичи",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://svarozhichi.ua/",
+    "launched": "2016-01-01",
     "closed": null
   },
   {
@@ -2662,6 +3393,32 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Wu6wtbe.png",
     "stream_url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6377/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://tet.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TET.ua",
+    "name": "TET",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "1+1 Media Group"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Wu6wtbe.png",
+    "stream_url": "http://176.122.125.10:8080/tethd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -2939,6 +3696,36 @@
     "closed": null
   },
   {
+    "id": "UNIANSerial.ua",
+    "name": "UNIAN Serial",
+    "alt_names": [
+      "УНІАН Серіал"
+    ],
+    "network": null,
+    "owners": [
+      "1+1 Media Group"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Alu78zn.png",
+    "stream_url": "http://176.122.125.10:8080/unian/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://unian.tv/",
+    "launched": "2010-07-28",
+    "closed": null
+  },
+  {
     "id": "ViasatKinoComedy.ua",
     "name": "Viasat Kino Comedy",
     "alt_names": [
@@ -3001,6 +3788,44 @@
     "tv_guide": null,
     "website": "https://ztv.zp.ua/",
     "launched": "2016-10-07",
+    "closed": null
+  },
+  {
+    "id": "Zoom.ua",
+    "name": "Zoom",
+    "alt_names": [
+      "MTV Ukraine"
+    ],
+    "network": null,
+    "owners": [
+      "Ukrainian Entertainment Television"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/EzIiXIT.png",
+    "stream_url": "http://176.122.125.10:8080/zoom/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Zoom.ua",
+      "feed": "SD",
+      "site": "m.tv.sms.cz",
+      "site_id": "ZOOM",
+      "site_name": "ZOOM",
+      "lang": "cs",
+      "sources": []
+    },
+    "website": null,
+    "launched": "2007-09-03",
     "closed": null
   }
 ]

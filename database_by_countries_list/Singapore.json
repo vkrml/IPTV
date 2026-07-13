@@ -93,10 +93,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
-    "stream_url": "http://54.37.19.157/axn/playlist.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "http://103.137.83.62:9090/play/21/index.m3u8",
+    "stream_quality": null,
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "AXNAsia.sg",
@@ -109,152 +109,6 @@
     },
     "website": "https://www.axn-asia.com/",
     "launched": "1997-09-21",
-    "closed": null
-  },
-  {
-    "id": "Channel5.sg",
-    "name": "Channel 5",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Mediacorp"
-    ],
-    "country_code": "SG",
-    "country_name": "Singapore",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/9NKp5aV.png",
-    "stream_url": "https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Channel5.sg",
-      "feed": "SD",
-      "site": "singtel.com",
-      "site_id": "5002",
-      "site_name": "Ch 5 (HD)",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://tv.mewatch.sg/en/channel5",
-    "launched": "1963-04-02",
-    "closed": null
-  },
-  {
-    "id": "Channel5.sg",
-    "name": "Channel 5",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Mediacorp"
-    ],
-    "country_code": "SG",
-    "country_name": "Singapore",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/9NKp5aV.png",
-    "stream_url": "https://dlau142f16b92.cloudfront.net/hls/clr4ctv_ch5/master.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Channel5.sg",
-      "feed": "SD",
-      "site": "singtel.com",
-      "site_id": "5002",
-      "site_name": "Ch 5 (HD)",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://tv.mewatch.sg/en/channel5",
-    "launched": "1963-04-02",
-    "closed": null
-  },
-  {
-    "id": "Channel5.sg",
-    "name": "Channel 5",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Mediacorp"
-    ],
-    "country_code": "SG",
-    "country_name": "Singapore",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/9NKp5aV.png",
-    "stream_url": "https://app.viloud.tv/hls/channel/dcbf7a54c89ba12d98cc7c401c37f565.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Channel5.sg",
-      "feed": "SD",
-      "site": "singtel.com",
-      "site_id": "5002",
-      "site_name": "Ch 5 (HD)",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://tv.mewatch.sg/en/channel5",
-    "launched": "1963-04-02",
-    "closed": null
-  },
-  {
-    "id": "Channel8.sg",
-    "name": "Channel 8",
-    "alt_names": [
-      "8頻道"
-    ],
-    "network": null,
-    "owners": [
-      "Mediacorp Pte"
-    ],
-    "country_code": "SG",
-    "country_name": "Singapore",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/6YPZc24.png",
-    "stream_url": "https://app.viloud.tv/hls/channel/57148804a268f59e0c1af0c1b67a2f7e.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Channel8.sg",
-      "feed": "SD",
-      "site": "singtel.com",
-      "site_id": "5003",
-      "site_name": "Ch 8 (HD)",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://tv.mewatch.sg/zh/channel8",
-    "launched": "1963-11-23",
     "closed": null
   },
   {
@@ -730,37 +584,75 @@
     "closed": null
   },
   {
-    "id": "ROCKAction.sg",
-    "name": "ROCK Action",
+    "id": "NickelodeonAsia.sg",
+    "name": "Nickelodeon Asia",
     "alt_names": [],
-    "network": null,
-    "owners": [],
+    "network": "Nickelodeon",
+    "owners": [
+      "Paramount Media Networks"
+    ],
     "country_code": "SG",
     "country_name": "Singapore",
     "subdivision": null,
     "city": null,
     "categories": [
-      "entertainment"
+      "kids"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/l6lmlqG.png",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/ROCK_ACTION/manifest.mpd",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "stream_url": "http://103.137.83.62:9090/play/28/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
+    "referrer": null,
     "tv_guide": {
-      "channel": "ROCKAction.sg",
+      "channel": "NickelodeonAsia.sg",
       "feed": "SD",
       "site": "visionplus.id",
-      "site_id": "00000000000000000093",
-      "site_name": "Rock Action",
+      "site_id": "00000000000000000064",
+      "site_name": "Nick",
       "lang": "id",
       "sources": []
     },
-    "website": "https://www.rockentertainment.com/our-brands/rock-action",
-    "launched": "2022-12-12",
+    "website": "http://www.nick.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NickJrAsia.sg",
+    "name": "Nick Jr. Asia",
+    "alt_names": [],
+    "network": "Nickelodeon",
+    "owners": [
+      "Paramount Networks EMEAA"
+    ],
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+    "stream_url": "https://phcornerultralast.qzz.io/hls/laslo-serverless/dr_nickjr/index.m3u8",
+    "stream_quality": "360p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NickJrAsia.sg",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000060",
+      "site_name": "Nick Jr",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "http://www.nickjr.tv/",
+    "launched": "2011-05-18",
     "closed": null
   },
   {
@@ -798,6 +690,40 @@
     "closed": null
   },
   {
+    "id": "ROCKAction.sg",
+    "name": "ROCK Action",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/l6lmlqG.png",
+    "stream_url": "http://103.137.83.62:9090/play/18/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ROCKAction.sg",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000093",
+      "site_name": "Rock Action",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://www.rockentertainment.com/our-brands/rock-action",
+    "launched": "2022-12-12",
+    "closed": null
+  },
+  {
     "id": "ROCKEntertainment.sg",
     "name": "ROCK Entertainment",
     "alt_names": [],
@@ -813,11 +739,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/PWzq0aU.png",
-    "stream_url": "http://indihuy.streamized.net/atm/DASH/rock_entertainment/manifest.mpd",
+    "stream_url": "http://103.137.83.62:9090/play/19/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
+    "referrer": null,
     "tv_guide": {
       "channel": "ROCKEntertainment.sg",
       "feed": "SD",
@@ -1005,42 +931,6 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ZooMoo.sg",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000063",
-      "site_name": "Zoo Moo",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://www.zoomoo.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ZooMoo.sg",
-    "name": "ZooMoo",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Rock Entertainment Holdings"
-    ],
-    "country_code": "SG",
-    "country_name": "Singapore",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ciTJrnl.png",
-    "stream_url": "https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "ZooMoo.sg",

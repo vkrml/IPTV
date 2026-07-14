@@ -1,5 +1,41 @@
 [
   {
+    "id": "ArenaEsport.rs",
+    "name": "Arena Esport",
+    "alt_names": [
+      "Arena Esport Srbija"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RS",
+    "country_name": "Serbia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9HEmhyQ.png",
+    "stream_url": "https://webtvstream.bhtelecom.ba/arena_esport.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ArenaEsport.rs",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "rs/tvprogram#arena-esport",
+      "site_name": "Arena Esport",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "https://www.tvarenasport.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ArenaFight.rs",
     "name": "Arena Fight",
     "alt_names": [
@@ -1365,8 +1401,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/jltAf5h.png",
-    "stream_url": "https://webtvstream.bhtelecom.ba/rts2.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "https://de1.dstv.cx/RTS2HD/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1401,8 +1437,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/jltAf5h.png",
-    "stream_url": "https://de1.dstv.cx/RTS2HD/index.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "https://webtvstream.bhtelecom.ba/rts2.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -2321,7 +2357,7 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/8wbTnNW.png",
     "stream_url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8",
-    "stream_quality": null,
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

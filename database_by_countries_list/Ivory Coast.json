@@ -136,34 +136,6 @@
     "closed": null
   },
   {
-    "id": "APlusIvoire.ci",
-    "name": "A+ Ivoire",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Canal+ Overseas"
-    ],
-    "country_code": "CI",
-    "country_name": "Ivory Coast",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "culture"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/yOW0vyP.png",
-    "stream_url": "http://69.64.57.208/atv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.a-plus.com/",
-    "launched": "2019-01-15",
-    "closed": null
-  },
-  {
     "id": "BenieTV.ci",
     "name": "Benie TV",
     "alt_names": [],
@@ -186,32 +158,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.benie.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Business24Africa.ci",
-    "name": "Business 24 Africa",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CI",
-    "country_name": "Ivory Coast",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "business"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/zZFl3vy.png",
-    "stream_url": "https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.business24tv.com/",
     "launched": null,
     "closed": null
   },
@@ -402,44 +348,6 @@
     "closed": null
   },
   {
-    "id": "NCI.ci",
-    "name": "NCI",
-    "alt_names": [
-      "La Nouvelle Chaîne Ivorienne"
-    ],
-    "network": null,
-    "owners": [
-      "Société Grands Medias"
-    ],
-    "country_code": "CI",
-    "country_name": "Ivory Coast",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/I3pv69r.png",
-    "stream_url": "https://cs2.push2stream.com/NCI-DVR/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NCI.ci",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "2913",
-      "site_name": "NCI",
-      "lang": "fr",
-      "sources": []
-    },
-    "website": "https://www.nci.ci/",
-    "launched": "2019-12-12",
-    "closed": null
-  },
-  {
     "id": "NovelaChannel.ci",
     "name": "Novela Channel",
     "alt_names": [],
@@ -615,91 +523,6 @@
     },
     "website": "https://www.rti.ci/rti1",
     "launched": "1963-08-07",
-    "closed": null
-  },
-  {
-    "id": "RTI2.ci",
-    "name": "RTI 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Radiodiffusion télévision ivoirienne"
-    ],
-    "country_code": "CI",
-    "country_name": "Ivory Coast",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/73ueXrp.png",
-    "stream_url": "http://69.64.57.208:8080/rti2/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.rti.ci/rti2",
-    "launched": "1983-12-09",
-    "closed": null
-  },
-  {
-    "id": "RTI2.ci",
-    "name": "RTI 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Radiodiffusion télévision ivoirienne"
-    ],
-    "country_code": "CI",
-    "country_name": "Ivory Coast",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/73ueXrp.png",
-    "stream_url": "https://video1.getstreamhosting.com:1936/8066/8066/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.rti.ci/rti2",
-    "launched": "1983-12-09",
-    "closed": null
-  },
-  {
-    "id": "RTILa3.ci",
-    "name": "RTI La 3",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Radiodiffusion télévision ivoirienne"
-    ],
-    "country_code": "CI",
-    "country_name": "Ivory Coast",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music",
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/HdNshgF.png",
-    "stream_url": "http://69.64.57.208/la3/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.rti.ci/rti3",
-    "launched": "2020-02-16",
     "closed": null
   },
   {

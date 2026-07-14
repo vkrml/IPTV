@@ -211,6 +211,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/snBMMeH.png",
+    "stream_url": "https://str.yodacdn.net/azertv/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AzTV.az",
+      "feed": "SD",
+      "site": "turksatkablo.com.tr",
+      "site_id": "1509",
+      "site_name": "Az TV",
+      "lang": "tr",
+      "sources": []
+    },
+    "website": "http://www.aztv.az/",
+    "launched": "1956-02-14",
+    "closed": null
+  },
+  {
+    "id": "AzTV.az",
+    "name": "Az TV",
+    "alt_names": [
+      "Azərbaycan Televiziyası"
+    ],
+    "network": null,
+    "owners": [
+      "Azerbaijan Television and Radio Broadcasting Closed Joint-stock Company"
+    ],
+    "country_code": "AZ",
+    "country_name": "Azerbaijan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/snBMMeH.png",
     "stream_url": "http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA",
     "stream_quality": null,
     "stream_format": null,
@@ -250,44 +288,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/snBMMeH.png",
     "stream_url": "https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AzTV.az",
-      "feed": "SD",
-      "site": "turksatkablo.com.tr",
-      "site_id": "1509",
-      "site_name": "Az TV",
-      "lang": "tr",
-      "sources": []
-    },
-    "website": "http://www.aztv.az/",
-    "launched": "1956-02-14",
-    "closed": null
-  },
-  {
-    "id": "AzTV.az",
-    "name": "Az TV",
-    "alt_names": [
-      "Azərbaycan Televiziyası"
-    ],
-    "network": null,
-    "owners": [
-      "Azerbaijan Television and Radio Broadcasting Closed Joint-stock Company"
-    ],
-    "country_code": "AZ",
-    "country_name": "Azerbaijan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/snBMMeH.png",
-    "stream_url": "https://str.yodacdn.net/azertv/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -552,6 +552,32 @@
     "closed": null
   },
   {
+    "id": "KanalS.az",
+    "name": "Kanal S",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AZ",
+    "country_name": "Azerbaijan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Kanal%20S.png",
+    "stream_url": "https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.kanal-s.az/canli-izl%C9%99.html",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "KapazTV.az",
     "name": "Kapaz TV",
     "alt_names": [],
@@ -580,6 +606,32 @@
     "closed": null
   },
   {
+    "id": "KNMusicTV.az",
+    "name": "KN Music TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AZ",
+    "country_name": "Azerbaijan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png",
+    "stream_url": "https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.live.knmusictv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "MedeniyyetTV.az",
     "name": "Medeniyyet TV",
     "alt_names": [],
@@ -598,7 +650,7 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/PlvaDIa.png",
     "stream_url": "https://str.yodacdn.net/medeniyyettele/index.m3u8",
-    "stream_quality": null,
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -745,8 +797,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/en/9/97/X%C9%99z%C9%99r_TV_Logo.png",
-    "stream_url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8",
-    "stream_quality": null,
+    "stream_url": "https://www.xezerxeber.az/stream/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -773,8 +825,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/en/9/97/X%C9%99z%C9%99r_TV_Logo.png",
-    "stream_url": "https://www.xezerxeber.az/stream/index.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

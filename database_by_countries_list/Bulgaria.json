@@ -604,7 +604,7 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/mVc2g64.png",
     "stream_url": "https://cdn2.invivo.bg/Codefashion_5500/index.m3u8",
-    "stream_quality": null,
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -638,7 +638,7 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/NXBMzGV.png",
     "stream_url": "https://cdn2.invivo.bg/codehealth_test/index.m3u8",
-    "stream_quality": null,
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1318,6 +1318,40 @@
     "closed": null
   },
   {
+    "id": "MovieStar.bg",
+    "name": "Movie Star",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BG",
+    "country_name": "Bulgaria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/DdZH49P.png",
+    "stream_url": "https://shift03.isp.bg/MovieStar/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MovieStar.bg",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "bg/tv-programa#movie-star",
+      "site_name": "Movie Star",
+      "lang": "bg",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "NationalGeographic.bg",
     "name": "National Geographic",
     "alt_names": [],
@@ -1911,6 +1945,44 @@
     "closed": null
   },
   {
+    "id": "TVRodina.bg",
+    "name": "TV Rodina",
+    "alt_names": [
+      "ТВ Родина"
+    ],
+    "network": null,
+    "owners": [
+      "VVD - Ruychev EOOD"
+    ],
+    "country_code": "BG",
+    "country_name": "Bulgaria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "https://shift03.isp.bg/RodinaTV/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVRodina.bg",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "bg/tv-programa#tv-rodina-bg",
+      "site_name": "Родина",
+      "lang": "bg",
+      "sources": []
+    },
+    "website": "http://www.tvrodina.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVSpravedlivaBulgariya.bg",
     "name": "TV Spravedliva Bulgariya",
     "alt_names": [
@@ -1963,6 +2035,84 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://zagoranews.bg/category/%D1%82%D0%B2-%D0%B7%D0%B0%D0%B3%D0%BE%D1%80%D0%B0/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ViasatExplore.bg",
+    "name": "Viasat Explore",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BG",
+    "country_name": "Bulgaria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/R270aef.png",
+    "stream_url": "https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://viasatexplore.bg/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ViasatHistory.bg",
+    "name": "Viasat History",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BG",
+    "country_name": "Bulgaria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/AnYgIvZ.png",
+    "stream_url": "https://shift03.isp.bg/ViasatHistory_HD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://viasathistory.bg/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ViasatNature.bg",
+    "name": "Viasat Nature",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BG",
+    "country_name": "Bulgaria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/mhyK4v1.png",
+    "stream_url": "https://shift03.isp.bg/ViasatNature_HD/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://viasatnature.bg/",
     "launched": null,
     "closed": null
   },

@@ -499,7 +499,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://vantagetv.ee/vantage_classic.png",
-    "stream_url": "https://hls.vantagetv.ee/vclassic_stream/index.m3u8",
+    "stream_url": "https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -535,7 +535,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://vantagetv.ee/vantage_classic.png",
-    "stream_url": "https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8",
+    "stream_url": "https://hls.vantagetv.ee/vclassic_stream/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -551,42 +551,6 @@
     },
     "website": "https://vantagetv.ee",
     "launched": "2026-06-01",
-    "closed": null
-  },
-  {
-    "id": "VantageDance.ee",
-    "name": "Vantage Dance",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Lulzy Broadcasting OÜ"
-    ],
-    "country_code": "EE",
-    "country_name": "Estonia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://vantagetv.ee/vantage_dance.png",
-    "stream_url": "https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "VantageDance.ee",
-      "feed": "HD",
-      "site": "vantagetv.ee",
-      "site_id": "vdance",
-      "site_name": "Vantage Dance",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://vantagetv.ee",
-    "launched": "2025-11-30",
     "closed": null
   },
   {
@@ -626,10 +590,10 @@
     "closed": null
   },
   {
-    "id": "VantageMusic.ee",
-    "name": "Vantage Music",
+    "id": "VantageDance.ee",
+    "name": "Vantage Dance",
     "alt_names": [],
-    "network": "Vantage Television",
+    "network": null,
     "owners": [
       "Lulzy Broadcasting OÜ"
     ],
@@ -642,18 +606,18 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://vantagetv.ee/vantage_music.png",
-    "stream_url": "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8",
+    "logo": "https://vantagetv.ee/vantage_dance.png",
+    "stream_url": "https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "VantageMusic.ee",
+      "channel": "VantageDance.ee",
       "feed": "HD",
       "site": "vantagetv.ee",
-      "site_id": "vmusic",
-      "site_name": "Vantage Music",
+      "site_id": "vdance",
+      "site_name": "Vantage Dance",
       "lang": "en",
       "sources": []
     },
@@ -716,6 +680,42 @@
     "is_nsfw": false,
     "logo": "https://vantagetv.ee/vantage_music.png",
     "stream_url": "https://cdn-backup.lulzy.eu/vrock_stream/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "VantageMusic.ee",
+      "feed": "HD",
+      "site": "vantagetv.ee",
+      "site_id": "vmusic",
+      "site_name": "Vantage Music",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://vantagetv.ee",
+    "launched": "2025-11-30",
+    "closed": null
+  },
+  {
+    "id": "VantageMusic.ee",
+    "name": "Vantage Music",
+    "alt_names": [],
+    "network": "Vantage Television",
+    "owners": [
+      "Lulzy Broadcasting OÜ"
+    ],
+    "country_code": "EE",
+    "country_name": "Estonia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://vantagetv.ee/vantage_music.png",
+    "stream_url": "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,

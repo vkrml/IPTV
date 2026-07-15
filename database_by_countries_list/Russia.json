@@ -365,6 +365,43 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/VTJqdoX.png",
+    "stream_url": "https://streaming.thestream.cyou/live/7000.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "360.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "769",
+      "site_name": "360TV",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://360tv.ru/",
+    "launched": "2014-01-01",
+    "closed": null
+  },
+  {
+    "id": "360.ru",
+    "name": "360°",
+    "alt_names": [
+      "360",
+      "360TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/VTJqdoX.png",
     "stream_url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -2419,6 +2456,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.10kanal.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Channel12.ru",
+    "name": "Channel 12",
+    "alt_names": [
+      "12 канал"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OA9hm6e.png",
+    "stream_url": "https://streaming.thestream.cyou/live/7004.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://12-kanal.ru/",
     "launched": null,
     "closed": null
   },
@@ -9008,6 +9073,44 @@
     "closed": null
   },
   {
+    "id": "Moskva24.ru",
+    "name": "Moskva 24",
+    "alt_names": [
+      "Москва 24"
+    ],
+    "network": null,
+    "owners": [
+      "Moscow Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/gXbUMVy.png",
+    "stream_url": "https://stream.smotrim.ru/hls2/givc9/playlist_4.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Moskva24.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "843",
+      "site_name": "Москва-24",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.m24.ru/",
+    "launched": "2011-09-05",
+    "closed": null
+  },
+  {
     "id": "MoskvaDoveriye.ru",
     "name": "Moskva. Doveriye",
     "alt_names": [
@@ -12258,6 +12361,36 @@
     "closed": null
   },
   {
+    "id": "Patriot.ru",
+    "name": "Patriot",
+    "alt_names": [
+      "Патриот"
+    ],
+    "network": null,
+    "owners": [
+      "VGTRK"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png",
+    "stream_url": "https://stream.smotrim.ru/hls2/static/playlist_4.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://patriotkanal.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PerviyKrymskiy.ru",
     "name": "Perviy Krymskiy",
     "alt_names": [
@@ -12846,6 +12979,34 @@
     "closed": null
   },
   {
+    "id": "Radio1.ru",
+    "name": "Radio 1",
+    "alt_names": [
+      "Радио 1"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://radiopotok.ru/f/station/512/1812.png",
+    "stream_url": "https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://radio1.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RadioHit.ru",
     "name": "Radio Hit",
     "alt_names": [
@@ -12898,6 +13059,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://smotri.radio/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RadioRossii.ru",
+    "name": "Radio Rossii",
+    "alt_names": [
+      "Радио России"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Radio_Rossii_logo.svg/1920px-Radio_Rossii_logo.svg.png",
+    "stream_url": "https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://vgtrk.ru/radiorus",
     "launched": null,
     "closed": null
   },
@@ -25564,6 +25753,40 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/9At4oG7.png",
+    "stream_url": "https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SanktPeterburg.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1319",
+      "site_name": "Санкт-Петербург",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://topspb.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SanktPeterburg.ru",
+    "name": "Sankt-Peterburg",
+    "alt_names": [
+      "Санкт-Петербург"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9At4oG7.png",
     "stream_url": "https://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde0aa8",
     "stream_quality": null,
     "stream_format": null,
@@ -26033,6 +26256,42 @@
     "logo": "https://i.imgur.com/Fk4sd8t.png",
     "stream_url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8",
     "stream_quality": "512p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ShansonTV.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1129",
+      "site_name": "Шансон-TB",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://shanson.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ShansonTV.ru",
+    "name": "Shanson TV",
+    "alt_names": [
+      "Шансон ТВ"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Fk4sd8t.png",
+    "stream_url": "https://streaming.thestream.cyou/live/7009.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -31250,6 +31509,34 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ZBHqSZj.png",
+    "stream_url": "https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://vgtrk.ru/radiovesti",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VestiFM.ru",
+    "name": "Vesti FM",
+    "alt_names": [
+      "Вести FM"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ZBHqSZj.png",
     "stream_url": "https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173",
     "stream_quality": null,
     "stream_format": null,
@@ -31739,6 +32026,40 @@
     "tv_guide": null,
     "website": "https://bridgetv.ru/brands/vkus",
     "launched": "2024-09-30",
+    "closed": null
+  },
+  {
+    "id": "VmesteRF.ru",
+    "name": "Vmeste-RF",
+    "alt_names": [
+      "Вместе-РФ"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KI1qZNc.png",
+    "stream_url": "https://streaming.thestream.cyou/live/7006.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "VmesteRF.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1813",
+      "site_name": "Вместе-РФ",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://vmeste-rf.tv/",
+    "launched": null,
     "closed": null
   },
   {

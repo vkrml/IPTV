@@ -64,6 +64,44 @@
     "closed": null
   },
   {
+    "id": "AXN.pt",
+    "name": "AXN",
+    "alt_names": [
+      "AXN Portugal"
+    ],
+    "network": null,
+    "owners": [
+      "Sony Pictures Television"
+    ],
+    "country_code": "PT",
+    "country_name": "Portugal",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "stream_url": "http://znty.dyndns.org:5010/hls/axn.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXN.pt",
+      "feed": "SD",
+      "site": "vodafone.pt",
+      "site_id": "2713",
+      "site_name": "AXN",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.axn.pt/",
+    "launched": "2002-11-05",
+    "closed": null
+  },
+  {
     "id": "AXNMovies.pt",
     "name": "AXN Movies",
     "alt_names": [
@@ -124,6 +162,42 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyChannel.pt",
+      "feed": "SD",
+      "site": "vodafone.pt",
+      "site_id": "3012",
+      "site_name": "Disney Channel",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "http://tv.disney.pt/",
+    "launched": "2001-11-28",
+    "closed": null
+  },
+  {
+    "id": "DisneyChannel.pt",
+    "name": "Disney Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "The Walt Disney Company Portugal"
+    ],
+    "country_code": "PT",
+    "country_name": "Portugal",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "stream_url": "http://zntx.dyndns.org:8085/hls/disney.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "DisneyChannel.pt",
@@ -1666,6 +1740,74 @@
     "closed": null
   },
   {
+    "id": "SportTV6.pt",
+    "name": "Sport TV6",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PT",
+    "country_name": "Portugal",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/qmlQkyI.png",
+    "stream_url": "http://zntx.dyndns.org:8085/hls/stv6.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SportTV6.pt",
+      "feed": "SD",
+      "site": "vodafone.pt",
+      "site_id": "7250",
+      "site_name": "SportTV6",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.sporttv.pt/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SportTV7.pt",
+    "name": "Sport TV7",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PT",
+    "country_name": "Portugal",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/2HmCAm5.png",
+    "stream_url": "http://zntx.dyndns.org:8085/hls/stv7.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SportTV7.pt",
+      "feed": "SD",
+      "site": "vodafone.pt",
+      "site_id": "8743",
+      "site_name": "SportTV7",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.sporttv.pt/live/canal/7600/SPORT.TV7",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SportTVPlus.pt",
     "name": "Sport TV+",
     "alt_names": [],
@@ -1697,6 +1839,186 @@
     },
     "website": "https://www.sporttv.pt/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "StarChannel.pt",
+    "name": "Star Channel",
+    "alt_names": [],
+    "network": "The Walt Disney Company Portugal",
+    "owners": [
+      "The Walt Disney Company Iberia S.L."
+    ],
+    "country_code": "PT",
+    "country_name": "Portugal",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "stream_url": "http://znty.dyndns.org:5010/hls/fox.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarChannel.pt",
+      "feed": "SD",
+      "site": "vodafone.pt",
+      "site_id": "2715",
+      "site_name": "STAR Channel",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.starchannel.pt/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "StarComedy.pt",
+    "name": "Star Comedy",
+    "alt_names": [],
+    "network": "The Walt Disney Company Portugal",
+    "owners": [
+      "The Walt Disney Company Iberia S.L."
+    ],
+    "country_code": "PT",
+    "country_name": "Portugal",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Star_Comedy_2024.svg/960px-Star_Comedy_2024.svg.png",
+    "stream_url": "http://znty.dyndns.org:5010/hls/foxcomedy.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarComedy.pt",
+      "feed": "SD",
+      "site": "vodafone.pt",
+      "site_id": "2893",
+      "site_name": "STAR Comedy",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.startv.pt/programacao/starcomedy",
+    "launched": "2024-02-07",
+    "closed": null
+  },
+  {
+    "id": "StarCrime.pt",
+    "name": "Star Crime",
+    "alt_names": [],
+    "network": "The Walt Disney Company Portugal",
+    "owners": [
+      "The Walt Disney Company Iberia S.L."
+    ],
+    "country_code": "PT",
+    "country_name": "Portugal",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png",
+    "stream_url": "http://znty.dyndns.org:5010/hls/foxcrime.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarCrime.pt",
+      "feed": "SD",
+      "site": "vodafone.pt",
+      "site_id": "2847",
+      "site_name": "STAR Crime",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.startv.pt/programacao/starcrime",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "StarLife.pt",
+    "name": "Star Life",
+    "alt_names": [],
+    "network": "The Walt Disney Company Portugal",
+    "owners": [
+      "The Walt Disney Company Iberia S.L."
+    ],
+    "country_code": "PT",
+    "country_name": "Portugal",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png",
+    "stream_url": "http://znty.dyndns.org:5010/hls/foxlife.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarLife.pt",
+      "feed": "SD",
+      "site": "vodafone.pt",
+      "site_id": "2717",
+      "site_name": "STAR Life",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.startv.pt/programacao/starlife",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "StarMovies.pt",
+    "name": "Star Movies",
+    "alt_names": [],
+    "network": "The Walt Disney Company Portugal",
+    "owners": [
+      "The Walt Disney Company Iberia S.L."
+    ],
+    "country_code": "PT",
+    "country_name": "Portugal",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png",
+    "stream_url": "http://znty.dyndns.org:5010/hls/foxm.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarMovies.pt",
+      "feed": "SD",
+      "site": "vodafone.pt",
+      "site_id": "2677",
+      "site_name": "STAR Movies",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.startv.pt/programacao/starmovie",
+    "launched": "2024-02-07",
     "closed": null
   },
   {

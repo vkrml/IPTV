@@ -132,6 +132,42 @@
     "closed": null
   },
   {
+    "id": "6ter.fr",
+    "name": "6ter",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Groupe M6"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/2nd5Cox.png",
+    "stream_url": "http://145.239.5.177/314/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "6ter.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "54846982/6ter",
+      "site_name": "6ter",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.6play.fr/6ter",
+    "launched": "2012-12-12",
+    "closed": null
+  },
+  {
     "id": "20MinutesTV.fr",
     "name": "20 Minutes TV",
     "alt_names": [
@@ -431,42 +467,6 @@
     "closed": null
   },
   {
-    "id": "AfricanewsEnglish.fr",
-    "name": "Africanews English",
-    "alt_names": [],
-    "network": "Africanews",
-    "owners": [
-      "Euronews SA"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://a.jsrdn.com/hls/22886/africanews/extras/1080_logo.png",
-    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8?ads.vf=Cxy9froLXMW",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AfricanewsEnglish.fr",
-      "feed": "SD",
-      "site": "watch.whaletvplus.com",
-      "site_id": "756042898482927067",
-      "site_name": "africanews english",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.africanews.com/",
-    "launched": "2016-04-20",
-    "closed": null
-  },
-  {
     "id": "AfricanewsFrench.fr",
     "name": "Africanews French",
     "alt_names": [
@@ -649,6 +649,42 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ecXMjNl.png",
     "stream_url": "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "arte.fr",
+      "feed": "SD",
+      "site": "webtv.delta.nl",
+      "site_id": "61",
+      "site_name": "ARTE",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "https://www.arte.tv/",
+    "launched": "1992-05-30",
+    "closed": null
+  },
+  {
+    "id": "arte.fr",
+    "name": "arte",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "ARD"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ecXMjNl.png",
+    "stream_url": "http://145.239.5.177/300/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -1513,42 +1549,6 @@
     "closed": null
   },
   {
-    "id": "CanalPlusFamily.fr",
-    "name": "Canal+ Family",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Vivendi"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "family"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/TXI8hM1.png",
-    "stream_url": "http://151.80.18.177:86/Canal+_Family_HD/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CanalPlusFamily.fr",
-      "feed": "SD",
-      "site": "tv-programme.telecablesat.fr",
-      "site_id": "657",
-      "site_name": "Canal+ KIDS",
-      "lang": "fr",
-      "sources": []
-    },
-    "website": "https://www.canalplus.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "CannesLerinsTV.fr",
     "name": "Cannes Lerins TV",
     "alt_names": [
@@ -1660,6 +1660,48 @@
     },
     "website": "https://www.canalplus.com/chaines/cine-plus-ocs/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CinePlusEmotion.fr",
+    "name": "Cine+ Emotion",
+    "alt_names": [
+      "Ciné+ Emotion",
+      "Ciné + Émotion",
+      "CinéCinéma Émotion",
+      "CinéCinémas 2",
+      "CinéCinémas Prime"
+    ],
+    "network": null,
+    "owners": [
+      "Canal+ Group"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/upYjPvc.jpeg",
+    "stream_url": "http://145.239.5.177/337/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CinePlusEmotion.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "82505248/cine-emotion",
+      "site_name": "Ciné+ Emotion",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.canalplus.com/chaines/cine-plus-ocs/",
+    "launched": "1996-04-27",
     "closed": null
   },
   {
@@ -1934,6 +1976,42 @@
     "logo": "https://i.imgur.com/w4kAX1V.png",
     "stream_url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8",
     "stream_quality": "477p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CStar.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "83495155/cstar",
+      "site_name": "CSTAR",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.canalplus.com/chaines/cstar",
+    "launched": "2012-10-07",
+    "closed": null
+  },
+  {
+    "id": "CStar.fr",
+    "name": "C Star",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Groupe Canal Plus"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/w4kAX1V.png",
+    "stream_url": "http://145.239.5.177/361/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -2349,42 +2427,6 @@
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "EuronewsEnglish.fr",
-      "feed": "SD",
-      "site": "ziggogo.tv",
-      "site_id": "NL_000117_019351",
-      "site_name": "Euronews",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.euronews.com/",
-    "launched": "1993-01-01",
-    "closed": null
-  },
-  {
-    "id": "EuronewsEnglish.fr",
-    "name": "Euronews English",
-    "alt_names": [],
-    "network": "Euronews",
-    "owners": [
-      "Euronews SA"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png",
-    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8?ads.vf=OUBOiYANcV0",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
     "referrer": null,
     "tv_guide": {
       "channel": "EuronewsEnglish.fr",
@@ -3364,45 +3406,6 @@
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "EuronewsSpanish.fr",
-      "feed": "SD",
-      "site": "watch.whaletvplus.com",
-      "site_id": "756063841859148746",
-      "site_name": "euronews español",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://es.euronews.com/",
-    "launched": "1993-01-01",
-    "closed": null
-  },
-  {
-    "id": "EuronewsSpanish.fr",
-    "name": "Euronews Spanish",
-    "alt_names": [
-      "euronews en español",
-      "euronews español"
-    ],
-    "network": "Euronews",
-    "owners": [
-      "Euronews SA"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://a.jsrdn.com/hls/22886/euronews-spa/extras/1080_logo.png",
-    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.vf=j3Z4oxuHXXK",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
     "referrer": null,
     "tv_guide": {
       "channel": "EuronewsSpanish.fr",
@@ -5657,42 +5660,6 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "KozoomTV.fr",
-    "name": "Kozoom TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Kozoom International"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/M1Ee79b.png",
-    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8?ads.vf=CAJPqH6STD0",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "KozoomTV.fr",
-      "feed": "SD",
-      "site": "distro.tv",
-      "site_id": "83822",
-      "site_name": "KOZOOM TV",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://tv.kozoom.com/",
-    "launched": "1998-09-01",
     "closed": null
   },
   {
@@ -9394,40 +9361,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG",
-    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8?ads.vf=5QzwnXm_tO0",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TraceBrazuca.fr",
-      "feed": "SD",
-      "site": "zap.co.ao",
-      "site_id": "2441",
-      "site_name": "Trace Brasil",
-      "lang": "pt",
-      "sources": []
-    },
-    "website": "https://trace.company/activities/television/trace-brazuca/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TraceBrazuca.fr",
-    "name": "Trace Brazuca",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG",
     "stream_url": "https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -10573,44 +10506,6 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TraceUrban.fr",
-      "feed": "SD",
-      "site": "watch.whaletvplus.com",
-      "site_id": "626513244395669364",
-      "site_name": "Trace Urban",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://fr.trace.tv/trace-urban/",
-    "launched": "2010-12-15",
-    "closed": null
-  },
-  {
-    "id": "TraceUrban.fr",
-    "name": "Trace Urban",
-    "alt_names": [
-      "Trace TV"
-    ],
-    "network": null,
-    "owners": [
-      "TPG Capital Trace Partners"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/DLIbUMx.png",
-    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8?ads.vf=TBE_v7iuzNi",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
     "referrer": null,
     "tv_guide": {
       "channel": "TraceUrban.fr",

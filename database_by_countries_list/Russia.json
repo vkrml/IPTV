@@ -7031,6 +7031,34 @@
     "closed": null
   },
   {
+    "id": "KongressTV.ru",
+    "name": "Kongress TV",
+    "alt_names": [
+      "Конгресс ТВ"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://tvcongress.ru/bitrix/templates/mbntheme/img/logo_tvc.svg",
+    "stream_url": "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://tvcongress.ru/",
+    "launched": "2024-03-01",
+    "closed": null
+  },
+  {
     "id": "KrikTV.ru",
     "name": "Krik-TV",
     "alt_names": [
@@ -15014,47 +15042,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/T42cuYx.png",
-    "stream_url": "https://stream.smotrim.ru/hls2/planeta_rtr_asia/playlist_4.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RTRPlaneta.ru",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "43389",
-      "site_name": "RTR Planeta",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://rtr-planeta.com/",
-    "launched": "2002-07-01",
-    "closed": null
-  },
-  {
-    "id": "RTRPlaneta.ru",
-    "name": "RTR-Planeta",
-    "alt_names": [
-      "РТР-Планета",
-      "Россия-РТР",
-      "Planeta-RTR"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/T42cuYx.png",
-    "stream_url": "https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363",
+    "stream_url": "https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8?entity=channel&id=511&sign=d1fe06cd922b67e412719536998fa43d",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -15134,47 +15122,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/T42cuYx.png",
-    "stream_url": "https://stream.smotrim.ru/hls2/planeta_rtr_sng/playlist_4.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RTRPlaneta.ru",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "43389",
-      "site_name": "RTR Planeta",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://rtr-planeta.com/",
-    "launched": "2002-07-01",
-    "closed": null
-  },
-  {
-    "id": "RTRPlaneta.ru",
-    "name": "RTR-Planeta",
-    "alt_names": [
-      "РТР-Планета",
-      "Россия-РТР",
-      "Planeta-RTR"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/T42cuYx.png",
-    "stream_url": "https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f",
+    "stream_url": "https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=512&sign=2abaa592de074d65809a10b6bacc4410",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -15214,47 +15162,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/T42cuYx.png",
-    "stream_url": "https://stream.smotrim.ru/hls2/planeta_rtr_euro/playlist_4.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RTRPlaneta.ru",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "43389",
-      "site_name": "RTR Planeta",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://rtr-planeta.com/",
-    "launched": "2002-07-01",
-    "closed": null
-  },
-  {
-    "id": "RTRPlaneta.ru",
-    "name": "RTR-Planeta",
-    "alt_names": [
-      "РТР-Планета",
-      "Россия-РТР",
-      "Planeta-RTR"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/T42cuYx.png",
-    "stream_url": "https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603",
+    "stream_url": "https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -15294,47 +15202,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/T42cuYx.png",
-    "stream_url": "https://stream.smotrim.ru/hls2/planeta_rtr_usa/playlist_4.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RTRPlaneta.ru",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "43389",
-      "site_name": "RTR Planeta",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://rtr-planeta.com/",
-    "launched": "2002-07-01",
-    "closed": null
-  },
-  {
-    "id": "RTRPlaneta.ru",
-    "name": "RTR-Planeta",
-    "alt_names": [
-      "РТР-Планета",
-      "Россия-РТР",
-      "Planeta-RTR"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/T42cuYx.png",
-    "stream_url": "https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a",
+    "stream_url": "https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist.m3u8?entity=channel&id=513&sign=3ac5d8e2db71ef7fc3d4becbff7512d8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,

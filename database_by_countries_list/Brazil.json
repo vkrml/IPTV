@@ -668,6 +668,42 @@
     "closed": null
   },
   {
+    "id": "Band.br",
+    "name": "Band",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Bandeirantes de Comunicacao"
+    ],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/1r5T6Pw.png",
+    "stream_url": "https://media.cdntvms.com.br/band_sat/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Band.br",
+      "feed": "SD",
+      "site": "meuguia.tv",
+      "site_id": "BAN",
+      "site_name": "Band",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": null,
+    "launched": "1967-05-13",
+    "closed": null
+  },
+  {
     "id": "BandNews.br",
     "name": "BandNews",
     "alt_names": [
@@ -4912,32 +4948,6 @@
     "closed": "2021-05-07"
   },
   {
-    "id": "Loupe.br",
-    "name": "Loupe",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "lifestyle"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/T6tsw0O.png",
-    "stream_url": "https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Megapix.br",
     "name": "Megapix",
     "alt_names": [],
@@ -6248,6 +6258,44 @@
     "logo": "https://i.imgur.com/sz9gTTr.png",
     "stream_url": "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Record.br",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "br#record",
+      "site_name": "Record TV",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "http://rederecord.r7.com/",
+    "launched": "1953-09-27",
+    "closed": null
+  },
+  {
+    "id": "Record.br",
+    "name": "Record",
+    "alt_names": [
+      "RecordTV",
+      "Rede Record",
+      "TV Record"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sz9gTTr.png",
+    "stream_url": "https://media.cdntvms.com.br/record_nacional_sat/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -7903,6 +7951,40 @@
     "logo": "https://i.imgur.com/tc1ALuu.png",
     "stream_url": "https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SBTNacional.br",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "br#sbt",
+      "site_name": "SBT",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.sbt.com.br/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SBTNacional.br",
+    "name": "SBT Nacional",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Silvio Santos"
+    ],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/tc1ALuu.png",
+    "stream_url": "https://media.cdntvms.com.br/sbt_sat/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -13306,6 +13388,58 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VEJAPlusTV.br",
+    "name": "VEJA+ TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/n0pxHo4.png",
+    "stream_url": "https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://veja.abril.com.br/veja-mais-tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VEJAPlusTV.br",
+    "name": "VEJA+ TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/n0pxHo4.png",
+    "stream_url": "https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://veja.abril.com.br/veja-mais-tv/",
     "launched": null,
     "closed": null
   },

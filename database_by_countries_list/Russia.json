@@ -2432,6 +2432,34 @@
     "closed": null
   },
   {
+    "id": "Channel8Novosibirsk.ru",
+    "name": "Channel 8 Novosibirsk",
+    "alt_names": [
+      "8 канал Новосибирск"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/eHGETvU.png",
+    "stream_url": "https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8",
+    "stream_quality": "480i",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://nsk.8tv.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Channel10.ru",
     "name": "Channel 10",
     "alt_names": [
@@ -14640,44 +14668,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png",
     "stream_url": "http://179.60.51.134:8888/RT/index.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RTenEspanol.ru",
-      "feed": "SD",
-      "site": "reportv.com.ar",
-      "site_id": "1502",
-      "site_name": "RUSSIA TODAY",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://actualidad.rt.com/",
-    "launched": "2009-12-28",
-    "closed": null
-  },
-  {
-    "id": "RTenEspanol.ru",
-    "name": "RT en Espanol",
-    "alt_names": [
-      "RT en Español"
-    ],
-    "network": "RT",
-    "owners": [
-      "TV-Novosti"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png",
-    "stream_url": "http://200.91.32.158:8080/rt/index.m3u8",
-    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

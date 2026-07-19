@@ -1316,6 +1316,34 @@
     "closed": null
   },
   {
+    "id": "AXNCEE.es",
+    "name": "AXN CEE",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sony Pictures Television"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/axn/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://antenna-group.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BailenTV.es",
     "name": "Bailen TV",
     "alt_names": [
@@ -4636,10 +4664,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/y6SWpsX.png",
-    "stream_url": "http://176.122.125.10:8080/KinoKazka/index.m3u8",
+    "stream_url": "http://stream.mcquack.net/167/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": null,
     "website": "http://kinokazka.tv/",
@@ -4834,6 +4862,43 @@
     "tv_guide": null,
     "website": "https://www.rtve.es/television/catalunya/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "La2.es",
+    "name": "La 2",
+    "alt_names": [],
+    "network": "TVE",
+    "owners": [
+      "RTVE"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general",
+      "public"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/rfsr9PSh/La-2.png",
+    "stream_url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "La2.es",
+      "feed": "SD",
+      "site": "tv-programme.telecablesat.fr",
+      "site_id": "207",
+      "site_name": "TVE 2",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.rtve.es/television/",
+    "launched": "1966-10-15",
     "closed": null
   },
   {

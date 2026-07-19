@@ -3781,6 +3781,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png",
+    "stream_url": "http://41.205.93.154/OKOO/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "France4.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "82515049/france-4",
+      "site_name": "France 4",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.france.tv/france-4/",
+    "launched": "2005-03-31",
+    "closed": null
+  },
+  {
+    "id": "France4.fr",
+    "name": "France 4",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "France Télévisions"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png",
     "stream_url": "http://176.65.146.100:8047/play/a074/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -3819,6 +3855,42 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png",
     "stream_url": "http://69.64.57.208/france5/mono.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "France5.fr",
+      "feed": "SD",
+      "site": "zap.co.ao",
+      "site_id": "2319",
+      "site_name": "France 5",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.france.tv/france-5/",
+    "launched": "1994-12-13",
+    "closed": null
+  },
+  {
+    "id": "France5.fr",
+    "name": "France 5",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "France Télévisions"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png",
+    "stream_url": "http://145.239.5.177/305/index.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -6201,7 +6273,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1280px-Logo_M6_%282020%2C_fond_clair%29.svg.png",
+    "logo": "https://i.imgur.com/7GVp3fW.png",
     "stream_url": "http://99.27.51.147:8080/M6/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -6239,7 +6311,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1280px-Logo_M6_%282020%2C_fond_clair%29.svg.png",
+    "logo": "https://i.imgur.com/7GVp3fW.png",
     "stream_url": "http://cdn.haititivi.com/M6-HD/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -7051,6 +7123,42 @@
     },
     "website": "https://www.nickelodeonjunior.fr/",
     "launched": "2010-01-26",
+    "closed": null
+  },
+  {
+    "id": "NollywoodTV.fr",
+    "name": "Nollywood TV",
+    "alt_names": [],
+    "network": "Les Bouquets Canal+",
+    "owners": [
+      "Thema"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/29L2gbb.png",
+    "stream_url": "http://145.239.5.177/148/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NollywoodTV.fr",
+      "feed": "SD",
+      "site": "tv.sfr.fr",
+      "site_id": "1461",
+      "site_name": "Nollywood TV",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.nollywoodtv.fr/",
+    "launched": "2012-10-05",
     "closed": null
   },
   {
@@ -10212,40 +10320,6 @@
     "logo": "https://i.imgur.com/FabFP5A.png",
     "stream_url": "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TraceSportStars.fr",
-      "feed": "HD",
-      "site": "watch.whaletvplus.com",
-      "site_id": "626555045429117070",
-      "site_name": "Trace Sport Stars",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.trace.tv/fr/tv/sport",
-    "launched": "2011-06-01",
-    "closed": null
-  },
-  {
-    "id": "TraceSportStars.fr",
-    "name": "Trace Sport Stars",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/FabFP5A.png",
-    "stream_url": "http://ott.watch/XE5QWWBZ87/256/tracks-v1a1/mono.ts.m3u8",
-    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

@@ -1,65 +1,5 @@
 [
   {
-    "id": "AP1TV.np",
-    "name": "AP1 TV",
-    "alt_names": [
-      "एपिवान टेलिभिजन"
-    ],
-    "network": null,
-    "owners": [
-      "Annapurna Media Network"
-    ],
-    "country_code": "NP",
-    "country_name": "Nepal",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c6/AP1_TV_LOGO.png",
-    "stream_url": "http://maxotts.maxdigitaltv.com/x-media/C22/master.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://ap1.tv/",
-    "launched": "2017-03-31",
-    "closed": null
-  },
-  {
-    "id": "AP1TV.np",
-    "name": "AP1 TV",
-    "alt_names": [
-      "एपिवान टेलिभिजन"
-    ],
-    "network": null,
-    "owners": [
-      "Annapurna Media Network"
-    ],
-    "country_code": "NP",
-    "country_name": "Nepal",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c6/AP1_TV_LOGO.png",
-    "stream_url": "http://103.180.240.141:8080/hls/main1/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://ap1.tv/",
-    "launched": "2017-03-31",
-    "closed": null
-  },
-  {
     "id": "BagmatiTV.np",
     "name": "Bagmati TV",
     "alt_names": [
@@ -499,6 +439,60 @@
     "tv_guide": null,
     "website": "https://www.news24nepal.tv/",
     "launched": "2010-01-01",
+    "closed": null
+  },
+  {
+    "id": "NTVItahari.np",
+    "name": "NTV Itahari",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "NP",
+    "country_name": "Nepal",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/lxQAb3k.png",
+    "stream_url": "http://tvsen7.aynascope.net/NTV_Itahari/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://nepaltvonline.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NTVKohalpur.np",
+    "name": "NTV Kohalpur",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Government of Nepal"
+    ],
+    "country_code": "NP",
+    "country_name": "Nepal",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/iaFUcW6.png",
+    "stream_url": "http://tvsen7.aynascope.net/NTV_Kohalpur/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://nepaltvonline.com/",
+    "launched": "2017-04-14",
     "closed": null
   }
 ]

@@ -546,6 +546,32 @@
     "closed": null
   },
   {
+    "id": "BolEntertainment.pk",
+    "name": "Bol Entertainment",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PK",
+    "country_name": "Pakistan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/eajSRFo.png",
+    "stream_url": "http://tvsen7.aynascope.net/BOLEntertainment/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.bolentertainment.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BSFilm.pk",
     "name": "BS Film",
     "alt_names": [],
@@ -1700,6 +1726,42 @@
     "closed": null
   },
   {
+    "id": "MadaniChannelEnglish.pk",
+    "name": "Madani Channel English",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Dawat-e-Islami"
+    ],
+    "country_code": "PK",
+    "country_name": "Pakistan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Abi9j0A.png",
+    "stream_url": "http://tvsen7.aynascope.net/MadaniTV/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MadaniChannelEnglish.pk",
+      "feed": "SD",
+      "site": "sky.com",
+      "site_id": "4460",
+      "site_name": "Madani Chnl",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.madanichannel.tv/",
+    "launched": "2009-01-01",
+    "closed": null
+  },
+  {
     "id": "MadaniChannelUrdu.pk",
     "name": "Madani Channel Urdu",
     "alt_names": [
@@ -2320,6 +2382,34 @@
     "logo": "https://i.imgur.com/CPm6GHA.png",
     "stream_url": "https://trs1.aynaott.com/ptvsports/index.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2012-01-11",
+    "closed": null
+  },
+  {
+    "id": "PTVSports.pk",
+    "name": "PTV Sports",
+    "alt_names": [],
+    "network": "PTV Sports Network",
+    "owners": [
+      "Pakistan Television Corporation"
+    ],
+    "country_code": "PK",
+    "country_name": "Pakistan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CPm6GHA.png",
+    "stream_url": "http://tvsen5.aynascope.net/Ptvsports/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

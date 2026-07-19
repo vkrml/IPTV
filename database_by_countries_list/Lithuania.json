@@ -1,5 +1,74 @@
 [
   {
+    "id": "BalticumTV.lt",
+    "name": "Balticum TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "LT",
+    "country_name": "Lithuania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/35tm57M.png",
+    "stream_url": "http://stream.mcquack.net/376/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BalticumTV.lt",
+      "feed": "SD",
+      "site": "cgates.lt",
+      "site_id": "balticum-tv",
+      "site_name": "Balticum TV",
+      "lang": "lt",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BTV.lt",
+    "name": "BTV",
+    "alt_names": [
+      "TV4",
+      "Baltijos Televizija"
+    ],
+    "network": null,
+    "owners": [
+      "Laisvas ir nepriklausomas kanalas UAB"
+    ],
+    "country_code": "LT",
+    "country_name": "Lithuania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/AeplGsP.png",
+    "stream_url": "http://stream.mcquack.net/35/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BTV.lt",
+      "feed": "HD",
+      "site": "cgates.lt",
+      "site_id": "btv-hd",
+      "site_name": "BTV",
+      "lang": "lt",
+      "sources": []
+    },
+    "website": "https://lnk.lt/tv-programa#btv",
+    "launched": "1993-04-09",
+    "closed": null
+  },
+  {
     "id": "DelfiTV.lt",
     "name": "Delfi TV",
     "alt_names": [],
@@ -67,6 +136,42 @@
     },
     "website": "http://tv.lrytas.lt/",
     "launched": "2008-10-12",
+    "closed": null
+  },
+  {
+    "id": "LNK.lt",
+    "name": "LNK",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "MG group"
+    ],
+    "country_code": "LT",
+    "country_name": "Lithuania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/arCZ56g.png",
+    "stream_url": "http://stream.mcquack.net/30/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "LNK.lt",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "lnk",
+      "site_name": "LNK",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://lnk.lt/tv-programa#lnk",
+    "launched": "1995-05-05",
     "closed": null
   },
   {
@@ -199,6 +304,43 @@
     "closed": null
   },
   {
+    "id": "LRTPlius.lt",
+    "name": "LRT Plius",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Lithuanian National Radio and Television"
+    ],
+    "country_code": "LT",
+    "country_name": "Lithuania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture",
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/960px-LRT_Plius_Logo_2022.svg.png",
+    "stream_url": "http://stream.mcquack.net/353/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "LRTPlius.lt",
+      "feed": "SD",
+      "site": "cgates.lt",
+      "site_id": "lrt-kultura-hd",
+      "site_name": "LRT Plius",
+      "lang": "lt",
+      "sources": []
+    },
+    "website": "http://www.lrt.lt/televizija/",
+    "launched": "2003-02-16",
+    "closed": null
+  },
+  {
     "id": "LRTRadijas.lt",
     "name": "LRT Radijas",
     "alt_names": [],
@@ -268,6 +410,47 @@
     "closed": null
   },
   {
+    "id": "LRTTV.lt",
+    "name": "LRT TV",
+    "alt_names": [
+      "LRT televizija",
+      "LTV",
+      "LRT",
+      "Lietuvos TSR Televizija"
+    ],
+    "network": null,
+    "owners": [
+      "Lithuanian National Radio and Television"
+    ],
+    "country_code": "LT",
+    "country_name": "Lithuania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/FL2ZuGC.png",
+    "stream_url": "http://stream.mcquack.net/31/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "LRTTV.lt",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "lrt-tv",
+      "site_name": "LRT Televizija",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://www.lrt.lt/televizija/",
+    "launched": "1957-04-30",
+    "closed": null
+  },
+  {
     "id": "M1.lt",
     "name": "M-1",
     "alt_names": [],
@@ -318,6 +501,102 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://powerhitradio.tv3.lt/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TV3.lt",
+    "name": "TV3",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "LT",
+    "country_name": "Lithuania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/7nipq0y.png",
+    "stream_url": "http://stream.mcquack.net/29/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TV3.lt",
+      "feed": "SD",
+      "site": "cgates.lt",
+      "site_id": "tv3-hd",
+      "site_name": "TV3",
+      "lang": "lt",
+      "sources": []
+    },
+    "website": "https://www.tv3.lt/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TV6.lt",
+    "name": "TV6",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "LT",
+    "country_name": "Lithuania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/oC0jiFW.png",
+    "stream_url": "http://stream.mcquack.net/375/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TV6.lt",
+      "feed": "SD",
+      "site": "cgates.lt",
+      "site_id": "tv6-hd",
+      "site_name": "TV6",
+      "lang": "lt",
+      "sources": []
+    },
+    "website": "http://tv6.tv3.lt/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TV8.lt",
+    "name": "TV8",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "LT",
+    "country_name": "Lithuania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9g3wknl.png",
+    "stream_url": "http://stream.mcquack.net/374/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TV8.lt",
+      "feed": "SD",
+      "site": "cgates.lt",
+      "site_id": "tv8-hd",
+      "site_name": "TV8",
+      "lang": "lt",
+      "sources": []
+    },
+    "website": "http://tv8.tv3.lt/",
     "launched": null,
     "closed": null
   }

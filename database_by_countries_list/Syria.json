@@ -101,6 +101,42 @@
     "closed": null
   },
   {
+    "id": "Althania.sy",
+    "name": "Althania",
+    "alt_names": [
+      "الثانية"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "SY",
+    "country_name": "Syria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.althania.tv/themes/custom/althania/assets/images/stv-logo.svg",
+    "stream_url": "https://qmcconnect.qa/api/StreamServices/arabictvsyria2/master.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Althania.sy",
+      "feed": "SD",
+      "site": "elcinema.com",
+      "site_id": "1398",
+      "site_name": "Althania",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.althania.tv/",
+    "launched": "2025-02-25",
+    "closed": null
+  },
+  {
     "id": "DamascusRadio.sy",
     "name": "Damascus Radio",
     "alt_names": [
@@ -365,6 +401,42 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/FjuVuXF.jpeg",
     "stream_url": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SyriaTV.sy",
+      "feed": "SD",
+      "site": "tv.sfr.fr",
+      "site_id": "4141",
+      "site_name": "Syria TV",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.syria.tv/",
+    "launched": "2018-03-03",
+    "closed": null
+  },
+  {
+    "id": "SyriaTV.sy",
+    "name": "Syria TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Fadaat Media"
+    ],
+    "country_code": "SY",
+    "country_name": "Syria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/FjuVuXF.jpeg",
+    "stream_url": "https://qmcconnect.qa/api/StreamServices/arabictvsyria1/master.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

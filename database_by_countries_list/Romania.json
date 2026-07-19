@@ -1612,6 +1612,40 @@
     "closed": null
   },
   {
+    "id": "PROTVInternational.ro",
+    "name": "PRO TV International",
+    "alt_names": [
+      "PRO TV Internațional"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/vfr1ZYw.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/protvint/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PROTVInternational.ro",
+      "feed": "SD",
+      "site": "vodafone.pt",
+      "site_id": "2757",
+      "site_name": "Pro TV International",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "http://www.protv.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PROTVNews.ro",
     "name": "PROTV News",
     "alt_names": [],
@@ -2124,6 +2158,40 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TimelessDiziChannel.ro",
+    "name": "Timeless Dizi Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "SPI International"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/s3Sqd4L.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/dizi/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TimelessDiziChannel.ro",
+      "feed": "SD",
+      "site": "vodafone.pt",
+      "site_id": "8529",
+      "site_name": "Dizi",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://timelessdramachannel.com/dizi-romania/",
     "launched": null,
     "closed": null
   },

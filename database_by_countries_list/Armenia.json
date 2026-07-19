@@ -114,6 +114,98 @@
     "closed": null
   },
   {
+    "id": "ArmeniaPremium.am",
+    "name": "Armenia Premium",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AM",
+    "country_name": "Armenia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "http://stream.mcquack.net/123/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ArmeniaTV.am",
+    "name": "Armenia TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Panarmenian Media Group"
+    ],
+    "country_code": "AM",
+    "country_name": "Armenia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/UnoI5uM.png",
+    "stream_url": "http://stream.mcquack.net/175/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.armeniatv.am/",
+    "launched": "1997-01-01",
+    "closed": null
+  },
+  {
+    "id": "ATV.am",
+    "name": "ATV",
+    "alt_names": [
+      "ԱԹԻՎԻ"
+    ],
+    "network": null,
+    "owners": [
+      "Panarmenian Media Group"
+    ],
+    "country_code": "AM",
+    "country_name": "Armenia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/xrqFEou.png",
+    "stream_url": "http://stream.mcquack.net/36/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ATV.am",
+      "feed": "SD",
+      "site": "turksatkablo.com.tr",
+      "site_id": "1201",
+      "site_name": "Atv",
+      "lang": "tr",
+      "sources": []
+    },
+    "website": "http://www.atv.am/",
+    "launched": "2009-04-25",
+    "closed": null
+  },
+  {
     "id": "FirstChannelNews.am",
     "name": "First Channel News",
     "alt_names": [],
@@ -167,6 +259,71 @@
     "tv_guide": null,
     "website": "https://www.1lurer.am/",
     "launched": "2020-01-01",
+    "closed": null
+  },
+  {
+    "id": "KentronTV.am",
+    "name": "Kentron TV",
+    "alt_names": [
+      "Կենտրոն հեռուստատեսություն"
+    ],
+    "network": null,
+    "owners": [
+      "Multimedia Kentron PBY"
+    ],
+    "country_code": "AM",
+    "country_name": "Armenia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/eCaxBFn.png",
+    "stream_url": "http://stream.mcquack.net/39/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "KentronTV.am",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "kentron-tv",
+      "site_name": "Kentron TV",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.kentron.tv/",
+    "launched": "2002-01-01",
+    "closed": null
+  },
+  {
+    "id": "ShantTV.am",
+    "name": "Shant TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Arthur Yezekyan",
+      "Armen Minas"
+    ],
+    "country_code": "AM",
+    "country_name": "Armenia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/AyitGj7.png",
+    "stream_url": "http://stream.mcquack.net/37/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.shanttv.com/",
+    "launched": "1994-01-01",
     "closed": null
   }
 ]

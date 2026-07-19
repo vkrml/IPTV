@@ -320,6 +320,42 @@
     "closed": null
   },
   {
+    "id": "AXNSpin.hu",
+    "name": "AXN Spin",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Antenna Group"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/uVFenKm.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/axnspin/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXNSpin.hu",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#axn-spin",
+      "site_name": "AXN Spin",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "http://www.axnspin.com/",
+    "launched": "2012-01-11",
+    "closed": null
+  },
+  {
     "id": "BajaiTV.hu",
     "name": "Bajai TV",
     "alt_names": [],
@@ -2958,6 +2994,40 @@
       "sources": []
     },
     "website": "http://www.sport1tv.hu/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Story4.hu",
+    "name": "Story4",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Digital Media and Communications Zrt."
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/pJsLyiv.png",
+    "stream_url": "http://88.212.15.19/live/test_story_4_atk_1200/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Story4.hu",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "hu/tvmusor#story4",
+      "site_name": "Story4",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "https://story4.network4.hu/",
     "launched": null,
     "closed": null
   },

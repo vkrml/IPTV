@@ -343,6 +343,42 @@
     "closed": null
   },
   {
+    "id": "AzCinema.mx",
+    "name": "Az Cinema",
+    "alt_names": [
+      "Cinema"
+    ],
+    "network": "TV Azteca Internacional",
+    "owners": [],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/B5UN7C8.png",
+    "stream_url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/azcinema.stream/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AzCinema.mx",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "cl#az-cinema",
+      "site_name": "Az Cinema",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.tvazteca.com/tvpaga/notas/cinema",
+    "launched": "2015-05-05",
+    "closed": null
+  },
+  {
     "id": "Azteca7.mx",
     "name": "Azteca 7",
     "alt_names": [],
@@ -412,6 +448,34 @@
     },
     "website": "https://www.tvazteca.com/azteca7",
     "launched": "1985-05-18",
+    "closed": null
+  },
+  {
+    "id": "AztecaDeportesNetwork.mx",
+    "name": "Azteca Deportes Network",
+    "alt_names": [],
+    "network": "Televisión Azteca",
+    "owners": [
+      "TV Azteca"
+    ],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg",
+    "stream_url": "http://38.194.226.190:8000/play/a02r/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
     "closed": null
   },
   {

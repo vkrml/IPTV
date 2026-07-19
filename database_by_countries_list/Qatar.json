@@ -806,6 +806,42 @@
     "closed": null
   },
   {
+    "id": "AlJazeera.qa",
+    "name": "Al Jazeera",
+    "alt_names": [
+      "الجزيرة‎"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "QA",
+    "country_name": "Qatar",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png",
+    "stream_url": "http://stream.mcquack.net/131/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AlJazeera.qa",
+      "feed": "English",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000118_019350",
+      "site_name": "Aljazeera English",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.aljazeera.net/",
+    "launched": "1996-11-01",
+    "closed": null
+  },
+  {
     "id": "AlJazeeraDocumentary.qa",
     "name": "Al Jazeera Documentary",
     "alt_names": [
@@ -1888,6 +1924,44 @@
     "closed": null
   },
   {
+    "id": "QatarTelevision2.qa",
+    "name": "Qatar Television 2",
+    "alt_names": [
+      "قناة قطر 2",
+      "Qatar TV 2",
+      "QTV 2"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "QA",
+    "country_name": "Qatar",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/iWJxDUm.png",
+    "stream_url": "https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "QatarTelevision2.qa",
+      "feed": "SD",
+      "site": "sat.tv",
+      "site_id": "1#38#قطر 2",
+      "site_name": "قطر 2",
+      "lang": "ar",
+      "sources": []
+    },
+    "website": "http://www.qtv.qa/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "QatarTelevision.qa",
     "name": "Qatar Television",
     "alt_names": [
@@ -2002,6 +2076,131 @@
     },
     "website": "http://www.qtv.qa/",
     "launched": "1970-08-23",
+    "closed": null
+  },
+  {
+    "id": "QatarTelevision.qa",
+    "name": "Qatar Television",
+    "alt_names": [
+      "Qatar TV",
+      "QTV",
+      "تلفزيون قطر",
+      "قطر تي في"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "QA",
+    "country_name": "Qatar",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/N5RB4sp.png",
+    "stream_url": "https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "QatarTelevision.qa",
+      "feed": "SD",
+      "site": "sat.tv",
+      "site_id": "1#38#قطر تي في",
+      "site_name": "قطر تي في",
+      "lang": "ar",
+      "sources": []
+    },
+    "website": "http://www.qtv.qa/",
+    "launched": "1970-08-23",
+    "closed": null
+  },
+  {
+    "id": "QatarTVTheHolyQuran.qa",
+    "name": "Qatar TV The Holy Quran",
+    "alt_names": [
+      "تلفزيون قطر القران الكريم"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "QA",
+    "country_name": "Qatar",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.qmc.qa/img/LiveChannels/1ca67a44-9290-4b2a-8a16-d8c6e2260816.jpg",
+    "stream_url": "https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.qtv.qa/",
+    "launched": "2026-02-16",
+    "closed": null
+  },
+  {
+    "id": "QBC.qa",
+    "name": "QBC",
+    "alt_names": [
+      "كيو بي سي"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "QA",
+    "country_name": "Qatar",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "business",
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.qbc.news/_next/static/media/logo.0~2x9wpd284~a.svg",
+    "stream_url": "https://googlecdn1.alkassdigital.net/livestream/qbc4/main.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.qbc.news/",
+    "launched": "2026-05-05",
+    "closed": null
+  },
+  {
+    "id": "QBC.qa",
+    "name": "QBC",
+    "alt_names": [
+      "كيو بي سي"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "QA",
+    "country_name": "Qatar",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "business",
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.qbc.news/_next/static/media/logo.0~2x9wpd284~a.svg",
+    "stream_url": "https://live.kwikmotion.com/qbusinesslive/qbusiness.smil/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.qbc.news/",
+    "launched": "2026-05-05",
     "closed": null
   }
 ]

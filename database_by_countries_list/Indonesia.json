@@ -141,7 +141,7 @@
     ],
     "network": null,
     "owners": [
-      "Edge Channels"
+      "Edge Group"
     ],
     "country_code": "ID",
     "country_name": "Indonesia",
@@ -158,6 +158,36 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": "https://allegrotelkomvision.renderforestsites.com/",
+    "tv_guide": null,
+    "website": "https://allegrotelkomvision.renderforestsites.com/",
+    "launched": "2025-09-14",
+    "closed": null
+  },
+  {
+    "id": "Allegro.id",
+    "name": "Allegro",
+    "alt_names": [
+      "MNC Channels"
+    ],
+    "network": null,
+    "owners": [
+      "Edge Group"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": true,
+    "logo": "https://hosting.renderforestsites.com/35126779/1641352/media/6c62ae7035277fc1677e1a5812475f27.png",
+    "stream_url": "https://gist.githubusercontent.com/edgechannels1-ai/60104c033fc6f258800cb589ab3265de/raw/0f4e1404ae6f3d3cf41b6ca5bd6ec8e6f67d17b6/allegroudp.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
     "tv_guide": null,
     "website": "https://allegrotelkomvision.renderforestsites.com/",
     "launched": "2025-09-14",
@@ -194,10 +224,12 @@
   {
     "id": "Ananda.id",
     "name": "Ananda",
-    "alt_names": [],
+    "alt_names": [
+      "Me 1: The Kids Channels"
+    ],
     "network": null,
     "owners": [
-      "Edge Channels"
+      "Edge Group"
     ],
     "country_code": "ID",
     "country_name": "Indonesia",
@@ -7130,42 +7162,6 @@
     },
     "website": "http://tvri.go.id/",
     "launched": "1962-08-24",
-    "closed": null
-  },
-  {
-    "id": "TVRISport.id",
-    "name": "TVRI Sport",
-    "alt_names": [],
-    "network": "TVRI",
-    "owners": [
-      "LPP TVRI"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png",
-    "stream_url": "http://157.15.187.3:25092/hls/49/49.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVRISport.id",
-      "feed": "SD",
-      "site": "dens.tv",
-      "site_id": "118",
-      "site_name": "TVRI Sport",
-      "lang": "id",
-      "sources": []
-    },
-    "website": null,
-    "launched": "2010-12-21",
     "closed": null
   },
   {

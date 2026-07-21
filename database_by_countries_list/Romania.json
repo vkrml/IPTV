@@ -34,6 +34,87 @@
     "closed": null
   },
   {
+    "id": "Acasa.ro",
+    "name": "Acasa",
+    "alt_names": [
+      "Acasă",
+      "Pro 2",
+      "Acasă TV"
+    ],
+    "network": null,
+    "owners": [
+      "Central European Media Enterprises"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Acasa_2022_flat.png/960px-Acasa_2022_flat.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/acasa/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Acasa.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "acasa",
+      "site_name": "Acasa",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://acasatv.ro/",
+    "launched": "1998-02-02",
+    "closed": null
+  },
+  {
+    "id": "AcasaGold.ro",
+    "name": "Acasa Gold",
+    "alt_names": [
+      "Acasă Gold",
+      "Pro Gold",
+      "Acasă Clasic",
+      "Acasă 2"
+    ],
+    "network": null,
+    "owners": [
+      "Central European Media Enterprises"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fb/Acasa_Gold_2022.svg/revision/latest/scale-to-width-down/512",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/acasagold/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AcasaGold.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "acasa-gold",
+      "site_name": "Acasa Gold",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.acasagold.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AgroTV.ro",
     "name": "Agro TV",
     "alt_names": [],
@@ -232,6 +313,78 @@
     "closed": null
   },
   {
+    "id": "Antena1.ro",
+    "name": "Antena 1",
+    "alt_names": [],
+    "network": "Antena Group",
+    "owners": [
+      "Intact Media Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/EPmwuuv.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/antena1/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Antena1.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "antena-1",
+      "site_name": "Antena 1",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://a1.ro/",
+    "launched": "1993-11-29",
+    "closed": null
+  },
+  {
+    "id": "AntenaInternational.ro",
+    "name": "Antena International",
+    "alt_names": [],
+    "network": "Antena Group",
+    "owners": [
+      "Intact Media Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/38/Antena_Interna%C8%9Bional_2022.png/revision/latest/scale-to-width-down/512",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/antenaint/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AntenaInternational.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "antena-international",
+      "site_name": "Antena International",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://antenainternational.ro/",
+    "launched": "2006-07-01",
+    "closed": null
+  },
+  {
     "id": "AntenaMonden.ro",
     "name": "Antena Monden",
     "alt_names": [],
@@ -257,6 +410,72 @@
     "tv_guide": null,
     "website": "https://antenaplay.ro/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AntenaSport.ro",
+    "name": "AntenaSport",
+    "alt_names": [],
+    "network": "Antena Group",
+    "owners": [
+      "Antena TV Group S.A"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/antneassport/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://as.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AntenaStars.ro",
+    "name": "Antena Stars",
+    "alt_names": [
+      "Antena 2"
+    ],
+    "network": "Antena Group",
+    "owners": [
+      "Antena TV Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/antenastars/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AntenaStars.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "antena-stars",
+      "site_name": "Antena Stars",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://antenastars.ro/",
+    "launched": "2013-12-16",
     "closed": null
   },
   {
@@ -344,6 +563,42 @@
     "closed": null
   },
   {
+    "id": "B1.ro",
+    "name": "B1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "B1 TV Channel SRL"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/B1_TV_logo.svg/960px-B1_TV_logo.svg.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/b1/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "B1.ro",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#b1-tv",
+      "site_name": "B1 TV",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "https://b1.ro/",
+    "launched": "2001-12-14",
+    "closed": null
+  },
+  {
     "id": "BanatTV.ro",
     "name": "Banat TV",
     "alt_names": [],
@@ -388,10 +643,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ugPo6ca.png",
-    "stream_url": "https://dokagents.site/live/bollyc/mono.m3u8",
-    "stream_quality": null,
+    "stream_url": "https://aes.m3u8simplu.workers.dev/bollywood/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "BollywoodClassic.ro",
@@ -524,6 +779,32 @@
     "closed": null
   },
   {
+    "id": "CineMaraton.ro",
+    "name": "CineMaraton",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/BY8UZa0.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/cinemaraton/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.cinemaraton.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ColumnaTV.ro",
     "name": "Columna TV",
     "alt_names": [],
@@ -567,10 +848,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
-    "stream_url": "http://82.78.243.219:45739/play/a00f/index.m3u8",
-    "stream_quality": null,
+    "stream_url": "https://aes.m3u8simplu.workers.dev/comedycentral/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "ComedyCentral.ro",
@@ -583,32 +864,6 @@
     },
     "website": "http://www.comedycentral.com.ro/",
     "launched": "2016-09-20",
-    "closed": null
-  },
-  {
-    "id": "ComedyPlay.ro",
-    "name": "Comedy Play",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "comedy"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/6kAeVOk.png",
-    "stream_url": "https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://antenaplay.ro/",
-    "launched": "2016-01-01",
     "closed": null
   },
   {
@@ -753,6 +1008,76 @@
     "closed": null
   },
   {
+    "id": "DigiAnimalWorld.ro",
+    "name": "Digi Animal World",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RCS & RDS"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "outdoor"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/LUvGjAz.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/digianimalworld/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DigiAnimalWorld.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "digi-animal-world",
+      "site_name": "Digi Animal World",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.digi-animalworld.tv/",
+    "launched": "2012-12-06",
+    "closed": null
+  },
+  {
+    "id": "DigiLife.ro",
+    "name": "Digi Life",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RCS & RDS"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/YhKpUkd.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/digilife/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DigiLife.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "digi-life",
+      "site_name": "Digi Life",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.digi-life.tv/",
+    "launched": "2012-10-01",
+    "closed": null
+  },
+  {
     "id": "DigiSport1.ro",
     "name": "Digi Sport 1",
     "alt_names": [],
@@ -842,10 +1167,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/T1ci5UK.png",
-    "stream_url": "http://82.78.243.219:45739/play/a01m/index.m3u8",
-    "stream_quality": null,
+    "stream_url": "https://aes.m3u8simplu.workers.dev/digi3/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "DigiSport3.ro",
@@ -878,10 +1203,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Knj9I6f.png",
-    "stream_url": "http://82.78.243.219:45739/play/a00v/index.m3u8",
-    "stream_quality": null,
+    "stream_url": "https://aes.m3u8simplu.workers.dev/digi4/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "DigiSport4.ro",
@@ -894,6 +1219,42 @@
     },
     "website": "http://digisport.ro/",
     "launched": "2012-08-11",
+    "closed": null
+  },
+  {
+    "id": "DigiWorld.ro",
+    "name": "Digi World",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RCS & RDS"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/pGICS9K.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/digiworld/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DigiWorld.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "digi-world",
+      "site_name": "Digi World",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.digi-world.tv/",
+    "launched": "2012-10-01",
     "closed": null
   },
   {
@@ -914,10 +1275,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
-    "stream_url": "http://82.78.243.219:45739/play/a00y/index.m3u8",
-    "stream_quality": null,
+    "stream_url": "https://aes.m3u8simplu.workers.dev/disneychannel/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "DisneyChannel.ro",
@@ -931,6 +1292,72 @@
     "website": "http://tv.disney.ro/",
     "launched": "2009-09-19",
     "closed": null
+  },
+  {
+    "id": "DisneyJunior.ro",
+    "name": "Disney Junior",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "The Walt Disney Company"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/disneyjunior/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.disney.ro/disney-junior/",
+    "launched": "2012-03-01",
+    "closed": null
+  },
+  {
+    "id": "Diva.ro",
+    "name": "Diva",
+    "alt_names": [
+      "Diva România"
+    ],
+    "network": null,
+    "owners": [
+      "NBCUniversal International Networks"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/bgBZgW0.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/diva/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Diva.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "diva",
+      "site_name": "Diva",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.divaromania.tv/",
+    "launched": "2010-10-03",
+    "closed": "2024-09-30"
   },
   {
     "id": "DottoTV.ro",
@@ -958,6 +1385,135 @@
     "tv_guide": null,
     "website": "https://dottotv.ro/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "EMITV.ro",
+    "name": "EMI TV",
+    "alt_names": [
+      "N Sat TV Regional",
+      "N Sat TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/B5zssCz.png",
+    "stream_url": "https://astra.emitv.ro/hls/emi/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.emitv.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "EuronewsRomania.ro",
+    "name": "Euronews Romania",
+    "alt_names": [],
+    "network": "Euronews",
+    "owners": [
+      "Euronews SA"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/jUOVUXt.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/euronews/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.euronews.ro/",
+    "launched": "2022-01-01",
+    "closed": null
+  },
+  {
+    "id": "FilmNow.ro",
+    "name": "Film Now",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RCS & RDS"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sSoRvGz.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/filmnow/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FilmNow.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "film-now",
+      "site_name": "Film Now",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.digi-film.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HappyChannel.ro",
+    "name": "Happy Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Antena TV Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/kpFaiku.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/happy/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HappyChannel.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "happy-channel",
+      "site_name": "Happy Channel",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://tvhappy.ro/",
+    "launched": "2016-03-07",
     "closed": null
   },
   {
@@ -989,6 +1545,34 @@
     "closed": null
   },
   {
+    "id": "HelloTaste.ro",
+    "name": "Hello Taste",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Antena TV Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "cooking"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TdKO0er.png",
+    "stream_url": "https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/daadc33b-fc6b-4c9e-a8d4-9ca1b7087d4d:BRU/master.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://hellotaste.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "History.ro",
     "name": "History",
     "alt_names": [
@@ -1006,10 +1590,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
-    "stream_url": "http://82.78.243.219:45739/play/a01f/index.m3u8",
-    "stream_quality": null,
+    "stream_url": "https://aes.m3u8simplu.workers.dev/history/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "History.ro",
@@ -1157,6 +1741,42 @@
     "closed": null
   },
   {
+    "id": "JimJam.ro",
+    "name": "JimJam",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "AMC Networks Inc."
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ODhkYyx.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/jimjam/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "JimJam.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "jimjam",
+      "site_name": "Jimjam",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://ro.jimjam.tv/",
+    "launched": "2008-01-01",
+    "closed": null
+  },
+  {
     "id": "JOBTV.ro",
     "name": "JOB TV",
     "alt_names": [],
@@ -1209,6 +1829,32 @@
     "closed": null
   },
   {
+    "id": "KanalD2.ro",
+    "name": "Kanal D2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Dogan Media International SA"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/0SMSIm9.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/kanald2/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.kanald2.ro",
+    "launched": "2022-04-02",
+    "closed": null
+  },
+  {
     "id": "KanalD.ro",
     "name": "Kanal D",
     "alt_names": [
@@ -1232,6 +1878,44 @@
     "stream_quality": "480p",
     "stream_format": null,
     "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "KanalD.ro",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "73590",
+      "site_name": "Kanal D",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.kanald.ro/",
+    "launched": "2007-02-18",
+    "closed": null
+  },
+  {
+    "id": "KanalD.ro",
+    "name": "Kanal D",
+    "alt_names": [
+      "Kanal D România"
+    ],
+    "network": null,
+    "owners": [
+      "Dogan Media International SA"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/15ILp0P.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/kanald/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "KanalD.ro",
@@ -1360,8 +2044,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Xe7x1k2.png",
-    "stream_url": "https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "https://dai.google.com/linear/hls/pa/event/dpT7XJvhSzm5-pQkjgqRtg/stream/851625d8-0bfe-4ea1-a924-ddb3ff4d1e53:GRQ/master.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1480,6 +2164,42 @@
     "closed": null
   },
   {
+    "id": "MusicChannel.ro",
+    "name": "Music Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RCS and RDS"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nadVCxM.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/musicchannel/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MusicChannel.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "music-channel",
+      "site_name": "Music Channel",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://1music.ro/",
+    "launched": "2008-05-28",
+    "closed": null
+  },
+  {
     "id": "NasulTV.ro",
     "name": "Nasul TV",
     "alt_names": [
@@ -1518,6 +2238,78 @@
     "closed": null
   },
   {
+    "id": "NationalGeographic.ro",
+    "name": "National Geographic",
+    "alt_names": [
+      "National Geographic România"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/natgeo/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalGeographic.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "national-geographic",
+      "site_name": "National Geographic",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.natgeotv.com/ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NationalGeographicWild.ro",
+    "name": "National Geographic Wild",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "National Geographic Society"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/natgeowild/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalGeographicWild.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "national-geographic-wild",
+      "site_name": "National Geographic Wild",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.natgeowild.ro/",
+    "launched": "2009-07-01",
+    "closed": null
+  },
+  {
     "id": "Nickelodeon.ro",
     "name": "Nickelodeon",
     "alt_names": [
@@ -1537,10 +2329,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
-    "stream_url": "http://82.78.243.219:45739/play/a00o/index.m3u8",
-    "stream_quality": null,
+    "stream_url": "https://aes.m3u8simplu.workers.dev/nickelodeon/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "Nickelodeon.ro",
@@ -1553,6 +2345,80 @@
     },
     "website": "http://www.nickelodeon.ro/",
     "launched": "1998-11-15",
+    "closed": null
+  },
+  {
+    "id": "NickJr.ro",
+    "name": "Nick Jr.",
+    "alt_names": [
+      "Nick Jr România"
+    ],
+    "network": "Nickelodeon",
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/nickjr/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NickJr.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "nick-jr",
+      "site_name": "Nick Jr",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.nickjr.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Nicktoons.ro",
+    "name": "Nicktoons",
+    "alt_names": [
+      "Nicktoons România"
+    ],
+    "network": "Nickelodeon",
+    "owners": [
+      "Paramount Global"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/nicktoons/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Nicktoons.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "nicktoons",
+      "site_name": "Nicktoons",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.nicktoons.ro/",
+    "launched": "2018-02-15",
     "closed": null
   },
   {
@@ -1609,6 +2475,247 @@
     "tv_guide": null,
     "website": "https://observatornews.ro/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Prima4K.ro",
+    "name": "Prima 4K",
+    "alt_names": [
+      "Look 4K",
+      "LookSport 1"
+    ],
+    "network": null,
+    "owners": [
+      "Clever Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/fOFgdHj.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/prima4kk/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Prima4K.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "prima-4k",
+      "site_name": "Prima 4K",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.primasport.ro/",
+    "launched": "2022-04-19",
+    "closed": null
+  },
+  {
+    "id": "PrimaNews.ro",
+    "name": "Prima News",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Clever Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/wlqGfU2.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/primanews/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.primaplay.ro/live/primanews",
+    "launched": "2022-11-28",
+    "closed": null
+  },
+  {
+    "id": "PrimaSport5.ro",
+    "name": "Prima Sport 5",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Clever Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "https://aes.m3u8simplu.workers.dev/primasp5/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://primasport.ro/",
+    "launched": "2022-10-06",
+    "closed": null
+  },
+  {
+    "id": "PrimaTV.ro",
+    "name": "Prima TV",
+    "alt_names": [
+      "Canal 38 Amerom Bucureşti"
+    ],
+    "network": null,
+    "owners": [
+      "Clever Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/p2umWAT.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/primatv/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PrimaTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "prima-tv",
+      "site_name": "Prima TV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.primatv.ro/",
+    "launched": "1997-12-17",
+    "closed": null
+  },
+  {
+    "id": "ProArena.ro",
+    "name": "Pro Arena",
+    "alt_names": [
+      "Pro X",
+      "Sport.ro",
+      "TV Sport"
+    ],
+    "network": "Pro TV",
+    "owners": [
+      "Pro TV SRL"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KQmB9Cc.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/proarena/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ProArena.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "pro-arena-hd",
+      "site_name": "Pro Arena HD",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.proarena.ro/",
+    "launched": "2003-07-27",
+    "closed": null
+  },
+  {
+    "id": "ProCinema.ro",
+    "name": "Pro Cinema",
+    "alt_names": [],
+    "network": "Pro TV",
+    "owners": [
+      "Pro TV SRL"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TvHFGwZ.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/procinema/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ProCinema.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "pro-cinema-hd",
+      "site_name": "Pro Cinema HD",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://procinema.protv.ro/",
+    "launched": "2004-04-19",
+    "closed": null
+  },
+  {
+    "id": "PROTV.ro",
+    "name": "PRO TV",
+    "alt_names": [
+      "Canal 31"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/zVk3WlT.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/protv/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PROTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "pro-tv",
+      "site_name": "PRO TV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.protv.ro/",
+    "launched": "1995-12-01",
     "closed": null
   },
   {
@@ -1735,10 +2842,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/kqEPVPk.png",
-    "stream_url": "https://dokagents.site/live/realitateatv/mono.m3u8",
+    "stream_url": "https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "RealitateaPlus.ro",
@@ -1767,10 +2874,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/kqEPVPk.png",
-    "stream_url": "https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/realitateaplus/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "RealitateaPlus.ro",
@@ -1891,47 +2998,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ZIfEp5I.png",
-    "stream_url": "https://dokagents.site/live/romaniatv/mono.m3u8",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/romaniatv/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
-    "tv_guide": {
-      "channel": "RomaniaTV.ro",
-      "feed": "SD",
-      "site": "programetv.ro",
-      "site_id": "romania-tv",
-      "site_name": "România TV",
-      "lang": "ro",
-      "sources": []
-    },
-    "website": "https://www.romaniatv.net/",
-    "launched": "2011-10-23",
-    "closed": null
-  },
-  {
-    "id": "RomaniaTV.ro",
-    "name": "Romania TV",
-    "alt_names": [
-      "România TV"
-    ],
-    "network": null,
-    "owners": [
-      "Ridzone Computers"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ZIfEp5I.png",
-    "stream_url": "https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://www.romaniatv.net/live",
     "tv_guide": {
       "channel": "RomaniaTV.ro",
       "feed": "SD",
@@ -1979,6 +3050,42 @@
     },
     "website": "http://www.sperantatv.ro/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SportExtra.ro",
+    "name": "Sport Extra",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Mooz TV SRL"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/3MH2OIr.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/sportextra/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SportExtra.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "sport-extra",
+      "site_name": "Sport Extra",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.sportextra.ro/",
+    "launched": "2020-03-02",
     "closed": null
   },
   {
@@ -2237,10 +3344,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/GHNsctR.png",
-    "stream_url": "http://82.78.243.219:45739/play/a01b/index.m3u8",
-    "stream_quality": null,
+    "stream_url": "https://aes.m3u8simplu.workers.dev/viasatkino/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": null,
     "website": "https://tv1000.com.ro/",
@@ -2902,6 +4009,114 @@
     "tv_guide": null,
     "website": "https://www.tvsud.ro/",
     "launched": "2011-06-20",
+    "closed": null
+  },
+  {
+    "id": "UTV.ro",
+    "name": "UTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/aBdz9IT.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/utv/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "UTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "utv",
+      "site_name": "UTV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.utv.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ZUTV.ro",
+    "name": "ZU TV",
+    "alt_names": [
+      "ZU Channel",
+      "GSP TV",
+      "Arenna TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/1gtkGhB.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/chefi/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ZUTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "zu-tv",
+      "site_name": "ZU TV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://zutv.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ZUTV.ro",
+    "name": "ZU TV",
+    "alt_names": [
+      "ZU Channel",
+      "GSP TV",
+      "Arenna TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/1gtkGhB.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/zutv/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ZUTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "zu-tv",
+      "site_name": "ZU TV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://zutv.ro/",
+    "launched": null,
     "closed": null
   }
 ]

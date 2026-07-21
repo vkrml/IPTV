@@ -6681,6 +6681,42 @@
     "closed": null
   },
   {
+    "id": "Mezzo.fr",
+    "name": "Mezzo",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Mezzo SA"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/auNdGeW.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/mezzo/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Mezzo.fr",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000130_019274",
+      "site_name": "Mezzo",
+      "lang": "nl",
+      "sources": []
+    },
+    "website": "https://www.mezzo.tv/",
+    "launched": "1998-03-01",
+    "closed": null
+  },
+  {
     "id": "MezzoLive.fr",
     "name": "Mezzo Live",
     "alt_names": [
@@ -8429,6 +8465,38 @@
     "tv_guide": null,
     "website": "https://www.rtl2.fr/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SciFi.fr",
+    "name": "SciFi",
+    "alt_names": [
+      "SyFy",
+      "SF"
+    ],
+    "network": "NBCUniversal",
+    "owners": [
+      "NBC UNIVERSAL GLOBAL NETWORKS ESPANA S.L.U.",
+      "Comcast Corporation"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d1/SciFi_2026.svg",
+    "stream_url": "http://41.205.93.154/SYFY/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://scifi.fr/schedule/",
+    "launched": "2026-03-17",
     "closed": null
   },
   {

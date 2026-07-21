@@ -548,15 +548,20 @@
   {
     "id": "SerajTV.ps",
     "name": "Seraj TV",
-    "alt_names": [],
+    "alt_names": [
+      "قناة الاقصى"
+    ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "aqsanet"
+    ],
     "country_code": "PS",
     "country_name": "Palestine",
     "subdivision": null,
     "city": null,
     "categories": [
-      "religious"
+      "news",
+      "general"
     ],
     "languages": [],
     "is_nsfw": false,
@@ -567,7 +572,7 @@
     "user_agent": null,
     "referrer": "https://www.alaqsanet.news/",
     "tv_guide": null,
-    "website": "https://seraj.tv/live",
+    "website": "https://www.alaqsanet.news/",
     "launched": null,
     "closed": null
   },

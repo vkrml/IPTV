@@ -1997,6 +1997,34 @@
     "closed": null
   },
   {
+    "id": "CTVSpeedChannel.ca",
+    "name": "CTV Speed Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Bell Media"
+    ],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "auto"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Updated_CTV_Speed_Channel_Logo.png",
+    "stream_url": "https://gpuserver3.tier1streams.com/DISCOVERY_SCIENCE_HD/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.ctv.ca/",
+    "launched": "2025-01-01",
+    "closed": null
+  },
+  {
     "id": "DesheBidesheTV.ca",
     "name": "DesheBideshe TV",
     "alt_names": [],
@@ -8298,6 +8326,38 @@
     },
     "website": "https://wildtv.ca/",
     "launched": "2004-09-01",
+    "closed": null
+  },
+  {
+    "id": "WNetwork.ca",
+    "name": "W Network",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/t7XdBh8.png",
+    "stream_url": "https://starlite.best/api/stream/hurt/hurt/livetv.epg/w.wtn.east.ca.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "WNetwork.ca",
+      "feed": "East",
+      "site": "tvhebdo.com",
+      "site_id": "wtn/WTN",
+      "site_name": "WTN",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "http://www.wnetwork.com/",
+    "launched": "2002-04-15",
     "closed": null
   },
   {

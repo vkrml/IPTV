@@ -7241,6 +7241,42 @@
     "closed": null
   },
   {
+    "id": "ClublandTV.uk",
+    "name": "Clubland TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Universal Music Group N.V."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Clubland_TV_Logo_2022.svg/960px-Clubland_TV_Logo_2022.svg.png",
+    "stream_url": "http://bore.pub:14073/live.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ClublandTV.uk",
+      "feed": "SD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "1855",
+      "site_name": "Clubland TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://aatw.com/",
+    "launched": "2008-01-28",
+    "closed": null
+  },
+  {
     "id": "CNBCUK.uk",
     "name": "CNBC UK",
     "alt_names": [],
@@ -7679,34 +7715,6 @@
     },
     "website": "http://www.disneyme.com/",
     "launched": "1997-04-02",
-    "closed": null
-  },
-  {
-    "id": "DisneyJuniorMENA.uk",
-    "name": "Disney Junior MENA",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "The Walt Disney Company"
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
-    "stream_url": "http://116.90.120.157:8000/play/a0qo/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.disneyme.com/",
-    "launched": "2011-06-01",
     "closed": null
   },
   {
@@ -10446,152 +10454,6 @@
       "sources": []
     },
     "website": "https://www.islamchannelurdu.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ITV1.uk",
-    "name": "ITV1",
-    "alt_names": [
-      "ITV"
-    ],
-    "network": "ITV",
-    "owners": [
-      "ITV plc"
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/xwPekCF.png",
-    "stream_url": "http://45.153.96.44:8006",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ITV1.uk",
-      "feed": "London",
-      "site": "tv.blue.ch",
-      "site_id": "218",
-      "site_name": "ITV1",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.itv.com/hub/itv",
-    "launched": "1955-09-22",
-    "closed": null
-  },
-  {
-    "id": "ITV2.uk",
-    "name": "ITV2",
-    "alt_names": [],
-    "network": "ITV",
-    "owners": [
-      "ITV plc"
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/2BpUK0W.png",
-    "stream_url": "http://45.153.96.44:8007",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ITV2.uk",
-      "feed": "HD",
-      "site": "virgintvgo.virginmedia.com",
-      "site_id": "1597",
-      "site_name": "ITV2 HD",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.itv.com/hub/itv2",
-    "launched": "1998-12-07",
-    "closed": null
-  },
-  {
-    "id": "ITV3.uk",
-    "name": "ITV3",
-    "alt_names": [],
-    "network": "ITV",
-    "owners": [
-      "ITV plc"
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/JuyM2z5.png",
-    "stream_url": "http://45.153.96.44:8008",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ITV3.uk",
-      "feed": "HD",
-      "site": "virgintvgo.virginmedia.com",
-      "site_id": "1598",
-      "site_name": "ITV3 HD",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.itv.com/hub/itv3",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ITV4.uk",
-    "name": "ITV4",
-    "alt_names": [],
-    "network": "ITV",
-    "owners": [
-      "ITV plc"
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/DYI4IA2.png",
-    "stream_url": "http://45.153.96.44:8009",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ITV4.uk",
-      "feed": "HD",
-      "site": "virgintvgo.virginmedia.com",
-      "site_id": "1599",
-      "site_name": "ITV4 HD",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.itv.com/hub/itv4",
     "launched": null,
     "closed": null
   },

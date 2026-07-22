@@ -2548,6 +2548,40 @@
     "closed": null
   },
   {
+    "id": "GlobalTV.pe",
+    "name": "Global TV",
+    "alt_names": [],
+    "network": "Grupo ATV",
+    "owners": [],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/yuEou9C.png",
+    "stream_url": "https://cablered.iptvperu.tv:1936/cablered/global.stream/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GlobalTV.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch6309",
+      "site_name": "GLOBAL TV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.atv.pe/noticias/global-tv-13738",
+    "launched": "1986-07-01",
+    "closed": null
+  },
+  {
     "id": "HuachoPeruTV.pe",
     "name": "Huacho Peru TV",
     "alt_names": [
@@ -3030,6 +3064,42 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png",
     "stream_url": "http://8.243.126.131:8000/play/a01v/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "LaTele.pe",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "pe#la-tele",
+      "site_name": "La Tele",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.atv.pe/",
+    "launched": "2009-01-07",
+    "closed": null
+  },
+  {
+    "id": "LaTele.pe",
+    "name": "La Tele",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo ATV"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png",
+    "stream_url": "https://cablered.iptvperu.tv:1936/cablered/la_tele.stream/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

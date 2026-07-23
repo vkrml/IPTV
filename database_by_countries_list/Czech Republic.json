@@ -477,6 +477,42 @@
     "closed": null
   },
   {
+    "id": "FilmPlus.cz",
+    "name": "Film+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "AMC Networks Inc."
+    ],
+    "country_code": "CZ",
+    "country_name": "Czech Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OBYuY3S.png",
+    "stream_url": "http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FilmPlus.cz",
+      "feed": "SD",
+      "site": "mujtvprogram.cz",
+      "site_id": "63",
+      "site_name": "Film+",
+      "lang": "cs",
+      "sources": []
+    },
+    "website": "https://www.filmplustv.cz/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "GolfChannel.cz",
     "name": "Golf Channel",
     "alt_names": [],
@@ -1296,40 +1332,6 @@
     "closed": null
   },
   {
-    "id": "PrimaLove.cz",
-    "name": "Prima Love",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "FTV Prima"
-    ],
-    "country_code": "CZ",
-    "country_name": "Czech Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Prima_Love_logo_2018.png/960px-Prima_Love_logo_2018.png",
-    "stream_url": "http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PrimaLove.cz",
-      "feed": "SD",
-      "site": "mujtvprogram.cz",
-      "site_id": "226",
-      "site_name": "Prim LOVE",
-      "lang": "cs",
-      "sources": []
-    },
-    "website": "http://love.iprima.cz/",
-    "launched": "2011-03-08",
-    "closed": null
-  },
-  {
     "id": "PrimaShow.cz",
     "name": "Prima Show",
     "alt_names": [],
@@ -1855,6 +1857,38 @@
     },
     "website": "https://www.televizeseznam.cz/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVBarrandov.cz",
+    "name": "TV Barrandov",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CZ",
+    "country_name": "Czech Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_TV_Barrandov.png/960px-Logo_TV_Barrandov.png",
+    "stream_url": "http://88.212.15.19/live/test_barrandov/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVBarrandov.cz",
+      "feed": "SD",
+      "site": "mujtvprogram.cz",
+      "site_id": "89",
+      "site_name": "TV Barrandov",
+      "lang": "cs",
+      "sources": []
+    },
+    "website": "https://www.barrandov.tv/",
+    "launched": "2009-01-01",
     "closed": null
   },
   {

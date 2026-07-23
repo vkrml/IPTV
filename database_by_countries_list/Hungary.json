@@ -705,6 +705,42 @@
     "closed": null
   },
   {
+    "id": "DisneyChannel.hu",
+    "name": "Disney Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Disney Entertainment"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/aOa73uT.png",
+    "stream_url": "http://88.212.15.19/live/disney_channel_hun/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyChannel.hu",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "hu/tvmusor#disney-channel-hu",
+      "site_name": "Disney Channel HU",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "http://www.disney.hu/DisneyChannel",
+    "launched": "2009-09-19",
+    "closed": null
+  },
+  {
     "id": "DSTV.hu",
     "name": "DSTV",
     "alt_names": [
@@ -982,44 +1018,6 @@
       "sources": []
     },
     "website": "https://www.fehervartv.hu/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "FilmMania.hu",
-    "name": "Film Mania",
-    "alt_names": [
-      "Film Mánia"
-    ],
-    "network": null,
-    "owners": [
-      "AMC Networks Central Europe Kft."
-    ],
-    "country_code": "HU",
-    "country_name": "Hungary",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/crhsomk.png",
-    "stream_url": "http://46.149.191.217:9015/play/a00v",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FilmMania.hu",
-      "feed": "SD",
-      "site": "tvprofil.com",
-      "site_id": "hu/tvmusor#filmmania-hu",
-      "site_name": "Film Mania HU",
-      "lang": "hr",
-      "sources": []
-    },
-    "website": "http://www.filmmaniatv.hu/",
     "launched": null,
     "closed": null
   },
@@ -1414,6 +1412,37 @@
       "sources": []
     },
     "website": "https://hirtv.hu/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "History.hu",
+    "name": "History",
+    "alt_names": [
+      "History TV Magyarország",
+      "History Channel"
+    ],
+    "network": null,
+    "owners": [
+      "AETN UK"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OWIK7FJ.png",
+    "stream_url": "http://88.212.15.19/live/history_hun/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.historychannel.co.hu/hu",
     "launched": null,
     "closed": null
   },
@@ -2051,36 +2080,6 @@
     "closed": null
   },
   {
-    "id": "M2Petofi.hu",
-    "name": "M2 Petofi",
-    "alt_names": [
-      "M2 Petőfi"
-    ],
-    "network": null,
-    "owners": [
-      "Duna Médiaszolgáltató Nonprofit Zrt."
-    ],
-    "country_code": "HU",
-    "country_name": "Hungary",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/N7fc9X6.png",
-    "stream_url": "http://46.149.191.217:9005/play/a016",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": "2012-12-22",
-    "closed": null
-  },
-  {
     "id": "M4Sport.hu",
     "name": "M4 Sport",
     "alt_names": [],
@@ -2114,42 +2113,6 @@
     },
     "website": "https://m4sport.hu/",
     "launched": "2015-07-18",
-    "closed": null
-  },
-  {
-    "id": "M4SportPlus.hu",
-    "name": "M4 Sport+",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Duna Médiaszolgáltató Nonprofit Zrt."
-    ],
-    "country_code": "HU",
-    "country_name": "Hungary",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/0wrFYdN.png",
-    "stream_url": "http://46.149.191.217:9007/play/a02q",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "M4SportPlus.hu",
-      "feed": "SD",
-      "site": "musor.tv",
-      "site_id": "M4_SPORT_PLUSZ",
-      "site_name": "M4 Sport+ (HD)",
-      "lang": "hu",
-      "sources": []
-    },
-    "website": "https://m4sport.hu/",
-    "launched": null,
     "closed": null
   },
   {
@@ -2315,42 +2278,6 @@
     "closed": null
   },
   {
-    "id": "Minimax.hu",
-    "name": "Minimax",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "AMC Networks Inc."
-    ],
-    "country_code": "HU",
-    "country_name": "Hungary",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/WWOlm1x.png",
-    "stream_url": "http://46.149.191.217:9002/play/a01y",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Minimax.hu",
-      "feed": "SD",
-      "site": "tvmusor.hu",
-      "site_id": "16",
-      "site_name": "Minimax",
-      "lang": "hu",
-      "sources": []
-    },
-    "website": "https://www.minimax.hu/",
-    "launched": "1999-12-06",
-    "closed": null
-  },
-  {
     "id": "MoraNetTV.hu",
     "name": "Mora-Net TV",
     "alt_names": [
@@ -2375,6 +2302,150 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://moranettv.hu/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MoziPlus.hu",
+    "name": "Mozi+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "TV2 Média Csoport Kft"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/LtCnPFJ.png",
+    "stream_url": "http://88.212.15.19/live/mozi_plusz/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MoziPlus.hu",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "hu/tvmusor#pro4",
+      "site_name": "Mozi plusz TV",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "https://tv2play.hu/moziplusz",
+    "launched": "2016-07-11",
+    "closed": null
+  },
+  {
+    "id": "Moziverzum.hu",
+    "name": "Moziverzum",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "TV2 Média Csoport Kft."
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NMifecQ.png",
+    "stream_url": "http://88.212.15.19/live/moziverzum/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Moziverzum.hu",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "hu/tvmusor#moziverzum",
+      "site_name": "Moziverzum",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "https://tv2play.hu/moziverzum",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NationalGeographic.hu",
+    "name": "National Geographic",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "FOX Networks Group"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "stream_url": "http://88.212.15.19/live/ngc_hun/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalGeographic.hu",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "hu/tvmusor#national-geographic-hu",
+      "site_name": "National Geographic HU",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "http://www.natgeotv.com/hu",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NationalGeographicWild.hu",
+    "name": "National Geographic Wild",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "FOX Networks Group"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "stream_url": "http://88.212.15.19/live/ngw_hun/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalGeographicWild.hu",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "hu/tvmusor#nat-geo-wild-hu",
+      "site_name": "Nat Geo Wild HU",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "http://natgeotv.com/hu/wild",
     "launched": null,
     "closed": null
   },
@@ -2704,10 +2775,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ruRshE1.png",
-    "stream_url": "http://46.149.191.217:9005/play/a018",
-    "stream_quality": "1080p",
+    "stream_url": "http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8",
+    "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "RTL.hu",
@@ -2779,10 +2850,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/c4Hhhzs.png",
-    "stream_url": "http://46.149.191.217:9005/play/a01t",
-    "stream_quality": "1080p",
+    "stream_url": "http://88.212.15.19/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8",
+    "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "RTLHarom.hu",
@@ -2816,10 +2887,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/IVv0qrI.png",
-    "stream_url": "http://46.149.191.217:9005/play/a01r",
-    "stream_quality": "1080p",
+    "stream_url": "http://88.212.15.19/live/test_rtl2_hungary_1200_atk/playlist.m3u8",
+    "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "RTLKetto.hu",
@@ -2890,8 +2961,8 @@
     "closed": null
   },
   {
-    "id": "Sport1.hu",
-    "name": "Sport 1",
+    "id": "Spektrum.hu",
+    "name": "Spektrum",
     "alt_names": [],
     "network": null,
     "owners": [
@@ -2902,32 +2973,32 @@
     "subdivision": null,
     "city": null,
     "categories": [
-      "sports"
+      "documentary"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/X5X3tKC.png",
-    "stream_url": "http://46.149.191.217:9005/play/a017",
-    "stream_quality": "1280p",
+    "logo": "https://i.imgur.com/GmFRQ82.png",
+    "stream_url": "http://88.212.15.19/live/spektrum_hun/index.m3u8",
+    "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
-      "channel": "Sport1.hu",
+      "channel": "Spektrum.hu",
       "feed": "SD",
       "site": "tvprofil.com",
-      "site_id": "hu/tvmusor#sport-1-hu",
-      "site_name": "Sport 1 HU",
+      "site_id": "hu/tvmusor#spektrum-tv",
+      "site_name": "Spektrum TV",
       "lang": "hr",
       "sources": []
     },
-    "website": "http://www.sport1tv.hu/",
+    "website": "https://www.spektrumtv.hu/",
     "launched": null,
     "closed": null
   },
   {
-    "id": "Sport1.hu",
-    "name": "Sport 1",
+    "id": "SpektrumHome.hu",
+    "name": "Spektrum Home",
     "alt_names": [],
     "network": null,
     "owners": [
@@ -2938,62 +3009,26 @@
     "subdivision": null,
     "city": null,
     "categories": [
-      "sports"
+      "entertainment"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/X5X3tKC.png",
-    "stream_url": "http://46.149.191.217:9018/play/a01d",
+    "logo": "https://i.imgur.com/VaVi65F.png",
+    "stream_url": "http://88.212.15.19/live/spektrum_home_hun/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
-      "channel": "Sport1.hu",
+      "channel": "SpektrumHome.hu",
       "feed": "SD",
       "site": "tvprofil.com",
-      "site_id": "hu/tvmusor#sport-1-hu",
-      "site_name": "Sport 1 HU",
+      "site_id": "hu/tvmusor#spektrum-home-hu",
+      "site_name": "Spektrum Home HU",
       "lang": "hr",
       "sources": []
     },
-    "website": "http://www.sport1tv.hu/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Sport2.hu",
-    "name": "Sport 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "AMC Networks Central Europe Kft."
-    ],
-    "country_code": "HU",
-    "country_name": "Hungary",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/UxflVoU.png",
-    "stream_url": "http://46.149.191.217:9018/play/a01e",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Sport2.hu",
-      "feed": "SD",
-      "site": "tvprofil.com",
-      "site_id": "hu/tvmusor#sport-2-hu",
-      "site_name": "Sport 2 HU",
-      "lang": "hr",
-      "sources": []
-    },
-    "website": "http://www.sport1tv.hu/",
+    "website": "https://www.spektrumhome.hu/",
     "launched": null,
     "closed": null
   },
@@ -3224,40 +3259,6 @@
     "closed": null
   },
   {
-    "id": "TV2.hu",
-    "name": "TV2",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "TV2 Média Csoport Kft."
-    ],
-    "country_code": "HU",
-    "country_name": "Hungary",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/960px-TV2_2008.svg.png",
-    "stream_url": "http://46.149.191.217:9005/play/a01q",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TV2.hu",
-      "feed": "SD",
-      "site": "tvprofil.com",
-      "site_id": "hu/tvmusor#tv2-hu",
-      "site_name": "TV2 HU",
-      "lang": "hr",
-      "sources": []
-    },
-    "website": "https://tv2play.hu/",
-    "launched": "1997-10-04",
-    "closed": null
-  },
-  {
     "id": "TV2Kids.hu",
     "name": "TV2 Kids",
     "alt_names": [],
@@ -3451,10 +3452,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/lEAhKPa.png",
-    "stream_url": "http://46.149.191.217:9009/play/a023",
+    "stream_url": "http://88.212.15.19/live/viasat2/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "Viasat2.hu",
@@ -3467,6 +3468,74 @@
     },
     "website": "https://www.viasat2.hu/",
     "launched": "2006-01-01",
+    "closed": null
+  },
+  {
+    "id": "Viasat3.hu",
+    "name": "Viasat 3",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "AXN Europe Limited"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ehx7R3A.png",
+    "stream_url": "http://88.212.15.19/live/viasat3/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Viasat3.hu",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "hu/tvmusor#viasat3",
+      "site_name": "Viasat3",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "https://www.viasat3.hu/",
+    "launched": "2000-10-23",
+    "closed": null
+  },
+  {
+    "id": "Viasat6.hu",
+    "name": "Viasat 6",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "AXN Europe Limited"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/kypSbFX.png",
+    "stream_url": "http://88.212.15.19/live/viasat6/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Viasat6.hu",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "hu/tvmusor#tv6",
+      "site_name": "Viasat 6",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "https://www.viasat6.hu/",
+    "launched": "2008-01-28",
     "closed": null
   },
   {
@@ -3491,10 +3560,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/5CoP6ex.png",
-    "stream_url": "http://46.149.191.217:9009/play/a028",
+    "stream_url": "http://88.212.15.19/live/viasat_film/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "ViasatFilm.hu",
@@ -3672,6 +3741,40 @@
       "sources": []
     },
     "website": "https://zegtv.hu/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Zenebutik.hu",
+    "name": "Zenebutik",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "TV2 Média Csoport Kft."
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/xGUlF78.png",
+    "stream_url": "http://88.212.15.19/live/zenebutik/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Zenebutik.hu",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "hu/tvmusor#zenebutik",
+      "site_name": "Zenebutik",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "https://tv2play.hu/zenebutik",
     "launched": null,
     "closed": null
   },

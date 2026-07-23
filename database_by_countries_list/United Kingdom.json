@@ -323,42 +323,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-    "stream_url": "http://46.149.191.217:9007/play/a01d",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AMCEurope.uk",
-      "feed": "Portugal",
-      "site": "vodafone.pt",
-      "site_id": "2996",
-      "site_name": "AMC",
-      "lang": "pt",
-      "sources": []
-    },
-    "website": "https://uk.amc.com/",
-    "launched": "2015-08-28",
-    "closed": null
-  },
-  {
-    "id": "AMCEurope.uk",
-    "name": "AMC Europe",
-    "alt_names": [],
-    "network": "AMC Networks International UK",
-    "owners": [
-      "AMC Networks Inc."
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
     "stream_url": "https://dokagents.site/live/amc/mono.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -7277,6 +7241,42 @@
     "closed": null
   },
   {
+    "id": "ClublandTV.uk",
+    "name": "Clubland TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Universal Music Group N.V."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Clubland_TV_Logo_2022.svg/960px-Clubland_TV_Logo_2022.svg.png",
+    "stream_url": "http://bore.pub:40823/live.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ClublandTV.uk",
+      "feed": "SD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "1855",
+      "site_name": "Clubland TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://aatw.com/",
+    "launched": "2008-01-28",
+    "closed": null
+  },
+  {
     "id": "CNBCUK.uk",
     "name": "CNBC UK",
     "alt_names": [],
@@ -11973,37 +11973,6 @@
     },
     "website": "http://www.nick.co.uk/",
     "launched": "1993-09-01",
-    "closed": null
-  },
-  {
-    "id": "NickelodeonGlobal.uk",
-    "name": "Nickelodeon Global",
-    "alt_names": [
-      "Nickelodeon CEE",
-      "Nickelodeon Europe"
-    ],
-    "network": "Nickelodeon",
-    "owners": [
-      "Paramount Networks EMEAA"
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
-    "stream_url": "http://46.149.191.217:9011/play/a018",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.nick.com/global",
-    "launched": "1998-11-15",
     "closed": null
   },
   {

@@ -5085,42 +5085,6 @@
     "closed": null
   },
   {
-    "id": "LaOtra.es",
-    "name": "LaOtra",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Radio Television Madrid"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/960px-La_Otra_logo_%282017%29.svg.png",
-    "stream_url": "https://laotra-1-23-secure2.akamaized.net/master.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "LaOtra.es",
-      "feed": "SD",
-      "site": "gatotv.com",
-      "site_id": "laotra",
-      "site_name": "Canal laOtra",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.telemadrid.es/",
-    "launched": "2001-03-19",
-    "closed": null
-  },
-  {
     "id": "LaUrbanTV.es",
     "name": "La Urban TV",
     "alt_names": [],
@@ -6017,32 +5981,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://ondacadiz.es/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "OndaMadrid.es",
-    "name": "Onda Madrid",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Q1YwYsR.png",
-    "stream_url": "https://tvradio-1-23-secure2.akamaized.net/master.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.telemadrid.es/onda-madrid/",
     "launched": null,
     "closed": null
   },
@@ -8283,12 +8221,9 @@
     "closed": null
   },
   {
-    "id": "TelemadridINT.es",
-    "name": "Telemadrid INT",
-    "alt_names": [
-      "Telemadrid Internacional",
-      "Telemadrid SAT"
-    ],
+    "id": "Telemadrid.es",
+    "name": "Telemadrid",
+    "alt_names": [],
     "network": null,
     "owners": [
       "Radio Televisión Madrid"
@@ -8297,20 +8232,26 @@
     "country_name": "Spain",
     "subdivision": null,
     "city": null,
-    "categories": [
-      "general"
-    ],
+    "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TeleMadrid_INT_Logo.jpg/960px-TeleMadrid_INT_Logo.jpg",
-    "stream_url": "https://new-international-23-secure2.akamaized.net/index.m3u8",
-    "stream_quality": "720p",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/960px-TeleMadrid.svg.png",
+    "stream_url": "https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/playlist-hls.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
-    "website": "https://telemadrid.es",
-    "launched": null,
+    "tv_guide": {
+      "channel": "Telemadrid.es",
+      "feed": "SD",
+      "site": "tv.sfr.fr",
+      "site_id": "3572",
+      "site_name": "TELE MADRID",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": null,
+    "launched": "1989-05-02",
     "closed": null
   },
   {

@@ -705,6 +705,42 @@
     "closed": null
   },
   {
+    "id": "DikhTV.hu",
+    "name": "Dikh TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Első Roma Média Kft."
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/aAcORTL.png",
+    "stream_url": "http://88.212.15.19/live/dikh/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DikhTV.hu",
+      "feed": "SD",
+      "site": "musor.tv",
+      "site_id": "DIKH_TV",
+      "site_name": "Dikh TV (HD)",
+      "lang": "hu",
+      "sources": []
+    },
+    "website": "https://www.dikhtv.hu/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "DisneyChannel.hu",
     "name": "Disney Channel",
     "alt_names": [],
@@ -2902,6 +2938,32 @@
       "sources": []
     },
     "website": "https://rtl.hu",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RTLOtthon.hu",
+    "name": "RTL Otthon",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RTL_Otthon.svg/1920px-RTL_Otthon.svg.png",
+    "stream_url": "http://88.212.15.19/live/rtl_otthon_atk/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },

@@ -479,6 +479,45 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/NfnAiTR.png",
+    "stream_url": "http://stream.mcquack.net/70/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "365daysTV.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "975",
+      "site_name": "365 дней ТВ",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.365days.ru/",
+    "launched": "2006-01-17",
+    "closed": null
+  },
+  {
+    "id": "365daysTV.ru",
+    "name": "365 days TV",
+    "alt_names": [
+      "365 дней ТВ"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media",
+      "Red Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NfnAiTR.png",
     "stream_url": "http://31.148.48.15/365_dney/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -628,6 +667,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://abaza.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Afontovo.ru",
+    "name": "Afontovo",
+    "alt_names": [
+      "Афонтово"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/StFfPaI.png",
+    "stream_url": "https://stream.afontovo.ru/hd.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://afontovo.ru/",
     "launched": null,
     "closed": null
   },
@@ -876,6 +943,42 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/i2AP0hp.png",
     "stream_url": "http://46.32.176.50/anitv/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Ani.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2042",
+      "site_name": "Ani",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://ani.tlum.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Ani.ru",
+    "name": "Ani",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "VGTRK"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/i2AP0hp.png",
+    "stream_url": "http://stream.mcquack.net/306/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -1574,6 +1677,78 @@
     "closed": null
   },
   {
+    "id": "Blokbaster.ru",
+    "name": "Blokbaster",
+    "alt_names": [
+      "Блокбастер"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KcOi4Os.png",
+    "stream_url": "http://stream.mcquack.net/364/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Blokbaster.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "3157",
+      "site_name": "Блокбастер",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.tricolor.tv/channels/blokbaster/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BoksTV.ru",
+    "name": "Boks TV",
+    "alt_names": [
+      "Бокс ТВ"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/R1UjyfX.png",
+    "stream_url": "http://stream.mcquack.net/154/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BoksTV.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1851",
+      "site_name": "Бокс ТВ",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://boxingtv.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BoksTV.ru",
     "name": "Boks TV",
     "alt_names": [
@@ -1665,6 +1840,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/qYObfrG.png",
+    "stream_url": "http://stream.mcquack.net/318/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BRIDGE.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "853",
+      "site_name": "BRIDGE TV",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://bridgetv.ru/show-player/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BRIDGE.ru",
+    "name": "BRIDGE",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Bridge Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/qYObfrG.png",
     "stream_url": "http://31.148.48.15/Bridge_TV/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -1680,6 +1891,43 @@
       "sources": []
     },
     "website": "https://bridgetv.ru/show-player/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BRIDGEClassic.ru",
+    "name": "BRIDGE Classic",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Bridge Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "classic",
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/JJTQq81.png",
+    "stream_url": "http://stream.mcquack.net/272/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BRIDGEClassic.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1831",
+      "site_name": "BRIDGE TV CLASSIC",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://bridgetv.ru/brands/bridgetv_classic/",
     "launched": null,
     "closed": null
   },
@@ -1789,6 +2037,42 @@
       "sources": []
     },
     "website": "https://bridgetv.ru/brands/bridgehd/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BRIDGEHits.ru",
+    "name": "BRIDGE Hits",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Bridge Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sIW9oR4.png",
+    "stream_url": "http://stream.mcquack.net/320/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BRIDGEHits.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1716",
+      "site_name": "BRIDGE TV HITS",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://bridgetv.ru/brands/bridgetv_dance/",
     "launched": null,
     "closed": null
   },
@@ -1959,6 +2243,46 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/4wmnx1W.png",
     "stream_url": "https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Carousel.ru",
+      "feed": "SD",
+      "site": "tv2go.t-2.net",
+      "site_id": "1000273",
+      "site_name": "Karousel",
+      "lang": "sl",
+      "sources": []
+    },
+    "website": "https://www.karusel-tv.ru/",
+    "launched": "2010-12-27",
+    "closed": null
+  },
+  {
+    "id": "Carousel.ru",
+    "name": "Carousel",
+    "alt_names": [
+      "Карусель",
+      "Karusel"
+    ],
+    "network": null,
+    "owners": [
+      "Digital telefamily",
+      "VGTRK"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4wmnx1W.png",
+    "stream_url": "http://stream.mcquack.net/120/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -2938,6 +3262,49 @@
     "is_nsfw": false,
     "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/pervyj-hd.png",
     "stream_url": "http://178.217.49.7/1/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ChannelOne.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "850",
+      "site_name": "Первый канал",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.1tv.ru/",
+    "launched": "1938-03-09",
+    "closed": null
+  },
+  {
+    "id": "ChannelOne.ru",
+    "name": "Channel One",
+    "alt_names": [
+      "Первый канал",
+      "Pervyy Kanal",
+      "First Channel",
+      "Channel 1 Ostankino",
+      "Public Russian Television",
+      "ORT"
+    ],
+    "network": null,
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/pervyj-hd.png",
+    "stream_url": "http://45.153.24.78:80/1TV/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -4103,6 +4470,40 @@
     "closed": null
   },
   {
+    "id": "DaVinci.ru",
+    "name": "Da Vinci",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/iBx7K1M.png",
+    "stream_url": "http://stream.mcquack.net/238/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DaVinci.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1229",
+      "site_name": "Da Vinci",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://viju.ru/telekanaly/da-vinci/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "DenPobedy.ru",
     "name": "Den Pobedy",
     "alt_names": [
@@ -4236,6 +4637,42 @@
       "sources": []
     },
     "website": "https://dikoe.tv/channels/dikaya-okhota-hd.html",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Dikayarybalka.ru",
+    "name": "Dikaya rybalka",
+    "alt_names": [
+      "Дикая рыбалка"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "outdoor"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/e3BFVgt.png",
+    "stream_url": "http://stream.mcquack.net/275/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Dikayarybalka.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2615",
+      "site_name": "Дикая рыбалка",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://dikoe.tv/channels/dikaya-rybalka-hd.html",
     "launched": null,
     "closed": null
   },
@@ -4455,6 +4892,45 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/WaLwOyt.jpeg",
+    "stream_url": "http://stream.mcquack.net/227/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Domashniy.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1051",
+      "site_name": "Dомашний",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://domashniy.ru/",
+    "launched": "2005-01-01",
+    "closed": null
+  },
+  {
+    "id": "Domashniy.ru",
+    "name": "Domashniy",
+    "alt_names": [
+      "Dомашний",
+      "Домашний"
+    ],
+    "network": null,
+    "owners": [
+      "STS Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/WaLwOyt.jpeg",
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/17.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -4611,6 +5087,45 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png",
+    "stream_url": "http://stream.mcquack.net/236/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Domkino.ru",
+      "feed": "SD",
+      "site": "tv2go.t-2.net",
+      "site_id": "1000274",
+      "site_name": "Dom Kino",
+      "lang": "sl",
+      "sources": []
+    },
+    "website": "http://www.domkino.tv/",
+    "launched": "2005-12-01",
+    "closed": null
+  },
+  {
+    "id": "Domkino.ru",
+    "name": "Dom kino",
+    "alt_names": [
+      "Дом кино"
+    ],
+    "network": null,
+    "owners": [
+      "Government of the Russian Federation",
+      "Digital telefamily"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png",
     "stream_url": "https://streaming.thestream.cyou/live/44.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -4627,6 +5142,45 @@
     },
     "website": "http://www.domkino.tv/",
     "launched": "2005-12-01",
+    "closed": null
+  },
+  {
+    "id": "DomkinoPremium.ru",
+    "name": "Dom kino Premium",
+    "alt_names": [
+      "Дом кино Премиум"
+    ],
+    "network": null,
+    "owners": [
+      "Government of the Russian Federation",
+      "Digital telefamily"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/rJpQtvK.png",
+    "stream_url": "http://stream.mcquack.net/108/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DomkinoPremium.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1991",
+      "site_name": "Дом Кино Премиум",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.domkino-premium.tv/",
+    "launched": "2015-04-07",
     "closed": null
   },
   {
@@ -4932,6 +5486,32 @@
     "closed": null
   },
   {
+    "id": "Dushevnoe.ru",
+    "name": "Dushevnoe",
+    "alt_names": [
+      "Душевное"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/vTRHAvD.png",
+    "stream_url": "http://stream.mcquack.net/213/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.tricolor.tv/channels/dushevnoe/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "EnglishClass.ru",
     "name": "English Class",
     "alt_names": [
@@ -5056,6 +5636,42 @@
       "sources": []
     },
     "website": "https://eurasia.orsk.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "EuropaPlusTV.ru",
+    "name": "Europa Plus TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Red Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/GLc4qrc.png",
+    "stream_url": "http://stream.mcquack.net/184/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EuropaPlusTV.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2457",
+      "site_name": "Europa Plus TV",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://europaplustv.com/",
     "launched": null,
     "closed": null
   },
@@ -5425,6 +6041,37 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/tXABQDE.png",
+    "stream_url": "http://stream.mcquack.net/317/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://fonmusic.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FonMusic.ru",
+    "name": "Fon Music",
+    "alt_names": [
+      "TNT Music",
+      "ТНТ Music"
+    ],
+    "network": null,
+    "owners": [
+      "ООО Фонбет ТВ"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/tXABQDE.png",
     "stream_url": "https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -5464,6 +6111,45 @@
     "tv_guide": null,
     "website": "https://fonmusic.ru/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FoodTime.ru",
+    "name": "FoodTime",
+    "alt_names": [
+      "Еда Премиум",
+      "Еда HD"
+    ],
+    "network": null,
+    "owners": [
+      "First TVCH"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "cooking"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/gxCYAwH.png",
+    "stream_url": "http://stream.mcquack.net/216/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FoodTime.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "981",
+      "site_name": "FoodTime",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.tveda.ru/tv/",
+    "launched": "2012-01-01",
     "closed": null
   },
   {
@@ -5746,6 +6432,45 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://antifriz.tv/storage/images/pack_logos/71e74d77d2a9f55f496870623e5f7203.png",
+    "stream_url": "http://stream.mcquack.net/181/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Friday.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1671",
+      "site_name": "Пятница!",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://friday.ru/",
+    "launched": "1998-09-26",
+    "closed": null
+  },
+  {
+    "id": "Friday.ru",
+    "name": "Friday!",
+    "alt_names": [
+      "Пятница!",
+      "Pyanitsa!"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://antifriz.tv/storage/images/pack_logos/71e74d77d2a9f55f496870623e5f7203.png",
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/19.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -5907,6 +6632,42 @@
     "closed": null
   },
   {
+    "id": "Groznyj.ru",
+    "name": "Groznyj",
+    "alt_names": [
+      "Грозный"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/yrN0Vl6.png",
+    "stream_url": "https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Groznyj.ru",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "grozny",
+      "site_name": "Грозный",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://grozny.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "GuberniaSamara.ru",
     "name": "Gubernia Samara",
     "alt_names": [
@@ -5993,6 +6754,40 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/lbViDuC.png",
     "stream_url": "https://live-3.otcnet.ru/GulliGirl/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GulliGirl.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1326",
+      "site_name": "Gulli Girl",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://www.gulli.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "GulliGirl.ru",
+    "name": "Gulli Girl",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/lbViDuC.png",
+    "stream_url": "http://stream.mcquack.net/305/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -6446,6 +7241,45 @@
     "closed": null
   },
   {
+    "id": "IndiyskoyeKino.ru",
+    "name": "Indiyskoye Kino",
+    "alt_names": [
+      "Индийское кино",
+      "Indijskoe Kino"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/LL8GyCh.png",
+    "stream_url": "http://stream.mcquack.net/104/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "IndiyskoyeKino.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "833",
+      "site_name": "Индийское кино",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.nastroykino.ru/indijskoe-kino/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Ingushetia.ru",
     "name": "Ingushetia",
     "alt_names": [
@@ -6676,6 +7510,42 @@
     "closed": null
   },
   {
+    "id": "KapitanFantastika.ru",
+    "name": "Kapitan Fantastika",
+    "alt_names": [
+      "Капитан Фантастика"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/K3PSHiT.png",
+    "stream_url": "http://stream.mcquack.net/144/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "KapitanFantastika.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2011",
+      "site_name": "Капитан Фантастика",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://kapitanfan.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Kavkaz24.ru",
     "name": "Kavkaz 24",
     "alt_names": [
@@ -6731,6 +7601,42 @@
     "logo": "https://i.imgur.com/RgdHdOV.png",
     "stream_url": "https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "KHL.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "905",
+      "site_name": "Телеканал КХЛ",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.khl.ru/tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "KHL.ru",
+    "name": "KHL",
+    "alt_names": [
+      "КХЛ"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/RgdHdOV.png",
+    "stream_url": "http://stream.mcquack.net/166/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -7006,6 +7912,83 @@
     "closed": null
   },
   {
+    "id": "KinoHit.ru",
+    "name": "KinoHit",
+    "alt_names": [
+      "Кинохит"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Ge8vkQM.png",
+    "stream_url": "http://stream.mcquack.net/126/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "KinoHit.ru",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "kinoxit",
+      "site_name": "Кинохит",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.nastroykino.ru/kinohit/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Kinokomedija.ru",
+    "name": "Kinokomedija",
+    "alt_names": [
+      "Кинокомедия",
+      "Kinokomedia"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/dVjtth0.png",
+    "stream_url": "http://stream.mcquack.net/265/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Kinokomedija.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1083",
+      "site_name": "Кинокомедия",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.nastroykino.ru/kinokomedija/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Kinomix.ru",
     "name": "Kinomix",
     "alt_names": [
@@ -7027,6 +8010,45 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/D4q2XUT.png",
     "stream_url": "http://93.170.254.17/Kinomiks/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Kinomix.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1134",
+      "site_name": "Киномикс",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.nastroykino.ru/kinomiks/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Kinomix.ru",
+    "name": "Kinomix",
+    "alt_names": [
+      "Kinomiks",
+      "Киномикс"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/D4q2XUT.png",
+    "stream_url": "http://stream.mcquack.net/133/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -7100,6 +8122,42 @@
     "logo": "https://i.imgur.com/nNjMyAq.png",
     "stream_url": "https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Kinopokaz.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2875",
+      "site_name": "Кинопоказ",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://www.kinopokaz.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Kinopokaz.ru",
+    "name": "Kinopokaz",
+    "alt_names": [
+      "Кинопоказ"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nNjMyAq.png",
+    "stream_url": "http://stream.mcquack.net/64/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -7269,6 +8327,44 @@
     "closed": null
   },
   {
+    "id": "Kinosemja.ru",
+    "name": "Kinosemja",
+    "alt_names": [
+      "Киносемья"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4BF5VeK.png",
+    "stream_url": "http://stream.mcquack.net/170/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Kinosemja.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1651",
+      "site_name": "Киносемья",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.nastroykino.ru/kinosemja/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Kinoseriya.ru",
     "name": "Kinoseriya",
     "alt_names": [
@@ -7384,6 +8480,44 @@
     "closed": null
   },
   {
+    "id": "Kinosvidanie.ru",
+    "name": "Kinosvidanie",
+    "alt_names": [
+      "Киносвидание"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ZRaWqxj.png",
+    "stream_url": "http://stream.mcquack.net/171/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Kinosvidanie.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1159",
+      "site_name": "Киносвидание",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.nastroykino.ru/kinosvidanie/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "KinoTV.ru",
     "name": "Kino TV",
     "alt_names": [
@@ -7479,6 +8613,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/sMpamNO.png",
+    "stream_url": "http://stream.mcquack.net/221/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "KinoTV.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1653",
+      "site_name": "Кино ТВ",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://kinotoday.ru/",
+    "launched": "2012-01-01",
+    "closed": null
+  },
+  {
+    "id": "KinoTV.ru",
+    "name": "Kino TV",
+    "alt_names": [
+      "Кино ТВ"
+    ],
+    "network": null,
+    "owners": [
+      "Signal Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sMpamNO.png",
     "stream_url": "http://31.148.48.15/Kino_TV_HD/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -7533,6 +8705,44 @@
     },
     "website": "https://kinotoday.ru/",
     "launched": "2012-01-01",
+    "closed": null
+  },
+  {
+    "id": "Kinouzhas.ru",
+    "name": "Kinouzhas",
+    "alt_names": [
+      "Киноужас"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/mAcAAQF.png",
+    "stream_url": "http://stream.mcquack.net/278/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Kinouzhas.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "3108",
+      "site_name": "Киноужас",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.nastroykino.ru/kinouzhas/",
+    "launched": null,
     "closed": null
   },
   {
@@ -7613,6 +8823,42 @@
     "closed": null
   },
   {
+    "id": "Komediynoe.ru",
+    "name": "Komediynoe",
+    "alt_names": [
+      "Комедийное"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/cEKe8XC.png",
+    "stream_url": "http://stream.mcquack.net/74/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Komediynoe.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1070",
+      "site_name": "Комедийное HD",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.tricolor.tv/channels/komediynoe/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "KongressTV.ru",
     "name": "Kongress TV",
     "alt_names": [
@@ -7631,6 +8877,34 @@
     "is_nsfw": false,
     "logo": "https://tvcongress.ru/bitrix/templates/mbntheme/img/logo_tvc.svg",
     "stream_url": "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://tvcongress.ru/",
+    "launched": "2024-03-01",
+    "closed": null
+  },
+  {
+    "id": "KongressTV.ru",
+    "name": "Kongress TV",
+    "alt_names": [
+      "Конгресс ТВ"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://tvcongress.ru/bitrix/templates/mbntheme/img/logo_tvc.svg",
+    "stream_url": "https://live-3.otcnet.ru/congresstv/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -7749,6 +9023,38 @@
     },
     "website": "https://kuban24.tv/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Kuhnya.ru",
+    "name": "Kuhnya",
+    "alt_names": [
+      "Кухня",
+      "Kuhnya"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media",
+      "Red Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "cooking"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://cdn2.red-media.ru/wp-content/uploads/2016/08/Kuhnya-mediakit.png",
+    "stream_url": "http://stream.mcquack.net/179/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.kuhnyatv.ru/",
+    "launched": "2007-09-15",
     "closed": null
   },
   {
@@ -8492,6 +9798,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/DogOkA4.png",
+    "stream_url": "http://stream.mcquack.net/112/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MatchBoets.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1143",
+      "site_name": "МАТЧ! Боец",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://matchtv.ru/channel/boec",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MatchBoets.ru",
+    "name": "Match! Boets",
+    "alt_names": [
+      "Матч! Боец"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/DogOkA4.png",
     "stream_url": "http://31.148.48.15/Match_Boec/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -8507,6 +9851,44 @@
       "sources": []
     },
     "website": "https://matchtv.ru/channel/boec",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MatchIgra.ru",
+    "name": "Match! Igra",
+    "alt_names": [
+      "Матч! Игра"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5XWpF19.png",
+    "stream_url": "http://stream.mcquack.net/188/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MatchIgra.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2122",
+      "site_name": "МАТЧ! Игра",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://matchtv.ru/channel/igra",
     "launched": null,
     "closed": null
   },
@@ -8607,6 +9989,44 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/X02s2UE.png",
     "stream_url": "http://ukr.ukrainske.tv/134/keytvainua/video.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MatchStrana.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2470",
+      "site_name": "МАТЧ! Страна",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://matchtv.ru/channel/strana",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MatchStrana.ru",
+    "name": "Match! Strana",
+    "alt_names": [
+      "Матч! Страна"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/X02s2UE.png",
+    "stream_url": "http://stream.mcquack.net/143/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -9430,6 +10850,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/AqWaJT8.png",
+    "stream_url": "http://45.153.24.78:80/MIR/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Mir.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "717",
+      "site_name": "МИР",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://mirtv.ru/",
+    "launched": "1992-10-09",
+    "closed": null
+  },
+  {
+    "id": "Mir.ru",
+    "name": "Mir",
+    "alt_names": [
+      "Мир"
+    ],
+    "network": null,
+    "owners": [
+      "Commonwealth of Independent States"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/AqWaJT8.png",
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/22.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -9741,6 +11199,42 @@
     "closed": null
   },
   {
+    "id": "MosfilmGoldCollection.ru",
+    "name": "Mosfilm Gold Collection",
+    "alt_names": [
+      "Мосфильм Золотая коллекция"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/95Y8jb6.png",
+    "stream_url": "http://stream.mcquack.net/369/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MosfilmGoldCollection.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "3161",
+      "site_name": "Мосфильм. Золотая коллекция",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://mosfilmgold.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Moskva24.ru",
     "name": "Moskva 24",
     "alt_names": [
@@ -9914,6 +11408,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/uIiAdBv.png",
+    "stream_url": "http://stream.mcquack.net/124/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MoyaPlaneta.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1334",
+      "site_name": "Моя Планета",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.moya-planeta.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MoyaPlaneta.ru",
+    "name": "Moya Planeta",
+    "alt_names": [
+      "Моя Планета"
+    ],
+    "network": null,
+    "owners": [
+      "VGTRK"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "outdoor"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/uIiAdBv.png",
     "stream_url": "http://31.148.48.15/Moya_Planeta_HD/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -10027,6 +11559,44 @@
     "tv_guide": null,
     "website": "https://xn--b1ats.xn--80asehdb/",
     "launched": "1993-08-11",
+    "closed": null
+  },
+  {
+    "id": "Mult.ru",
+    "name": "Mult",
+    "alt_names": [
+      "Мульт"
+    ],
+    "network": null,
+    "owners": [
+      "VGTRK"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/xi351Fx.png",
+    "stream_url": "http://stream.mcquack.net/232/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Mult.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1825",
+      "site_name": "Мульт",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://mult-channel.ru/",
+    "launched": "2014-06-01",
     "closed": null
   },
   {
@@ -10341,6 +11911,45 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/SYt6BZP.png",
+    "stream_url": "http://stream.mcquack.net/82/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Multimuzyka.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2325",
+      "site_name": "Мультимузыка",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://mult-music.tlum.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Multimuzyka.ru",
+    "name": "Mult i muzyka",
+    "alt_names": [
+      "Мультимузыка",
+      "Мульт и музыка"
+    ],
+    "network": null,
+    "owners": [
+      "VGTRK"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/SYt6BZP.png",
     "stream_url": "http://31.148.48.15/Multimuzika/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -10356,6 +11965,45 @@
       "sources": []
     },
     "website": "https://mult-music.tlum.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Muzhskoekino.ru",
+    "name": "Muzhskoe kino",
+    "alt_names": [
+      "Мужское кино",
+      "Interesnoe TV"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/8RN3tQC.png",
+    "stream_url": "http://stream.mcquack.net/107/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Muzhskoekino.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2044",
+      "site_name": "Мужское кино",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.nastroykino.ru/muzhskoe-kino/",
     "launched": null,
     "closed": null
   },
@@ -10524,6 +12172,44 @@
     "logo": "https://i.imgur.com/BtqrHmz.png",
     "stream_url": "https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MuzTV.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1111",
+      "site_name": "МУЗ ТВ",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://muz-tv.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MuzTV.ru",
+    "name": "Muz-TV",
+    "alt_names": [
+      "Муз-ТВ"
+    ],
+    "network": null,
+    "owners": [
+      "Media-1"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/BtqrHmz.png",
+    "stream_url": "http://stream.mcquack.net/86/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -11066,6 +12752,42 @@
     "closed": null
   },
   {
+    "id": "Nashemuzhskoe.ru",
+    "name": "Nashe muzhskoe",
+    "alt_names": [
+      "Наше мужское"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/QRWKpmb.png",
+    "stream_url": "http://stream.mcquack.net/362/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Nashemuzhskoe.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "3156",
+      "site_name": "Наше мужское",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.tricolor.tv/channels/nashe-muzhskoe/",
+    "launched": "2020-02-03",
+    "closed": null
+  },
+  {
     "id": "NasheNovoeKino.ru",
     "name": "Nashe Novoe Kino",
     "alt_names": [
@@ -11273,6 +12995,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ZZxzueO.png",
+    "stream_url": "http://stream.mcquack.net/125/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Nauka.ru",
+      "feed": "SD",
+      "site": "magticom.ge",
+      "site_id": "258",
+      "site_name": "Наука 2.0",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://naukatv.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Nauka.ru",
+    "name": "Nauka",
+    "alt_names": [
+      "Наука"
+    ],
+    "network": null,
+    "owners": [
+      "VGTRK"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ZZxzueO.png",
     "stream_url": "http://31.148.48.15/Nauka_2.0/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -11374,6 +13134,40 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
     "stream_url": "https://stream8.cinerama.uz/1501/playlist.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NickJr.ru",
+      "feed": "SD",
+      "site": "magticom.ge",
+      "site_id": "171",
+      "site_name": "Nick Jr.",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://jr.nickelodeon.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NickJr.ru",
+    "name": "Nick Jr.",
+    "alt_names": [],
+    "network": "Nickelodeon",
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+    "stream_url": "http://stream.mcquack.net/220/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -11769,6 +13563,43 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/uv2yxa5.png",
     "stream_url": "https://vod.tuva.ru/nst/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NST.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "929",
+      "site_name": "Настоящее Страшное Телевидение",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://strashnoe.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NST.ru",
+    "name": "NST",
+    "alt_names": [
+      "НСТ",
+      "Настоящее Страшное Телевидение"
+    ],
+    "network": null,
+    "owners": [
+      "VGTRK"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/uv2yxa5.png",
+    "stream_url": "http://stream.mcquack.net/207/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -12321,6 +14152,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png",
+    "stream_url": "http://45.153.24.78:80/NTV/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NTV.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1395",
+      "site_name": "НТВ",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.ntv.ru/",
+    "launched": "1967-11-04",
+    "closed": null
+  },
+  {
+    "id": "NTV.ru",
+    "name": "NTV",
+    "alt_names": [
+      "НТВ"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://real.su/wp-content/uploads/2019/12/%D0%9D%D0%A2%D0%92_HD-20220826-123641.png",
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/7.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -12646,6 +14515,44 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/QdVa8tl.png",
     "stream_url": "https://cdn-dvr.ntv.ru/th_serial/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NTVSeries.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2215",
+      "site_name": "НТВ Сериал",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.ntv.ru/air/ntvseries/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NTVSeries.ru",
+    "name": "NTV Series",
+    "alt_names": [
+      "НТВ Сериал"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/QdVa8tl.png",
+    "stream_url": "http://stream.mcquack.net/301/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -13166,6 +15073,90 @@
     "closed": null
   },
   {
+    "id": "OkkoFutbol.ru",
+    "name": "Okko Futbol",
+    "alt_names": [
+      "Okko Футбол"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png",
+    "stream_url": "http://stream.mcquack.net/491/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "OkkoPrajmSport.ru",
+    "name": "Okko Prajm Sport",
+    "alt_names": [
+      "Okko Прайм Спорт"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/kQq5DMU.png",
+    "stream_url": "http://stream.mcquack.net/493/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "OkkoSport.ru",
+    "name": "Okko Sport",
+    "alt_names": [
+      "Okko Спорт"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/SYOaOQc.png",
+    "stream_url": "http://stream.mcquack.net/492/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "OsetiyaIryston.ru",
     "name": "Osetiya-Iryston",
     "alt_names": [
@@ -13228,6 +15219,42 @@
     "tv_guide": null,
     "website": "https://www.osnmedia.ru/tv/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Ostrosyuzhetnoye.ru",
+    "name": "Ostrosyuzhetnoye",
+    "alt_names": [
+      "Остросюжетное"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NwQ7GBy.png",
+    "stream_url": "http://stream.mcquack.net/214/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Ostrosyuzhetnoye.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2979",
+      "site_name": "Остросюжетное SD",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.tricolor.tv/channels/ostrosyuzhetnoe-sd/",
+    "launched": "2013-09-01",
     "closed": null
   },
   {
@@ -13498,6 +15525,44 @@
     "tv_guide": null,
     "website": "https://patriotkanal.ru/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PeretzInternational.ru",
+    "name": "Peretz International",
+    "alt_names": [
+      "Перец International"
+    ],
+    "network": null,
+    "owners": [
+      "STS Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/On6ggLe.png",
+    "stream_url": "http://stream.mcquack.net/121/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PeretzInternational.ru",
+      "feed": "SD",
+      "site": "magticom.ge",
+      "site_id": "220",
+      "site_name": "Перец",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://www.ctcmedia.ru/business/peretz_int/",
+    "launched": "2013-10-15",
     "closed": null
   },
   {
@@ -13805,6 +15870,40 @@
       "sources": []
     },
     "website": "https://www.tricolor.tv/channels/premialnoe-sd/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Priklyucheniya.ru",
+    "name": "Priklyucheniya",
+    "alt_names": [
+      "Приключения"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/qQ6pPPQ.png",
+    "stream_url": "http://stream.mcquack.net/198/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Priklyucheniya.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "1250",
+      "site_name": "Приключения HD",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://xn--e1afbgfnji0e9cp.tv/",
     "launched": null,
     "closed": null
   },
@@ -14667,6 +16766,42 @@
     "closed": null
   },
   {
+    "id": "red.ru",
+    "name": ".red",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Media Telecom"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/GET9Qut.png",
+    "stream_url": "http://stream.mcquack.net/69/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "red.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1085",
+      "site_name": ".red",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://mt.media/channels/red/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RedLine.ru",
     "name": "Red Line",
     "alt_names": [
@@ -14982,6 +17117,42 @@
     "logo": "https://i.imgur.com/H70LxoZ.png",
     "stream_url": "https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RodnoeKino.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1103",
+      "site_name": "Родное кино",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.nastroykino.ru/rodnoe-kino/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RodnoeKino.ru",
+    "name": "Rodnoe Kino",
+    "alt_names": [
+      "Родное Кино"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/H70LxoZ.png",
+    "stream_url": "http://stream.mcquack.net/242/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -16577,6 +18748,44 @@
     "is_nsfw": false,
     "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1271",
+      "site_name": "Россия 1",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -18438,310 +20647,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
-    "stream_url": "http://31.148.48.15/Rossiya_1/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1271",
-      "site_name": "Россия 1",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
-    "stream_url": "http://41.223.30.230/RUSSIA1/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1271",
-      "site_name": "Россия 1",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
-    "stream_url": "https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1271",
-      "site_name": "Россия 1",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
-    "stream_url": "http://109.207.243.18/2/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1271",
-      "site_name": "Россия 1",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1271",
-      "site_name": "Россия 1",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1271",
-      "site_name": "Россия 1",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1271",
-      "site_name": "Россия 1",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1271",
-      "site_name": "Россия 1",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -18856,6 +20761,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
+    "stream_url": "http://31.148.48.15/Rossiya_1/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1271",
+      "site_name": "Россия 1",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -18934,6 +20877,120 @@
     "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1271",
+      "site_name": "Россия 1",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
+    "stream_url": "http://41.223.30.230/RUSSIA1/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1271",
+      "site_name": "Россия 1",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
+    "stream_url": "https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia1.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1271",
+      "site_name": "Россия 1",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://russia.tv/",
+    "launched": "1991-05-13",
+    "closed": null
+  },
+  {
+    "id": "Russia1.ru",
+    "name": "Russia-1",
+    "alt_names": [
+      "Россия-1"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
+    "stream_url": "http://109.207.243.18/2/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -25850,8 +27907,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png",
-    "stream_url": "http://94.230.129.31:8080/Rossia_K/index.m3u8",
-    "stream_quality": "576p",
+    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -25889,8 +27946,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png",
-    "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "http://94.230.129.31:8080/Rossia_K/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -26008,6 +28065,45 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png",
     "stream_url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RussiaK.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1169",
+      "site_name": "Культура",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://smotrim.ru/pick/kultura",
+    "launched": "1997-11-01",
+    "closed": null
+  },
+  {
+    "id": "RussiaK.ru",
+    "name": "Russia-K",
+    "alt_names": [
+      "Россия-К",
+      "Культура"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png",
+    "stream_url": "http://stream.mcquack.net/229/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -26660,6 +28756,44 @@
     "logo": "https://rutv.by/wp-content/uploads/2020/09/logo.png",
     "stream_url": "https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RUTV.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1346",
+      "site_name": "Ru.TV",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://ru.tv/",
+    "launched": "2006-10-06",
+    "closed": null
+  },
+  {
+    "id": "RUTV.ru",
+    "name": "RU.TV",
+    "alt_names": [
+      "РУ.ТВ"
+    ],
+    "network": null,
+    "owners": [
+      "Russkaya Mediagruppa"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://rutv.by/wp-content/uploads/2020/09/logo.png",
+    "stream_url": "http://stream.mcquack.net/109/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -27376,6 +29510,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/nSSUHcg.png",
+    "stream_url": "http://stream.mcquack.net/180/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "scifi.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1249",
+      "site_name": ".sci-fi",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://mt.media/channels/sci-fi/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "scifi.ru",
+    "name": ".sci-fi",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Media Telecom"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "science"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nSSUHcg.png",
     "stream_url": "http://31.148.48.15/SONY_SCI_FI/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -27764,6 +29934,45 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.ntv.ru/serial/Shef",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Shokiruyushchee.ru",
+    "name": "Shokiruyushchee",
+    "alt_names": [
+      "Шокирующее",
+      "Shokiruyuschee",
+      "Kinopokaz HD",
+      "Kinopokaz HD-1"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/UG63hZ0.png",
+    "stream_url": "http://stream.mcquack.net/75/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Shokiruyushchee.ru",
+      "feed": "HD",
+      "site": "tv.mail.ru",
+      "site_id": "773",
+      "site_name": "Шокирующее HD",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.tricolor.tv/channels/shokiruyushchee/",
     "launched": null,
     "closed": null
   },
@@ -29599,6 +31808,45 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ilUzAeb.png",
+    "stream_url": "http://45.153.24.78:80/STS/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "STS.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1112",
+      "site_name": "СТС",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://ctc.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "STS.ru",
+    "name": "STS",
+    "alt_names": [
+      "СТС",
+      "CTC"
+    ],
+    "network": null,
+    "owners": [
+      "STS Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "family"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ilUzAeb.png",
     "stream_url": "https://streaming.televizor-24-tochka.ru/live/16.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -29833,6 +32081,46 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/o9kLpAL.png",
     "stream_url": "http://hls127.freeott.top:8080/STS_Kids/video.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "STSkids.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2383",
+      "site_name": "СТС Kids",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://ctckids.ru/",
+    "launched": "2018-07-06",
+    "closed": null
+  },
+  {
+    "id": "STSkids.ru",
+    "name": "STS kids",
+    "alt_names": [
+      "CTC kids",
+      "СТС kids"
+    ],
+    "network": null,
+    "owners": [
+      "STS Media",
+      "Media Telecom"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/o9kLpAL.png",
+    "stream_url": "http://stream.mcquack.net/197/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -30584,6 +32872,45 @@
     "closed": null
   },
   {
+    "id": "T24.ru",
+    "name": "T24",
+    "alt_names": [
+      "Т24",
+      "Техно 24",
+      "Tekhno 24",
+      "24 Tekhno"
+    ],
+    "network": null,
+    "owners": [
+      "VGTRK"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/1W6R14o.png",
+    "stream_url": "http://stream.mcquack.net/209/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "T24.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1944",
+      "site_name": "Техно 24",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://techno24.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Tamyr.ru",
     "name": "Tamyr",
     "alt_names": [
@@ -30950,6 +33277,42 @@
     "closed": null
   },
   {
+    "id": "TeleDom.ru",
+    "name": "TeleDom",
+    "alt_names": [
+      "ТелеДом"
+    ],
+    "network": null,
+    "owners": [
+      "Teledom"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/071JRrb.png",
+    "stream_url": "https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TeleDom.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1714",
+      "site_name": "Теледом",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.teledom.tv/",
+    "launched": "2012-01-01",
+    "closed": null
+  },
+  {
     "id": "TelekanalKrasnodar.ru",
     "name": "Telekanal Krasnodar",
     "alt_names": [
@@ -31246,6 +33609,40 @@
     "closed": null
   },
   {
+    "id": "TiJi.ru",
+    "name": "TiJi",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/QCOUJ30.png",
+    "stream_url": "http://stream.mcquack.net/111/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TiJi.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1354",
+      "site_name": "TiJi",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://tiji.ru/",
+    "launched": "2009-04-01",
+    "closed": null
+  },
+  {
     "id": "TipTop.ru",
     "name": "TipTop",
     "alt_names": [
@@ -31405,7 +33802,83 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/T4A6rEI.png",
+    "stream_url": "http://45.153.24.78:80/TNT/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TNT.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2287",
+      "site_name": "ТНТ",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://tnt-online.ru/",
+    "launched": "1998-01-01",
+    "closed": null
+  },
+  {
+    "id": "TNT.ru",
+    "name": "TNT",
+    "alt_names": [
+      "ТНТ"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/T4A6rEI.png",
     "stream_url": "http://94.230.129.31:8080/THT/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TNT.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2287",
+      "site_name": "ТНТ",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://tnt-online.ru/",
+    "launched": "1998-01-01",
+    "closed": null
+  },
+  {
+    "id": "TNT.ru",
+    "name": "TNT",
+    "alt_names": [
+      "ТНТ"
+    ],
+    "network": null,
+    "owners": [
+      "Gazprom Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/T4A6rEI.png",
+    "stream_url": "http://stream.mcquack.net/135/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -32147,6 +34620,37 @@
     },
     "website": "https://tv3.ru/",
     "launched": "1994-06-06",
+    "closed": null
+  },
+  {
+    "id": "TV21.ru",
+    "name": "TV 21",
+    "alt_names": [
+      "ТВ 21",
+      "TV XXI"
+    ],
+    "network": null,
+    "owners": [
+      "Media Telecom"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nSmSnH6.png",
+    "stream_url": "http://stream.mcquack.net/152/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://tv21m.ru/",
+    "launched": null,
     "closed": null
   },
   {
@@ -33241,6 +35745,83 @@
     "closed": null
   },
   {
+    "id": "Vgostyakhuskazki.ru",
+    "name": "V gostyakh u skazki",
+    "alt_names": [
+      "В гостях у сказки"
+    ],
+    "network": null,
+    "owners": [
+      "Time Media Group",
+      "Red Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/jNJkLHl.png",
+    "stream_url": "http://stream.mcquack.net/93/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Vgostyakhuskazki.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2212",
+      "site_name": "В гостях у сказки",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://skazka-tv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "vijuExplore.ru",
+    "name": "viju Explore",
+    "alt_names": [
+      "Viasat Explore Russia"
+    ],
+    "network": null,
+    "owners": [
+      "National Media Group"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/EGIpLPu.png",
+    "stream_url": "http://stream.mcquack.net/239/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "vijuExplore.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "800",
+      "site_name": "viju Explore",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://viju.ru/telekanaly/viju-explore/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "vijuHistory.ru",
     "name": "viju History",
     "alt_names": [
@@ -33261,6 +35842,44 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/FqWkeXb.png",
     "stream_url": "http://178.124.179.122:8080/HistoryHD/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "vijuHistory.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "736",
+      "site_name": "viju History",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://viju.ru/telekanaly/viju-history/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "vijuHistory.ru",
+    "name": "viju History",
+    "alt_names": [
+      "Viasat History Russia"
+    ],
+    "network": null,
+    "owners": [
+      "National Media Group"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/FqWkeXb.png",
+    "stream_url": "http://stream.mcquack.net/101/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -33313,6 +35932,199 @@
       "sources": []
     },
     "website": "https://viju.ru/telekanaly/viju-nature/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "vijuPlusComedy.ru",
+    "name": "viju+ Comedy",
+    "alt_names": [
+      "ViP Comedy",
+      "TV1000 Comedy"
+    ],
+    "network": null,
+    "owners": [
+      "National Media Group"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/YoNOFu7.png",
+    "stream_url": "http://stream.mcquack.net/201/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "vijuPlusComedy.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1598",
+      "site_name": "viju+ Comedy",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://viju.ru/telekanaly/vijuplus-comedy/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "vijuPlusMegahit.ru",
+    "name": "viju+ Megahit",
+    "alt_names": [
+      "TV1000 Megahit",
+      "ViP Megahit"
+    ],
+    "network": null,
+    "owners": [
+      "National Media Group"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/oIQNddV.png",
+    "stream_url": "http://stream.mcquack.net/200/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "vijuPlusMegahit.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1479",
+      "site_name": "viju+ Megahit",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://viju.ru/telekanaly/vijuplus-megahit/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "vijuPlusPlanet.ru",
+    "name": "viju+ Planet",
+    "alt_names": [
+      "Viasat Nature HD/Viasat History HD"
+    ],
+    "network": null,
+    "owners": [
+      "National Media Group"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9Weqdsk.png",
+    "stream_url": "http://stream.mcquack.net/240/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "vijuPlusPlanet.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1470",
+      "site_name": "viju+ Planet",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://viju.ru/telekanaly/vijuplus-planet/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "vijuPlusPremiere.ru",
+    "name": "viju+ Premiere",
+    "alt_names": [
+      "ViP Premiere",
+      "TV1000 Premium"
+    ],
+    "network": null,
+    "owners": [
+      "National Media Group"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/klRvhR5.png",
+    "stream_url": "http://stream.mcquack.net/202/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "vijuPlusPremiere.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "3270",
+      "site_name": "viju+ Premiere",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://viju.ru/telekanaly/vijuplus-premiere/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "vijuPlusSerial.ru",
+    "name": "viju+ Serial",
+    "alt_names": [
+      "ViP Serial"
+    ],
+    "network": null,
+    "owners": [
+      "National Media Group"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/8yXZET5.png",
+    "stream_url": "http://stream.mcquack.net/311/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "vijuPlusSerial.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2452",
+      "site_name": "viju+ Serial",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://viju.ru/telekanaly/vijuplus-serial/",
     "launched": null,
     "closed": null
   },
@@ -33393,6 +36205,44 @@
     "closed": null
   },
   {
+    "id": "vijuTV1000.ru",
+    "name": "viju TV1000",
+    "alt_names": [
+      "viju TV1000 Global Kino"
+    ],
+    "network": "Viasat",
+    "owners": [
+      "National Media Group"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ZMsyjSr.png",
+    "stream_url": "http://stream.mcquack.net/110/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "vijuTV1000.ru",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#tv1000-balkan",
+      "site_name": "Viasat Kino Balkan",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "https://viju.ru/telekanaly/viju-tv1000/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "vijuTV1000action.ru",
     "name": "viju TV1000 action",
     "alt_names": [
@@ -33414,6 +36264,44 @@
     "logo": "https://i.imgur.com/TMmyuzh.png",
     "stream_url": "https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "vijuTV1000action.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2710",
+      "site_name": "viju TV1000 action",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://viju.ru/telekanaly/viju-tv1000-action/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "vijuTV1000action.ru",
+    "name": "viju TV1000 action",
+    "alt_names": [
+      "TV1000 Action East"
+    ],
+    "network": "Viasat",
+    "owners": [
+      "National Media Group"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TMmyuzh.png",
+    "stream_url": "http://stream.mcquack.net/100/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -33763,6 +36651,40 @@
     "closed": null
   },
   {
+    "id": "Vmirezhivotnykh.ru",
+    "name": "V mire zhivotnykh",
+    "alt_names": [
+      "В мире животных"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6uotdVQ.png",
+    "stream_url": "http://stream.mcquack.net/241/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Vmirezhivotnykh.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1835",
+      "site_name": "В мире животных",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://www.animalfamily.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Volga.ru",
     "name": "Volga",
     "alt_names": [
@@ -33862,6 +36784,44 @@
     },
     "website": "https://volgograd24.tv/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VoprosyiOtvety.ru",
+    "name": "Voprosy i Otvety",
+    "alt_names": [
+      "Вопросы и ответы"
+    ],
+    "network": null,
+    "owners": [
+      "Stream"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/yjETxk1.png",
+    "stream_url": "http://stream.mcquack.net/76/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "VoprosyiOtvety.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1064",
+      "site_name": "Вопросы и ответы",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://tv-stream.ru/channels",
+    "launched": "2009-10-01",
     "closed": null
   },
   {
@@ -33976,6 +36936,42 @@
     "logo": "https://i.imgur.com/jZlj3ga.png",
     "stream_url": "https://tchaikovsky.af-stream.com:991/s/xzztutfc/vremya-hd/video.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Vremya.ru",
+      "feed": "SD",
+      "site": "tv2go.t-2.net",
+      "site_id": "1000276",
+      "site_name": "Vremya",
+      "lang": "sl",
+      "sources": []
+    },
+    "website": "https://www.vremya.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Vremya.ru",
+    "name": "Vremya",
+    "alt_names": [
+      "Время"
+    ],
+    "network": null,
+    "owners": [
+      "Digital telefamily"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/jZlj3ga.png",
+    "stream_url": "http://stream.mcquack.net/237/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -34312,6 +37308,44 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/41K9Y2s.png",
     "stream_url": "http://hls127.freeott.top:8080/Zhara/video.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Zhara.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "801",
+      "site_name": "Жара",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://zhara.tv/",
+    "launched": "2007-01-01",
+    "closed": null
+  },
+  {
+    "id": "Zhara.ru",
+    "name": "Zhara",
+    "alt_names": [
+      "Жара"
+    ],
+    "network": null,
+    "owners": [
+      "Red Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/41K9Y2s.png",
+    "stream_url": "http://stream.mcquack.net/386/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,

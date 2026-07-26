@@ -216,10 +216,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/FlG7npq.png",
-    "stream_url": "https://uys1g01.s.gy/1PLUS1_UKRAINE",
-    "stream_quality": null,
+    "stream_url": "http://stream.mcquack.net/219/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "1Plus1Ukraina.ua",
@@ -14217,7 +14217,7 @@
     "subdivision": null,
     "city": null,
     "categories": [
-      "general"
+      "religious"
     ],
     "languages": [],
     "is_nsfw": false,
@@ -17844,32 +17844,6 @@
       "sources": []
     },
     "website": "https://www.alghad.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "AlgoMediaTV.do",
-    "name": "Algo Media TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dominicanchannels.com/wp-content/uploads/algo-media.png",
-    "stream_url": "https://fox.hostlagarto.com:8081/algomediatv/tracks-v1a1/mono.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://dominicanchannels.com/algo-media-group/",
     "launched": null,
     "closed": null
   },
@@ -42514,6 +42488,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "stream_url": "https://sra72yz.s.gy/AXN_ASIA_VISION_PLUS",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXNAsia.sg",
+      "feed": "Indonesia",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000079",
+      "site_name": "AXN",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://www.axn-asia.com/",
+    "launched": "1997-09-21",
+    "closed": null
+  },
+  {
+    "id": "AXNAsia.sg",
+    "name": "AXN Asia",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "KC Global Media Singapore Pte. Ltd.",
+      "KC Global Media Entertainment LLC"
+    ],
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
     "stream_url": "https://play.wenxiang.cn/live/1a88465f153e1dd2108fd791bf4f25f7.flv",
     "stream_quality": "720p",
     "stream_format": null,
@@ -55910,34 +55922,6 @@
     "closed": null
   },
   {
-    "id": "BebetoTV.do",
-    "name": "Bebeto TV",
-    "alt_names": [
-      "El 75 TV"
-    ],
-    "network": "Canal del Sol",
-    "owners": [],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": null,
-    "stream_url": "https://mlb.essastream.com:8081/bebetotelevision/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://bebetohd.com/en-vivo/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "BebTV.cg",
     "name": "Beb TV",
     "alt_names": [],
@@ -61760,6 +61744,35 @@
     "closed": null
   },
   {
+    "id": "Bigudi.ua",
+    "name": "Bigudi",
+    "alt_names": [
+      "Бігуді",
+      "Bihudi"
+    ],
+    "network": null,
+    "owners": [
+      "1+1 Media Group"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/dy9ZKG1.png",
+    "stream_url": "http://stream.mcquack.net/340/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://biguditv.com/",
+    "launched": "2014-01-13",
+    "closed": null
+  },
+  {
     "id": "BijoyTV.bd",
     "name": "Bijoy TV",
     "alt_names": [
@@ -64860,6 +64873,42 @@
     "closed": null
   },
   {
+    "id": "BNT1.bg",
+    "name": "BNT 1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BNT"
+    ],
+    "country_code": "BG",
+    "country_name": "Bulgaria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/7JU9b5j.png",
+    "stream_url": "https://shift03.isp.bg/BNT1_HD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BNT1.bg",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "bg/tv-programa#bnt-1",
+      "site_name": "БНТ 1",
+      "lang": "bg",
+      "sources": []
+    },
+    "website": "https://bnt1.bnt.bg/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BNT2.bg",
     "name": "BNT 2",
     "alt_names": [],
@@ -64881,6 +64930,42 @@
     "stream_quality": null,
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BNT2.bg",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "bg/tv-programa#bnt-2",
+      "site_name": "БНТ 2",
+      "lang": "bg",
+      "sources": []
+    },
+    "website": "https://bnt2.bnt.bg/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BNT2.bg",
+    "name": "BNT 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BNT"
+    ],
+    "country_code": "BG",
+    "country_name": "Bulgaria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/FyTUr9Q.png",
+    "stream_url": "https://shift03.isp.bg/BNT2_HD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "BNT2.bg",
@@ -64932,6 +65017,42 @@
     "closed": null
   },
   {
+    "id": "BNT3.bg",
+    "name": "BNT 3",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BNT"
+    ],
+    "country_code": "BG",
+    "country_name": "Bulgaria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/pPpSJ4u.png",
+    "stream_url": "https://shift03.isp.bg/BNT3_HD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BNT3.bg",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "bg/tv-programa#bnt-3",
+      "site_name": "БНТ 3",
+      "lang": "bg",
+      "sources": []
+    },
+    "website": "https://bnthd.bnt.bg/",
+    "launched": "2014-02-06",
+    "closed": null
+  },
+  {
     "id": "BNT4.bg",
     "name": "BNT 4",
     "alt_names": [],
@@ -64953,6 +65074,42 @@
     "stream_quality": null,
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BNT4.bg",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "bg/tv-programa#bnt-4",
+      "site_name": "БНТ 4",
+      "lang": "bg",
+      "sources": []
+    },
+    "website": "https://bntworld.bnt.bg/",
+    "launched": "1999-05-02",
+    "closed": null
+  },
+  {
+    "id": "BNT4.bg",
+    "name": "BNT 4",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BNT"
+    ],
+    "country_code": "BG",
+    "country_name": "Bulgaria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Lw8b3yu.png",
+    "stream_url": "https://shift03.isp.bg/BNT4_HD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "BNT4.bg",
@@ -90371,8 +90528,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/eQyjIgf.png",
-    "stream_url": "http://200.125.170.121:8000/play/a09j/index.m3u8",
-    "stream_quality": "480p",
+    "stream_url": "http://190.61.90.17:40000/play/a03p/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -90407,8 +90564,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/eQyjIgf.png",
-    "stream_url": "http://190.61.90.17:40000/play/a03p/index.m3u8",
-    "stream_quality": null,
+    "stream_url": "http://187.245.231.226:8000/play/a0ss/index.m3u8",
+    "stream_quality": "480p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -90423,42 +90580,6 @@
     },
     "website": "https://cdn.com.do/",
     "launched": "1988-01-01",
-    "closed": null
-  },
-  {
-    "id": "CDNDeportes.do",
-    "name": "CDN Deportes",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Banco Popular Dominicano"
-    ],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/yU5LqTL.png",
-    "stream_url": "http://200.125.170.122:8000/play/a03j/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CDNDeportes.do",
-      "feed": "SD",
-      "site": "gatotv.com",
-      "site_id": "cdn_deportes",
-      "site_name": "Canal CDN Deportes",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://cdndeportes.com.do/",
-    "launched": "2014-01-01",
     "closed": null
   },
   {
@@ -104226,44 +104347,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Clubland_TV_Logo_2022.svg/960px-Clubland_TV_Logo_2022.svg.png",
-    "stream_url": "http://bore.pub:14073/live.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ClublandTV.uk",
-      "feed": "SD",
-      "site": "virgintvgo.virginmedia.com",
-      "site_id": "1855",
-      "site_name": "Clubland TV",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://aatw.com/",
-    "launched": "2008-01-28",
-    "closed": null
-  },
-  {
-    "id": "ClublandTV.uk",
-    "name": "Clubland TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Universal Music Group N.V."
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Clubland_TV_Logo_2022.svg/960px-Clubland_TV_Logo_2022.svg.png",
-    "stream_url": "http://bore.pub:40823/live.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "http://109.157.194.186:4040/clublandhls/now.m3u8",
+    "stream_quality": "576i",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -124763,10 +124848,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/5zMxDYq.png",
-    "stream_url": "http://91.201.172.14:35005",
-    "stream_quality": null,
+    "stream_url": "https://aes.m3u8simplu.workers.dev/digi1/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "DigiSport1.ro",
@@ -124799,10 +124884,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/KWDUi3v.png",
-    "stream_url": "http://91.201.172.14:35006",
-    "stream_quality": null,
+    "stream_url": "https://aes.m3u8simplu.workers.dev/digi2/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "DigiSport2.ro",
@@ -124954,32 +125039,6 @@
       "sources": []
     },
     "website": "https://telemicro.com.do/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Digital809TV.do",
-    "name": "Digital809 TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/NKdV8b1.png",
-    "stream_url": "https://stream.inliveserver.com:19360/8146/8146.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://digital809tv.com/",
     "launched": null,
     "closed": null
   },
@@ -125582,6 +125641,36 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/IJH47fJ.png",
     "stream_url": "http://103.86.135.164:9981/stream/channelid/2073419458?ticket=461AC76A96B0E3DC1FCFBFCF318709B61B2D3F5B&profile=pass",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.discoverpakistan.tv/",
+    "launched": "2021-03-21",
+    "closed": null
+  },
+  {
+    "id": "DiscoverPakistan.pk",
+    "name": "Discover Pakistan",
+    "alt_names": [
+      "ڈسکور پاکستان"
+    ],
+    "network": null,
+    "owners": [
+      "Kaiser Rafiq"
+    ],
+    "country_code": "PK",
+    "country_name": "Pakistan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "travel"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/IJH47fJ.png",
+    "stream_url": "http://103.86.135.164:9981/stream/channelid/2089283490?ticket=BB7D99860884A453E7DEA789EDFB5114621FEDED&profile=pass",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -129707,6 +129796,34 @@
     "closed": null
   },
   {
+    "id": "DocuBayTV.in",
+    "name": "DocuBay TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "IN10 Media Network"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OGyeLLR.png",
+    "stream_url": "https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.docubay.com/createaccount",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "DocuBox.nl",
     "name": "DocuBox",
     "alt_names": [],
@@ -131259,6 +131376,45 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Dorama.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "2726",
+      "site_name": "Дорама",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://dorama-tv.com/",
+    "launched": "2017-10-01",
+    "closed": null
+  },
+  {
+    "id": "Dorama.ru",
+    "name": "Dorama",
+    "alt_names": [
+      "Дорама"
+    ],
+    "network": null,
+    "owners": [
+      "Time Media Group",
+      "Red Media"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ZH5LuXU.png",
+    "stream_url": "https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "Dorama.ru",
@@ -135849,6 +136005,46 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRh4Jl1fTw1wQ6v7_xNCTUzhIJKiotiuU-brASo35hXeempwRDt7Y86J0&s=10",
     "stream_url": "https://gpuserver3.tier1streams.com/E_ENTERTAINMENT_EAST/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "E.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "91579",
+      "site_name": "E! West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.eonline.com/",
+    "launched": "1987-07-31",
+    "closed": null
+  },
+  {
+    "id": "E.us",
+    "name": "E!",
+    "alt_names": [
+      "Entertainment",
+      "Movietime"
+    ],
+    "network": null,
+    "owners": [
+      "E! Entertainment Television LLC",
+      "Versant Media Group Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRh4Jl1fTw1wQ6v7_xNCTUzhIJKiotiuU-brASo35hXeempwRDt7Y86J0&s=10",
+    "stream_url": "http://185.102.171.218/Entertainment/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -141986,45 +142182,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540",
-    "stream_url": "http://103.213.31.109:90/BigMagic/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "EpicBharat.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "1184",
-      "site_name": "NAZARA",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.epicon.in/live-tv/nazara-live-tv",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "EpicBharat.in",
-    "name": "Epic Bharat",
-    "alt_names": [
-      "EPIC भारत",
-      "Nazara TV"
-    ],
-    "network": "Epic",
-    "owners": [
-      "The Epic Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540",
     "stream_url": "http://103.175.73.12:8080/live/471/master.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -142102,44 +142259,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540",
-    "stream_url": "http://103.72.101.252:8080/live/3384.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "EpicBhojpuri.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "830",
-      "site_name": "EPIC Bhojpuri",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.epicon.in/live-tv/filamchi-live-tv",
-    "launched": "2021-01-01",
-    "closed": null
-  },
-  {
-    "id": "EpicBhojpuri.in",
-    "name": "Epic Bhojpuri",
-    "alt_names": [
-      "Filamchi Bhojpuri"
-    ],
-    "network": "Epic",
-    "owners": [
-      "The Epic Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540",
     "stream_url": "https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -142191,44 +142310,6 @@
       "sources": []
     },
     "website": "https://epicdrama.eu/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "EpicMusic.in",
-    "name": "Epic Music",
-    "alt_names": [
-      "ShowBox"
-    ],
-    "network": "Epic",
-    "owners": [
-      "The Epic Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540",
-    "stream_url": "http://103.213.31.109:90/ShowBox/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "EpicMusic.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "733",
-      "site_name": "EPIC Music",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.showboxchannel.com/",
     "launched": null,
     "closed": null
   },
@@ -145230,6 +145311,40 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.radioetnaespresso.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "EtnoTV.ro",
+    "name": "Etno TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/jzhZ8kl.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/etno/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EtnoTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "etno-tv",
+      "site_name": "Etno TV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.etno.ro/",
     "launched": null,
     "closed": null
   },
@@ -149621,32 +149736,6 @@
     "closed": null
   },
   {
-    "id": "Extra86TV.do",
-    "name": "Extra 86 TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3780-294x165-FFFFFF.jpg",
-    "stream_url": "https://samson.streamerr.co:8081/xtelevisionrd/tracks-v1a1/mono.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.vivalivetv.com/channel/extra-86",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "ExtraProNews.gr",
     "name": "Extra ProNews",
     "alt_names": [
@@ -152506,6 +152595,40 @@
     "closed": null
   },
   {
+    "id": "FavoritTV.ro",
+    "name": "Favorit TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sTy4FHs.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/favorit/index.m3u8",
+    "stream_quality": "1440p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FavoritTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "favorit",
+      "site_name": "Favorit",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.favorittv.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "FazalTV.pk",
     "name": "Fazal TV",
     "alt_names": [],
@@ -154988,10 +155111,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/VyaslIY.png",
-    "stream_url": "http://193.239.186.231/FILMBOX/index.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "http://de.seetv.cc/play/8041/1966B8DE7EC6FEE/video.m3u8",
+    "stream_quality": null,
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",
     "referrer": null,
     "tv_guide": {
       "channel": "FilmBox.nl",
@@ -168366,32 +168489,6 @@
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/get-factual-gb",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "GETtv.do",
-    "name": "GET tv",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": null,
-    "stream_url": "https://cnn.livestreaminggroup.info:3050/live/gettv/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.gettvrd.com/",
     "launched": null,
     "closed": null
   },
@@ -198512,6 +198609,35 @@
     "closed": null
   },
   {
+    "id": "Islandia.ua",
+    "name": "Islandia",
+    "alt_names": [
+      "Ісландія",
+      "Iceland"
+    ],
+    "network": null,
+    "owners": [
+      "ISLND"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9ql4jXv.png",
+    "stream_url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "IslandLuckTV.bs",
     "name": "Island Luck TV",
     "alt_names": [],
@@ -200828,7 +200954,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png",
+    "logo": "https://www.jamuna.tv/uploads/settings/jtv-logo-whitelogo-1-1754573204.png",
     "stream_url": "https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -200858,7 +200984,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png",
+    "logo": "https://www.jamuna.tv/uploads/settings/jtv-logo-whitelogo-1-1754573204.png",
     "stream_url": "https://tvsen6.aynaott.com/jamunatv/index.m3u8",
     "stream_quality": "480p",
     "stream_format": null,
@@ -217662,7 +217788,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/p02AEOF.png",
-    "stream_url": "https://tv.intchoson.com/kctv/index.m3u8",
+    "stream_url": "https://stream.intchoson.com/kctv/index.m3u8",
     "stream_quality": "1080i",
     "stream_format": null,
     "user_agent": null,
@@ -217695,7 +217821,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/p02AEOF.png",
-    "stream_url": "https://tv.intchoson.com/kctv/main_stream.m3u8",
+    "stream_url": "https://stream.intchoson.com/kctv/main_stream.m3u8",
     "stream_quality": "1080i",
     "stream_format": null,
     "user_agent": null,
@@ -223116,32 +223242,6 @@
     "closed": null
   },
   {
-    "id": "LAMIATV.do",
-    "name": "LA MIA TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/XIwTM1h.png",
-    "stream_url": "https://ss2.tvrdomi.com:1936/lamiatv/lamiatv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://lamiatv.net/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "LAMIL35TV.ar",
     "name": "LAMIL35 TV",
     "alt_names": [],
@@ -224150,34 +224250,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.vivalivetv.com/channel/la-ruta-tv",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "LaSalvaciondelAlmaTV.do",
-    "name": "La Salvacion del Alma TV",
-    "alt_names": [
-      "La Salvación del Alma TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.zradios.com/files/1/1/9/11942-627.jpg",
-    "stream_url": "https://vs20.live.opencaster.com/lasalvaciondelalmatv_dfc663c0/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://new.opencaster.com/player?user=lasalvaciondelalmatv",
     "launched": null,
     "closed": null
   },
@@ -233124,32 +233196,6 @@
     },
     "website": "https://luxe.tv/",
     "launched": "2006-01-01",
-    "closed": null
-  },
-  {
-    "id": "LuxTV.ua",
-    "name": "Lux TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "UA",
-    "country_name": "Ukraine",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://scontent.flwo7-2.fna.fbcdn.net/v/t39.30808-6/299781096_437110311778402_8892509274877595133_n.jpg?stp=dst-jpg_tt6&cstp=mx180x180&ctp=s180x180&_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=EzuiZun2Z7MQ7kNvwGwamqs&_nc_oc=AdqD7PmQFEBj-meclATFIEyi6MtiFVk9c93NRL42MuImlgxWXE69pUu8Bu6GTe58F94&_nc_zt=23&_nc_ht=scontent.flwo7-2.fna&_nc_gid=SF_zuZPK3NFlr2priMZhNg&_nc_ss=7b289&oh=00_Af_6K02GxmV5xAnJuNY3TYXdQX6dhtAUCPy2dd4G1wb1hA&oe=6A3CB9A7",
-    "stream_url": "https://stream.youtv.com.ua/4481/tracks-v1a1/mono.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Linux; Android 10) Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
     "closed": null
   },
   {
@@ -250192,7 +250238,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/vclDXV7.jpeg",
-    "stream_url": "https://stream.castr.com/5da89a909db964293ad13301/live_4e9cefb0652111f18e12cf968e79335c/index.fmp4.m3u8",
+    "stream_url": "https://stream.castr.com/5da89a909db964293ad13301/live_2da463407fcc11f19ca8e70e403e6b54/index.fmp4.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
@@ -253002,6 +253048,34 @@
     "closed": null
   },
   {
+    "id": "MovieMusicbyStingray.ca",
+    "name": "Movie Music by Stingray",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Stingray Group Inc."
+    ],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2CSpCdAxnLpqebMLZh6h7vMPk6LYpdqkVHA&s",
+    "stream_url": "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2025-02-05",
+    "closed": null
+  },
+  {
     "id": "MoviepilotTVmitPlutoTV.de",
     "name": "Moviepilot TV mit Pluto TV",
     "alt_names": [],
@@ -253841,6 +253915,44 @@
     "logo": "https://i.imgur.com/uIiAdBv.png",
     "stream_url": "http://stream.mcquack.net/124/index.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MoyaPlaneta.ru",
+      "feed": "SD",
+      "site": "tv.mail.ru",
+      "site_id": "1334",
+      "site_name": "Моя Планета",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.moya-planeta.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MoyaPlaneta.ru",
+    "name": "Moya Planeta",
+    "alt_names": [
+      "Моя Планета"
+    ],
+    "network": null,
+    "owners": [
+      "VGTRK"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "outdoor"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/uIiAdBv.png",
+    "stream_url": "http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -261471,6 +261583,32 @@
     "closed": null
   },
   {
+    "id": "MusicBoxPolska.pl",
+    "name": "Music Box Polska",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyN14NgigtUnImvVp9DqgbKY5c9Nsl-EqLkPX7PzYcl924yK77GycmSj2E&s=10",
+    "stream_url": "https://uys1g01.s.gy/MB_UKRAINE",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://musicboxtv.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "MusicBoxSexy.cz",
     "name": "Music Box Sexy",
     "alt_names": [],
@@ -267225,6 +267363,44 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://iraniancongress.com",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NationalTV.ro",
+    "name": "National TV",
+    "alt_names": [
+      "Național TV"
+    ],
+    "network": null,
+    "owners": [
+      "Centrul Național Media"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KHzUIwG.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/nationaltv/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "national-tv",
+      "site_name": "National TV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.nationaltv.ro/",
     "launched": null,
     "closed": null
   },
@@ -293359,6 +293535,40 @@
     "closed": null
   },
   {
+    "id": "OnePlanet.ua",
+    "name": "One Planet",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/N7FBNjV.png",
+    "stream_url": "http://stream.mcquack.net/448/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "OnePlanet.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "one-planet",
+      "site_name": "One Planet",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.oneplanetnetwork.org/countries/europe-and-central-asia/ukraine",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "OneSports.ph",
     "name": "One Sports",
     "alt_names": [],
@@ -295842,6 +296052,30 @@
     "logo": "https://i.imgur.com/TkGGGAj.png",
     "stream_url": "http://91.193.128.233:1935/live/otv.stream/playlist.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://o-tv.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "OTV.ua",
+    "name": "OTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TkGGGAj.png",
+    "stream_url": "https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -306103,6 +306337,44 @@
     "tv_guide": null,
     "website": "http://www.plovdivskamitropolia.bg/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PLUSPLUS.ua",
+    "name": "PLUSPLUS",
+    "alt_names": [
+      "ПЛЮСПЛЮС"
+    ],
+    "network": null,
+    "owners": [
+      "1+1 Media Group"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9bPhStm.png",
+    "stream_url": "http://stream.mcquack.net/339/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PLUSPLUS.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "plusplus",
+      "site_name": "ПлюсПлюс",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://www.plus-plus.tv/",
+    "launched": "2012-08-04",
     "closed": null
   },
   {
@@ -347249,6 +347521,40 @@
     "closed": null
   },
   {
+    "id": "RedeGospel.br",
+    "name": "Rede Gospel",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/mttSwgO.png",
+    "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RedeGospel.br",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "br#rede-gospel",
+      "site_name": "Rede Gospel",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.redegospel.tv.br/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RedeMeioNorte.br",
     "name": "Rede Meio Norte",
     "alt_names": [],
@@ -385879,41 +386185,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Or0LKsu.png",
-    "stream_url": "http://41.205.93.154/SHOWTIMES/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Showtime.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "11117",
-      "site_name": "Showtime West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.sho.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Showtime.us",
-    "name": "Showtime",
-    "alt_names": [],
-    "network": "Paramount+ with SHOWTIME",
-    "owners": [
-      "Showtime Networks Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Or0LKsu.png",
     "stream_url": "http://40.160.24.55/SHOWTIME_WEST/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -387530,32 +387801,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.sistemamichoacano.tv/television",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SistesurCanal49.do",
-    "name": "Sistesur Canal 49",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/AXUGTAy.png",
-    "stream_url": "https://5790d294af2dc.streamlock.net/SISTESUR/SISTESUR/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://sistesur.com.do/",
     "launched": null,
     "closed": null
   },
@@ -393675,6 +393920,40 @@
       "site_id": "5f0ff262d71dcb00449ec012",
       "site_name": "So... Real",
       "lang": "en",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SorozatPlus.hu",
+    "name": "Sorozat+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "CLT-UFA SA"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KsxWZIw.png",
+    "stream_url": "http://88.212.15.19/live/test_sorozat_hungary_1200_atk/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SorozatPlus.hu",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "hu/tvmusor#sorozat",
+      "site_name": "Sorozat+",
+      "lang": "hr",
       "sources": []
     },
     "website": null,
@@ -403324,6 +403603,34 @@
     "closed": null
   },
   {
+    "id": "StingrayCityscapes.ca",
+    "name": "Stingray Cityscapes",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Stingray Group Inc."
+    ],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZlXPCl4ze9lr2DnadYazKxuyyEEWmgO1O1Q&s",
+    "stream_url": "https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.stingray.com/consumer/products/cityscapes/",
+    "launched": "2025-02-05",
+    "closed": null
+  },
+  {
     "id": "StingrayClassica.ca",
     "name": "Stingray Classica",
     "alt_names": [],
@@ -403494,11 +403801,9 @@
     "closed": null
   },
   {
-    "id": "StingrayCMusic.ca",
-    "name": "Stingray CMusic",
-    "alt_names": [
-      "C Music TV"
-    ],
+    "id": "StingrayCozyCafe.ca",
+    "name": "Stingray Cozy Cafe",
+    "alt_names": [],
     "network": null,
     "owners": [
       "Stingray Group Inc."
@@ -403512,23 +403817,15 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/3UppN5P.png",
-    "stream_url": "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-PtqqxxfI0SgHcNO5YJqxdufqnVtPFwpDvQ&s",
+    "stream_url": "https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "StingrayCMusic.ca",
-      "feed": "SD",
-      "site": "vodafone.pt",
-      "site_id": "2743",
-      "site_name": "CMusicTV",
-      "lang": "pt",
-      "sources": []
-    },
-    "website": "https://cmusic.stingray.com/",
-    "launched": "2007-02-20",
+    "tv_guide": null,
+    "website": "https://www.stingray.com/consumer/products/cozy-cafe/",
+    "launched": "2025-02-05",
     "closed": null
   },
   {
@@ -403670,42 +403967,6 @@
       "sources": []
     },
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "StingrayEuroHits.ca",
-    "name": "Stingray Euro Hits",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Stingray Group Inc."
-    ],
-    "country_code": "CA",
-    "country_name": "Canada",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/FyhO9U5.png",
-    "stream_url": "https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StingrayEuroHits.ca",
-      "feed": "SD",
-      "site": "plex.tv",
-      "site_id": "62ee74af52f7d73061eec491",
-      "site_name": "Euro Hits",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://music.stingray.com/en/US/channels/214/euro-hits",
     "launched": null,
     "closed": null
   },
@@ -403901,40 +404162,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": null,
-    "stream_url": "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StingrayGreatestHits.ca",
-      "feed": "SD",
-      "site": "xumo.tv",
-      "site_id": "350#99991120",
-      "site_name": "Stingray Greatest Hits",
-      "lang": "en",
-      "sources": []
-    },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "StingrayGreatestHits.ca",
-    "name": "Stingray Greatest Hits",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CA",
-    "country_name": "Canada",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": null,
     "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-greatest-hits/master.m3u8?ads.vf=7XQlh7i26u0",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -404090,6 +404317,60 @@
     "closed": null
   },
   {
+    "id": "StingrayHolidayHits.ca",
+    "name": "Stingray Holiday Hits",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4xVVKH8.png",
+    "stream_url": "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "StingrayHolidayscapes.ca",
+    "name": "Stingray Holidayscapes",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Stingray Group Inc."
+    ],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9cb4b15c-8244-4499-ae2c-9a92d4cdff6d%2F13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+    "stream_url": "https://d10cyxntpn0bwm.cloudfront.net/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.stingray.com/consumer/products/stingray-holidayscapes/",
+    "launched": "2023-11-16",
+    "closed": null
+  },
+  {
     "id": "StingrayHolidayscapes.ca",
     "name": "Stingray Holidayscapes",
     "alt_names": [],
@@ -404108,6 +404389,34 @@
     "is_nsfw": false,
     "logo": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9cb4b15c-8244-4499-ae2c-9a92d4cdff6d%2F13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
     "stream_url": "https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.stingray.com/consumer/products/stingray-holidayscapes/",
+    "launched": "2023-11-16",
+    "closed": null
+  },
+  {
+    "id": "StingrayHolidayscapes.ca",
+    "name": "Stingray Holidayscapes",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Stingray Group Inc."
+    ],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9cb4b15c-8244-4499-ae2c-9a92d4cdff6d%2F13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+    "stream_url": "https://lotus.stingray.com/manifest/holidayscapes-hol001ads_hol001-montreal/samsungtvplus/master.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -404928,40 +405237,6 @@
       "site": "tvtv.us",
       "site_id": "68639",
       "site_name": "Stingray Exitos del Momento",
-      "lang": "en",
-      "sources": []
-    },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "StingrayUrbanBeat.ca",
-    "name": "Stingray Urban Beat",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CA",
-    "country_name": "Canada",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Os3kRRP.png",
-    "stream_url": "https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StingrayUrbanBeat.ca",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "67564",
-      "site_name": "Stingray Hip-Hop/R&B",
       "lang": "en",
       "sources": []
     },
@@ -408218,32 +408493,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.sumtvlatino.org/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SuMundoTV.do",
-    "name": "Su Mundo TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/twGGfJr.png",
-    "stream_url": "https://appapi.sumundotv.com/api/stream-proxy/4pf8yy3WF1xp1_tQ6yUYRIsbwyLc3qxDRcZAY_NLNDs/1782260720/HT7aZZgViliG_BtFwLvmJwF9/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.sumundotv.com",
     "launched": null,
     "closed": null
   },
@@ -419038,6 +419287,32 @@
     "closed": null
   },
   {
+    "id": "Telecosta.ec",
+    "name": "Telecosta",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "EC",
+    "country_name": "Ecuador",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/1DqLy8H.png",
+    "stream_url": "https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Telecosta.gt",
     "name": "Telecosta",
     "alt_names": [],
@@ -421111,38 +421386,6 @@
     },
     "website": "https://telemicro.com.do/",
     "launched": "1986-01-01",
-    "closed": null
-  },
-  {
-    "id": "TelemicroInternacional.do",
-    "name": "Telemicro Internacional",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/507tvMY.png",
-    "stream_url": "http://200.115.120.1:8000/play/ca085/index.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TelemicroInternacional.do",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "gt#telemicro",
-      "site_name": "Telemicro",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://telemicro.com.do/",
-    "launched": null,
     "closed": null
   },
   {
@@ -423324,32 +423567,6 @@
     "closed": null
   },
   {
-    "id": "TelerumbaTV.do",
-    "name": "Telerumba TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3649-294x165-FFFFFF.jpg",
-    "stream_url": "https://inliveserver.com:1936/18506/18506/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.vivalivetv.com/channel/telerumba",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TeleSafor.es",
     "name": "Tele Safor",
     "alt_names": [],
@@ -424619,40 +424836,6 @@
     "closed": null
   },
   {
-    "id": "Teleuniverso.do",
-    "name": "Teleuniverso",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/gQev8ST.png",
-    "stream_url": "https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Teleuniverso.do",
-      "feed": "SD",
-      "site": "gatotv.com",
-      "site_id": "29_republica_dominicana",
-      "site_name": "Canal 29 de TeleUniverso (República Dominicana)",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://teleuniversotv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TeleUno.cr",
     "name": "Tele Uno",
     "alt_names": [],
@@ -424922,7 +425105,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/M9A6hqR.png",
-    "stream_url": "https://stream.castr.com/5da89a909db964293ad13301/live_c0b655e0659a11f187d6955330845e08/index.fmp4.m3u8",
+    "stream_url": "https://stream.castr.com/5da89a909db964293ad13301/live_d8372fa07fcb11f18271bf033930834b/index.fmp4.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
@@ -424948,7 +425131,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/M9A6hqR.png",
-    "stream_url": "https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_c643ffb0338811f1be68f7b92e2425b0/index.fmp4.m3u8",
+    "stream_url": "https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_b78ea1b07fcc11f1a8c6adcd20e04bb9/index.fmp4.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
@@ -437304,7 +437487,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/rSIB579.jpeg",
-    "stream_url": "https://stream.castr.com/5da89a909db964293ad13301/live_cbeb7ca0659b11f182454d23f95d8393/index.fmp4.m3u8",
+    "stream_url": "https://stream.castr.com/5da89a909db964293ad13301/live_8361cf307fcb11f18638734c8e2b001b/index.fmp4.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
@@ -441178,32 +441361,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TRA2.do",
-    "name": "TRA 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/iwJ42rD.png",
-    "stream_url": "https://live20.bozztv.com/akamaissh101/ssh101/rctvhdtra/playlist.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.teleradioamerica2.com/",
     "launched": null,
     "closed": null
   },
@@ -446431,34 +446588,6 @@
     "closed": null
   },
   {
-    "id": "TuMusicaHD.do",
-    "name": "Tu Musica HD",
-    "alt_names": [
-      "Tu Música HD"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/HnjUjog.png",
-    "stream_url": "https://edge.essastream.com/tumusicahd/tracks-v1a1/mono.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Tunes6.in",
     "name": "Tunes 6",
     "alt_names": [],
@@ -449010,6 +449139,40 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/FRsRXRR.png",
+    "stream_url": "http://27.131.164.187:8080/TV5_Monde/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TV5MondeAsia.fr",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000163",
+      "site_name": "TV5Monde",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://apac.tv5monde.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TV5MondeAsia.fr",
+    "name": "TV5Monde Asia",
+    "alt_names": [
+      "TV5Monde Asie"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/FRsRXRR.png",
     "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h121/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -449144,6 +449307,40 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/rPAbMSu.png",
     "stream_url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TV5MondeEurope.fr",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000045_019354",
+      "site_name": "TV5Monde",
+      "lang": "nl",
+      "sources": []
+    },
+    "website": "https://europe.tv5monde.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TV5MondeEurope.fr",
+    "name": "TV5Monde Europe",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/rPAbMSu.png",
+    "stream_url": "http://5.180.164.197:8080/TV5MONDE/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -475340,6 +475537,36 @@
     "closed": null
   },
   {
+    "id": "UNIANSerial.ua",
+    "name": "UNIAN Serial",
+    "alt_names": [
+      "УНІАН Серіал"
+    ],
+    "network": null,
+    "owners": [
+      "1+1 Media Group"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Alu78zn.png",
+    "stream_url": "http://stream.mcquack.net/341/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://unian.tv/",
+    "launched": "2010-07-28",
+    "closed": null
+  },
+  {
     "id": "Unicanal.py",
     "name": "Unicanal",
     "alt_names": [],
@@ -487867,7 +488094,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/sMhL2Nl.png",
-    "stream_url": "https://live05.meung.app/live/90865415.m3u8",
+    "stream_url": "https://live05.meung.app/live/16226575.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -504368,6 +504595,32 @@
     "closed": null
   },
   {
+    "id": "YesMoviesAction.il",
+    "name": "Yes Movies Action",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IL",
+    "country_name": "Israel",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Bgz7p5F.png",
+    "stream_url": "http://stream.mcquack.net/380/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.yes.co.il/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "YesNetwork.us",
     "name": "Yes Network",
     "alt_names": [],
@@ -509566,6 +509819,34 @@
     "tv_guide": null,
     "website": "https://www.znth.tv",
     "launched": "2026-02-01",
+    "closed": null
+  },
+  {
+    "id": "ZenLIFEbyStingray.ca",
+    "name": "ZenLIFE by Stingray",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Stingray Group Inc."
+    ],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "relax"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.stingray.com/wp-content/uploads/2023/12/stingray_zenlifebystingray_white.svg",
+    "stream_url": "https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://stingray.com/consumer/products/zen-life/",
+    "launched": "2023-11-03",
     "closed": null
   },
   {

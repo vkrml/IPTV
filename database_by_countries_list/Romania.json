@@ -1095,10 +1095,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/5zMxDYq.png",
-    "stream_url": "http://91.201.172.14:35005",
-    "stream_quality": null,
+    "stream_url": "https://aes.m3u8simplu.workers.dev/digi1/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "DigiSport1.ro",
@@ -1131,10 +1131,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/KWDUi3v.png",
-    "stream_url": "http://91.201.172.14:35006",
-    "stream_quality": null,
+    "stream_url": "https://aes.m3u8simplu.workers.dev/digi2/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "DigiSport2.ro",
@@ -1417,6 +1417,40 @@
     "closed": null
   },
   {
+    "id": "EtnoTV.ro",
+    "name": "Etno TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/jzhZ8kl.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/etno/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EtnoTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "etno-tv",
+      "site_name": "Etno TV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.etno.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "EuronewsRomania.ro",
     "name": "Euronews Romania",
     "alt_names": [],
@@ -1442,6 +1476,40 @@
     "tv_guide": null,
     "website": "https://www.euronews.ro/",
     "launched": "2022-01-01",
+    "closed": null
+  },
+  {
+    "id": "FavoritTV.ro",
+    "name": "Favorit TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sTy4FHs.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/favorit/index.m3u8",
+    "stream_quality": "1440p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FavoritTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "favorit",
+      "site_name": "Favorit",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.favorittv.ro/",
+    "launched": null,
     "closed": null
   },
   {
@@ -2383,6 +2451,44 @@
     },
     "website": "http://www.natgeowild.ro/",
     "launched": "2009-07-01",
+    "closed": null
+  },
+  {
+    "id": "NationalTV.ro",
+    "name": "National TV",
+    "alt_names": [
+      "Național TV"
+    ],
+    "network": null,
+    "owners": [
+      "Centrul Național Media"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KHzUIwG.png",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/nationaltv/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "national-tv",
+      "site_name": "National TV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.nationaltv.ro/",
+    "launched": null,
     "closed": null
   },
   {

@@ -54835,44 +54835,6 @@
     "closed": null
   },
   {
-    "id": "MGMPlus.us",
-    "name": "MGM+",
-    "alt_names": [
-      "Epix East"
-    ],
-    "network": null,
-    "owners": [
-      "Metro-Goldwyn-Mayer"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/960px-MGM%2B_logo.svg.png",
-    "stream_url": "http://108.181.20.255:27347/livehttpplay?channel_id=23073",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MGMPlus.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "66073",
-      "site_name": "MGM+ West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.epix.com/",
-    "launched": "2009-10-01",
-    "closed": null
-  },
-  {
     "id": "MGMPlusDriveIn.us",
     "name": "MGM+ Drive-In",
     "alt_names": [
@@ -54912,6 +54874,44 @@
     "closed": null
   },
   {
+    "id": "MGMPlusHits.us",
+    "name": "MGM+ Hits",
+    "alt_names": [
+      "Epix 2 East"
+    ],
+    "network": null,
+    "owners": [
+      "Metro-Goldwyn-Mayer"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/960px-MGM%2B_Hits_2023.svg.png",
+    "stream_url": "https://sra72yz.s.gy/MGM_PLUS_HITS_HD",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MGMPlusHits.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "73075",
+      "site_name": "MGM+ Hits East",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.epix.com/",
+    "launched": "2010-01-01",
+    "closed": null
+  },
+  {
     "id": "MGMPlusMarquee.us",
     "name": "MGM+ Marquee",
     "alt_names": [
@@ -54932,7 +54932,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/960px-MGM%2B_Marquee_2023.svg.png",
-    "stream_url": "http://108.181.20.255:27347/livehttpplay?channel_id=23075",
+    "stream_url": "https://sra72yz.s.gy/MGM_PLUS_MARQUEE_SD",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -84290,6 +84290,41 @@
     "closed": null
   },
   {
+    "id": "ShowtimeShowcase.us",
+    "name": "Showtime Showcase",
+    "alt_names": [],
+    "network": "Paramount+ with SHOWTIME",
+    "owners": [
+      "Showtime Networks Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/bty4UCb.png",
+    "stream_url": "https://sra72yz.s.gy/SHOWTIME_SHOWCASE_EAST_US",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ShowtimeShowcase.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "16584",
+      "site_name": "Showtime Showcase West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sho.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Sintetasnohayparaiso.us",
     "name": "Sin tetas no hay paraiso",
     "alt_names": [
@@ -87242,6 +87277,42 @@
     "closed": null
   },
   {
+    "id": "StarzEncoreAction.us",
+    "name": "Starz Encore Action",
+    "alt_names": [],
+    "network": "STARZ Encore",
+    "owners": [
+      "Starz Entertainment Corp."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/wIf4X0i.png",
+    "stream_url": "https://sra72yz.s.gy/STARZ_ENCORE_ACTION_EAST_HD",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarzEncoreAction.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "17124",
+      "site_name": "Starz Encore Action West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.starz.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "StarzEncoreClassic.us",
     "name": "Starz Encore Classic",
     "alt_names": [],
@@ -87270,6 +87341,144 @@
       "site": "tvtv.us",
       "site_id": "17126",
       "site_name": "Starz Encore Classic West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.starz.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "StarzEncoreSpanish.us",
+    "name": "Starz Encore Spanish",
+    "alt_names": [
+      "Starz Encore Español"
+    ],
+    "network": "STARZ Encore",
+    "owners": [
+      "Starz Entertainment Corp."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5aibRWY.png",
+    "stream_url": "https://sra72yz.s.gy/STARZ_ENCORE_ESPANOL_EAST_HD",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarzEncoreSpanish.us",
+      "feed": "East",
+      "site": "ontvtonight.com",
+      "site_id": "us#69040329/starz-encore-espanol",
+      "site_name": "STARZ ENCORE Español",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.starz.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "StarzEncoreSuspense.us",
+    "name": "Starz Encore Suspense",
+    "alt_names": [],
+    "network": "STARZ Encore",
+    "owners": [
+      "Starz Entertainment Corp."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/BI4Ksr1.png",
+    "stream_url": "https://sra72yz.s.gy/STARZ_ENCORE_SUSPENSE_EAST_HD",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarzEncoreSuspense.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "17127",
+      "site_name": "Starz Encore Suspense West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.starz.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "StarzEncoreWesterns.us",
+    "name": "Starz Encore Westerns",
+    "alt_names": [],
+    "network": "STARZ Encore",
+    "owners": [
+      "Starz Entertainment Corp."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Eo6yLpN.png",
+    "stream_url": "https://sra72yz.s.gy/STARZ_ENCORE_WESTER_EAST_US",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarzEncoreWesterns.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "17132",
+      "site_name": "Starz Encore Westerns West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.starz.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "StarzInBlack.us",
+    "name": "Starz In Black",
+    "alt_names": [],
+    "network": "STARZ",
+    "owners": [
+      "Starz Entertainment Corp."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/g51a2le.png",
+    "stream_url": "https://sra72yz.s.gy/STARZ_IN_BLACK_EAST_US",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarzInBlack.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "17123",
+      "site_name": "Starz In Black West",
       "lang": "en",
       "sources": []
     },

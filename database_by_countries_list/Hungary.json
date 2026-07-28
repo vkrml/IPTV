@@ -320,42 +320,6 @@
     "closed": null
   },
   {
-    "id": "AXNSpin.hu",
-    "name": "AXN Spin",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Antenna Group"
-    ],
-    "country_code": "HU",
-    "country_name": "Hungary",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/uVFenKm.png",
-    "stream_url": "https://aes.m3u8simplu.workers.dev/axnspin/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AXNSpin.hu",
-      "feed": "SD",
-      "site": "tvprofil.com",
-      "site_id": "ba/tvprogram#axn-spin",
-      "site_name": "AXN Spin",
-      "lang": "hr",
-      "sources": []
-    },
-    "website": "http://www.axnspin.com/",
-    "launched": "2012-01-11",
-    "closed": null
-  },
-  {
     "id": "BajaiTV.hu",
     "name": "Bajai TV",
     "alt_names": [],
@@ -1614,6 +1578,42 @@
     "closed": null
   },
   {
+    "id": "JockyTV.hu",
+    "name": "Jocky TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "TV2 Média Csoport Kft."
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/wLawFVP.png",
+    "stream_url": "http://88.212.15.19/live/jocky/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "JockyTV.hu",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "hu/tvmusor#jockytv",
+      "site_name": "JockyTV",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "https://tv2play.hu/jockytv",
+    "launched": "2019-02-17",
+    "closed": null
+  },
+  {
     "id": "KanizsaTV.hu",
     "name": "Kanizsa TV",
     "alt_names": [],
@@ -1784,6 +1784,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://www.kiskorostv.hu",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Kolyokklub.hu",
+    "name": "Kolyokklub",
+    "alt_names": [
+      "Kölyökklub"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/1920px-K%C3%B6ly%C3%B6kklub_II.svg.png",
+    "stream_url": "http://88.212.15.19/live/kolyokklub_atk/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -2130,6 +2158,32 @@
     "closed": null
   },
   {
+    "id": "Moziklub.hu",
+    "name": "Moziklub",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Moziklub.svg/1920px-Moziklub.svg.png",
+    "stream_url": "http://88.212.15.19/live/moziklub_atk/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "MoziPlus.hu",
     "name": "Mozi+",
     "alt_names": [],
@@ -2307,6 +2361,70 @@
     },
     "website": "http://natgeotv.com/hu/wild",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NickJr.hu",
+    "name": "Nick Jr.",
+    "alt_names": [],
+    "network": "Nickelodeon",
+    "owners": [
+      "MTV Networks s.r.o."
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+    "stream_url": "http://88.212.15.19/live/nick_junior_hun/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NickJr.hu",
+      "feed": "SD",
+      "site": "tvmusor.hu",
+      "site_id": "236",
+      "site_name": "Nick Jr.",
+      "lang": "hu",
+      "sources": []
+    },
+    "website": "http://www.nickelodeon.hu/",
+    "launched": "2013-10-01",
+    "closed": null
+  },
+  {
+    "id": "Nicktoons.hu",
+    "name": "Nicktoons",
+    "alt_names": [],
+    "network": "Nickelodeon",
+    "owners": [
+      "Paramount Global"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",
+    "stream_url": "http://88.212.15.19/live/nicktoons_hungary/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.nickelodeon.hu/",
+    "launched": "2018-02-15",
     "closed": null
   },
   {
@@ -2915,6 +3033,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://www.soltvadkertitv.hu/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Sorozatklub.hu",
+    "name": "Sorozatklub",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sorozatklub.svg/1920px-Sorozatklub.svg.png",
+    "stream_url": "http://88.212.15.19/live/sorozatklub_atk/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },

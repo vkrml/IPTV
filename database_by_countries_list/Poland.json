@@ -999,34 +999,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png",
-    "stream_url": "http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/31807/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": "2026-06-10",
-    "closed": null
-  },
-  {
-    "id": "FILMBOXPlusFestival.pl",
-    "name": "FILMBOX+ Festival",
-    "alt_names": [],
-    "network": "FILMBOX+",
-    "owners": [
-      "SPI International"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png",
     "stream_url": "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -1544,6 +1516,44 @@
     },
     "website": "https://www.newtv.com.pl/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Nicktoons.pl",
+    "name": "Nicktoons",
+    "alt_names": [
+      "Nicktoons Polska"
+    ],
+    "network": "Nickelodeon",
+    "owners": [
+      "Paramount Global"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg",
+    "stream_url": "http://193.24.244.60:1001/udp/239.254.5.227:6060",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Nicktoons.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "nickelodeon-hd-44",
+      "site_name": "Nicktoons",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://nicktoons.nick.com.pl/",
+    "launched": "2018-02-15",
     "closed": null
   },
   {

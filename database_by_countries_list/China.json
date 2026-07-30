@@ -5107,6 +5107,34 @@
     "closed": null
   },
   {
+    "id": "JiangsuPublicNewsChannel.cn",
+    "name": "Jiangsu Public & News Channel",
+    "alt_names": [
+      "江苏公共新闻"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.tvchinese.net/uploads/tv/jsgg.jpg",
+    "stream_url": "https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://live.jstv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "JiangsuSatelliteTV.cn",
     "name": "Jiangsu Satellite TV",
     "alt_names": [
@@ -7181,6 +7209,38 @@
     "logo": "https://i.imgur.com/Nyuxo8S.png",
     "stream_url": "http://112.25.48.68/live/program/live/qhws/1300000/mnf.m3u8",
     "stream_quality": "540p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "QinghaiTV.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "qinghai",
+      "site_name": "青海卫视",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "QinghaiTV.cn",
+    "name": "Qinghai TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Nyuxo8S.png",
+    "stream_url": "https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

@@ -2915,34 +2915,6 @@
     "closed": null
   },
   {
-    "id": "GEMSeries.tr",
-    "name": "GEM Series",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Gem Group"
-    ],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/M0WMDXm.png",
-    "stream_url": "https://ca-rt.onetv.app/gemseries/index-0.m3u8?token=onetv202",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.gemgroup.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "GEMSeriesPlus.tr",
     "name": "GEM Series +",
     "alt_names": [],
@@ -4652,6 +4624,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.kentturktv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "KocaeliTV.tr",
+    "name": "Kocaeli TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "TR",
+    "country_name": "Turkiye",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/LeTP4zq.png",
+    "stream_url": "https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.kocaelitv.com.tr/",
     "launched": null,
     "closed": null
   },
@@ -6414,40 +6412,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png",
-    "stream_url": "https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SSport.tr",
-      "feed": "SD",
-      "site": "tvplus.com.tr",
-      "site_id": "11",
-      "site_name": "S SPORT",
-      "lang": "tr",
-      "sources": []
-    },
-    "website": "https://www.ssport.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SSport.tr",
-    "name": "S Sport",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png",
     "stream_url": "https://corestream.siteyaptim.live/s-sport/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -7206,6 +7170,40 @@
     },
     "website": "https://www.trt1.com.tr/",
     "launched": "1968-01-31",
+    "closed": null
+  },
+  {
+    "id": "TRT2.tr",
+    "name": "TRT 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "TRT"
+    ],
+    "country_code": "TR",
+    "country_name": "Turkiye",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/iOCQdyD.png",
+    "stream_url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+    "stream_quality": "1440p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TRT2.tr",
+      "feed": "SD",
+      "site": "tvplus.com.tr",
+      "site_id": "83",
+      "site_name": "TRT 2",
+      "lang": "tr",
+      "sources": []
+    },
+    "website": "https://www.trt2.com.tr/",
+    "launched": "1986-09-15",
     "closed": null
   },
   {

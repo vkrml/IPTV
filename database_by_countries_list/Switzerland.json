@@ -406,7 +406,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "ImmaculataTV.ch",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "2077",
+      "site_name": "I-TV",
+      "lang": "de",
+      "sources": []
+    },
     "website": "https://www.immaculata-tv.ch/",
     "launched": null,
     "closed": null
@@ -714,7 +722,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "RhoneTV.ch",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "2096",
+      "site_name": "Rhône TV",
+      "lang": "fr",
+      "sources": []
+    },
     "website": "https://www.rhonetv.ch/",
     "launched": null,
     "closed": null

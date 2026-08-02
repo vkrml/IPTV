@@ -669,44 +669,6 @@
     "closed": null
   },
   {
-    "id": "Automotolachaine.fr",
-    "name": "Automoto la chaine",
-    "alt_names": [
-      "Automoto la chaîne"
-    ],
-    "network": null,
-    "owners": [
-      "AB Sat"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "auto"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ebf2uc7.png",
-    "stream_url": "https://futbol9865.ultratv13.workers.dev/deportivo111/23.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Automotolachaine.fr",
-      "feed": "SD",
-      "site": "tvcesoir.fr",
-      "site_id": "82495156/automoto",
-      "site_name": "Automoto",
-      "lang": "fr",
-      "sources": []
-    },
-    "website": "https://www.automoto-lachaine.fr/",
-    "launched": "1996-03-26",
-    "closed": null
-  },
-  {
     "id": "BFM2.fr",
     "name": "BFM2",
     "alt_names": [],
@@ -1506,9 +1468,9 @@
     "tv_guide": {
       "channel": "CanalPlusCinemas.fr",
       "feed": "SD",
-      "site": "guidetnt.com",
-      "site_id": "canalplus-cinema",
-      "site_name": "Canal+ Cinéma(s)",
+      "site": "tv.blue.ch",
+      "site_id": "58",
+      "site_name": "CANAL+ Cinema(s)",
       "lang": "fr",
       "sources": []
     },
@@ -8133,7 +8095,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "RMCLife.fr",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "93",
+      "site_name": "RMC Life",
+      "lang": "fr",
+      "sources": []
+    },
     "website": "https://www.rmcbfmplay.com/chaine/rmc-life",
     "launched": "2012-12-12",
     "closed": null

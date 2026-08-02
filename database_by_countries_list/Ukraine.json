@@ -1203,10 +1203,10 @@
     "tv_guide": {
       "channel": "EnterFilm.ua",
       "feed": "SD",
-      "site": "m.tv.sms.cz",
-      "site_id": "Enter+Film",
-      "site_name": "Enter Film",
-      "lang": "cs",
+      "site": "tv.blue.ch",
+      "site_id": "2084",
+      "site_name": "Enter-Film",
+      "lang": "uk",
       "sources": []
     },
     "website": "http://enterfilm.com.ua/",
@@ -1278,10 +1278,10 @@
     "tv_guide": {
       "channel": "EspresoTV.ua",
       "feed": "SD",
-      "site": "horizon.tv",
-      "site_id": "10192",
+      "site": "tv.blue.ch",
+      "site_id": "2099",
       "site_name": "Espreso TV",
-      "lang": "sk",
+      "lang": "uk",
       "sources": []
     },
     "website": "https://espreso.tv/",
@@ -1317,10 +1317,10 @@
     "tv_guide": {
       "channel": "EspresoTV.ua",
       "feed": "SD",
-      "site": "horizon.tv",
-      "site_id": "10192",
+      "site": "tv.blue.ch",
+      "site_id": "2099",
       "site_name": "Espreso TV",
-      "lang": "sk",
+      "lang": "uk",
       "sources": []
     },
     "website": "https://espreso.tv/",
@@ -1356,10 +1356,10 @@
     "tv_guide": {
       "channel": "EspresoTV.ua",
       "feed": "SD",
-      "site": "horizon.tv",
-      "site_id": "10192",
+      "site": "tv.blue.ch",
+      "site_id": "2099",
       "site_name": "Espreso TV",
-      "lang": "sk",
+      "lang": "uk",
       "sources": []
     },
     "website": "https://espreso.tv/",
@@ -1567,10 +1567,10 @@
     "tv_guide": {
       "channel": "FREEDOM.ua",
       "feed": "SD",
-      "site": "turksatkablo.com.tr",
-      "site_id": "2710",
-      "site_name": "Freedom",
-      "lang": "tr",
+      "site": "tv.blue.ch",
+      "site_id": "1919",
+      "site_name": "FreeDOM",
+      "lang": "uk",
       "sources": []
     },
     "website": "https://tvfreedom.io/",
@@ -1608,10 +1608,51 @@
     "tv_guide": {
       "channel": "FREEDOM.ua",
       "feed": "SD",
-      "site": "turksatkablo.com.tr",
-      "site_id": "2710",
-      "site_name": "Freedom",
-      "lang": "tr",
+      "site": "tv.blue.ch",
+      "site_id": "1919",
+      "site_name": "FreeDOM",
+      "lang": "uk",
+      "sources": []
+    },
+    "website": "https://tvfreedom.io/",
+    "launched": "2015-10-01",
+    "closed": null
+  },
+  {
+    "id": "FREEDOM.ua",
+    "name": "FREEDOM",
+    "alt_names": [
+      "FREEДOM",
+      "UATV",
+      "Ukraine Tomorrow"
+    ],
+    "network": null,
+    "owners": [
+      "The National News Agency of Ukraine",
+      "Ukrinform"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png",
+    "stream_url": "https://dash4.antik.sk/live/test_uatv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FREEDOM.ua",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "1919",
+      "site_name": "FreeDOM",
+      "lang": "uk",
       "sources": []
     },
     "website": "https://tvfreedom.io/",
@@ -2593,6 +2634,58 @@
     "closed": null
   },
   {
+    "id": "MaincastCybersport.ua",
+    "name": "Maincast Cybersport",
+    "alt_names": [],
+    "network": "Maincast",
+    "owners": [],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png",
+    "stream_url": "http://stream.mcquack.net/487/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MaincastSport.ua",
+    "name": "Maincast Sport",
+    "alt_names": [],
+    "network": "Maincast",
+    "owners": [],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png",
+    "stream_url": "http://stream.mcquack.net/490/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "MasonTV.ua",
     "name": "Mason TV",
     "alt_names": [
@@ -3389,7 +3482,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "PixelTV.ua",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "2080",
+      "site_name": "Pixel",
+      "lang": "uk",
+      "sources": []
+    },
     "website": "http://pixelua.tv/",
     "launched": "2012-04-15",
     "closed": null

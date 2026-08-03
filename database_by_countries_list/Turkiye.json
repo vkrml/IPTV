@@ -774,6 +774,30 @@
     "closed": null
   },
   {
+    "id": "BirTV.tr",
+    "name": "Bir TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "TR",
+    "country_name": "Turkiye",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://birtv.tv/assets/upload/637f83951df60.png",
+    "stream_url": "https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://birtv.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BloombergHT.tr",
     "name": "Bloomberg HT",
     "alt_names": [],
@@ -5617,6 +5641,40 @@
     "closed": null
   },
   {
+    "id": "TRT1.tr",
+    "name": "TRT 1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Turkish Radio and Television Corporation"
+    ],
+    "country_code": "TR",
+    "country_name": "Turkiye",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png",
+    "stream_url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+    "stream_quality": "1440p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TRT1.tr",
+      "feed": "SD",
+      "site": "tvplus.com.tr",
+      "site_id": "144",
+      "site_name": "TRT1",
+      "lang": "tr",
+      "sources": []
+    },
+    "website": "https://www.trt1.com.tr/",
+    "launched": "1968-01-31",
+    "closed": null
+  },
+  {
     "id": "TRT2.tr",
     "name": "TRT 2",
     "alt_names": [],
@@ -5786,6 +5844,44 @@
     },
     "website": "https://www.trtbelgesel.com.tr/",
     "launched": "2009-10-17",
+    "closed": null
+  },
+  {
+    "id": "TRTCocuk.tr",
+    "name": "TRT Cocuk",
+    "alt_names": [
+      "TRT Çocuk"
+    ],
+    "network": null,
+    "owners": [
+      "TRT"
+    ],
+    "country_code": "TR",
+    "country_name": "Turkiye",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
+    "stream_url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+    "stream_quality": "1440p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TRTCocuk.tr",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000162_019250",
+      "site_name": "TRT Çocuk",
+      "lang": "tr",
+      "sources": []
+    },
+    "website": "https://www.trtcocuk.net.tr/",
+    "launched": "1990-07-30",
     "closed": null
   },
   {
@@ -6061,6 +6157,40 @@
     },
     "website": "https://www.trtmuzik.net.tr/",
     "launched": "2009-11-16",
+    "closed": null
+  },
+  {
+    "id": "TRTSporYildiz.tr",
+    "name": "TRT Spor Yildiz",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "TR",
+    "country_name": "Turkiye",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/960px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png",
+    "stream_url": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor",
+    "stream_quality": "1440p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TRTSporYildiz.tr",
+      "feed": "SD",
+      "site": "tvplus.com.tr",
+      "site_id": "205",
+      "site_name": "TRT SPOR YILDIZ",
+      "lang": "tr",
+      "sources": []
+    },
+    "website": "https://www.trtspor.com.tr/",
+    "launched": null,
     "closed": null
   },
   {

@@ -585,32 +585,6 @@
     "closed": null
   },
   {
-    "id": "DongThapTV.vn",
-    "name": "Dong Thap TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/XFX7yw0/logo2-1.png",
-    "stream_url": "https://megasystems-6c680321cd.gw-dthcdn.com/thdt1/thdt1.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://thdt.vn/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "HanoiTV1.vn",
     "name": "HanoiTV1",
     "alt_names": [],
@@ -1082,6 +1056,34 @@
     "closed": null
   },
   {
+    "id": "ONMovies.vn",
+    "name": "ON Movies",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Cable Television Corporation Joint Stock Company"
+    ],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "https://freem3u.xyz/api/live/play.m3u8?vid=181",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://vtvcab.vn",
+    "launched": "2005-03-13",
+    "closed": null
+  },
+  {
     "id": "ONVieDrama.vn",
     "name": "ON Vie Drama",
     "alt_names": [],
@@ -1206,6 +1208,54 @@
     "closed": null
   },
   {
+    "id": "SCTV3.vn",
+    "name": "SCTV3",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/tfk298I.png",
+    "stream_url": "https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.sctv.com.vn/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SCTV4.vn",
+    "name": "SCTV4",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/qkZhzQq.png",
+    "stream_url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.sctv.com.vn/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SCTV6.vn",
     "name": "SCTV6",
     "alt_names": [],
@@ -1221,6 +1271,30 @@
     "logo": "https://i.imgur.com/2oOVS42.png",
     "stream_url": "https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.sctv.com.vn/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SCTV16.vn",
+    "name": "SCTV16",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ldCYtvt.png",
+    "stream_url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -2890,7 +2964,9 @@
     "name": "VTV10",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Vietnam Television"
+    ],
     "country_code": "VN",
     "country_name": "Vietnam",
     "subdivision": null,
@@ -2905,7 +2981,7 @@
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": null,
+    "website": "https://vtv.vn/",
     "launched": "2026-03-30",
     "closed": null
   },
@@ -2914,7 +2990,9 @@
     "name": "VTV10",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Vietnam Television"
+    ],
     "country_code": "VN",
     "country_name": "Vietnam",
     "subdivision": null,
@@ -2929,7 +3007,7 @@
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": null,
+    "website": "https://vtv.vn/",
     "launched": "2026-03-30",
     "closed": null
   },
@@ -2938,7 +3016,9 @@
     "name": "VTV10",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Vietnam Television"
+    ],
     "country_code": "VN",
     "country_name": "Vietnam",
     "subdivision": null,
@@ -2953,7 +3033,7 @@
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": null,
+    "website": "https://vtv.vn/",
     "launched": "2026-03-30",
     "closed": null
   },
@@ -2962,7 +3042,9 @@
     "name": "VTV10",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Vietnam Television"
+    ],
     "country_code": "VN",
     "country_name": "Vietnam",
     "subdivision": null,
@@ -2977,7 +3059,7 @@
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": null,
+    "website": "https://vtv.vn/",
     "launched": "2026-03-30",
     "closed": null
   }

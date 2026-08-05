@@ -26,6 +26,40 @@
     "closed": null
   },
   {
+    "id": "AnhuiTV.cn",
+    "name": "Anhui TV",
+    "alt_names": [
+      "安徽卫视"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/gDn101f.png",
+    "stream_url": "https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AnhuiTV.cn",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000157",
+      "site_name": "Anhui",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "http://www.ahtv.cn/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AnshunComprehensiveNewsChannel.cn",
     "name": "Anshun Comprehensive News Channel",
     "alt_names": [
@@ -724,6 +758,44 @@
     "closed": null
   },
   {
+    "id": "CCTV5Plus.cn",
+    "name": "CCTV-5+",
+    "alt_names": [
+      "CCTV-5+ 体育赛事"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OK8mdJV.png",
+    "stream_url": "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV5Plus.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv5plus",
+      "site_name": "CCTV 5+",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv5plus/",
+    "launched": "2006-01-01",
+    "closed": null
+  },
+  {
     "id": "CCTV6.cn",
     "name": "CCTV-6",
     "alt_names": [
@@ -783,6 +855,44 @@
     "logo": "https://i.imgur.com/rFiaef7.png",
     "stream_url": "http://198.204.240.250:82/live/cctv6.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV6.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "cctv6",
+      "site_name": "CCTV 6",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv6/",
+    "launched": "1996-01-01",
+    "closed": null
+  },
+  {
+    "id": "CCTV6.cn",
+    "name": "CCTV-6",
+    "alt_names": [
+      "CCTV-6 电影"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/rFiaef7.png",
+    "stream_url": "https://live.eac-news.com/CCTV/streams/cctv6.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -3911,6 +4021,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/WqM6xnF.png",
+    "stream_url": "https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DragonTVInternational.cn",
+      "feed": "SD",
+      "site": "singtel.com",
+      "site_id": "5535",
+      "site_name": "Dragon TV Intl",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.smg.cn/",
+    "launched": "2009-09-28",
+    "closed": null
+  },
+  {
+    "id": "DragonTVInternational.cn",
+    "name": "Dragon TV International",
+    "alt_names": [
+      "东方卫视国际"
+    ],
+    "network": null,
+    "owners": [
+      "Shanghai Media Group"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/WqM6xnF.png",
     "stream_url": "https://op-group1-swiftservesd-1.dens.tv/s/s29/index.m3u8",
     "stream_quality": "480p",
     "stream_format": null,
@@ -4528,6 +4676,42 @@
     "logo": "https://i.imgur.com/Z5Ppzbi.png",
     "stream_url": "http://118.81.195.79:9003/hls/29/index.m3u8",
     "stream_quality": "2160p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HebeiTV.cn",
+      "feed": "SD",
+      "site": "tv.cctv.com",
+      "site_id": "hebei",
+      "site_name": "河北卫视",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://www.hebtv.com.cn/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HebeiTV.cn",
+    "name": "Hebei TV",
+    "alt_names": [
+      "河北电视台"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Z5Ppzbi.png",
+    "stream_url": "https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

@@ -9462,42 +9462,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg",
-    "stream_url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "beINSportsUSA.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "76942",
-      "site_name": "BeIn Sports USA",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.beinsports.com/us/",
-    "launched": "2012-08-16",
-    "closed": null
-  },
-  {
-    "id": "beINSportsUSA.us",
-    "name": "beIN Sports USA",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "beIN Media Group"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg",
     "stream_url": "http://40.160.24.52/BEIN_SPORTS_HD/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -93728,6 +93692,45 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
+    "stream_url": "https://ftv.itscwd273.workers.dev/?id=USANETEAST",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "USANetwork.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "11208",
+      "site_name": "USA Network West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.usanetwork.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "USANetwork.us",
+    "name": "USA Network",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Versant Media Group Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "series",
+      "sports",
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
     "stream_url": "http://40.160.24.55/USA_NETWORK_WEST/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -98034,6 +98037,43 @@
       "sources": []
     },
     "website": "http://www.wgba.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WGBODT661.us",
+    "name": "WGBO-DT 66.1",
+    "alt_names": [
+      "Univision Chicago",
+      "WGBO-DT"
+    ],
+    "network": "Univision",
+    "owners": [
+      "WGBO License Partnership G.P."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5RIEi99.png",
+    "stream_url": "https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=null",
+    "stream_quality": "2160p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "http://tv.univision.com/player/channel/univision-chicago",
+    "tv_guide": {
+      "channel": "WGBODT661.us",
+      "feed": "HD",
+      "site": "tvtv.us",
+      "site_id": "42635",
+      "site_name": "Univision (WGBO-DT1) Chicago, IL",
+      "lang": "en",
+      "sources": []
+    },
+    "website": null,
     "launched": null,
     "closed": null
   },

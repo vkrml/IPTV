@@ -6137,7 +6137,23 @@
       "site_id": "1004498718126777091",
       "site_name": "Stingray Easy Listening",
       "lang": "en",
-      "sources": []
+      "sources": [
+        {
+          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
+          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.xml",
+          "format": "XML"
+        },
+        {
+          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
+          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.xml.gz",
+          "format": "GZIP"
+        },
+        {
+          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
+          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.json",
+          "format": "JSON"
+        }
+      ]
     },
     "website": null,
     "launched": null,
@@ -7309,7 +7325,23 @@
       "site_id": "1004498718126777088",
       "site_name": "Stingray SPA",
       "lang": "en",
-      "sources": []
+      "sources": [
+        {
+          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
+          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.xml",
+          "format": "XML"
+        },
+        {
+          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
+          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.xml.gz",
+          "format": "GZIP"
+        },
+        {
+          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
+          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.json",
+          "format": "JSON"
+        }
+      ]
     },
     "website": "https://music.stingray.com/en/channels/022/the-spa",
     "launched": null,
@@ -7343,7 +7375,23 @@
       "site_id": "62ee6eae271f393d2d9f7096",
       "site_name": "Today's K-Pop",
       "lang": "en",
-      "sources": []
+      "sources": [
+        {
+          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
+          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.xml",
+          "format": "XML"
+        },
+        {
+          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
+          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.xml.gz",
+          "format": "GZIP"
+        },
+        {
+          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
+          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.json",
+          "format": "JSON"
+        }
+      ]
     },
     "website": "https://music.stingray.com/en/channels/317/todays-k-pop",
     "launched": null,

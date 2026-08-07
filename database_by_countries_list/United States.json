@@ -10046,6 +10046,40 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Jj0wTFQ.png",
+    "stream_url": "http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BestofDrPhil.us",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "350#99951370",
+      "site_name": "Dr. Phil",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://pluto.tv/en/live-tv/best-of-dr-phil",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BestofDrPhil.us",
+    "name": "Best of Dr Phil",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Jj0wTFQ.png",
     "stream_url": "https://jmp2.uk/plu-60f760bbdf090700075d7bfe.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -26285,6 +26319,42 @@
     "closed": null
   },
   {
+    "id": "DreamWorksChannelAsia.us",
+    "name": "DreamWorks Channel Asia",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NBCUniversal Media LLC"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png",
+    "stream_url": "https://thinkkast.dpdns.org/thinkkast/cg_dreamworks_hd1/versiglia/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DreamWorksChannelAsia.us",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000067",
+      "site_name": "Dream Works",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "http://dreamworks-asia.com/",
+    "launched": "2015-08-01",
+    "closed": null
+  },
+  {
     "id": "DreamWorksChannelLatinAmerica.us",
     "name": "DreamWorks Channel Latin America",
     "alt_names": [],
@@ -32656,82 +32726,6 @@
     "closed": null
   },
   {
-    "id": "FoxSports1.us",
-    "name": "Fox Sports 1",
-    "alt_names": [
-      "FS1"
-    ],
-    "network": "Fox Sports",
-    "owners": [
-      "Fox Sports Media Group"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/O9BapV9.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/fox-sports-1/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FoxSports1.us",
-      "feed": "HD",
-      "site": "tvguide.com",
-      "site_id": "9233008440",
-      "site_name": "FOX Sports 1",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.foxsports.com/",
-    "launched": "2013-08-17",
-    "closed": null
-  },
-  {
-    "id": "FoxSports2.us",
-    "name": "Fox Sports 2",
-    "alt_names": [
-      "FS2"
-    ],
-    "network": "Fox Sports",
-    "owners": [
-      "Fox Sports Media Group"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/35bddzKR/IMG-2281.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/fox-sports-2/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FoxSports2.us",
-      "feed": "HD",
-      "site": "tvguide.com",
-      "site_id": "9200009884",
-      "site_name": "FOX Sports 2",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.foxsports.com/",
-    "launched": "2013-08-17",
-    "closed": null
-  },
-  {
     "id": "FoxSports2.us",
     "name": "Fox Sports 2",
     "alt_names": [
@@ -33771,43 +33765,6 @@
     "closed": null
   },
   {
-    "id": "FX.us",
-    "name": "FX",
-    "alt_names": [],
-    "network": "FX Channels",
-    "owners": [
-      "FX Networks LLC",
-      "The Walt Disney Company"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/35wTxjfF/IMG-2451.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/fx-usa/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FX.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "14753",
-      "site_name": "FX West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.fxnetworks.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "FXLatinAmerica.us",
     "name": "FX Latin America",
     "alt_names": [],
@@ -34062,43 +34019,6 @@
     "closed": null
   },
   {
-    "id": "FXMovieChannel.us",
-    "name": "FX Movie Channel",
-    "alt_names": [],
-    "network": "FX Channels",
-    "owners": [
-      "FX Networks LLC",
-      "The Walt Disney Company"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/fxm-usa/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FXMovieChannel.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "70253",
-      "site_name": "FX Movie Channel",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.fxnetworks.com/fxm",
-    "launched": "1994-10-31",
-    "closed": null
-  },
-  {
     "id": "FXX.us",
     "name": "FXX",
     "alt_names": [],
@@ -34192,43 +34112,6 @@
     "is_nsfw": false,
     "logo": "https://i.ibb.co/Q7jLGRLN/IMG-2452.png",
     "stream_url": "http://40.160.24.52/FXX/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FXX.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "82570",
-      "site_name": "FXX West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.fxnetworks.com/fxx",
-    "launched": "2013-09-02",
-    "closed": null
-  },
-  {
-    "id": "FXX.us",
-    "name": "FXX",
-    "alt_names": [],
-    "network": "FX Channels",
-    "owners": [
-      "FXX Networks LLC",
-      "The Walt Disney Company"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/Q7jLGRLN/IMG-2452.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/fxx-usa/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -60380,43 +60263,6 @@
     "closed": null
   },
   {
-    "id": "Nickelodeon.us",
-    "name": "Nickelodeon",
-    "alt_names": [],
-    "network": "Nickelodeon",
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/nickelodeon-usa/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Nickelodeon.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "11007",
-      "site_name": "Nickelodeon West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.nick.com/",
-    "launched": "1979-04-01",
-    "closed": null
-  },
-  {
     "id": "NickelodeonClasico.us",
     "name": "Nickelodeon Clasico",
     "alt_names": [
@@ -60930,43 +60776,6 @@
     "closed": null
   },
   {
-    "id": "NickJr.us",
-    "name": "Nick Jr.",
-    "alt_names": [],
-    "network": "Nickelodeon",
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/KT4tdQs.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/nickjr-usa/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NickJr.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "77996",
-      "site_name": "Nick Jr West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.nickjr.com/",
-    "launched": "1988-01-04",
-    "closed": null
-  },
-  {
     "id": "NickJrClub.us",
     "name": "Nick Jr. Club",
     "alt_names": [
@@ -61351,45 +61160,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg",
     "stream_url": "http://41.205.93.154/NICKTOONS/index.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Nicktoons.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "91718",
-      "site_name": "Nicktoons West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://nicktoons.nick.com/",
-    "launched": "2002-05-01",
-    "closed": null
-  },
-  {
-    "id": "Nicktoons.us",
-    "name": "Nicktoons",
-    "alt_names": [
-      "Nickelodeon NickToons"
-    ],
-    "network": "Nickelodeon",
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg",
-    "stream_url": "https://messi.damitv.st/papi/ts/nicktoons-usa/playlist.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -79166,41 +78936,6 @@
     "closed": null
   },
   {
-    "id": "Showtime2.us",
-    "name": "Showtime 2",
-    "alt_names": [],
-    "network": "Paramount+ with SHOWTIME",
-    "owners": [
-      "Showtime Networks Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/showtime2-usa/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Showtime2.us",
-      "feed": "East",
-      "site": "tvtv.us",
-      "site_id": "11116",
-      "site_name": "Showtime 2 East",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.sho.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Showtime.us",
     "name": "Showtime",
     "alt_names": [],
@@ -79306,41 +79041,6 @@
     "closed": null
   },
   {
-    "id": "ShowtimeExtreme.us",
-    "name": "Showtime Extreme",
-    "alt_names": [],
-    "network": "Paramount+ with SHOWTIME",
-    "owners": [
-      "Showtime Networks Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/byJNJdm.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/showtimeextreme-usa/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ShowtimeExtreme.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "18164",
-      "site_name": "Showtime Extreme West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.sho.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "ShowtimeFamilyZone.us",
     "name": "Showtime Family Zone",
     "alt_names": [],
@@ -79361,43 +79061,6 @@
     "logo": "https://i.imgur.com/qwJUawJ.png",
     "stream_url": "http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ShowtimeFamilyZone.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "25275",
-      "site_name": "Showtime Family Zone West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.sho.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ShowtimeFamilyZone.us",
-    "name": "Showtime Family Zone",
-    "alt_names": [],
-    "network": "Paramount+ with SHOWTIME",
-    "owners": [
-      "Showtime Networks Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "family"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/qwJUawJ.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/showtimefamilyzone-usa/playlist.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -79442,76 +79105,6 @@
       "site": "tvtv.us",
       "site_id": "25271",
       "site_name": "Showtime Next West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.sho.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ShowtimeNext.us",
-    "name": "Showtime Next",
-    "alt_names": [],
-    "network": "Paramount+ with SHOWTIME",
-    "owners": [
-      "Showtime Networks Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/1Ak2MX2.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/showtimenext-usa/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ShowtimeNext.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "25271",
-      "site_name": "Showtime Next West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.sho.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ShowtimeWomen.us",
-    "name": "Showtime Women",
-    "alt_names": [],
-    "network": "Paramount+ with SHOWTIME",
-    "owners": [
-      "Showtime Networks Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/showtimewomen-usa/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ShowtimeWomen.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "25273",
-      "site_name": "Showtime Women West",
       "lang": "en",
       "sources": []
     },
@@ -82203,40 +81796,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/N7oSm4d.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/starz-usa/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Starz.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "12741",
-      "site_name": "Starz West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.starz.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Starz.us",
-    "name": "Starz",
-    "alt_names": [],
-    "network": "STARZ",
-    "owners": [
-      "Starz Entertainment Corp."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/N7oSm4d.png",
     "stream_url": "http://40.160.24.55/STARZ_WEST/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -82275,42 +81834,6 @@
     "logo": "https://i.imgur.com/ghzzKoT.png",
     "stream_url": "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarzCinema.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "19651",
-      "site_name": "Starz Cinema West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.starz.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "StarzCinema.us",
-    "name": "Starz Cinema",
-    "alt_names": [],
-    "network": "STARZ",
-    "owners": [
-      "Starz Entertainment Corp."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ghzzKoT.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/starzcinema-usa/playlist.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -82383,42 +81906,6 @@
     "logo": "https://i.imgur.com/JpKvjZe.png",
     "stream_url": "http://40.160.24.55/STARZ_COMEDY/index.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarzComedy.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "34902",
-      "site_name": "Starz Comedy West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.starz.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "StarzComedy.us",
-    "name": "Starz Comedy",
-    "alt_names": [],
-    "network": "STARZ",
-    "owners": [
-      "Starz Entertainment Corp."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "comedy"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/JpKvjZe.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/starzcomedy-usa/playlist.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

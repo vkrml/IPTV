@@ -20357,9 +20357,7 @@
   {
     "id": "Allegro.id",
     "name": "Allegro",
-    "alt_names": [
-      "MNC Channels"
-    ],
+    "alt_names": [],
     "network": null,
     "owners": [
       "Edge Group"
@@ -20387,9 +20385,7 @@
   {
     "id": "Allegro.id",
     "name": "Allegro",
-    "alt_names": [
-      "MNC Channels"
-    ],
+    "alt_names": [],
     "network": null,
     "owners": [
       "Edge Group"
@@ -20417,9 +20413,7 @@
   {
     "id": "Allegro.id",
     "name": "Allegro",
-    "alt_names": [
-      "MNC Channels"
-    ],
+    "alt_names": [],
     "network": null,
     "owners": [
       "Edge Group"
@@ -23799,9 +23793,7 @@
   {
     "id": "Amara.id",
     "name": "Amara",
-    "alt_names": [
-      "MAXStreak"
-    ],
+    "alt_names": [],
     "network": null,
     "owners": [
       "Edge Group"
@@ -28707,6 +28699,44 @@
     "closed": null
   },
   {
+    "id": "AnimaxAsia.sg",
+    "name": "Animax Asia",
+    "alt_names": [
+      "アニマックス"
+    ],
+    "network": "Animax",
+    "owners": [
+      "KC Global Media"
+    ],
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png",
+    "stream_url": "https://thinkkast.dpdns.org/thinkkast/cg_animax_sd_new/versiglia/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AnimaxAsia.sg",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000065",
+      "site_name": "Animax",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "http://www.animax-asia.com/",
+    "launched": "2004-01-19",
+    "closed": null
+  },
+  {
     "id": "AnimeVision.es",
     "name": "Anime Vision",
     "alt_names": [
@@ -32198,9 +32228,7 @@
   {
     "id": "Arena.id",
     "name": "Arena",
-    "alt_names": [
-      "MAXSports"
-    ],
+    "alt_names": [],
     "network": null,
     "owners": [
       "Edge Group"
@@ -36155,6 +36183,36 @@
     "tv_guide": null,
     "website": "https://www.arubatvplus.com/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AruljothiTV.in",
+    "name": "Aruljothi TV",
+    "alt_names": [
+      "அருள்ஜோதி தொலைக்காட்சி"
+    ],
+    "network": null,
+    "owners": [
+      "Aruljothi Sanmarkka Trust"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/BmQ0r5S.png",
+    "stream_url": "https://jothi.inet.moe/jothitv/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.aruljothitrust.com/Tvaruljothi.html",
+    "launched": "2014-01-17",
     "closed": null
   },
   {
@@ -42004,6 +42062,44 @@
       "sources": []
     },
     "website": "http://www.axn.com/",
+    "launched": "1997-09-21",
+    "closed": null
+  },
+  {
+    "id": "AXNAsia.sg",
+    "name": "AXN Asia",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "KC Global Media Singapore Pte. Ltd.",
+      "KC Global Media Entertainment LLC"
+    ],
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "stream_url": "https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXNAsia.sg",
+      "feed": "Indonesia",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000079",
+      "site_name": "AXN",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://www.axn-asia.com/",
     "launched": "1997-09-21",
     "closed": null
   },
@@ -48585,6 +48681,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/nGSsUd4.png",
+    "stream_url": "https://thinkkast.dpdns.org/thinkkast/cg_bbcearth_hd1/versiglia/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BBCEarth.uk",
+      "feed": "US",
+      "site": "xumo.tv",
+      "site_id": "150#99951231",
+      "site_name": "BBC Earth",
+      "lang": "en",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BBCEarth.uk",
+    "name": "BBC Earth",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BBC Studios"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nGSsUd4.png",
     "stream_url": "http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -49253,10 +49385,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/9mzJJ3y.png",
-    "stream_url": "https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8",
+    "stream_url": "https://thinkkast.dpdns.org/thinkkast/bbc_lstylehd/versiglia/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "BBCLifestyle.uk",
@@ -49543,6 +49675,42 @@
     "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BBCNews.uk",
+      "feed": "Africa",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000116_019005",
+      "site_name": "BBC News",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.bbc.co.uk/tv/bbcnews",
+    "launched": "1997-11-09",
+    "closed": null
+  },
+  {
+    "id": "BBCNews.uk",
+    "name": "BBC News",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BBC Studios"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -57018,12 +57186,7 @@
   {
     "id": "BeritaSatu.id",
     "name": "BeritaSatu",
-    "alt_names": [
-      "IDTV",
-      "Investor Daily TV",
-      "BeritaSatu World",
-      "Swara"
-    ],
+    "alt_names": [],
     "network": null,
     "owners": [],
     "country_code": "ID",
@@ -57051,18 +57214,13 @@
       "sources": []
     },
     "website": "https://investor.id/livestream",
-    "launched": "2014-07-01",
+    "launched": "2025-01-01",
     "closed": null
   },
   {
     "id": "BeritaSatu.id",
     "name": "BeritaSatu",
-    "alt_names": [
-      "IDTV",
-      "Investor Daily TV",
-      "BeritaSatu World",
-      "Swara"
-    ],
+    "alt_names": [],
     "network": null,
     "owners": [],
     "country_code": "ID",
@@ -57090,7 +57248,7 @@
       "sources": []
     },
     "website": "https://investor.id/livestream",
-    "launched": "2014-07-01",
+    "launched": "2025-01-01",
     "closed": null
   },
   {
@@ -57270,6 +57428,40 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Jj0wTFQ.png",
     "stream_url": "https://jmp2.uk/plu-65a7b01907e03a0008913e8f.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BestofDrPhil.us",
+      "feed": "SD",
+      "site": "xumo.tv",
+      "site_id": "350#99951370",
+      "site_name": "Dr. Phil",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://pluto.tv/en/live-tv/best-of-dr-phil",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BestofDrPhil.us",
+    "name": "Best of Dr Phil",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Jj0wTFQ.png",
+    "stream_url": "http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -61225,9 +61417,7 @@
   {
     "id": "black.ru",
     "name": ".black",
-    "alt_names": [
-      "Sony Turbo"
-    ],
+    "alt_names": [],
     "network": null,
     "owners": [
       "Media Telecom"
@@ -63245,8 +63435,7 @@
     "id": "BNChannel.id",
     "name": "BN Channel",
     "alt_names": [
-      "Business News Channel",
-      "BN TV"
+      "Business News Channel"
     ],
     "network": null,
     "owners": [],
@@ -63267,15 +63456,14 @@
     "referrer": "https://youtv.live/",
     "tv_guide": null,
     "website": null,
-    "launched": null,
+    "launched": "2022-01-01",
     "closed": null
   },
   {
     "id": "BNChannel.id",
     "name": "BN Channel",
     "alt_names": [
-      "Business News Channel",
-      "BN TV"
+      "Business News Channel"
     ],
     "network": null,
     "owners": [],
@@ -63296,15 +63484,14 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
-    "launched": null,
+    "launched": "2022-01-01",
     "closed": null
   },
   {
     "id": "BNChannel.id",
     "name": "BN Channel",
     "alt_names": [
-      "Business News Channel",
-      "BN TV"
+      "Business News Channel"
     ],
     "network": null,
     "owners": [],
@@ -63325,7 +63512,7 @@
     "referrer": "https://www.dens.tv/",
     "tv_guide": null,
     "website": null,
-    "launched": null,
+    "launched": "2022-01-01",
     "closed": null
   },
   {
@@ -66705,6 +66892,32 @@
     "closed": null
   },
   {
+    "id": "BrioTV.in",
+    "name": "Brio TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Brio_TV.png",
+    "stream_url": "https://mumt03.tangotv.in/Dsly5z3HBRIOTV/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2025-06-30",
+    "closed": null
+  },
+  {
     "id": "BritainsNextTopModel.se",
     "name": "Britain's Next Top Model",
     "alt_names": [],
@@ -67881,11 +68094,7 @@
   {
     "id": "BTV.id",
     "name": "BTV",
-    "alt_names": [
-      "BeritaSatu TV",
-      "QTV",
-      "Q Channel"
-    ],
+    "alt_names": [],
     "network": null,
     "owners": [
       "B Universe"
@@ -67915,17 +68124,13 @@
       "sources": []
     },
     "website": "https://www.beritasatu.tv/",
-    "launched": "1998-01-01",
+    "launched": "2022-10-11",
     "closed": null
   },
   {
     "id": "BTV.id",
     "name": "BTV",
-    "alt_names": [
-      "BeritaSatu TV",
-      "QTV",
-      "Q Channel"
-    ],
+    "alt_names": [],
     "network": null,
     "owners": [
       "B Universe"
@@ -67955,7 +68160,7 @@
       "sources": []
     },
     "website": "https://www.beritasatu.tv/",
-    "launched": "1998-01-01",
+    "launched": "2022-10-11",
     "closed": null
   },
   {
@@ -93587,8 +93792,7 @@
       "Pervyy Kanal",
       "First Channel",
       "Channel 1 Ostankino",
-      "Public Russian Television",
-      "ORT"
+      "Public Russian Television"
     ],
     "network": null,
     "owners": [
@@ -93619,7 +93823,7 @@
       "sources": []
     },
     "website": "https://www.1tv.ru/",
-    "launched": "1938-03-09",
+    "launched": "2002-09-01",
     "closed": null
   },
   {
@@ -93630,8 +93834,7 @@
       "Pervyy Kanal",
       "First Channel",
       "Channel 1 Ostankino",
-      "Public Russian Television",
-      "ORT"
+      "Public Russian Television"
     ],
     "network": null,
     "owners": [
@@ -93662,7 +93865,7 @@
       "sources": []
     },
     "website": "https://www.1tv.ru/",
-    "launched": "1938-03-09",
+    "launched": "2002-09-01",
     "closed": null
   },
   {
@@ -93673,8 +93876,7 @@
       "Pervyy Kanal",
       "First Channel",
       "Channel 1 Ostankino",
-      "Public Russian Television",
-      "ORT"
+      "Public Russian Television"
     ],
     "network": null,
     "owners": [
@@ -93705,7 +93907,7 @@
       "sources": []
     },
     "website": "https://www.1tv.ru/",
-    "launched": "1938-03-09",
+    "launched": "2002-09-01",
     "closed": null
   },
   {
@@ -93716,8 +93918,7 @@
       "Pervyy Kanal",
       "First Channel",
       "Channel 1 Ostankino",
-      "Public Russian Television",
-      "ORT"
+      "Public Russian Television"
     ],
     "network": null,
     "owners": [
@@ -93748,7 +93949,7 @@
       "sources": []
     },
     "website": "https://www.1tv.ru/",
-    "launched": "1938-03-09",
+    "launched": "2002-09-01",
     "closed": null
   },
   {
@@ -93759,8 +93960,7 @@
       "Pervyy Kanal",
       "First Channel",
       "Channel 1 Ostankino",
-      "Public Russian Television",
-      "ORT"
+      "Public Russian Television"
     ],
     "network": null,
     "owners": [
@@ -93791,7 +93991,7 @@
       "sources": []
     },
     "website": "https://www.1tv.ru/",
-    "launched": "1938-03-09",
+    "launched": "2002-09-01",
     "closed": null
   },
   {
@@ -93802,8 +94002,7 @@
       "Pervyy Kanal",
       "First Channel",
       "Channel 1 Ostankino",
-      "Public Russian Television",
-      "ORT"
+      "Public Russian Television"
     ],
     "network": null,
     "owners": [
@@ -93834,7 +94033,7 @@
       "sources": []
     },
     "website": "https://www.1tv.ru/",
-    "launched": "1938-03-09",
+    "launched": "2002-09-01",
     "closed": null
   },
   {
@@ -93845,8 +94044,7 @@
       "Pervyy Kanal",
       "First Channel",
       "Channel 1 Ostankino",
-      "Public Russian Television",
-      "ORT"
+      "Public Russian Television"
     ],
     "network": null,
     "owners": [
@@ -93877,7 +94075,7 @@
       "sources": []
     },
     "website": "https://www.1tv.ru/",
-    "launched": "1938-03-09",
+    "launched": "2002-09-01",
     "closed": null
   },
   {
@@ -93888,8 +94086,7 @@
       "Pervyy Kanal",
       "First Channel",
       "Channel 1 Ostankino",
-      "Public Russian Television",
-      "ORT"
+      "Public Russian Television"
     ],
     "network": null,
     "owners": [
@@ -93920,7 +94117,7 @@
       "sources": []
     },
     "website": "https://www.1tv.ru/",
-    "launched": "1938-03-09",
+    "launched": "2002-09-01",
     "closed": null
   },
   {
@@ -93931,8 +94128,7 @@
       "Pervyy Kanal",
       "First Channel",
       "Channel 1 Ostankino",
-      "Public Russian Television",
-      "ORT"
+      "Public Russian Television"
     ],
     "network": null,
     "owners": [
@@ -93963,7 +94159,7 @@
       "sources": []
     },
     "website": "https://www.1tv.ru/",
-    "launched": "1938-03-09",
+    "launched": "2002-09-01",
     "closed": null
   },
   {
@@ -104843,6 +105039,44 @@
     "closed": null
   },
   {
+    "id": "ColorsInfinity.in",
+    "name": "Colors Infinity",
+    "alt_names": [],
+    "network": "Colors",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s158150_ld_h15_aa.png?lock=720x540",
+    "stream_url": "http://103.175.73.12:8080/live/29/29_0.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ColorsInfinity.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "187",
+      "site_name": "Colors Infinity HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.colorstv.com/us/",
+    "launched": "2008-07-21",
+    "closed": null
+  },
+  {
     "id": "ColorsKannada.in",
     "name": "Colors Kannada",
     "alt_names": [
@@ -105076,44 +105310,6 @@
     },
     "website": "https://www.colorstv.com/us/",
     "launched": "2008-07-21",
-    "closed": null
-  },
-  {
-    "id": "ColorsTamil.in",
-    "name": "Colors Tamil",
-    "alt_names": [],
-    "network": "Colors",
-    "owners": [
-      "JioStar India Pvt. Ltd.",
-      "Reliance Industries(RIL)",
-      "The Walt Disney Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s158241_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://103.72.101.252:8080/live/429.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ColorsTamil.in",
-      "feed": "HD",
-      "site": "tataplay.com",
-      "site_id": "674",
-      "site_name": "Colors Tamil HD",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.colorstv.com/us/",
-    "launched": "2018-02-19",
     "closed": null
   },
   {
@@ -120650,8 +120846,7 @@
     "id": "Detskimir.ru",
     "name": "Detski mir",
     "alt_names": [
-      "Детский мир",
-      "НТВ-Плюс Детский мир"
+      "Детский мир"
     ],
     "network": null,
     "owners": [
@@ -120682,7 +120877,7 @@
       "sources": []
     },
     "website": "https://www.detskiymir.tv/",
-    "launched": "2018-05-14",
+    "launched": "2003-02-09",
     "closed": null
   },
   {
@@ -128718,6 +128913,42 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png",
     "stream_url": "https://cdn12.178.indevs.in/163189/dreamworks",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DreamWorksChannelAsia.us",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000067",
+      "site_name": "Dream Works",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "http://dreamworks-asia.com/",
+    "launched": "2015-08-01",
+    "closed": null
+  },
+  {
+    "id": "DreamWorksChannelAsia.us",
+    "name": "DreamWorks Channel Asia",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NBCUniversal Media LLC"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png",
+    "stream_url": "https://thinkkast.dpdns.org/thinkkast/cg_dreamworks_hd1/versiglia/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -141910,6 +142141,43 @@
     "closed": null
   },
   {
+    "id": "ETVAbhiruchi.in",
+    "name": "ETV Abhiruchi",
+    "alt_names": [],
+    "network": "ETV",
+    "owners": [
+      "Eenadu Television Private Limited (ETV)",
+      "Ramoji Group"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "cooking"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143023_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://dg3721c3ez5m0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ETVAbhiruchi.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "358",
+      "site_name": "ETV Abhiruchi",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.etv.co.in/channels/home?channelId=6",
+    "launched": "2015-11-01",
+    "closed": null
+  },
+  {
     "id": "ETVAndhraPradesh.in",
     "name": "ETV Andhra Pradesh",
     "alt_names": [],
@@ -141967,6 +142235,59 @@
     "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-cinema-HD-Logo_2000_X_1125_Transpharent.png",
     "stream_url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ETVCinema.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "1341",
+      "site_name": "ETV Cinema HD",
+      "lang": "en",
+      "sources": [
+        {
+          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
+          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.xml",
+          "format": "XML"
+        },
+        {
+          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
+          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.xml.gz",
+          "format": "GZIP"
+        },
+        {
+          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
+          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.json",
+          "format": "JSON"
+        }
+      ]
+    },
+    "website": "http://www.etv.co.in/channels/home?channelId=8",
+    "launched": "2015-11-01",
+    "closed": null
+  },
+  {
+    "id": "ETVCinema.in",
+    "name": "ETV Cinema",
+    "alt_names": [],
+    "network": "ETV",
+    "owners": [
+      "Eenadu Television Private Limited (ETV)",
+      "Ramoji Group"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-cinema-HD-Logo_2000_X_1125_Transpharent.png",
+    "stream_url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "stream_quality": "396p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -142292,6 +142613,80 @@
     },
     "website": "http://etvpluss.err.ee/",
     "launched": "2016-09-28",
+    "closed": null
+  },
+  {
+    "id": "ETVPlus.in",
+    "name": "ETV Plus",
+    "alt_names": [],
+    "network": "ETV",
+    "owners": [
+      "Eenadu Television Private Limited (ETV)",
+      "Ramoji Group"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-plus-HD-Logo_2000_X_1125_Transpharent.png",
+    "stream_url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ETVPlus.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "1342",
+      "site_name": "ETV Plus HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.etv.co.in/channels/home?channelId=5",
+    "launched": "2015-11-01",
+    "closed": null
+  },
+  {
+    "id": "ETVPlus.in",
+    "name": "ETV Plus",
+    "alt_names": [],
+    "network": "ETV",
+    "owners": [
+      "Eenadu Television Private Limited (ETV)",
+      "Ramoji Group"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-plus-HD-Logo_2000_X_1125_Transpharent.png",
+    "stream_url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "stream_quality": "396p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ETVPlus.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "1342",
+      "site_name": "ETV Plus HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.etv.co.in/channels/home?channelId=5",
+    "launched": "2015-11-01",
     "closed": null
   },
   {
@@ -149687,7 +150082,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": null,
+    "logo": "https://i.imgur.com/KMEf0Cc.png",
     "stream_url": "https://v3.siar.us/ficomchannel/live/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -155491,82 +155886,6 @@
     "closed": null
   },
   {
-    "id": "FoxSports1.us",
-    "name": "Fox Sports 1",
-    "alt_names": [
-      "FS1"
-    ],
-    "network": "Fox Sports",
-    "owners": [
-      "Fox Sports Media Group"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/O9BapV9.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/fox-sports-1/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FoxSports1.us",
-      "feed": "HD",
-      "site": "tvguide.com",
-      "site_id": "9233008440",
-      "site_name": "FOX Sports 1",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.foxsports.com/",
-    "launched": "2013-08-17",
-    "closed": null
-  },
-  {
-    "id": "FoxSports2.us",
-    "name": "Fox Sports 2",
-    "alt_names": [
-      "FS2"
-    ],
-    "network": "Fox Sports",
-    "owners": [
-      "Fox Sports Media Group"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/35bddzKR/IMG-2281.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/fox-sports-2/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FoxSports2.us",
-      "feed": "HD",
-      "site": "tvguide.com",
-      "site_id": "9200009884",
-      "site_name": "FOX Sports 2",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.foxsports.com/",
-    "launched": "2013-08-17",
-    "closed": null
-  },
-  {
     "id": "FoxSports2.us",
     "name": "Fox Sports 2",
     "alt_names": [
@@ -155602,114 +155921,6 @@
     },
     "website": "https://www.foxsports.com/",
     "launched": "2013-08-17",
-    "closed": null
-  },
-  {
-    "id": "FoxSports503.au",
-    "name": "Fox Sports 503",
-    "alt_names": [],
-    "network": "Fox Sports International",
-    "owners": [
-      "The Walt Disney Company"
-    ],
-    "country_code": "AU",
-    "country_name": "Australia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/pBY6i2q.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/fox-sports-503/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FoxSports503.au",
-      "feed": "SD",
-      "site": "i.mjh.nz",
-      "site_id": "Foxtel/epg#FS3",
-      "site_name": "Fox Sports 503",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.foxtel.com.au/tv-guide/channel/FOX-SPORTS-503/FS3/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "FoxSports505.au",
-    "name": "Fox Sports 505",
-    "alt_names": [],
-    "network": "Fox Sports International",
-    "owners": [
-      "The Walt Disney Company"
-    ],
-    "country_code": "AU",
-    "country_name": "Australia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/sbooXpg.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/fox-sports-505/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FoxSports505.au",
-      "feed": "SD",
-      "site": "i.mjh.nz",
-      "site_id": "Foxtel/epg#FSP",
-      "site_name": "Fox Sports 505",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.foxtel.com.au/tv-guide/channel/FOX-SPORTS-505/FSP/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "FoxSports506.au",
-    "name": "Fox Sports 506",
-    "alt_names": [],
-    "network": "Fox Sports International",
-    "owners": [
-      "The Walt Disney Company"
-    ],
-    "country_code": "AU",
-    "country_name": "Australia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/sbooXpg.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/fox-sports-506/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FoxSports506.au",
-      "feed": "SD",
-      "site": "i.mjh.nz",
-      "site_id": "Foxtel/epg#SPS",
-      "site_name": "Fox Sports 506",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.foxtel.com.au/tv-guide/channel/FOX-SPORTS-506/SPS/",
-    "launched": null,
     "closed": null
   },
   {
@@ -160419,43 +160630,6 @@
     "closed": null
   },
   {
-    "id": "FX.us",
-    "name": "FX",
-    "alt_names": [],
-    "network": "FX Channels",
-    "owners": [
-      "FX Networks LLC",
-      "The Walt Disney Company"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/35wTxjfF/IMG-2451.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/fx-usa/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FX.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "14753",
-      "site_name": "FX West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.fxnetworks.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "FXLatinAmerica.us",
     "name": "FX Latin America",
     "alt_names": [],
@@ -160738,43 +160912,6 @@
     "closed": null
   },
   {
-    "id": "FXMovieChannel.us",
-    "name": "FX Movie Channel",
-    "alt_names": [],
-    "network": "FX Channels",
-    "owners": [
-      "FX Networks LLC",
-      "The Walt Disney Company"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/fxm-usa/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FXMovieChannel.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "70253",
-      "site_name": "FX Movie Channel",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.fxnetworks.com/fxm",
-    "launched": "1994-10-31",
-    "closed": null
-  },
-  {
     "id": "FXX.us",
     "name": "FXX",
     "alt_names": [],
@@ -160868,43 +161005,6 @@
     "is_nsfw": false,
     "logo": "https://i.ibb.co/Q7jLGRLN/IMG-2452.png",
     "stream_url": "http://40.160.24.52/FXX/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FXX.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "82570",
-      "site_name": "FXX West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.fxnetworks.com/fxx",
-    "launched": "2013-09-02",
-    "closed": null
-  },
-  {
-    "id": "FXX.us",
-    "name": "FXX",
-    "alt_names": [],
-    "network": "FX Channels",
-    "owners": [
-      "FXX Networks LLC",
-      "The Walt Disney Company"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/Q7jLGRLN/IMG-2452.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/fxx-usa/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -170385,9 +170485,7 @@
   {
     "id": "GrooviaKanal.id",
     "name": "Groovia Kanal",
-    "alt_names": [
-      "MAXEats"
-    ],
+    "alt_names": [],
     "network": null,
     "owners": [
       "Edge Group"
@@ -170415,9 +170513,7 @@
   {
     "id": "GrooviaKids.id",
     "name": "Groovia Kids",
-    "alt_names": [
-      "MAXKids"
-    ],
+    "alt_names": [],
     "network": null,
     "owners": [
       "Edge Group"
@@ -196265,66 +196361,6 @@
     },
     "website": "https://jambyltv.kz/kz",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "JamunaTV.bd",
-    "name": "Jamuna TV",
-    "alt_names": [
-      "যমুনা টেলিভিশন"
-    ],
-    "network": null,
-    "owners": [
-      "Jamuna Group"
-    ],
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.jamuna.tv/uploads/settings/jtv-logo-whitelogo-1-1754573204.png",
-    "stream_url": "https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.jamuna.tv/",
-    "launched": "2014-04-05",
-    "closed": null
-  },
-  {
-    "id": "JamunaTV.bd",
-    "name": "Jamuna TV",
-    "alt_names": [
-      "যমুনা টেলিভিশন"
-    ],
-    "network": null,
-    "owners": [
-      "Jamuna Group"
-    ],
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.jamuna.tv/uploads/settings/jtv-logo-whitelogo-1-1754573204.png",
-    "stream_url": "https://tvsen6.aynaott.com/jamunatv/index.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.jamuna.tv/",
-    "launched": "2014-04-05",
     "closed": null
   },
   {
@@ -234621,7 +234657,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://images.maxstream.tv/sites/default/files/entry/0_z7t4c568/landscape_carousel_xxhdpi.webp",
+    "logo": "https://assets.telkomsel.com/public/thumbnails_paraf_18/images/2026-07/MaxEats.png",
     "stream_url": "https://indihuy.streamized.net/atm/DASH/maxeats/manifest.mpd",
     "stream_quality": null,
     "stream_format": null,
@@ -234699,10 +234735,7 @@
   {
     "id": "MAXKids.id",
     "name": "MAX Kids",
-    "alt_names": [
-      "IndiKids",
-      "Fun Planet"
-    ],
+    "alt_names": [],
     "network": "IndiHome",
     "owners": [
       "Telkomsel Indonesia"
@@ -234716,7 +234749,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://images.maxstream.tv/sites/default/files/entry/0_ynh2anw4/landscape_carousel_xxhdpi.webp",
+    "logo": "https://assets.telkomsel.com/public/thumbnails_paraf_18/images/2026-07/MaxKids.png",
     "stream_url": "https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd",
     "stream_quality": null,
     "stream_format": null,
@@ -234732,16 +234765,13 @@
       "sources": []
     },
     "website": "https://maxstream.tv/",
-    "launched": "2023-10-10",
+    "launched": "2024-12-01",
     "closed": null
   },
   {
     "id": "MAXReels.id",
     "name": "MAX Reels",
-    "alt_names": [
-      "Usee Prime",
-      "AllPlay Ent"
-    ],
+    "alt_names": [],
     "network": "IndiHome",
     "owners": [
       "Telkomsel Indonesia"
@@ -234755,7 +234785,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://images.maxstream.tv/sites/default/files/entry/0_psqdb637/landscape_carousel_xxhdpi.webp",
+    "logo": "https://assets.telkomsel.com/public/thumbnails_paraf_18/images/2026-07/MaxReels.png",
     "stream_url": "https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd",
     "stream_quality": null,
     "stream_format": null,
@@ -234771,7 +234801,7 @@
       "sources": []
     },
     "website": "https://maxstream.tv/",
-    "launched": null,
+    "launched": "2026-01-13",
     "closed": null
   },
   {
@@ -235029,10 +235059,7 @@
   {
     "id": "MAXSports.id",
     "name": "MAX Sports",
-    "alt_names": [
-      "Usee Sports",
-      "AllPlay Sports"
-    ],
+    "alt_names": [],
     "network": "IndiHome",
     "owners": [
       "Telkomsel Indonesia"
@@ -235046,7 +235073,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://images.maxstream.tv/sites/default/files/entry/0_1u20u1ok/landscape_carousel_xxhdpi.webp",
+    "logo": "https://assets.telkomsel.com/public/thumbnails_paraf_18/images/2026-07/MaxSports.png",
     "stream_url": "https://indihuy.streamized.net/atm/DASH/useesport/manifest.mpd",
     "stream_quality": null,
     "stream_format": null,
@@ -235062,7 +235089,7 @@
       "sources": []
     },
     "website": "https://maxstream.tv/",
-    "launched": null,
+    "launched": "2026-01-13",
     "closed": null
   },
   {
@@ -235082,7 +235109,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://images.maxstream.tv/sites/default/files/entry/0_720wy4x6/landscape_carousel_xxhdpi.webp",
+    "logo": "https://assets.telkomsel.com/public/thumbnails_paraf_18/images/2026-07/MaxStreak.png",
     "stream_url": "https://indihuy.streamized.net/atm/DASH/maxstreak/manifest.mpd",
     "stream_quality": null,
     "stream_format": null,
@@ -245563,9 +245590,7 @@
   {
     "id": "Moji.id",
     "name": "Moji",
-    "alt_names": [
-      "O Channel"
-    ],
+    "alt_names": [],
     "network": null,
     "owners": [
       "Elang Mahkota Teknologi"
@@ -245595,7 +245620,7 @@
       "sources": []
     },
     "website": "https://moji.id/",
-    "launched": "2005-06-16",
+    "launched": "2022-08-21",
     "closed": null
   },
   {
@@ -271599,6 +271624,42 @@
     "closed": null
   },
   {
+    "id": "Nickelodeon.ph",
+    "name": "Nickelodeon",
+    "alt_names": [],
+    "network": "Nickelodeon",
+    "owners": [
+      "Paramount Networks EMEAA"
+    ],
+    "country_code": "PH",
+    "country_name": "Philippines",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "stream_url": "https://thinkkast.dpdns.org/thinkkast/dr_nickelodeon/versiglia/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Nickelodeon.ph",
+      "feed": "SD",
+      "site": "clickthecity.com",
+      "site_id": "78",
+      "site_name": "Nickelodeon",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.nick-asia.com/",
+    "launched": "2011-04-01",
+    "closed": null
+  },
+  {
     "id": "Nickelodeon.ru",
     "name": "Nickelodeon",
     "alt_names": [
@@ -271804,43 +271865,6 @@
     "logo": "https://i.imgur.com/E84jnP8.png",
     "stream_url": "http://79.127.207.193/Nickelodeon/playlist.m3u8",
     "stream_quality": "576i",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Nickelodeon.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "11007",
-      "site_name": "Nickelodeon West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.nick.com/",
-    "launched": "1979-04-01",
-    "closed": null
-  },
-  {
-    "id": "Nickelodeon.us",
-    "name": "Nickelodeon",
-    "alt_names": [],
-    "network": "Nickelodeon",
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/nickelodeon-usa/playlist.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -272771,43 +272795,6 @@
     "closed": null
   },
   {
-    "id": "NickJr.us",
-    "name": "Nick Jr.",
-    "alt_names": [],
-    "network": "Nickelodeon",
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/KT4tdQs.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/nickjr-usa/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NickJr.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "77996",
-      "site_name": "Nick Jr West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.nickjr.com/",
-    "launched": "1988-01-04",
-    "closed": null
-  },
-  {
     "id": "NickJrAsia.sg",
     "name": "Nick Jr. Asia",
     "alt_names": [],
@@ -273401,45 +273388,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg",
     "stream_url": "http://41.205.93.154/NICKTOONS/index.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Nicktoons.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "91718",
-      "site_name": "Nicktoons West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://nicktoons.nick.com/",
-    "launched": "2002-05-01",
-    "closed": null
-  },
-  {
-    "id": "Nicktoons.us",
-    "name": "Nicktoons",
-    "alt_names": [
-      "Nickelodeon NickToons"
-    ],
-    "network": "Nickelodeon",
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg",
-    "stream_url": "https://messi.damitv.st/papi/ts/nicktoons-usa/playlist.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -283352,6 +283300,32 @@
     },
     "website": "http://www.obieqtivi.net/",
     "launched": "2010-08-01",
+    "closed": null
+  },
+  {
+    "id": "ObservatorNews.ro",
+    "name": "Observator News",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/f6xEIAr.png",
+    "stream_url": "https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8",
+    "stream_quality": "360p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://observatornews.ro/",
+    "launched": null,
     "closed": null
   },
   {
@@ -323899,10 +323873,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png",
-    "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ptc-punjabi-canada/index.m3u8?ads.vf=78XheDwhNDq",
+    "stream_url": "https://stream.ottlive.co.in/ptccanada/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+    "user_agent": null,
     "referrer": null,
     "tv_guide": null,
     "website": "http://www.ptcnetwork.ca/",
@@ -325011,6 +324985,32 @@
     "closed": null
   },
   {
+    "id": "PulariTV.in",
+    "name": "Pulari TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/v5urG30.png",
+    "stream_url": "https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PulaTV.do",
     "name": "Pula TV",
     "alt_names": [],
@@ -325773,7 +325773,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/yattyv.png",
     "stream_url": "https://mumt07.tangotv.in/zHjX9OFlPUTHIYAEXPRESS/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -325807,7 +325807,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/yattyv.png",
     "stream_url": "https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -325841,7 +325841,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/yattyv.png",
     "stream_url": "https://cdn-3.pishow.tv/live/1261/master.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -335309,8 +335309,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143715_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://103.72.101.252:8080/live/707.m3u8",
-    "stream_quality": "576p",
+    "stream_url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -379865,41 +379865,6 @@
     "closed": null
   },
   {
-    "id": "Showtime2.us",
-    "name": "Showtime 2",
-    "alt_names": [],
-    "network": "Paramount+ with SHOWTIME",
-    "owners": [
-      "Showtime Networks Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/showtime2-usa/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Showtime2.us",
-      "feed": "East",
-      "site": "tvtv.us",
-      "site_id": "11116",
-      "site_name": "Showtime 2 East",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.sho.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Showtime.us",
     "name": "Showtime",
     "alt_names": [],
@@ -380005,41 +379970,6 @@
     "closed": null
   },
   {
-    "id": "ShowtimeExtreme.us",
-    "name": "Showtime Extreme",
-    "alt_names": [],
-    "network": "Paramount+ with SHOWTIME",
-    "owners": [
-      "Showtime Networks Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/byJNJdm.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/showtimeextreme-usa/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ShowtimeExtreme.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "18164",
-      "site_name": "Showtime Extreme West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.sho.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "ShowtimeFamilyZone.us",
     "name": "Showtime Family Zone",
     "alt_names": [],
@@ -380060,43 +379990,6 @@
     "logo": "https://i.imgur.com/qwJUawJ.png",
     "stream_url": "http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ShowtimeFamilyZone.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "25275",
-      "site_name": "Showtime Family Zone West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.sho.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ShowtimeFamilyZone.us",
-    "name": "Showtime Family Zone",
-    "alt_names": [],
-    "network": "Paramount+ with SHOWTIME",
-    "owners": [
-      "Showtime Networks Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "family"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/qwJUawJ.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/showtimefamilyzone-usa/playlist.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -380141,76 +380034,6 @@
       "site": "tvtv.us",
       "site_id": "25271",
       "site_name": "Showtime Next West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.sho.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ShowtimeNext.us",
-    "name": "Showtime Next",
-    "alt_names": [],
-    "network": "Paramount+ with SHOWTIME",
-    "owners": [
-      "Showtime Networks Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/1Ak2MX2.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/showtimenext-usa/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ShowtimeNext.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "25271",
-      "site_name": "Showtime Next West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.sho.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ShowtimeWomen.us",
-    "name": "Showtime Women",
-    "alt_names": [],
-    "network": "Paramount+ with SHOWTIME",
-    "owners": [
-      "Showtime Networks Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/showtimewomen-usa/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ShowtimeWomen.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "25273",
-      "site_name": "Showtime Women West",
       "lang": "en",
       "sources": []
     },
@@ -385687,60 +385510,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/i54AQic.png",
-    "stream_url": "https://bozztv.com/rongo/rongo-somoy/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.somoynews.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SomoyNewsTV.bd",
-    "name": "Somoy News TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/i54AQic.png",
     "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.somoynews.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SomoyNewsTV.bd",
-    "name": "Somoy News TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BD",
-    "country_name": "Bangladesh",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/i54AQic.png",
-    "stream_url": "https://tvsen6.aynaott.com/somoytv/index.m3u8",
-    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -387552,6 +387323,43 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
+    "tv_guide": {
+      "channel": "SonyPix.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "32",
+      "site_name": "SONY PIX HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.sonypix.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SonyPix.in",
+    "name": "Sony Pix",
+    "alt_names": [],
+    "network": "Sony Pictures Networks",
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://playyonogames.in/sliv/stream.m3u8?id=1000009258",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+    "referrer": "https://bhoomtv.me/",
     "tv_guide": {
       "channel": "SonyPix.in",
       "feed": "HD",
@@ -394488,6 +394296,30 @@
     "closed": null
   },
   {
+    "id": "StarciusCinemaTV.ru",
+    "name": "Starcius Cinema TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://cdn4.telesco.pe/file/vl0vXehST7L24PvmTa7vfWI6Vl7Td8ORLA3bZBJbyr5uBgXHpcCPaEB3IMyjzyqyL9Tb_PJrQD8_GVpXQy9fuI2ZGEBGYmAk4TkEQrGHEw8rDldi4FxmEC3T6DZyg9sD1ao8gxW3Bqmb-MX3zHkp2vG1kDJ40taA9BYun75KTmSyTBagc3muHS5vJvrjmCX8YMbFcv1egZesVkOw4McL61iKt3XyXQN1fqgAqwu3h5zM1sIJwUF2bK-HW3CAoyfZy6di1LG2mbfqcmiTm2yZcQ99qolm3HybxBKn2YeG9mDm9LBzIG9YZnyqSF6vUClk4IZvMYdLV9YL46MkmRH6qw.jpg",
+    "stream_url": "http://starcius-cinema.com/12042/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "StarComedy.pt",
     "name": "Star Comedy",
     "alt_names": [],
@@ -395120,6 +394952,44 @@
     },
     "website": "https://www.starchannel-si.com/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "StarMaa.in",
+    "name": "Star Maa",
+    "alt_names": [],
+    "network": "JioStar",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s179620_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaa1_live_https/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+    "referrer": "https://bhoomtv.me/",
+    "tv_guide": {
+      "channel": "StarMaa.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "956",
+      "site_name": "STAR Maa HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.hotstar.com/channels/star-maa",
+    "launched": "2017-02-13",
     "closed": null
   },
   {
@@ -395944,6 +395814,46 @@
     },
     "website": "https://jiohotstar.com/",
     "launched": "2022-04-15",
+    "closed": null
+  },
+  {
+    "id": "StarSportsKhel.in",
+    "name": "Star Sports Khel",
+    "alt_names": [
+      "Sports18 Khel"
+    ],
+    "network": "Star Sports",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143809_ld_h15_ab.png?lock=720x540",
+    "stream_url": "http://103.175.73.12:8080/live/151/151_0.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarSportsKhel.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1494",
+      "site_name": "Star Sports Khel",
+      "lang": "en",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
     "closed": null
   },
   {
@@ -397083,40 +396993,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/N7oSm4d.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/starz-usa/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Starz.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "12741",
-      "site_name": "Starz West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.starz.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Starz.us",
-    "name": "Starz",
-    "alt_names": [],
-    "network": "STARZ",
-    "owners": [
-      "Starz Entertainment Corp."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/N7oSm4d.png",
     "stream_url": "http://40.160.24.55/STARZ_WEST/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -397155,42 +397031,6 @@
     "logo": "https://i.imgur.com/ghzzKoT.png",
     "stream_url": "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarzCinema.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "19651",
-      "site_name": "Starz Cinema West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.starz.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "StarzCinema.us",
-    "name": "Starz Cinema",
-    "alt_names": [],
-    "network": "STARZ",
-    "owners": [
-      "Starz Entertainment Corp."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ghzzKoT.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/starzcinema-usa/playlist.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -397263,42 +397103,6 @@
     "logo": "https://i.imgur.com/JpKvjZe.png",
     "stream_url": "http://40.160.24.55/STARZ_COMEDY/index.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarzComedy.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "34902",
-      "site_name": "Starz Comedy West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.starz.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "StarzComedy.us",
-    "name": "Starz Comedy",
-    "alt_names": [],
-    "network": "STARZ",
-    "owners": [
-      "Starz Entertainment Corp."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "comedy"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/JpKvjZe.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/starzcomedy-usa/playlist.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -427296,42 +427100,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.thrakinet.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Three.nz",
-    "name": "Three",
-    "alt_names": [],
-    "network": "Sky Free",
-    "owners": [
-      "Sky Network Television"
-    ],
-    "country_code": "NZ",
-    "country_name": "New Zealand",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/kc57D8T.png",
-    "stream_url": "https://i.mjh.nz/.r/three-plus1.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Three.nz",
-      "feed": "SD",
-      "site": "sky.co.nz",
-      "site_id": "3",
-      "site_name": "Three",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.threenow.co.nz/",
     "launched": null,
     "closed": null
   },
@@ -465531,6 +465299,35 @@
     "closed": null
   },
   {
+    "id": "TVTodayJanakpur.np",
+    "name": "TV Today Janakpur",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Janakpur Today Media Group Pvt. Ltd."
+    ],
+    "country_code": "NP",
+    "country_name": "Nepal",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment",
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5fZF69m.png",
+    "stream_url": "https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://ejanakpurtoday.com/tv-today/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVTorun.pl",
     "name": "TV Torun",
     "alt_names": [],
@@ -472170,8 +471967,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/IQ2n0WY.png",
-    "stream_url": "https://mini.allinonereborn.fun/tata.php?id=11779",
-    "stream_quality": "576p",
+    "stream_url": "https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -472186,6 +471983,42 @@
     },
     "website": "https://www.hotstar.com/",
     "launched": "2021-02-22",
+    "closed": null
+  },
+  {
+    "id": "UtsavPlus.uk",
+    "name": "Utsav Plus",
+    "alt_names": [
+      "Star Plus"
+    ],
+    "network": null,
+    "owners": [
+      "The Walt Disney Company India"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TERVtWT.png",
+    "stream_url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavPlus.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "UtsavPlus.uk",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000150_020075",
+      "site_name": "Utsav Plus",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.hotstar.com/",
+    "launched": "2021-01-22",
     "closed": null
   },
   {
@@ -479224,6 +479057,32 @@
     "closed": null
   },
   {
+    "id": "Vision.in",
+    "name": "Vision",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/YozqNL3.jpg",
+    "stream_url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Vision.pe",
     "name": "Vision",
     "alt_names": [
@@ -482026,7 +481885,7 @@
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": "http://www.vtv5.net.vn/",
+    "website": "https://vtv.vn/",
     "launched": null,
     "closed": null
   },
@@ -482052,7 +481911,7 @@
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": "http://www.vtv5.net.vn/",
+    "website": "https://vtv.vn/",
     "launched": null,
     "closed": null
   },
@@ -482078,7 +481937,7 @@
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": "http://www.vtv5.net.vn/",
+    "website": "https://vtv.vn/",
     "launched": null,
     "closed": null
   },
@@ -482104,7 +481963,7 @@
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": "http://www.vtv5.net.vn/",
+    "website": "https://vtv.vn/",
     "launched": null,
     "closed": null
   },
@@ -482130,7 +481989,7 @@
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": "http://www.vtv5.net.vn/",
+    "website": "https://vtv.vn/",
     "launched": null,
     "closed": null
   },
@@ -482158,7 +482017,7 @@
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": "http://www.vtv5.net.vn/",
+    "website": "https://vtv.vn/",
     "launched": null,
     "closed": null
   },
@@ -482186,7 +482045,7 @@
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": "http://www.vtv5.net.vn/",
+    "website": "https://vtv.vn/",
     "launched": null,
     "closed": null
   },
@@ -482214,7 +482073,7 @@
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": "http://www.vtv5.net.vn/",
+    "website": "https://vtv.vn/",
     "launched": null,
     "closed": null
   },
@@ -482242,7 +482101,7 @@
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": "http://www.vtv5.net.vn/",
+    "website": "https://vtv.vn/",
     "launched": null,
     "closed": null
   },
@@ -500730,60 +500589,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540",
-    "stream_url": "http://103.72.101.252:8080/live/488.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ZeeAction.in",
-      "feed": "SD",
-      "site": "zee5.com",
-      "site_id": "0-9-zeeaction",
-      "site_name": "Zee Action",
-      "lang": "en",
-      "sources": [
-        {
-          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
-          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.xml",
-          "format": "XML"
-        },
-        {
-          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
-          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.xml.gz",
-          "format": "GZIP"
-        },
-        {
-          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
-          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.json",
-          "format": "JSON"
-        }
-      ]
-    },
-    "website": "https://www.zee5.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ZeeAction.in",
-    "name": "Zee Action",
-    "alt_names": [
-      "Action Cinema"
-    ],
-    "network": "Z",
-    "owners": [
-      "Zee Entertainment Enterprises Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540",
     "stream_url": "http://103.175.73.12:8080/live/270/master.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -501135,58 +500940,6 @@
       "sources": []
     },
     "website": "https://www.zeebioskop.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ZeeBiskope.in",
-    "name": "Zee Biskope",
-    "alt_names": [],
-    "network": "Z",
-    "owners": [
-      "Zee Entertainment Enterprises Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BISKOPE/images/LOGO_HD/LOGO_HD_image.png",
-    "stream_url": "http://103.154.3.101:5001/live/559.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ZeeBiskope.in",
-      "feed": "SD",
-      "site": "zee5.com",
-      "site_id": "0-9-216",
-      "site_name": "Zee Biskope",
-      "lang": "en",
-      "sources": [
-        {
-          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
-          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.xml",
-          "format": "XML"
-        },
-        {
-          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
-          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.xml.gz",
-          "format": "GZIP"
-        },
-        {
-          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
-          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.json",
-          "format": "JSON"
-        }
-      ]
-    },
-    "website": "https://www.zee5.com/channels/details/zee-biskope/0-9-216",
     "launched": null,
     "closed": null
   },
@@ -502096,6 +501849,42 @@
     },
     "website": null,
     "launched": "2025-10-06",
+    "closed": null
+  },
+  {
+    "id": "ZeeKannada.in",
+    "name": "Zee Kannada",
+    "alt_names": [],
+    "network": "Z",
+    "owners": [
+      "Zee Entertainment Enterprises Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022S209.png?lock=720x540",
+    "stream_url": "https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ZeeKannada.in",
+      "feed": "HD",
+      "site": "zee5.com",
+      "site_id": "0-9-zeekannada",
+      "site_name": "Zee Kannada HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://zeekannada.zee5.com/",
+    "launched": "2006-05-11",
     "closed": null
   },
   {
@@ -503207,6 +502996,38 @@
       ]
     },
     "website": "http://www.zeetv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ZeeTVAsiaPacific.sg",
+    "name": "Zee TV Asia Pacific",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Zee_TV_Logo_2025.svg",
+    "stream_url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ZeeTVAsiaPacific.sg",
+      "feed": "SD",
+      "site": "zee5.com",
+      "site_id": "0-9-zeetvapac",
+      "site_name": "Zee TV APAC HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.zeetelevisionasia.com/",
     "launched": null,
     "closed": null
   },

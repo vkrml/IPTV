@@ -7856,6 +7856,70 @@
     "closed": null
   },
   {
+    "id": "ColorsMENA.in",
+    "name": "Colors MENA",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Viacom18"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/LjNFTdC.png",
+    "stream_url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ColorsMENA.in",
+      "feed": "HD",
+      "site": "tvireland.ie",
+      "site_id": "2058/colors-hd",
+      "site_name": "Colors HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.colorstv.com/us/",
+    "launched": "2008-07-21",
+    "closed": null
+  },
+  {
+    "id": "ColorsRishteyAmericas.in",
+    "name": "Colors Rishtey Americas",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Viacom18"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/xkOunuW.png",
+    "stream_url": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8",
+    "stream_quality": "396p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.colorstv.com/us/",
+    "launched": "2010-07-21",
+    "closed": null
+  },
+  {
     "id": "ColorsSuper.in",
     "name": "Colors Super",
     "alt_names": [],
@@ -7891,6 +7955,44 @@
     },
     "website": "https://www.colorstv.com/us/",
     "launched": "2008-07-21",
+    "closed": null
+  },
+  {
+    "id": "ColorsTamil.in",
+    "name": "Colors Tamil",
+    "alt_names": [],
+    "network": "Colors",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s158241_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ColorsTamil.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "674",
+      "site_name": "Colors Tamil HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.colorstv.com/us/",
+    "launched": "2018-02-19",
     "closed": null
   },
   {
@@ -11301,6 +11403,32 @@
     "closed": null
   },
   {
+    "id": "EkamraBharatOdia.in",
+    "name": "Ekamra Bharat Odia",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Bharat_Odia.png",
+    "stream_url": "https://live.ekamraott.com/bharat/bharat/index.m3u8",
+    "stream_quality": "400p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Enterr10Bangla.in",
     "name": "Enterr 10 Bangla",
     "alt_names": [],
@@ -12104,7 +12232,23 @@
       "site_id": "1342",
       "site_name": "ETV Plus HD",
       "lang": "en",
-      "sources": []
+      "sources": [
+        {
+          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
+          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.xml",
+          "format": "XML"
+        },
+        {
+          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
+          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.xml.gz",
+          "format": "GZIP"
+        },
+        {
+          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
+          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.json",
+          "format": "JSON"
+        }
+      ]
     },
     "website": "http://www.etv.co.in/channels/home?channelId=5",
     "launched": "2015-11-01",
@@ -12141,7 +12285,23 @@
       "site_id": "1342",
       "site_name": "ETV Plus HD",
       "lang": "en",
-      "sources": []
+      "sources": [
+        {
+          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
+          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.xml",
+          "format": "XML"
+        },
+        {
+          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
+          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.xml.gz",
+          "format": "GZIP"
+        },
+        {
+          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
+          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.json",
+          "format": "JSON"
+        }
+      ]
     },
     "website": "http://www.etv.co.in/channels/home?channelId=5",
     "launched": "2015-11-01",
@@ -22788,6 +22948,32 @@
     "closed": null
   },
   {
+    "id": "OnePaschima.in",
+    "name": "One Paschima",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/One_Paschima.png",
+    "stream_url": "https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8",
+    "stream_quality": "400p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "OnkarOnlyTruthTV.in",
     "name": "Onkar Only Truth TV",
     "alt_names": [],
@@ -29708,43 +29894,6 @@
     "closed": null
   },
   {
-    "id": "SonyPix.in",
-    "name": "Sony Pix",
-    "alt_names": [],
-    "network": "Sony Pictures Networks",
-    "owners": [
-      "Sony Pictures Networks India (SPNI)",
-      "Culver Max Entertainment Private Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png?lock=720x540",
-    "stream_url": "https://playyonogames.in/sliv/stream.m3u8?id=1000009258",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
-    "referrer": "https://bhoomtv.me/",
-    "tv_guide": {
-      "channel": "SonyPix.in",
-      "feed": "HD",
-      "site": "tataplay.com",
-      "site_id": "32",
-      "site_name": "SONY PIX HD",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.sonypix.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "SonySportsTen3Hindi.in",
     "name": "Sony Sports Ten 3 Hindi",
     "alt_names": [
@@ -36196,6 +36345,33 @@
     "closed": null
   },
   {
+    "id": "WOWKidz.in",
+    "name": "WOW Kidz",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png",
+    "stream_url": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://wowkidztv.blogspot.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "YRFMusic.in",
     "name": "YRF Music",
     "alt_names": [],
@@ -36666,7 +36842,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022T6DC.png?lock=720x540",
-    "stream_url": "http://217.20.112.199:8080/maamovies/index.m3u8",
+    "stream_url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -37360,6 +37536,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540",
+    "stream_url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ZeeCinema.in",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000153_020076",
+      "site_name": "Zee Cinema",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://zeecinema.zee5.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ZeeCinema.in",
+    "name": "Zee Cinema",
+    "alt_names": [],
+    "network": "Z",
+    "owners": [
+      "Zee Entertainment Enterprises Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540",
     "stream_url": "http://103.72.101.252:8080/live/165.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -37835,7 +38047,23 @@
       "site_id": "0-9-zeekannada",
       "site_name": "Zee Kannada HD",
       "lang": "en",
-      "sources": []
+      "sources": [
+        {
+          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
+          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.xml",
+          "format": "XML"
+        },
+        {
+          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
+          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.xml.gz",
+          "format": "GZIP"
+        },
+        {
+          "host": "raw.githubusercontent.com/StrangeDrVN/epg/public/output",
+          "url": "https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.json",
+          "format": "JSON"
+        }
+      ]
     },
     "website": "https://zeekannada.zee5.com/",
     "launched": "2006-05-11",
@@ -38021,8 +38249,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00233VCK.png?lock=720x540",
-    "stream_url": "http://103.72.101.252:8080/live/1360.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

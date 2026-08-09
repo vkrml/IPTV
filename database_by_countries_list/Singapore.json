@@ -38,44 +38,6 @@
     "closed": null
   },
   {
-    "id": "AnimaxAsia.sg",
-    "name": "Animax Asia",
-    "alt_names": [
-      "アニマックス"
-    ],
-    "network": "Animax",
-    "owners": [
-      "KC Global Media"
-    ],
-    "country_code": "SG",
-    "country_name": "Singapore",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "animation"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png",
-    "stream_url": "https://thinkkast.dpdns.org/thinkkast/cg_animax_sd_new/versiglia/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AnimaxAsia.sg",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000065",
-      "site_name": "Animax",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "http://www.animax-asia.com/",
-    "launched": "2004-01-19",
-    "closed": null
-  },
-  {
     "id": "AniplusAsia.sg",
     "name": "Aniplus Asia",
     "alt_names": [],
@@ -131,8 +93,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
-    "stream_url": "https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8",
-    "stream_quality": "576p",
+    "stream_url": "https://play.wenxiang.cn/live/1a88465f153e1dd2108fd791bf4f25f7.flv",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -150,41 +112,79 @@
     "closed": null
   },
   {
-    "id": "AXNAsia.sg",
-    "name": "AXN Asia",
-    "alt_names": [],
+    "id": "Channel8.sg",
+    "name": "Channel 8",
+    "alt_names": [
+      "8頻道"
+    ],
     "network": null,
     "owners": [
-      "KC Global Media Singapore Pte. Ltd.",
-      "KC Global Media Entertainment LLC"
+      "Mediacorp Pte"
     ],
     "country_code": "SG",
     "country_name": "Singapore",
     "subdivision": null,
     "city": null,
     "categories": [
-      "movies",
-      "series"
+      "general"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
-    "stream_url": "https://play.wenxiang.cn/live/1a88465f153e1dd2108fd791bf4f25f7.flv",
+    "logo": "https://i.ibb.co/q3L3yh8q/IMG-2460.png",
+    "stream_url": "https://cdn.qd.je/163189/ch8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "AXNAsia.sg",
-      "feed": "Indonesia",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000079",
-      "site_name": "AXN",
-      "lang": "id",
+      "channel": "Channel8.sg",
+      "feed": "SD",
+      "site": "singtel.com",
+      "site_id": "5003",
+      "site_name": "Ch 8 (HD)",
+      "lang": "en",
       "sources": []
     },
-    "website": "https://www.axn-asia.com/",
-    "launched": "1997-09-21",
+    "website": "http://tv.mewatch.sg/zh/channel8",
+    "launched": "1963-11-23",
+    "closed": null
+  },
+  {
+    "id": "ChannelU.sg",
+    "name": "Channel U",
+    "alt_names": [
+      "U頻道"
+    ],
+    "network": null,
+    "owners": [
+      "Mediacorp"
+    ],
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/23ktDgvx/IMG-2461.png",
+    "stream_url": "https://cdn.qd.je/163189/chu",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ChannelU.sg",
+      "feed": "SD",
+      "site": "singtel.com",
+      "site_id": "5007",
+      "site_name": "Ch U (HD)",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://tv.mewatch.sg/zh/channelu",
+    "launched": "2001-05-06",
     "closed": null
   },
   {

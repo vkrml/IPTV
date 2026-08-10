@@ -804,6 +804,34 @@
     "closed": null
   },
   {
+    "id": "FILMBOXPlusAction.pl",
+    "name": "FILMBOX+ Action",
+    "alt_names": [],
+    "network": "FILMBOX+",
+    "owners": [
+      "SPI International"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png",
+    "stream_url": "https://polska.hach.workers.dev/14864.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": "https://ritsatv.ru/",
+    "tv_guide": null,
+    "website": null,
+    "launched": "2026-06-10",
+    "closed": null
+  },
+  {
     "id": "FILMBOXPlusComedy.pl",
     "name": "FILMBOX+ Comedy",
     "alt_names": [],
@@ -2012,6 +2040,38 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatSport1.pl",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "polsat-sport",
+      "site_name": "Polsat Sport 1",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PolsatSport1.pl",
+    "name": "Polsat Sport 1",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/500px-Polsat_Sport_1_2024.svg.png",
+    "stream_url": "https://7nyaler.streamhostingcdn.top/stream/61/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",
     "referrer": null,
     "tv_guide": {
       "channel": "PolsatSport1.pl",
@@ -3819,6 +3879,42 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVPSport.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tvp-sport-40",
+      "site_name": "TVP Sport",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://sport.tvp.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVPSport.pl",
+    "name": "TVP Sport",
+    "alt_names": [],
+    "network": "TVP",
+    "owners": [
+      "Telewizja Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/JUZDOCO.png",
+    "stream_url": "https://7nyaler.streamhostingcdn.top/stream/28/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",
     "referrer": null,
     "tv_guide": {
       "channel": "TVPSport.pl",

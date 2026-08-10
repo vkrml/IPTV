@@ -568,6 +568,42 @@
     "closed": null
   },
   {
+    "id": "ORF1.at",
+    "name": "ORF 1",
+    "alt_names": [],
+    "network": "ORF",
+    "owners": [
+      "ORF"
+    ],
+    "country_code": "AT",
+    "country_name": "Austria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/ORF_1_2019.svg",
+    "stream_url": "https://7nyaler.streamhostingcdn.top/stream/50/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ORF1.at",
+      "feed": "SD",
+      "site": "tvheute.at",
+      "site_id": "orf1",
+      "site_name": "ORF1",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "https://tv.orf.at/",
+    "launched": "1955-08-01",
+    "closed": null
+  },
+  {
     "id": "ORF2.at",
     "name": "ORF 2",
     "alt_names": [],
@@ -1480,6 +1516,43 @@
     },
     "website": "https://www.servustv.com/",
     "launched": "1995-01-01",
+    "closed": null
+  },
+  {
+    "id": "SkySportAustria1.at",
+    "name": "Sky Sport Austria 1",
+    "alt_names": [
+      "Sky Sport Austria",
+      "Premiere Austria"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "AT",
+    "country_name": "Austria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/bB0HZDu.png",
+    "stream_url": "https://7nyaler.streamhostingcdn.top/stream/31/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SkySportAustria1.at",
+      "feed": "SD",
+      "site": "tvheute.at",
+      "site_id": "skyaut",
+      "site_name": "SKYaut",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "https://www.skysportaustria.at/",
+    "launched": "2002-01-01",
     "closed": null
   },
   {

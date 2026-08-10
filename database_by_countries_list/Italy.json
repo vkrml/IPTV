@@ -723,7 +723,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png",
-    "stream_url": "https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8",
+    "stream_url": "https://stream.paroledivita.org/bejoy.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -4061,7 +4061,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/vkFlXbR.png",
-    "stream_url": "https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8",
+    "stream_url": "https://stream.paroledivita.org/paroledivita.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -5855,6 +5855,47 @@
     "closed": null
   },
   {
+    "id": "RaiSport.it",
+    "name": "Rai Sport",
+    "alt_names": [
+      "Rai Sport 1",
+      "Rai Sport +",
+      "Rai Sport Più",
+      "Rai Sport Satellite"
+    ],
+    "network": null,
+    "owners": [
+      "Rai"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6PEevOM.png",
+    "stream_url": "https://7nyaler.streamhostingcdn.top/stream/2/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RaiSport.it",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "339",
+      "site_name": "Rai Sport",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "https://www.raisport.rai.it/",
+    "launched": "1999-02-01",
+    "closed": null
+  },
+  {
     "id": "RaiStoria.it",
     "name": "Rai Storia",
     "alt_names": [
@@ -6839,6 +6880,44 @@
     },
     "website": "http://webtv.senato.it/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SkySportBasket.it",
+    "name": "Sky Sport Basket",
+    "alt_names": [
+      "Sky Sport NBA"
+    ],
+    "network": null,
+    "owners": [
+      "Sky Group Limited"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_Sport_Basket_-_Logo_2025.svg/960px-Sky_Sport_Basket_-_Logo_2025.svg.png",
+    "stream_url": "https://7nyaler.streamhostingcdn.top/stream/9/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SkySportBasket.it",
+      "feed": "HD",
+      "site": "sky.com",
+      "site_id": "IT#764",
+      "site_name": "Sky Sport Basket",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "https://sport.sky.it/",
+    "launched": "2025-07-01",
     "closed": null
   },
   {
@@ -9952,6 +10031,40 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.weddingtv.it/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ZonaDAZN.it",
+    "name": "Zona DAZN",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Jop3Vip.png",
+    "stream_url": "https://7nyaler.streamhostingcdn.top/stream/24/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ZonaDAZN.it",
+      "feed": "SD",
+      "site": "sky.com",
+      "site_id": "IT#9077",
+      "site_name": "DAZN 1",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "https://www.dazn.com/en-IT/schedule",
     "launched": null,
     "closed": null
   }

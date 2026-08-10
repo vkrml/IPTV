@@ -434,6 +434,34 @@
     "closed": null
   },
   {
+    "id": "BoomTV.ro",
+    "name": "Boom TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "TVSAT Media Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://live.radioboom.ro/live-tv/poster.jpg",
+    "stream_url": "https://tvboom.ro/live-tv/live.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://tvboom.ro/",
+    "tv_guide": null,
+    "website": "https://radioboom.ro",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BucovinaTV.ro",
     "name": "Bucovina TV",
     "alt_names": [],
@@ -622,6 +650,42 @@
     },
     "website": "https://www.digi24.ro/",
     "launched": "2012-03-01",
+    "closed": null
+  },
+  {
+    "id": "DigiSport1.ro",
+    "name": "Digi Sport 1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RCS & RDS"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5zMxDYq.png",
+    "stream_url": "https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DigiSport1.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "digi-sport-1",
+      "site_name": "Digi Sport 1",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://digisport.ro/",
+    "launched": "2012-08-11",
     "closed": null
   },
   {

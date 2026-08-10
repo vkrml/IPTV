@@ -1324,6 +1324,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.ibb.co/WWTH9xV9/IMG-2278.png",
+    "stream_url": "http://190.11.225.124:5000/live/abc_hd/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ABC.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "10003",
+      "site_name": "ABC East",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://abc.com/",
+    "launched": "1948-04-19",
+    "closed": null
+  },
+  {
+    "id": "ABC.us",
+    "name": "ABC",
+    "alt_names": [],
+    "network": "ABC",
+    "owners": [
+      "The Walt Disney Company"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/WWTH9xV9/IMG-2278.png",
     "stream_url": "http://stream.cammonitorplus.net/1797/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -11733,44 +11769,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/OuogLHx.png",
-    "stream_url": "https://gpuserver3.tier1streams.com/BLOOMBERG/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BloombergTV.us",
-      "feed": "Europe",
-      "site": "webtv.delta.nl",
-      "site_id": "3118",
-      "site_name": "Bloomberg Television",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.bloomberg.com/live/us/btv",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BloombergTV.us",
-    "name": "Bloomberg TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Bloomberg L.P.",
-      "Michael Bloomberg",
-      "Bank of America"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "business"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/OuogLHx.png",
     "stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-television/bloombergtv.m3u8?ads.vf=XfUcpFmGLda",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -13901,6 +13899,43 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
     "stream_url": "http://tvsen7.aynascope.net/cbs/index.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CBS.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "10098",
+      "site_name": "CBS East",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.cbs.com/",
+    "launched": "1941-07-01",
+    "closed": null
+  },
+  {
+    "id": "CBS.us",
+    "name": "CBS",
+    "alt_names": [],
+    "network": "CBS Entertainment",
+    "owners": [
+      "CBS Broadcasting Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
+    "stream_url": "http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -31330,34 +31365,6 @@
     "closed": null
   },
   {
-    "id": "FoxNewsInternational.us",
-    "name": "Fox News International",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Fox Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
-    "stream_url": "https://gpuserver3.tier1streams.com/FOX/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.foxnewsinternational.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "FoxNewsRadio.us",
     "name": "Fox News Radio",
     "alt_names": [],
@@ -31550,6 +31557,44 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/O9BapV9.png",
     "stream_url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FoxSports1.us",
+      "feed": "HD",
+      "site": "tvguide.com",
+      "site_id": "9233008440",
+      "site_name": "FOX Sports 1",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.foxsports.com/",
+    "launched": "2013-08-17",
+    "closed": null
+  },
+  {
+    "id": "FoxSports1.us",
+    "name": "Fox Sports 1",
+    "alt_names": [
+      "FS1"
+    ],
+    "network": "Fox Sports",
+    "owners": [
+      "Fox Sports Media Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/O9BapV9.png",
+    "stream_url": "http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -32784,80 +32829,6 @@
     },
     "website": "http://www.canalfx.tv/",
     "launched": "2005-05-01",
-    "closed": null
-  },
-  {
-    "id": "FXM.us",
-    "name": "FXM",
-    "alt_names": [],
-    "network": "FX Channels",
-    "owners": [
-      "FX Networks LLC",
-      "The Walt Disney Company"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://comteco.com.bo/img/upload/canales/svCJXa.png",
-    "stream_url": "https://gpuserver3.tier1streams.com/FXM/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FXM.us",
-      "feed": "East",
-      "site": "mi.tv",
-      "site_id": "ar#fx-movies",
-      "site_name": "FX Movies",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.fxnetworks.com/fxm",
-    "launched": "1994-10-31",
-    "closed": null
-  },
-  {
-    "id": "FXMovieChannel.us",
-    "name": "FX Movie Channel",
-    "alt_names": [],
-    "network": "FX Channels",
-    "owners": [
-      "FX Networks LLC",
-      "The Walt Disney Company"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png",
-    "stream_url": "http://40.160.24.52/FXM/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FXMovieChannel.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "70253",
-      "site_name": "FX Movie Channel",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.fxnetworks.com/fxm",
-    "launched": "1994-10-31",
     "closed": null
   },
   {
@@ -55891,6 +55862,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
+    "stream_url": "http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NBC.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "10991",
+      "site_name": "NBC East",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.nbc.com/",
+    "launched": "1939-04-30",
+    "closed": null
+  },
+  {
+    "id": "NBC.us",
+    "name": "NBC",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NBC Entertainment"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
     "stream_url": "http://stream.cammonitorplus.net/1800/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -56039,6 +56046,35 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/NBC_LX_Home_2023.svg",
     "stream_url": "https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.lx.com/",
+    "launched": "2023-09-22",
+    "closed": null
+  },
+  {
+    "id": "NBCLXHome.us",
+    "name": "NBC LX Home",
+    "alt_names": [],
+    "network": "NBC",
+    "owners": [
+      "NBCUniversal"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle",
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/NBC_LX_Home_2023.svg",
+    "stream_url": "https://dn7vkzd5khpp3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jnz0hbnuaajo2/b3d9d2ee-94c1-4de2-bb46-b1ed009f4f30/4.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -77451,6 +77487,41 @@
     "closed": null
   },
   {
+    "id": "Showtime2.us",
+    "name": "Showtime 2",
+    "alt_names": [],
+    "network": "Paramount+ with SHOWTIME",
+    "owners": [
+      "Showtime Networks Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png",
+    "stream_url": "https://gpuserver5.tier1streams.com/SHOWTIME_2/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Showtime2.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "11116",
+      "site_name": "Showtime 2 East",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sho.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Showtime.us",
     "name": "Showtime",
     "alt_names": [],
@@ -77468,6 +77539,41 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Or0LKsu.png",
     "stream_url": "http://40.160.24.55/SHOWTIME/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Showtime.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "11117",
+      "site_name": "Showtime West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sho.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Showtime.us",
+    "name": "Showtime",
+    "alt_names": [],
+    "network": "Paramount+ with SHOWTIME",
+    "owners": [
+      "Showtime Networks Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Or0LKsu.png",
+    "stream_url": "https://gpuserver5.tier1streams.com/SHOWTIME/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -77521,6 +77627,41 @@
     "closed": null
   },
   {
+    "id": "Showtime.us",
+    "name": "Showtime",
+    "alt_names": [],
+    "network": "Paramount+ with SHOWTIME",
+    "owners": [
+      "Showtime Networks Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Or0LKsu.png",
+    "stream_url": "https://gpuserver5.tier1streams.com/SHOWTIME_WEST/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Showtime.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "11117",
+      "site_name": "Showtime West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sho.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ShowtimeExtreme.us",
     "name": "Showtime Extreme",
     "alt_names": [],
@@ -77539,6 +77680,41 @@
     "logo": "https://i.imgur.com/byJNJdm.png",
     "stream_url": "http://40.160.24.55/SHOWTIME_EXTREME/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ShowtimeExtreme.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "18164",
+      "site_name": "Showtime Extreme West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sho.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ShowtimeExtreme.us",
+    "name": "Showtime Extreme",
+    "alt_names": [],
+    "network": "Paramount+ with SHOWTIME",
+    "owners": [
+      "Showtime Networks Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/byJNJdm.png",
+    "stream_url": "https://gpuserver5.tier1streams.com/SHOWTIME_EXTREME/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -77610,6 +77786,41 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/1Ak2MX2.png",
     "stream_url": "http://40.160.24.55/SHOWTIME_NEXT/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ShowtimeNext.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "25271",
+      "site_name": "Showtime Next West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sho.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ShowtimeNext.us",
+    "name": "Showtime Next",
+    "alt_names": [],
+    "network": "Paramount+ with SHOWTIME",
+    "owners": [
+      "Showtime Networks Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/1Ak2MX2.png",
+    "stream_url": "https://gpuserver5.tier1streams.com/SHOWTIME_NEXT/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -90950,38 +91161,6 @@
     "closed": null
   },
   {
-    "id": "Univision.us",
-    "name": "Univision",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",
-    "stream_url": "http://8an4dgnb.megatv.fun/iptv/8XFKA8883W9M5K/1099/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Univision.us",
-      "feed": "East",
-      "site": "tvtv.us",
-      "site_id": "68049",
-      "site_name": "Univision East (National Feed)",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.univision.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "UnivisionTlnovelas.us",
     "name": "Univision Tlnovelas",
     "alt_names": [],
@@ -91414,8 +91593,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
-    "stream_url": "https://ftv.itscwd273.workers.dev/?id=USANETEAST",
-    "stream_quality": "720p",
+    "stream_url": "http://190.11.225.124:5000/live/usa_hd/playlist.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -91469,30 +91648,6 @@
     },
     "website": "https://www.usanetwork.com/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "USANetworkLatinAmerica.us",
-    "name": "USA Network Latin America",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
-    "stream_url": "http://177.52.24.163/USA-HD/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.nbcuniversal.com/brands",
-    "launched": "2023-10-01",
     "closed": null
   },
   {

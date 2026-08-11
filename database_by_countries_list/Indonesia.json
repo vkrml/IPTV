@@ -162,42 +162,6 @@
     "closed": null
   },
   {
-    "id": "AntaraTV.id",
-    "name": "Antara TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Government of Indonesia"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://thumbor.prod.vidiocdn.com/GZLOFeCtplhuW5-hl6yePAuO5G8=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/909905/antaratv-90a879.jpg",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/antara/manifest.mpd",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "AntaraTV.id",
-      "feed": "SD",
-      "site": "maxstream.tv",
-      "site_id": "0_3n2pn24p",
-      "site_name": "ANTARA TV",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://en.antaranews.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "ANTV.id",
     "name": "ANTV",
     "alt_names": [],
@@ -1466,32 +1430,6 @@
     "closed": null
   },
   {
-    "id": "DMTVMalang.id",
-    "name": "DM TV Malang",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/3iC41QX.png",
-    "stream_url": "https://e.siar.us/live/dmtv.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://dmtvmalang.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "dTVi.id",
     "name": "dTVi",
     "alt_names": [],
@@ -1591,8 +1529,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png",
-    "stream_url": "https://vodcdn.bamboo-cloud.com/livehls/69a123b780c99d28cc0f0016/master.m3u8",
-    "stream_quality": "480p",
+    "stream_url": "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1619,8 +1557,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png",
-    "stream_url": "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8",
-    "stream_quality": "576p",
+    "stream_url": "https://vodcdn.bamboo-cloud.com/livehls/69a123b780c99d28cc0f0016/master.m3u8",
+    "stream_quality": "480p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1683,78 +1621,6 @@
     "tv_guide": null,
     "website": "https://einternational.renderforestsites.com/",
     "launched": "2026-06-12",
-    "closed": null
-  },
-  {
-    "id": "ElshintaTV.id",
-    "name": "Elshinta TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Elsinta Media Group"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/x5uoy2H.png",
-    "stream_url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ElshintaTV.id",
-      "feed": "SD",
-      "site": "vidio.com",
-      "site_id": "10975",
-      "site_name": "Elshinta TV",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "http://www.elshinta.tv/",
-    "launched": "2014-09-29",
-    "closed": null
-  },
-  {
-    "id": "ElshintaTV.id",
-    "name": "Elshinta TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Elsinta Media Group"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/x5uoy2H.png",
-    "stream_url": "https://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
-    "referrer": "https://www.dens.tv/",
-    "tv_guide": {
-      "channel": "ElshintaTV.id",
-      "feed": "SD",
-      "site": "vidio.com",
-      "site_id": "10975",
-      "site_name": "Elshinta TV",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "http://www.elshinta.tv/",
-    "launched": "2014-09-29",
     "closed": null
   },
   {
@@ -1952,42 +1818,6 @@
     "closed": null
   },
   {
-    "id": "IDXChannel.id",
-    "name": "IDX Channel",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "iNews Media Group"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "business"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/xPvrcsr.png",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/idx/manifest.mpd",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "IDXChannel.id",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000134",
-      "site_name": "IDX",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://www.idxchannel.com/",
-    "launched": "2010-09-29",
-    "closed": null
-  },
-  {
     "id": "IndonesianaTV.id",
     "name": "Indonesiana.TV",
     "alt_names": [],
@@ -2014,42 +1844,6 @@
     "closed": null
   },
   {
-    "id": "iNews.id",
-    "name": "iNews",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "PT. MNC Televisi Network"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/M2R3lfg.png",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/inews/manifest.mpd",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "iNews.id",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000004",
-      "site_name": "iNews",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://www.inews.id/",
-    "launched": "2008-03-05",
-    "closed": null
-  },
-  {
     "id": "IzzahTV.id",
     "name": "Izzah TV",
     "alt_names": [],
@@ -2073,64 +1867,6 @@
     "tv_guide": null,
     "website": "https://izzah.tv/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "JakartaGlobeNewsChannel.id",
-    "name": "Jakarta Globe News Channel",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/B6GFBy9C/In_Shot_20260121_203812695.png",
-    "stream_url": "https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglober/srtoutput/manifest.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "JakTV.id",
-    "name": "Jak TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/xyLLLOi.png",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/JAK_TV/manifest.mpd",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "JakTV.id",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000025",
-      "site_name": "JAK TV",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://jak-tv.com/",
-    "launched": "2005-03-16",
     "closed": null
   },
   {
@@ -2209,187 +1945,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png",
-    "stream_url": "http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "JawaPosTV.id",
-      "feed": "SD",
-      "site": "vidio.com",
-      "site_id": "9714",
-      "site_name": "jawaposTV",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://www.jawapos.com/",
-    "launched": "2007-05-01",
-    "closed": null
-  },
-  {
-    "id": "JawaPosTV.id",
-    "name": "Jawa Pos TV",
-    "alt_names": [],
-    "network": "Jawa Pos Multimedia",
-    "owners": [
-      "Jawa Pos Group"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png",
     "stream_url": "http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "JawaPosTV.id",
-      "feed": "SD",
-      "site": "vidio.com",
-      "site_id": "9714",
-      "site_name": "jawaposTV",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://www.jawapos.com/",
-    "launched": "2007-05-01",
-    "closed": null
-  },
-  {
-    "id": "JawaPosTV.id",
-    "name": "Jawa Pos TV",
-    "alt_names": [],
-    "network": "Jawa Pos Multimedia",
-    "owners": [
-      "Jawa Pos Group"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png",
-    "stream_url": "http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "JawaPosTV.id",
-      "feed": "SD",
-      "site": "vidio.com",
-      "site_id": "9714",
-      "site_name": "jawaposTV",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://www.jawapos.com/",
-    "launched": "2007-05-01",
-    "closed": null
-  },
-  {
-    "id": "JawaPosTV.id",
-    "name": "Jawa Pos TV",
-    "alt_names": [],
-    "network": "Jawa Pos Multimedia",
-    "owners": [
-      "Jawa Pos Group"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png",
-    "stream_url": "http://122.248.43.242:1935/JAWAPOSTVMAGELANG/_definst_/myStream/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "JawaPosTV.id",
-      "feed": "SD",
-      "site": "vidio.com",
-      "site_id": "9714",
-      "site_name": "jawaposTV",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://www.jawapos.com/",
-    "launched": "2007-05-01",
-    "closed": null
-  },
-  {
-    "id": "JawaPosTV.id",
-    "name": "Jawa Pos TV",
-    "alt_names": [],
-    "network": "Jawa Pos Multimedia",
-    "owners": [
-      "Jawa Pos Group"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png",
-    "stream_url": "http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "JawaPosTV.id",
-      "feed": "SD",
-      "site": "vidio.com",
-      "site_id": "9714",
-      "site_name": "jawaposTV",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://www.jawapos.com/",
-    "launched": "2007-05-01",
-    "closed": null
-  },
-  {
-    "id": "JawaPosTV.id",
-    "name": "Jawa Pos TV",
-    "alt_names": [],
-    "network": "Jawa Pos Multimedia",
-    "owners": [
-      "Jawa Pos Group"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png",
-    "stream_url": "http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -2483,42 +2039,6 @@
     "tv_guide": null,
     "website": "http://jogjatv.tv/",
     "launched": "2004-09-17",
-    "closed": null
-  },
-  {
-    "id": "JTV.id",
-    "name": "JTV",
-    "alt_names": [],
-    "network": "Jawa Pos Multimedia",
-    "owners": [
-      "Jawa Pos Group"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/mIDWIQk.png",
-    "stream_url": "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "JTV.id",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000024",
-      "site_name": "JTV",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "http://jtv.co.id/",
-    "launched": "2001-11-08",
     "closed": null
   },
   {
@@ -2689,42 +2209,6 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "KidsTV.id",
-    "name": "Kids TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "MNC Vision Networks"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/B5YiUIP.png",
-    "stream_url": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/kids-tv-hd.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "KidsTV.id",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000056",
-      "site_name": "Kids TV",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://www.mncchannels.com/micro/Kids-TV",
-    "launched": "2015-01-01",
     "closed": null
   },
   {
@@ -3106,186 +2590,6 @@
     "closed": null
   },
   {
-    "id": "MAXEats.id",
-    "name": "MAX Eats",
-    "alt_names": [],
-    "network": "IndiHome",
-    "owners": [
-      "Telkomsel Indonesia"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "cooking"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://assets.telkomsel.com/public/thumbnails_paraf_18/images/2026-07/MaxEats.png",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/maxeats/manifest.mpd",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "MAXEats.id",
-      "feed": "SD",
-      "site": "maxstream.tv",
-      "site_id": "0_z7t4c568",
-      "site_name": "MAXEats",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://maxstream.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "MAXKids.id",
-    "name": "MAX Kids",
-    "alt_names": [],
-    "network": "IndiHome",
-    "owners": [
-      "Telkomsel Indonesia"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://assets.telkomsel.com/public/thumbnails_paraf_18/images/2026-07/MaxKids.png",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "MAXKids.id",
-      "feed": "SD",
-      "site": "maxstream.tv",
-      "site_id": "0_ynh2anw4",
-      "site_name": "MAXKids",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://maxstream.tv/",
-    "launched": "2024-12-01",
-    "closed": null
-  },
-  {
-    "id": "MAXReels.id",
-    "name": "MAX Reels",
-    "alt_names": [],
-    "network": "IndiHome",
-    "owners": [
-      "Telkomsel Indonesia"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://assets.telkomsel.com/public/thumbnails_paraf_18/images/2026-07/MaxReels.png",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "MAXReels.id",
-      "feed": "SD",
-      "site": "maxstream.tv",
-      "site_id": "0_psqdb637",
-      "site_name": "MAXReels",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://maxstream.tv/",
-    "launched": "2026-01-13",
-    "closed": null
-  },
-  {
-    "id": "MAXSports.id",
-    "name": "MAX Sports",
-    "alt_names": [],
-    "network": "IndiHome",
-    "owners": [
-      "Telkomsel Indonesia"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://assets.telkomsel.com/public/thumbnails_paraf_18/images/2026-07/MaxSports.png",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/useesport/manifest.mpd",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "MAXSports.id",
-      "feed": "SD",
-      "site": "maxstream.tv",
-      "site_id": "0_1u20u1ok",
-      "site_name": "MAXSports",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://maxstream.tv/",
-    "launched": "2026-01-13",
-    "closed": null
-  },
-  {
-    "id": "MAXStreak.id",
-    "name": "MAX Streak",
-    "alt_names": [],
-    "network": "IndiHome",
-    "owners": [
-      "Telkomsel Indonesia"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://assets.telkomsel.com/public/thumbnails_paraf_18/images/2026-07/MaxStreak.png",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/maxstreak/manifest.mpd",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "MAXStreak.id",
-      "feed": "SD",
-      "site": "maxstream.tv",
-      "site_id": "0_720wy4x6",
-      "site_name": "MAXStreak",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://maxstream.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "MBGTV.id",
     "name": "MBG TV",
     "alt_names": [
@@ -3329,38 +2633,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/960px-MDTV_logo.svg.png",
     "stream_url": "https://wahyu1ptv.pages.dev/MDTV-HD.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MDTV.id",
-      "feed": "HD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000023",
-      "site_name": "MDTV",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://mdtelevision.com/",
-    "launched": "2025-02-28",
-    "closed": null
-  },
-  {
-    "id": "MDTV.id",
-    "name": "MDTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/960px-MDTV_logo.svg.png",
-    "stream_url": "http://103.148.44.38:8000/play/a05b/index.m3u8",
-    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -3534,42 +2806,6 @@
     "closed": null
   },
   {
-    "id": "MNCTV.id",
-    "name": "MNCTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Media Nusantara Citra"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/SK8pjQy.png",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "MNCTV.id",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000002",
-      "site_name": "MNCTV",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://m.rctiplus.com/tv/mnctv",
-    "launched": "1991-01-23",
-    "closed": null
-  },
-  {
     "id": "Moji.id",
     "name": "Moji",
     "alt_names": [],
@@ -3637,74 +2873,6 @@
     },
     "website": "http://www.mqtv.co.id/",
     "launched": "2003-10-28",
-    "closed": null
-  },
-  {
-    "id": "MQTV.id",
-    "name": "MQTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/d8dQo6E.png",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/mqtv/manifest.mpd",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "MQTV.id",
-      "feed": "SD",
-      "site": "maxstream.tv",
-      "site_id": "0_voqn75wc",
-      "site_name": "MQTV",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "http://www.mqtv.co.id/",
-    "launched": "2003-10-28",
-    "closed": null
-  },
-  {
-    "id": "MTATV.id",
-    "name": "MTA TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/3kGs7k0.png",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/mtatv/manifest.mpd",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "MTATV.id",
-      "feed": "SD",
-      "site": "maxstream.tv",
-      "site_id": "0_5zvla2hz",
-      "site_name": "MTA TV",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "http://mtatv.net/",
-    "launched": null,
     "closed": null
   },
   {
@@ -3926,117 +3094,6 @@
     "closed": null
   },
   {
-    "id": "NewTVComprehensive.id",
-    "name": "New TV Comprehensive",
-    "alt_names": [],
-    "network": "IndiHome",
-    "owners": [
-      "China Internet TV"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment",
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://images.maxstream.tv/sites/default/files/entry/0_wz2sim1e/landscape_carousel_xxhdpi.webp",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/newtvcomprehensive/manifest.mpd",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "NewTVComprehensive.id",
-      "feed": "SD",
-      "site": "maxstream.tv",
-      "site_id": "0_wz2sim1e",
-      "site_name": "New TV Comprehensive",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://maxstream.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NewTVFinance.id",
-    "name": "New TV Finance",
-    "alt_names": [],
-    "network": "IndiHome",
-    "owners": [
-      "China Internet TV"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment",
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://images.maxstream.tv/sites/default/files/entry/0_2xlnqlst/landscape_carousel_xxhdpi.webp",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/newtvfinance/manifest.mpd",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "NewTVFinance.id",
-      "feed": "SD",
-      "site": "maxstream.tv",
-      "site_id": "0_2xlnqlst",
-      "site_name": "New TV Finance",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://maxstream.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NewTVVariety.id",
-    "name": "New TV Variety",
-    "alt_names": [],
-    "network": "IndiHome",
-    "owners": [
-      "China Internet TV"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment",
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://images.maxstream.tv/sites/default/files/entry/0_emchwlj8/landscape_carousel_xxhdpi.webp",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/newtvvariety/manifest.mpd",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "NewTVVariety.id",
-      "feed": "SD",
-      "site": "maxstream.tv",
-      "site_id": "0_emchwlj8",
-      "site_name": "New TV Variety",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://maxstream.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "NusantaraTV.id",
     "name": "Nusantara TV",
     "alt_names": [],
@@ -4059,42 +3116,6 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "NusantaraTV.id",
-      "feed": "SD",
-      "site": "vidio.com",
-      "site_id": "7432",
-      "site_name": "Nusantara TV",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://www.nusantaratv.com/",
-    "launched": "2015-11-10",
-    "closed": null
-  },
-  {
-    "id": "NusantaraTV.id",
-    "name": "Nusantara TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "NT Corp"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/viun5hj.png",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/nusantaratv/manifest.mpd",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
     "tv_guide": {
       "channel": "NusantaraTV.id",
       "feed": "SD",
@@ -4202,30 +3223,6 @@
     "closed": null
   },
   {
-    "id": "PJTV.id",
-    "name": "PJTV",
-    "alt_names": [],
-    "network": "Jawa Pos Multimedia",
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/jxdLWpC.png",
-    "stream_url": "https://pjtv28uhf.siar.us/live/pjtv28uhf.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://pjtv.media/streaming/",
-    "tv_guide": null,
-    "website": "http://www.pjtvbandung.com/",
-    "launched": "2005-01-01",
-    "closed": null
-  },
-  {
     "id": "PKTV.id",
     "name": "PKTV",
     "alt_names": [],
@@ -4270,42 +3267,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.pontv.id/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Prambors.id",
-    "name": "Prambors",
-    "alt_names": [],
-    "network": "IndiHome",
-    "owners": [
-      "Masima Radio Network"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://images.maxstream.tv/sites/default/files/entry/0_e59etfmm/landscape_carousel_xxhdpi.webp",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/pramborstv/manifest.mpd",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "Prambors.id",
-      "feed": "SD",
-      "site": "maxstream.tv",
-      "site_id": "0_e59etfmm",
-      "site_name": "Prambors",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://www.pramborsfm.com/",
     "launched": null,
     "closed": null
   },
@@ -4427,38 +3388,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/dlsv1sl.png",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/RAJAWALI_TV/manifest.mpd",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "RajawaliTV.id",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000011",
-      "site_name": "RTV",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://www.rtv.co.id/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RajawaliTV.id",
-    "name": "Rajawali TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/dlsv1sl.png",
     "stream_url": "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -4507,66 +3436,6 @@
     },
     "website": "https://www.rtv.co.id/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RakyatBengkuluTV.id",
-    "name": "Rakyat Bengkulu TV",
-    "alt_names": [],
-    "network": "Jawa Pos Multimedia",
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/5L2q081.png",
-    "stream_url": "https://flv.intechmedia.net/live/ch59.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://youtv.live/",
-    "tv_guide": null,
-    "website": "https://rbtv.rakyatbengkulu.com/",
-    "launched": "2009-11-18",
-    "closed": null
-  },
-  {
-    "id": "RCTI.id",
-    "name": "RCTI",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "MNC Media"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/iLFx8ia.png",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/rcti/manifest.mpd",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "RCTI.id",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000001",
-      "site_name": "RCTI",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://www.rcti.tv/",
-    "launched": "1989-08-24",
     "closed": null
   },
   {
@@ -4692,38 +3561,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/XwCeHlC.png",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/rodjatv/manifest.mpd",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "RodjaTV.id",
-      "feed": "SD",
-      "site": "maxstream.tv",
-      "site_id": "0_9km1pl2v",
-      "site_name": "Rodja TV",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://rodja.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RodjaTV.id",
-    "name": "Rodja TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/XwCeHlC.png",
     "stream_url": "https://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -4764,30 +3601,6 @@
     "tv_guide": null,
     "website": "https://rri.co.id/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SaktiTV.id",
-    "name": "Sakti TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/IDNjMfQ.png",
-    "stream_url": "https://saktitv.siar.us/saktitv/live/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.sakti.tv/",
-    "launched": "2009-12-09",
     "closed": null
   },
   {
@@ -4971,30 +3784,6 @@
     "closed": null
   },
   {
-    "id": "SelaparangTV.id",
-    "name": "Selaparang TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/id/c/ce/Logo_Selaparang_TV.png",
-    "stream_url": "https://selaparangtv.siar.us/live/selaparangtv.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://selaparangtv.net",
-    "tv_guide": null,
-    "website": "https://selaparangtv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "SemarangTV.id",
     "name": "Semarang TV",
     "alt_names": [],
@@ -5040,77 +3829,6 @@
     "tv_guide": null,
     "website": null,
     "launched": "2011-11-08",
-    "closed": null
-  },
-  {
-    "id": "SindoNewsTV.id",
-    "name": "Sindo News TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/960px-SindoNewsTV_2023.png",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/mncnews/manifest.mpd",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "SindoNewsTV.id",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000005",
-      "site_name": "SindoNews",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "http://www.mncchannels.com/micro/mncnews",
-    "launched": "2023-07-01",
-    "closed": null
-  },
-  {
-    "id": "SinPoTV.id",
-    "name": "Sin Po TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Sin Po Media"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news",
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "SinPoTV.id",
-      "feed": "HD",
-      "site": "vidio.com",
-      "site_id": "19046",
-      "site_name": "Sin Po TV",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://tv.sinpo.id/",
-    "launched": "2025-06-16",
     "closed": null
   },
   {
@@ -5402,54 +4120,6 @@
     "closed": null
   },
   {
-    "id": "SurabayaTV.id",
-    "name": "Surabaya TV",
-    "alt_names": [],
-    "network": "Indonesia Network",
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/jlss2ll.png",
-    "stream_url": "https://e.siar.us/live/surabayatv.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://surabayatv.tv/",
-    "launched": "2007-05-31",
-    "closed": null
-  },
-  {
-    "id": "SurauTV.id",
-    "name": "Surau TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/CKoxcWL.png",
-    "stream_url": "https://surautv.siar.us/live/surautv.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://surautv.id/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "SurauTV.id",
     "name": "Surau TV",
     "alt_names": [],
@@ -5581,102 +4251,6 @@
     "closed": null
   },
   {
-    "id": "TimorTV.id",
-    "name": "Timor TV",
-    "alt_names": [],
-    "network": "Fajar National Network",
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png",
-    "stream_url": "http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Trans7.id",
-    "name": "Trans7",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Trans Media"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/fAbGImS.png",
-    "stream_url": "https://video.detik.com/trans7/smil:trans7.smil/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Trans7.id",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000007",
-      "site_name": "Trans 7",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://www.trans7.co.id/",
-    "launched": "2001-11-25",
-    "closed": null
-  },
-  {
-    "id": "TransTV.id",
-    "name": "Trans TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Trans Media"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/960px-Trans_TV_2013.svg.png",
-    "stream_url": "https://video.detik.com/transtv/smil:transtv.smil/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TransTV.id",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000006",
-      "site_name": "Trans TV",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://www.transtv.co.id/",
-    "launched": "2001-12-15",
-    "closed": null
-  },
-  {
     "id": "TV9Nusantara.id",
     "name": "TV 9 Nusantara",
     "alt_names": [],
@@ -5695,38 +4269,6 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "TV9Nusantara.id",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000028",
-      "site_name": "TV 9",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "http://www.tv9.co.id/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TV9Nusantara.id",
-    "name": "TV 9 Nusantara",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/id/e/ed/TV9_Nusantara.png",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/tv9/manifest.mpd",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
     "tv_guide": {
       "channel": "TV9Nusantara.id",
       "feed": "SD",
@@ -5793,70 +4335,6 @@
       "sources": []
     },
     "website": "http://tvmu.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVMu.id",
-    "name": "TV Mu",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/muhammadiyahtv/manifest.mpd",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "TVMu.id",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000030",
-      "site_name": "TV MU",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "http://tvmu.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVMUI.id",
-    "name": "TV MUI",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/vWtViyC.png",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/muitv/manifest.mpd",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "TVMUI.id",
-      "feed": "SD",
-      "site": "maxstream.tv",
-      "site_id": "0_6r3crrac",
-      "site_name": "TV MUI",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://mui.or.id/",
     "launched": null,
     "closed": null
   },
@@ -7062,42 +5540,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png",
-    "stream_url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVRISport.id",
-      "feed": "SD",
-      "site": "dens.tv",
-      "site_id": "118",
-      "site_name": "TVRI Sport",
-      "lang": "id",
-      "sources": []
-    },
-    "website": null,
-    "launched": "2010-12-21",
-    "closed": null
-  },
-  {
-    "id": "TVRISport.id",
-    "name": "TVRI Sport",
-    "alt_names": [],
-    "network": "TVRI",
-    "owners": [
-      "LPP TVRI"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png",
     "stream_url": "https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -7400,38 +5842,6 @@
     "tv_guide": null,
     "website": "https://yoyinternational.renderforestsites.com/",
     "launched": "2026-06-25",
-    "closed": null
-  },
-  {
-    "id": "ZeeBioskop.id",
-    "name": "Zee Bioskop",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg",
-    "stream_url": "https://indihuy.streamized.net/atm/DASH/zbioskop/manifest.mpd",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "maxstream.tv/tv-channels",
-    "tv_guide": {
-      "channel": "ZeeBioskop.id",
-      "feed": "SD",
-      "site": "zee5.com",
-      "site_id": "0-9-zeebioskop",
-      "site_name": "Zee Bioskop",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.zeebioskop.com/",
-    "launched": null,
     "closed": null
   }
 ]

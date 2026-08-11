@@ -134,32 +134,6 @@
     "closed": null
   },
   {
-    "id": "AlbriciasTV.pe",
-    "name": "Albricias TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/NZxu3z8.jpeg",
-    "stream_url": "https://live-evg10.tv360.bitel.com.pe/bitel/albriciastv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "AlturaTV.pe",
     "name": "Altura TV",
     "alt_names": [],
@@ -357,82 +331,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
-    "stream_url": "https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AmericaTelevision.pe",
-      "feed": "SD",
-      "site": "watch.whaletvplus.com",
-      "site_id": "989293714931712089",
-      "site_name": "America Television",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://tvgo.americatv.com.pe/",
-    "launched": "1958-12-15",
-    "closed": null
-  },
-  {
-    "id": "AmericaTelevision.pe",
-    "name": "America Television",
-    "alt_names": [
-      "América Televisión"
-    ],
-    "network": null,
-    "owners": [
-      "America Multimedia"
-    ],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
-    "stream_url": "http://187.102.210.46/AMERICA/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AmericaTelevision.pe",
-      "feed": "SD",
-      "site": "watch.whaletvplus.com",
-      "site_id": "989293714931712089",
-      "site_name": "America Television",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://tvgo.americatv.com.pe/",
-    "launched": "1958-12-15",
-    "closed": null
-  },
-  {
-    "id": "AmericaTelevision.pe",
-    "name": "America Television",
-    "alt_names": [
-      "América Televisión"
-    ],
-    "network": null,
-    "owners": [
-      "America Multimedia"
-    ],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
     "stream_url": "http://190.93.224.42/AMERICA-TV/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -475,6 +373,82 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AmericaTelevision.pe",
+      "feed": "SD",
+      "site": "watch.whaletvplus.com",
+      "site_id": "989293714931712089",
+      "site_name": "America Television",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://tvgo.americatv.com.pe/",
+    "launched": "1958-12-15",
+    "closed": null
+  },
+  {
+    "id": "AmericaTelevision.pe",
+    "name": "America Television",
+    "alt_names": [
+      "América Televisión"
+    ],
+    "network": null,
+    "owners": [
+      "America Multimedia"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
+    "stream_url": "https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AmericaTelevision.pe",
+      "feed": "SD",
+      "site": "watch.whaletvplus.com",
+      "site_id": "989293714931712089",
+      "site_name": "America Television",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://tvgo.americatv.com.pe/",
+    "launched": "1958-12-15",
+    "closed": null
+  },
+  {
+    "id": "AmericaTelevision.pe",
+    "name": "America Television",
+    "alt_names": [
+      "América Televisión"
+    ],
+    "network": null,
+    "owners": [
+      "America Multimedia"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
+    "stream_url": "http://187.102.210.46/AMERICA/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "AmericaTelevision.pe",
@@ -893,8 +867,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/eUzYZfg.png",
-    "stream_url": "http://187.102.210.46/ATV/index.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "http://190.93.224.42/ATV/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -929,11 +903,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/eUzYZfg.png",
-    "stream_url": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
-    "stream_quality": null,
+    "stream_url": "http://187.102.210.46/ATV/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": "https://www.atv.pe/",
+    "referrer": null,
     "tv_guide": {
       "channel": "ATV.pe",
       "feed": "SD",
@@ -1001,11 +975,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/eUzYZfg.png",
-    "stream_url": "http://190.93.224.42/ATV/index.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
+    "referrer": "https://www.atv.pe/",
     "tv_guide": {
       "channel": "ATV.pe",
       "feed": "SD",
@@ -1145,7 +1119,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/fY9256H.png",
-    "stream_url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvplus.stream/playlist.m3u8",
+    "stream_url": "http://190.93.224.42/ATV-PLUS/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -1181,8 +1155,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/fY9256H.png",
-    "stream_url": "https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/ts:abr.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvplus.stream/playlist.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1272,8 +1246,8 @@
     "closed": null
   },
   {
-    "id": "ATVPlus.pe",
-    "name": "ATV+",
+    "id": "ATVSur.pe",
+    "name": "ATV Sur",
     "alt_names": [],
     "network": null,
     "owners": [
@@ -1284,22 +1258,22 @@
     "subdivision": null,
     "city": null,
     "categories": [
-      "news"
+      "general"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/fY9256H.png",
-    "stream_url": "http://190.93.224.42/ATV-PLUS/index.m3u8",
+    "logo": "https://i.imgur.com/LnyVa5H.png",
+    "stream_url": "http://190.93.224.42/ATV-SUR/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": {
-      "channel": "ATVPlus.pe",
+      "channel": "ATVSur.pe",
       "feed": "SD",
-      "site": "tv.movistar.com.pe",
-      "site_id": "lch2220",
-      "site_name": "ATV+",
+      "site": "mi.tv",
+      "site_id": "pe#atv-sur",
+      "site_name": "ATV Sur",
       "lang": "es",
       "sources": []
     },
@@ -1416,42 +1390,6 @@
     "closed": null
   },
   {
-    "id": "ATVSur.pe",
-    "name": "ATV Sur",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Grupo ATV"
-    ],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/LnyVa5H.png",
-    "stream_url": "http://190.93.224.42/ATV-SUR/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ATVSur.pe",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "pe#atv-sur",
-      "site_name": "ATV Sur",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.atv.pe/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "AutenticaTelevision.pe",
     "name": "Autentica Television",
     "alt_names": [
@@ -1536,32 +1474,6 @@
       "sources": []
     },
     "website": "https://www.betheltv.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BHTV.pe",
-    "name": "BHTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/oNFOKFI.png",
-    "stream_url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://bhtv.pe/",
     "launched": null,
     "closed": null
   },
@@ -1819,6 +1731,34 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_Canal_IPe_2024.png/960px-Logo_Canal_IPe_2024.png",
+    "stream_url": "http://190.93.224.42/IPE/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.canalipe.tv/",
+    "launched": "2016-07-01",
+    "closed": null
+  },
+  {
+    "id": "CanalIPe.pe",
+    "name": "Canal IPe",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "National Institute of Radio and Television of Peru"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "family"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_Canal_IPe_2024.png/960px-Logo_Canal_IPe_2024.png",
     "stream_url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ipemovil/playlist.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -1851,34 +1791,6 @@
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.canalipe.tv/",
-    "launched": "2016-07-01",
-    "closed": null
-  },
-  {
-    "id": "CanalIPe.pe",
-    "name": "Canal IPe",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "National Institute of Radio and Television of Peru"
-    ],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "family"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_Canal_IPe_2024.png/960px-Logo_Canal_IPe_2024.png",
-    "stream_url": "http://190.93.224.42/IPE/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.canalipe.tv/",
@@ -2052,40 +1964,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://conecta2.pe/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CongresoTV.pe",
-    "name": "Congreso TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "legislative"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/r0foZ5t.png",
-    "stream_url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalelcongreso.stream/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CongresoTV.pe",
-      "feed": "SD",
-      "site": "tv.movistar.com.pe",
-      "site_id": "lch6310",
-      "site_name": "CONGRESO",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://comunicaciones.congreso.gob.pe/tv-congreso/",
     "launched": null,
     "closed": null
   },
@@ -2382,32 +2260,6 @@
     "closed": null
   },
   {
-    "id": "EstelarTV.pe",
-    "name": "Estelar TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/HrBjAid.png",
-    "stream_url": "https://srt.tvdatta.com/tvestelar/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://estelartvtarapoto.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "EvolucionTV.pe",
     "name": "Evolucion TV",
     "alt_names": [
@@ -2434,6 +2286,42 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ExitosaTV.pe",
+    "name": "Exitosa TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Corporation Universal"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/pu0BSB7.png",
+    "stream_url": "http://190.93.224.42/EXITOSA/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ExitosaTV.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch6311",
+      "site_name": "EXITOSA TV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://exitosanoticias.pe/",
     "launched": null,
     "closed": null
   },
@@ -2506,70 +2394,6 @@
       "sources": []
     },
     "website": "https://exitosanoticias.pe/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ExitosaTV.pe",
-    "name": "Exitosa TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Corporation Universal"
-    ],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/pu0BSB7.png",
-    "stream_url": "http://190.93.224.42/EXITOSA/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ExitosaTV.pe",
-      "feed": "SD",
-      "site": "tv.movistar.com.pe",
-      "site_id": "lch6311",
-      "site_name": "EXITOSA TV",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://exitosanoticias.pe/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "FillkaTV.pe",
-    "name": "Fillka TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series",
-      "movies",
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/26/23/177981261781/1666ae69c89b_480_270.png",
-    "stream_url": "https://amixtv.com/fillkatvhd/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://fillkatv.com/",
     "launched": null,
     "closed": null
   },
@@ -2745,10 +2569,78 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/yuEou9C.png",
+    "stream_url": "http://190.93.224.42/GLOBAL/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GlobalTV.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch6309",
+      "site_name": "GLOBAL TV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.atv.pe/noticias/global-tv-13738",
+    "launched": "1986-07-01",
+    "closed": null
+  },
+  {
+    "id": "GlobalTV.pe",
+    "name": "Global TV",
+    "alt_names": [],
+    "network": "Grupo ATV",
+    "owners": [],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/yuEou9C.png",
     "stream_url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/global.stream/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GlobalTV.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch6309",
+      "site_name": "GLOBAL TV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.atv.pe/noticias/global-tv-13738",
+    "launched": "1986-07-01",
+    "closed": null
+  },
+  {
+    "id": "GlobalTV.pe",
+    "name": "Global TV",
+    "alt_names": [],
+    "network": "Grupo ATV",
+    "owners": [],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/yuEou9C.png",
+    "stream_url": "https://cablered.iptvperu.tv:1936/cablered/global.stream/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "GlobalTV.pe",
@@ -2815,74 +2707,6 @@
     "logo": "https://i.imgur.com/yuEou9C.png",
     "stream_url": "https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "GlobalTV.pe",
-      "feed": "SD",
-      "site": "tv.movistar.com.pe",
-      "site_id": "lch6309",
-      "site_name": "GLOBAL TV",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.atv.pe/noticias/global-tv-13738",
-    "launched": "1986-07-01",
-    "closed": null
-  },
-  {
-    "id": "GlobalTV.pe",
-    "name": "Global TV",
-    "alt_names": [],
-    "network": "Grupo ATV",
-    "owners": [],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/yuEou9C.png",
-    "stream_url": "https://cablered.iptvperu.tv:1936/cablered/global.stream/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "GlobalTV.pe",
-      "feed": "SD",
-      "site": "tv.movistar.com.pe",
-      "site_id": "lch6309",
-      "site_name": "GLOBAL TV",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.atv.pe/noticias/global-tv-13738",
-    "launched": "1986-07-01",
-    "closed": null
-  },
-  {
-    "id": "GlobalTV.pe",
-    "name": "Global TV",
-    "alt_names": [],
-    "network": "Grupo ATV",
-    "owners": [],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/yuEou9C.png",
-    "stream_url": "http://190.93.224.42/GLOBAL/index.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -2971,32 +2795,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/eYXqkyN.png",
-    "stream_url": "https://sc1.wasidata.com/Imperial/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.radioimperialtv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ImperialTelevision.pe",
-    "name": "Imperial Television",
-    "alt_names": [
-      "Imperial Televisión"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/eYXqkyN.png",
     "stream_url": "https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -3004,32 +2802,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://www.radioimperialtv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Inkavision.pe",
-    "name": "Inkavision",
-    "alt_names": [
-      "Inkavisión"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/8d4PxCO.png",
-    "stream_url": "https://live-evg5.tv360.bitel.com.pe/bitel/inkavisionSRT/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://inkavision.pe/tv/",
     "launched": null,
     "closed": null
   },
@@ -3164,8 +2936,8 @@
     "closed": null
   },
   {
-    "id": "JuntosTV.pe",
-    "name": "Juntos TV",
+    "id": "JusticiaTV.pe",
+    "name": "Justicia TV",
     "alt_names": [],
     "network": null,
     "owners": [],
@@ -3174,18 +2946,26 @@
     "subdivision": null,
     "city": null,
     "categories": [
-      "general"
+      "legislative"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Juntos_TV_Logo.png",
-    "stream_url": "https://live-evg8.tv360.bitel.com.pe/bitel/juntostvSRT/playlist.m3u8",
-    "stream_quality": "720p",
+    "logo": "https://i.imgur.com/VOjLXJd.png",
+    "stream_url": "http://190.93.224.42/JUSTICIA-TV/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
-    "website": null,
+    "tv_guide": {
+      "channel": "JusticiaTV.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch2307",
+      "site_name": "PODER JUDICIAL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://justiciatv.pj.gob.pe/",
     "launched": null,
     "closed": null
   },
@@ -3224,40 +3004,6 @@
     "closed": null
   },
   {
-    "id": "JusticiaTV.pe",
-    "name": "Justicia TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "legislative"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/VOjLXJd.png",
-    "stream_url": "http://190.93.224.42/JUSTICIA-TV/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "JusticiaTV.pe",
-      "feed": "SD",
-      "site": "tv.movistar.com.pe",
-      "site_id": "lch2307",
-      "site_name": "PODER JUDICIAL",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://justiciatv.pj.gob.pe/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Karibena.pe",
     "name": "Karibena",
     "alt_names": [
@@ -3279,36 +3025,6 @@
     "logo": "https://i.imgur.com/cgHjg1e.png",
     "stream_url": "http://187.102.210.46/KARIBENA/index.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://lakaribena.com.pe/tv/vivo",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Karibena.pe",
-    "name": "Karibena",
-    "alt_names": [
-      "Karibeña"
-    ],
-    "network": null,
-    "owners": [
-      "Corporation Universal"
-    ],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/cgHjg1e.png",
-    "stream_url": "http://190.93.224.42/KARIBENA/index.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -3365,34 +3081,6 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.l1max.com/",
-    "launched": "2023-02-03",
-    "closed": null
-  },
-  {
-    "id": "L1Max.pe",
-    "name": "L1 Max",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Federación Peruana de Fútbol"
-    ],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/2fziU2B.png",
-    "stream_url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/liga1max.stream/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.l1max.com/",
@@ -3509,7 +3197,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png",
-    "stream_url": "https://cablered.iptvperu.tv:1936/cablered/la_tele.stream/playlist.m3u8",
+    "stream_url": "http://190.93.224.42/LA-TELE/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -3545,7 +3233,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png",
-    "stream_url": "http://190.93.224.42/LA-TELE/index.m3u8",
+    "stream_url": "https://cablered.iptvperu.tv:1936/cablered/la_tele.stream/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -3581,43 +3269,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/MOsWriY.png",
-    "stream_url": "https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Latina.pe",
-      "feed": "SD",
-      "site": "tv.movistar.com.pe",
-      "site_id": "lch2207",
-      "site_name": "LATINA",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.latina.pe/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Latina.pe",
-    "name": "Latina",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Vytal Group"
-    ],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/MOsWriY.png",
-    "stream_url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8",
+    "stream_url": "http://190.93.224.42/LATINA/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -3653,7 +3305,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/MOsWriY.png",
-    "stream_url": "http://190.93.224.42/LATINA/index.m3u8",
+    "stream_url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -4128,30 +3780,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://milleniumrtv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "MitosTV.pe",
-    "name": "MitosTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/uVaynHS.png",
-    "stream_url": "https://live-evg5.tv360.bitel.com.pe/bitel/monitortvSRT/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
     "launched": null,
     "closed": null
   },
@@ -4677,6 +4305,40 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/uQhEDES.png",
+    "stream_url": "http://190.93.224.42/PANAMERICANA/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PanamericanaTV.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch2209",
+      "site_name": "PANAMERICANA TELEVISION",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://panamericana.pe/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PanamericanaTV.pe",
+    "name": "Panamericana TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/uQhEDES.png",
     "stream_url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/panamericana.stream/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -4730,40 +4392,6 @@
     "closed": null
   },
   {
-    "id": "PanamericanaTV.pe",
-    "name": "Panamericana TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/uQhEDES.png",
-    "stream_url": "http://190.93.224.42/PANAMERICANA/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PanamericanaTV.pe",
-      "feed": "SD",
-      "site": "tv.movistar.com.pe",
-      "site_id": "lch2209",
-      "site_name": "PANAMERICANA TELEVISION",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://panamericana.pe/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "PBO.pe",
     "name": "PBO",
     "alt_names": [],
@@ -4779,8 +4407,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/vBpxX4S.png",
-    "stream_url": "https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "http://190.93.224.42/PBO/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -4805,8 +4433,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/vBpxX4S.png",
-    "stream_url": "http://190.93.224.42/PBO/index.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -5435,6 +5063,40 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/oBz3CgE.png",
+    "stream_url": "http://190.93.224.42/RPP/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RPPTV.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch2212",
+      "site_name": "RPP TV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://rpp.pe/tv.html",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RPPTV.pe",
+    "name": "RPP TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/oBz3CgE.png",
     "stream_url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -5470,74 +5132,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/oBz3CgE.png",
     "stream_url": "https://cdn-ssai.smartbit.co/rpp/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RPPTV.pe",
-      "feed": "SD",
-      "site": "tv.movistar.com.pe",
-      "site_id": "lch2212",
-      "site_name": "RPP TV",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "http://rpp.pe/tv.html",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RPPTV.pe",
-    "name": "RPP TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/oBz3CgE.png",
-    "stream_url": "http://187.102.210.46/RPP/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RPPTV.pe",
-      "feed": "SD",
-      "site": "tv.movistar.com.pe",
-      "site_id": "lch2212",
-      "site_name": "RPP TV",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "http://rpp.pe/tv.html",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RPPTV.pe",
-    "name": "RPP TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/oBz3CgE.png",
-    "stream_url": "http://190.93.224.42/RPP/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -5658,58 +5252,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.radiorumbamixtv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SelvaTV.pe",
-    "name": "SelvaTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Grupo CPM"
-    ],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/CVgix1C.png",
-    "stream_url": "https://live-evg7.tv360.bitel.com.pe/bitel/selvatv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.selvatv.pe/senal-en-vivo/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SelvaTV.pe",
-    "name": "SelvaTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Grupo CPM"
-    ],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/CVgix1C.png",
-    "stream_url": "https://videoserver.tmcreativos.com:19360/selvatv/selvatv.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.selvatv.pe/senal-en-vivo/",
     "launched": null,
     "closed": null
   },
@@ -5942,32 +5484,6 @@
     "closed": null
   },
   {
-    "id": "TeleCentro.pe",
-    "name": "TeleCentro",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/g61TdZ3.png",
-    "stream_url": "https://live-evg7.tv360.bitel.com.pe/bitel/telecentro/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.telecentroperu.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TelecolorYurimaguas.pe",
     "name": "Telecolor Yurimaguas",
     "alt_names": [],
@@ -5990,32 +5506,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://telecolortv.pe/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Telelima.pe",
-    "name": "Telelima",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/HzWRvXc.png",
-    "stream_url": "http://190.108.83.69:8000/play/a05o/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.telelima.pe/",
     "launched": null,
     "closed": null
   },
@@ -6301,6 +5791,32 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/QrUYjOS.png",
+    "stream_url": "http://190.93.224.42/TRIVU-TV/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.trivutv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Trivu.pe",
+    "name": "Trivu",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/QrUYjOS.png",
     "stream_url": "https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -6329,32 +5845,6 @@
     "logo": "https://i.imgur.com/QrUYjOS.png",
     "stream_url": "https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8",
     "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.trivutv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Trivu.pe",
-    "name": "Trivu",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/QrUYjOS.png",
-    "stream_url": "http://190.93.224.42/TRIVU-TV/index.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -6655,6 +6145,45 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/6io0IrX.png",
+    "stream_url": "http://190.93.224.42/TV-PERU/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVPeru.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch2210",
+      "site_name": "TV PERU",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.tvperu.gob.pe/",
+    "launched": "1958-01-12",
+    "closed": null
+  },
+  {
+    "id": "TVPeru.pe",
+    "name": "TV Peru",
+    "alt_names": [
+      "TV Perú"
+    ],
+    "network": null,
+    "owners": [
+      "Gobierno del Perú",
+      "National Institute of Radio and Television of Peru"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6io0IrX.png",
     "stream_url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperu.stream/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -6752,45 +6281,6 @@
     "closed": null
   },
   {
-    "id": "TVPeru.pe",
-    "name": "TV Peru",
-    "alt_names": [
-      "TV Perú"
-    ],
-    "network": null,
-    "owners": [
-      "Gobierno del Perú",
-      "National Institute of Radio and Television of Peru"
-    ],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/6io0IrX.png",
-    "stream_url": "http://190.93.224.42/TV-PERU/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPeru.pe",
-      "feed": "SD",
-      "site": "tv.movistar.com.pe",
-      "site_id": "lch2210",
-      "site_name": "TV PERU",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.tvperu.gob.pe/",
-    "launched": "1958-01-12",
-    "closed": null
-  },
-  {
     "id": "TVPeruanisima.pe",
     "name": "TV Peruanisima",
     "alt_names": [
@@ -6840,8 +6330,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/960px-TV_Per%C3%BA_Noticias_-_2019_logo.png",
-    "stream_url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperunoticias.stream/playlist.m3u8",
-    "stream_quality": "576p",
+    "stream_url": "http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -6880,8 +6370,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/960px-TV_Per%C3%BA_Noticias_-_2019_logo.png",
-    "stream_url": "http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperunoticias.stream/playlist.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -7506,80 +6996,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/bZnDDPH.png",
-    "stream_url": "http://187.102.210.46/WILLAX/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "WillaxTV.pe",
-      "feed": "SD",
-      "site": "tv.movistar.com.pe",
-      "site_id": "lch2219",
-      "site_name": "WILLAX",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://willax.pe/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "WillaxTV.pe",
-    "name": "Willax TV",
-    "alt_names": [
-      "Willax Televisión"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/bZnDDPH.png",
-    "stream_url": "https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "WillaxTV.pe",
-      "feed": "SD",
-      "site": "tv.movistar.com.pe",
-      "site_id": "lch2219",
-      "site_name": "WILLAX",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://willax.pe/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "WillaxTV.pe",
-    "name": "Willax TV",
-    "alt_names": [
-      "Willax Televisión"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "PE",
-    "country_name": "Peru",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/bZnDDPH.png",
     "stream_url": "http://190.93.224.42/WILLAX/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "WillaxTV.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch2219",
+      "site_name": "WILLAX",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://willax.pe/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WillaxTV.pe",
+    "name": "Willax TV",
+    "alt_names": [
+      "Willax Televisión"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/bZnDDPH.png",
+    "stream_url": "http://187.102.210.46/WILLAX/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

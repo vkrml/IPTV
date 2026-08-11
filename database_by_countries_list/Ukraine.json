@@ -596,6 +596,38 @@
     "closed": null
   },
   {
+    "id": "BlackSeaTV.ua",
+    "name": "Black Sea TV",
+    "alt_names": [
+      "Чорноморська телерадіокомпанія",
+      "Chernomorskaya Television and Radio Company",
+      "Black Sea Television and Radio Company"
+    ],
+    "network": null,
+    "owners": [
+      "Chernomorskaya Television and Radio Company"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/D8YJzHV.png",
+    "stream_url": "https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "curl/8.16.0",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://blackseatv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Bolt.ua",
     "name": "Bolt",
     "alt_names": [],
@@ -653,10 +685,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/a9JJXPk.png",
-    "stream_url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8",
+    "stream_url": "http://stream.mcquack.net/291/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "Channel5.ua",
@@ -692,10 +724,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/a9JJXPk.png",
-    "stream_url": "http://stream.mcquack.net/291/index.m3u8",
+    "stream_url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "Channel5.ua",
@@ -764,6 +796,35 @@
     "tv_guide": null,
     "website": "https://7kanal.com.ua/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Channel8.ua",
+    "name": "Channel 8",
+    "alt_names": [
+      "8 канал",
+      "Восьмой канал"
+    ],
+    "network": null,
+    "owners": [
+      "Ars Manga Production"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6Sr5vJD.png",
+    "stream_url": "https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "curl/8.16.0",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://8tv.com.ua/",
+    "launched": "2017-11-23",
     "closed": null
   },
   {
@@ -1600,8 +1661,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png",
-    "stream_url": "https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "https://dash4.antik.sk/live/test_uatv/playlist.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1641,8 +1702,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png",
-    "stream_url": "https://dash4.antik.sk/live/test_uatv/playlist.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1795,6 +1856,45 @@
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HopeChannelUkraine.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "nadia",
+      "site_name": "Надія",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://tv.hope.ua/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HopeChannelUkraine.ua",
+    "name": "Hope Channel Ukraine",
+    "alt_names": [
+      "Надія",
+      "Nadiia"
+    ],
+    "network": null,
+    "owners": [
+      "Seventh-day Adventist Church"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/mUx2P29.png",
+    "stream_url": "https://ext.cdn.nashnet.tv/228.0.0.172/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "curl/8.16.0",
     "referrer": null,
     "tv_guide": {
       "channel": "HopeChannelUkraine.ua",
@@ -2024,32 +2124,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "IT3.ua",
-    "name": "IT3",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "UA",
-    "country_name": "Ukraine",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/8rNbbY7.png",
-    "stream_url": "http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://it3.online/",
     "launched": null,
     "closed": null
   },
@@ -2492,6 +2566,45 @@
     "closed": null
   },
   {
+    "id": "Lale.ua",
+    "name": "Lale",
+    "alt_names": [
+      "Lâle",
+      "Ляле"
+    ],
+    "network": null,
+    "owners": [
+      "Atlant-SV"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CNhqVHd.png",
+    "stream_url": "https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "curl/8.16.0",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Lale.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "lale",
+      "site_name": "Lale",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": null,
+    "launched": "2013-06-01",
+    "closed": null
+  },
+  {
     "id": "Lugansk24.ua",
     "name": "Lugansk 24",
     "alt_names": [
@@ -2539,10 +2652,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/wbRdUw8.png",
-    "stream_url": "http://158.101.222.193:88/georgia_play.php?id=m1",
-    "stream_quality": "720p",
+    "stream_url": "http://stream.mcquack.net/218/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": null,
     "website": "https://m1.tv/",
@@ -2567,42 +2680,14 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/wbRdUw8.png",
-    "stream_url": "http://stream.mcquack.net/218/index.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "http://158.101.222.193:88/georgia_play.php?id=m1",
+    "stream_quality": "720p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": null,
     "website": "https://m1.tv/",
     "launched": "2002-01-01",
-    "closed": null
-  },
-  {
-    "id": "M2.ua",
-    "name": "M2",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Starlight Media"
-    ],
-    "country_code": "UA",
-    "country_name": "Ukraine",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/AfcBWCg.png",
-    "stream_url": "https://live.m2.tv/hls3/stream.m3u8",
-    "stream_quality": "540p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://m2.tv/",
-    "launched": "2007-09-01",
     "closed": null
   },
   {
@@ -2748,6 +2833,32 @@
     },
     "website": "http://megatv.kiev.ua/",
     "launched": "2005-05-30",
+    "closed": null
+  },
+  {
+    "id": "MegogoMusic.ua",
+    "name": "Megogo Music",
+    "alt_names": [],
+    "network": "Megogo",
+    "owners": [],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/MEGOGO_Music_%28%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%29.png",
+    "stream_url": "https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "curl/8.16.0",
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
     "closed": null
   },
   {
@@ -3097,6 +3208,45 @@
     },
     "website": "http://ntn.ua/",
     "launched": "2004-11-01",
+    "closed": null
+  },
+  {
+    "id": "ObozrevatelTV.ua",
+    "name": "Obozrevatel TV",
+    "alt_names": [
+      "Oboz TV",
+      "Observer TV"
+    ],
+    "network": null,
+    "owners": [
+      "Golden Middle"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ubldSBv.png",
+    "stream_url": "https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "curl/8.16.0",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ObozrevatelTV.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "oboz-tv",
+      "site_name": "OBOZ TV",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://www.obozrevatel.com/tv",
+    "launched": "2017-11-27",
     "closed": null
   },
   {
@@ -4044,6 +4194,46 @@
     "tv_guide": null,
     "website": "http://sk1.tv/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Sonce.ua",
+    "name": "Sonce",
+    "alt_names": [
+      "Сонцe",
+      "Sontse",
+      "Солнце"
+    ],
+    "network": null,
+    "owners": [
+      "Studio Pilot"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/MrkQLTp.png",
+    "stream_url": "https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "curl/8.16.0",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Sonce.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "solnce",
+      "site_name": "Солнце",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://sonce.tv/",
+    "launched": "2013-02-04",
     "closed": null
   },
   {

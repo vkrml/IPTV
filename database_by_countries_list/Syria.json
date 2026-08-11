@@ -1,31 +1,5 @@
 [
   {
-    "id": "AlalamNewsChannelSyria.sy",
-    "name": "Alalam News Channel Syria",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "SY",
-    "country_name": "Syria",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/WQKYPKD.png",
-    "stream_url": "https://live2.alalam.ir/live/Alalam/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://alalamsyria.ir/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "AlikhbariaSyria.sy",
     "name": "Alikhbaria Syria",
     "alt_names": [
@@ -346,27 +320,39 @@
     "closed": null
   },
   {
-    "id": "SyriaOne.sy",
-    "name": "Syria One",
+    "id": "SyriaTV.sy",
+    "name": "Syria TV",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Fadaat Media"
+    ],
     "country_code": "SY",
     "country_name": "Syria",
     "subdivision": null,
     "city": null,
-    "categories": [],
+    "categories": [
+      "news"
+    ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://tv.syriaone.tv/SyriaONETVB.png",
-    "stream_url": "https://live.syriaone.tv/live/syriaone.m3u8",
+    "logo": "https://i.imgur.com/FjuVuXF.jpeg",
+    "stream_url": "https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
+    "tv_guide": {
+      "channel": "SyriaTV.sy",
+      "feed": "SD",
+      "site": "tv.sfr.fr",
+      "site_id": "4141",
+      "site_name": "Syria TV",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.syria.tv/",
+    "launched": "2018-03-03",
     "closed": null
   },
   {
@@ -387,7 +373,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/FjuVuXF.jpeg",
-    "stream_url": "https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
+    "stream_url": "https://qmcconnect.qa/api/StreamServices/arabictvsyria1/master.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -460,42 +446,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/FjuVuXF.jpeg",
     "stream_url": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SyriaTV.sy",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "4141",
-      "site_name": "Syria TV",
-      "lang": "fr",
-      "sources": []
-    },
-    "website": "https://www.syria.tv/",
-    "launched": "2018-03-03",
-    "closed": null
-  },
-  {
-    "id": "SyriaTV.sy",
-    "name": "Syria TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Fadaat Media"
-    ],
-    "country_code": "SY",
-    "country_name": "Syria",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/FjuVuXF.jpeg",
-    "stream_url": "https://qmcconnect.qa/api/StreamServices/arabictvsyria1/master.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

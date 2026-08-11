@@ -31,37 +31,6 @@
     "closed": null
   },
   {
-    "id": "3CatElbunquer.es",
-    "name": "3Cat El bunquer",
-    "alt_names": [
-      "3Cat El búnquer"
-    ],
-    "network": "3Cat",
-    "owners": [
-      "Corporació Catalana de Mitjans Audiovisuals"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "comedy",
-      "public"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/wiqdIjd.png",
-    "stream_url": "https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.3cat.cat/3cat/directes/fc5/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "3CatExclusiu1.es",
     "name": "3Cat Exclusiu 1",
     "alt_names": [
@@ -436,8 +405,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
-    "stream_url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "http://185.47.212.25:8080/24h_HD/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -476,8 +445,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
-    "stream_url": "http://185.47.212.25:8080/24h_HD/index.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -579,34 +548,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://28kanala.eus/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "101tvAxarquia.es",
-    "name": "101tv Axarquia",
-    "alt_names": [
-      "101tv Axarquía"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/GzI3RC4.png",
-    "stream_url": "https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.101tv.es/",
     "launched": null,
     "closed": null
   },
@@ -1924,46 +1865,6 @@
     "closed": null
   },
   {
-    "id": "CanalExtremaduraSatelite.es",
-    "name": "Canal Extremadura Satelite",
-    "alt_names": [
-      "Canal Extremadura Satélite",
-      "Canal Extremadura Sat"
-    ],
-    "network": null,
-    "owners": [
-      "CEXMA"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general",
-      "public"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/3eWFu7N.png",
-    "stream_url": "https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CanalExtremaduraSatelite.es",
-      "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "1291",
-      "site_name": "Canal Extremadura Sat.",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.canalextremadura.es/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "CanalLuzTelevision.es",
     "name": "Canal Luz Television",
     "alt_names": [
@@ -2389,34 +2290,6 @@
     "closed": null
   },
   {
-    "id": "CanalTerresdelEbre.es",
-    "name": "Canal Terres de l'Ebre",
-    "alt_names": [
-      "Canal TE"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/3ynghbW/logox2.png",
-    "stream_url": "https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://canalte.cat/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "CancioneroTV.es",
     "name": "Cancionero TV",
     "alt_names": [],
@@ -2693,6 +2566,43 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
+    "stream_url": "http://185.47.212.25:8080/Clan_HD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Clan.es",
+      "feed": "SD",
+      "site": "programacion-tv.elpais.com",
+      "site_id": "505",
+      "site_name": "Clan TVE",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.rtve.es/infantil/",
+    "launched": "2005-12-12",
+    "closed": null
+  },
+  {
+    "id": "Clan.es",
+    "name": "Clan",
+    "alt_names": [],
+    "network": "TVE",
+    "owners": [
+      "RTVE"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids",
+      "public"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
     "stream_url": "https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -2731,43 +2641,6 @@
     "is_nsfw": false,
     "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
     "stream_url": "https://ztnr.rtve.es/ztnr/5466990.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Clan.es",
-      "feed": "SD",
-      "site": "programacion-tv.elpais.com",
-      "site_id": "505",
-      "site_name": "Clan TVE",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "http://www.rtve.es/infantil/",
-    "launched": "2005-12-12",
-    "closed": null
-  },
-  {
-    "id": "Clan.es",
-    "name": "Clan",
-    "alt_names": [],
-    "network": "TVE",
-    "owners": [
-      "RTVE"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids",
-      "public"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
-    "stream_url": "http://185.47.212.25:8080/Clan_HD/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -3030,7 +2903,7 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/qVe0hET.png",
     "stream_url": "https://cloudvideo.servers10.com:8081/8020/index.m3u8",
-    "stream_quality": null,
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -3126,32 +2999,6 @@
       "sources": []
     },
     "website": "https://lovetvchannels.com/en/our-channels/#crime",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CristianaTV.es",
-    "name": "Cristiana TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/FpkNIIG.jpg",
-    "stream_url": "https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.radiocristiana.es/",
     "launched": null,
     "closed": null
   },
@@ -4118,33 +3965,6 @@
     "closed": null
   },
   {
-    "id": "FamypancTV.es",
-    "name": "Famypanc TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general",
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://serenotv.com/wp-content/uploads/2024/08/Sin-titulo-1.jpg",
-    "stream_url": "https://panel.host-live.com:19360/8042/8042.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Fibwi.es",
     "name": "Fibwi",
     "alt_names": [],
@@ -4167,32 +3987,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://fibwi.live/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "FitelTV.es",
-    "name": "Fitel TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/3lAoTq3.png",
-    "stream_url": "https://tv.mywifisocial.es/live.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.fitelnetwork.com/fitel-tv/",
     "launched": null,
     "closed": null
   },
@@ -4507,34 +4301,6 @@
     "closed": null
   },
   {
-    "id": "IberoamericaTV.es",
-    "name": "Iberoamerica TV",
-    "alt_names": [
-      "Iberoamérica TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/N3K6PAG.png",
-    "stream_url": "https://limited39.todostreaming.es/live/salome-livestream.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://iberoamericatelevision.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "ImasTV.es",
     "name": "Imas TV",
     "alt_names": [
@@ -4663,6 +4429,43 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
+    "stream_url": "https://7nyaler.streamhostingcdn.top/stream/40/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "La1.es",
+      "feed": "SD",
+      "site": "tv-programme.telecablesat.fr",
+      "site_id": "206",
+      "site_name": "TVE 1",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "http://www.rtve.es/television/",
+    "launched": "1956-10-28",
+    "closed": null
+  },
+  {
+    "id": "La1.es",
+    "name": "La 1",
+    "alt_names": [],
+    "network": "TVE",
+    "owners": [
+      "RTVE"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general",
+      "public"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
     "stream_url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -4704,43 +4507,6 @@
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "La1.es",
-      "feed": "SD",
-      "site": "tv-programme.telecablesat.fr",
-      "site_id": "206",
-      "site_name": "TVE 1",
-      "lang": "fr",
-      "sources": []
-    },
-    "website": "http://www.rtve.es/television/",
-    "launched": "1956-10-28",
-    "closed": null
-  },
-  {
-    "id": "La1.es",
-    "name": "La 1",
-    "alt_names": [],
-    "network": "TVE",
-    "owners": [
-      "RTVE"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general",
-      "public"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
-    "stream_url": "https://7nyaler.streamhostingcdn.top/stream/40/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",
     "referrer": null,
     "tv_guide": {
       "channel": "La1.es",
@@ -5514,32 +5280,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.maestrat.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "MarTV.es",
-    "name": "Mar TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/qQkkavo.png",
-    "stream_url": "http://iptv.services.everywan.net:8080/martv-web/video.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://martv.tv/emissio-en-directe/",
     "launched": null,
     "closed": null
   },
@@ -7909,32 +7649,6 @@
     "closed": null
   },
   {
-    "id": "STZTelebista.es",
-    "name": "STZ Telebista",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/rFQuAEv.png",
-    "stream_url": "https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://stztelebista.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "SX3.es",
     "name": "SX3",
     "alt_names": [
@@ -8691,42 +8405,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png",
-    "stream_url": "https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Trece.es",
-      "feed": "SD",
-      "site": "orangetv.orange.es",
-      "site_id": "1017",
-      "site_name": "TR3CE",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.cope.es/trecetv",
-    "launched": "2010-01-01",
-    "closed": null
-  },
-  {
-    "id": "Trece.es",
-    "name": "Trece",
-    "alt_names": [
-      "13tv"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png",
     "stream_url": "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -8825,74 +8503,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/960px-TV3CAT.svg.png",
-    "stream_url": "https://directes-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TV3CAT.es",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "203",
-      "site_name": "TV3 Catalunya",
-      "lang": "fr",
-      "sources": []
-    },
-    "website": "http://www.ccma.cat/tv3/directe/tv3cat/",
-    "launched": "1995-01-01",
-    "closed": null
-  },
-  {
-    "id": "TV3CAT.es",
-    "name": "TV3CAT",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Televisió de Catalunya"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/960px-TV3CAT.svg.png",
-    "stream_url": "https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TV3CAT.es",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "203",
-      "site_name": "TV3 Catalunya",
-      "lang": "fr",
-      "sources": []
-    },
-    "website": "http://www.ccma.cat/tv3/directe/tv3cat/",
-    "launched": "1995-01-01",
-    "closed": null
-  },
-  {
-    "id": "TV3CAT.es",
-    "name": "TV3CAT",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Televisió de Catalunya"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/960px-TV3CAT.svg.png",
     "stream_url": "https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -8966,32 +8576,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.artequatre.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVAlmassora.es",
-    "name": "TV Almassora",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/syeJXGh.png",
-    "stream_url": "https://tvalmassora.com/hls/tvalmassora.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.tvalmassora.com/",
     "launched": null,
     "closed": null
   },

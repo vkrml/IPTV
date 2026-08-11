@@ -97,7 +97,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/TSc35U6.png",
-    "stream_url": "https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8",
+    "stream_url": "http://145.239.5.177/371/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -125,7 +125,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/TSc35U6.png",
-    "stream_url": "http://145.239.5.177/371/index.m3u8",
+    "stream_url": "https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -358,32 +358,6 @@
     "closed": null
   },
   {
-    "id": "DritaTV.ch",
-    "name": "Drita TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CH",
-    "country_name": "Switzerland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/cvgVmZw.png",
-    "stream_url": "https://dritatv.protokolldns.xyz/dritaweb5587989/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://drita.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "ImmaculataTV.ch",
     "name": "Immaculata TV",
     "alt_names": [
@@ -417,40 +391,6 @@
     },
     "website": "https://www.immaculata-tv.ch/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Kanal9.ch",
-    "name": "Kanal 9",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CH",
-    "country_name": "Switzerland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/TNciMh2.png",
-    "stream_url": "https://edge21.vedge.infomaniak.com/livecast/ik:livesd2/manifest.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Kanal9.ch",
-      "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "227",
-      "site_name": "Kanal 9",
-      "lang": "de",
-      "sources": []
-    },
-    "website": "https://canal9.ch/de/direct/",
-    "launched": "1984-09-29",
     "closed": null
   },
   {
@@ -624,32 +564,6 @@
     "closed": null
   },
   {
-    "id": "QS24tv.ch",
-    "name": "QS24.tv",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CH",
-    "country_name": "Switzerland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "lifestyle"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/qnBDjtC/Logo-QS24-schwarz-Pfade.png",
-    "stream_url": "https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.qs24.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Radio3i.ch",
     "name": "Radio 3i",
     "alt_names": [],
@@ -770,40 +684,6 @@
     "closed": null
   },
   {
-    "id": "RTS1.ch",
-    "name": "RTS 1",
-    "alt_names": [
-      "RTS UN"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "CH",
-    "country_name": "Switzerland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/OP5lHv9.png",
-    "stream_url": "http://41.205.70.146/RTSUN/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RTS1.ch",
-      "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "369",
-      "site_name": "RTS 1",
-      "lang": "fr",
-      "sources": []
-    },
-    "website": "https://www.rts.ch/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "RTSInfo.ch",
     "name": "RTS Info",
     "alt_names": [],
@@ -838,32 +718,6 @@
     "closed": null
   },
   {
-    "id": "RTVIslam.ch",
-    "name": "RTV Islam",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CH",
-    "country_name": "Switzerland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/LSJqLJw/RTV-LOGO.png",
-    "stream_url": "https://protokolldns.xyz/rtvislamweb554/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://rtvislam.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "RTVPendimi.ch",
     "name": "RTV Pendimi",
     "alt_names": [],
@@ -886,32 +740,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.rtvpendimi.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ShivaLiveTV.ch",
-    "name": "Shiva Live TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CH",
-    "country_name": "Switzerland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/F2LUpAB.jpg",
-    "stream_url": "https://streameurope.ch/live/shivalivetv.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://shivalive.tv/",
     "launched": null,
     "closed": null
   },
@@ -1160,40 +988,6 @@
       "sources": []
     },
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVRheintal.ch",
-    "name": "TV Rheintal",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CH",
-    "country_name": "Switzerland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/8PY1o81.jpg",
-    "stream_url": "https://rtmp-vm.fidion.de/live/tvrt.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVRheintal.ch",
-      "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "630",
-      "site_name": "TV Rheintal",
-      "lang": "de",
-      "sources": []
-    },
-    "website": "https://www.tvrt.ch/",
     "launched": null,
     "closed": null
   },

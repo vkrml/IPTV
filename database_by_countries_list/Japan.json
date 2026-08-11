@@ -1,37 +1,5 @@
 [
   {
-    "id": "Animax.jp",
-    "name": "Animax",
-    "alt_names": [
-      "アニマックス"
-    ],
-    "network": null,
-    "owners": [
-      "Animax Broadcast Japan Inc.",
-      "AK Entertainment Co. Ltd.",
-      "Nojima Corporation"
-    ],
-    "country_code": "JP",
-    "country_name": "Japan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "animation"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/960px-Animax_logo.svg.png",
-    "stream_url": "https://akariko-bck1.sankuria.sbs/stream/jp/animax/stream-output.m3u8?mode=hls",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.animax.co.jp/",
-    "launched": "1998-07-01",
-    "closed": null
-  },
-  {
     "id": "CGNTVJapan.jp",
     "name": "CGNTV Japan",
     "alt_names": [
@@ -367,7 +335,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",
-    "stream_url": "http://170.83.16.50:80/NHK_WORLD/index.m3u8",
+    "stream_url": "http://170.83.16.50/NHK_WORLD/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -562,45 +530,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",
-    "stream_url": "https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NHKWorldJapan.jp",
-      "feed": "SD",
-      "site": "www3.nhk.or.jp",
-      "site_id": "0",
-      "site_name": "NHK World-Japan",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www3.nhk.or.jp/nhkworld/",
-    "launched": "1998-04-01",
-    "closed": null
-  },
-  {
-    "id": "NHKWorldJapan.jp",
-    "name": "NHK World-Japan",
-    "alt_names": [
-      "NHK World"
-    ],
-    "network": null,
-    "owners": [
-      "Government of Japan"
-    ],
-    "country_code": "JP",
-    "country_name": "Japan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news",
-      "culture"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",
     "stream_url": "https://cdn-7.pishow.tv/live/455/master.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -640,10 +569,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",
-    "stream_url": "https://cdn4.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8",
+    "stream_quality": null,
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "NHKWorldJapan.jp",

@@ -352,32 +352,6 @@
     "closed": null
   },
   {
-    "id": "BanatTV.ro",
-    "name": "Banat TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/yVsocid.png",
-    "stream_url": "https://www.btv.ro/hls/banat-tv.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.btv.ro/",
-    "launched": "2005-01-01",
-    "closed": null
-  },
-  {
     "id": "BollywoodHD.ro",
     "name": "Bollywood HD",
     "alt_names": [],
@@ -800,34 +774,6 @@
     "closed": null
   },
   {
-    "id": "HelloTaste.ro",
-    "name": "Hello Taste",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Antena TV Group"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "cooking"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/TdKO0er.png",
-    "stream_url": "https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/daadc33b-fc6b-4c9e-a8d4-9ca1b7087d4d:BRU/master.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://hellotaste.ro/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Hunedoara1.ro",
     "name": "Hunedoara 1",
     "alt_names": [],
@@ -876,6 +822,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://iasitvlife.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ImpactTV.ro",
+    "name": "Impact TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Impact TV România"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://tvimpact.ro/impact-logo.png",
+    "stream_url": "https://live.tvimpact.ro:8088/hevc/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://tvimpact.ro/",
+    "tv_guide": null,
+    "website": "https://tvimpact.ro/",
     "launched": null,
     "closed": null
   },
@@ -1001,10 +975,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/0SMSIm9.png",
-    "stream_url": "https://stream2.kanald.ro/iphone/knd2-live.m3u8",
-    "stream_quality": "1080i",
+    "stream_url": "https://aes.m3u8simplu.workers.dev/kanald2/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.kanald2.ro",
@@ -1027,10 +1001,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/0SMSIm9.png",
-    "stream_url": "https://aes.m3u8simplu.workers.dev/kanald2/index.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "https://stream2.kanald.ro/iphone/knd2-live.m3u8",
+    "stream_quality": "1080i",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "user_agent": null,
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.kanald2.ro",
@@ -1073,6 +1047,34 @@
     },
     "website": "https://www.kanald.ro/",
     "launched": "2007-02-18",
+    "closed": null
+  },
+  {
+    "id": "KapitalTV.ro",
+    "name": "Kapital TV",
+    "alt_names": [
+      "KTV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Q1PYwkZ.png",
+    "stream_url": "https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://kapitaltv.ro/",
+    "tv_guide": null,
+    "website": "https://kapitaltv.ro/",
+    "launched": null,
     "closed": null
   },
   {
@@ -1169,34 +1171,6 @@
     },
     "website": "https://www.magicfm.ro/magictv",
     "launched": "2016-09-15",
-    "closed": null
-  },
-  {
-    "id": "MediCOOLTV.ro",
-    "name": "MediCOOL TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Digital Antena Group"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "lifestyle"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Xe7x1k2.png",
-    "stream_url": "https://dai.google.com/linear/hls/pa/event/dpT7XJvhSzm5-pQkjgqRtg/stream/851625d8-0bfe-4ea1-a924-ddb3ff4d1e53:GRQ/master.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://antenaplay.ro/live/medicool-tv",
-    "launched": null,
     "closed": null
   },
   {
@@ -1507,26 +1481,33 @@
     "closed": null
   },
   {
-    "id": "RapsodiaTV.ro",
-    "name": "Rapsodia TV",
-    "alt_names": [],
+    "id": "RadioRomaniaAntenaSatelor.ro",
+    "name": "Radio Romania Antena Satelor",
+    "alt_names": [
+      "RRAS",
+      "Radio România Antena Satelor"
+    ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Romanian Radio Broadcasting Company"
+    ],
     "country_code": "RO",
     "country_name": "Romania",
     "subdivision": null,
     "city": null,
-    "categories": [],
+    "categories": [
+      "music"
+    ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/mwMG7BB.png",
-    "stream_url": "http://92.86.248.141:8080/ram/playlist.m3u8",
-    "stream_quality": "576p",
+    "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
+    "stream_url": "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": "https://www.rapsodiatv.ro/",
+    "website": "https://www.antenasatelor.ro/",
     "launched": null,
     "closed": null
   },
@@ -1765,32 +1746,6 @@
     "closed": null
   },
   {
-    "id": "Tele7music.ro",
-    "name": "Tele7music",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/11b5W8u.png",
-    "stream_url": "https://live.tele7music.ro/hls/stream/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tele7music.ro/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TeleMBotosani.ro",
     "name": "TeleM Botosani",
     "alt_names": [],
@@ -1889,32 +1844,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://traditionaltv.net/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVArad.ro",
-    "name": "TV Arad",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/4yZV72X.png",
-    "stream_url": "https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tvarad.ro/",
     "launched": null,
     "closed": null
   },

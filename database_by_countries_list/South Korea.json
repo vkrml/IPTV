@@ -736,37 +736,6 @@
     "closed": null
   },
   {
-    "id": "CGNTVSouthKorea.kr",
-    "name": "CGNTV South Korea",
-    "alt_names": [
-      "CGN韩国",
-      "시지엔티비"
-    ],
-    "network": "CGN",
-    "owners": [
-      "Christian Global network"
-    ],
-    "country_code": "KR",
-    "country_name": "South Korea",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/zwZASOB.png",
-    "stream_url": "https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.cgntv.net/",
-    "launched": "2005-03-29",
-    "closed": null
-  },
-  {
     "id": "ChannelA.kr",
     "name": "Channel A",
     "alt_names": [
@@ -2115,31 +2084,41 @@
     "closed": null
   },
   {
-    "id": "JobplusTV.kr",
-    "name": "Jobplus TV",
+    "id": "KBSWorld.kr",
+    "name": "KBS World",
     "alt_names": [
-      "한국직업방송"
+      "KBS 월드"
     ],
-    "network": null,
-    "owners": [],
+    "network": "Korean Broadcasting System",
+    "owners": [
+      "Korean Broadcasting System"
+    ],
     "country_code": "KR",
     "country_name": "South Korea",
     "subdivision": null,
     "city": null,
     "categories": [
-      "business"
+      "general"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/Y5Zg5SR.png",
-    "stream_url": "https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8",
-    "stream_quality": "480p",
+    "logo": "https://i.imgur.com/7DqgELX.png",
+    "stream_url": "https://stream8.cinerama.uz/1448/playlist.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.jobplustv.or.kr/",
-    "launched": null,
+    "referrer": "https://cinerama.uz/",
+    "tv_guide": {
+      "channel": "KBSWorld.kr",
+      "feed": "HD",
+      "site": "vodafone.pt",
+      "site_id": "2897",
+      "site_name": "KBS World",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "http://kbsworld.kbs.co.kr/",
+    "launched": "2003-07-01",
     "closed": null
   },
   {
@@ -2205,44 +2184,6 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "KBSWorld.kr",
-      "feed": "HD",
-      "site": "vodafone.pt",
-      "site_id": "2897",
-      "site_name": "KBS World",
-      "lang": "pt",
-      "sources": []
-    },
-    "website": "http://kbsworld.kbs.co.kr/",
-    "launched": "2003-07-01",
-    "closed": null
-  },
-  {
-    "id": "KBSWorld.kr",
-    "name": "KBS World",
-    "alt_names": [
-      "KBS 월드"
-    ],
-    "network": "Korean Broadcasting System",
-    "owners": [
-      "Korean Broadcasting System"
-    ],
-    "country_code": "KR",
-    "country_name": "South Korea",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/7DqgELX.png",
-    "stream_url": "https://stream8.cinerama.uz/1448/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://cinerama.uz/",
     "tv_guide": {
       "channel": "KBSWorld.kr",
       "feed": "HD",
@@ -2967,34 +2908,6 @@
     },
     "website": "http://www.tvchosun.com/",
     "launched": "2011-01-28",
-    "closed": null
-  },
-  {
-    "id": "WBSTV.kr",
-    "name": "WBS TV",
-    "alt_names": [
-      "원음방송"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "KR",
-    "country_name": "South Korea",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Lhz1Egi.png",
-    "stream_url": "http://157.245.196.186/live/livestream.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://wbsi.kr/index_tv.php",
-    "launched": null,
     "closed": null
   },
   {

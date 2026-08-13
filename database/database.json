@@ -3925,8 +3925,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
-    "stream_url": "http://185.47.212.25:8080/24h_HD/index.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -3944,11 +3944,10 @@
     "closed": null
   },
   {
-    "id": "24Horas.es",
-    "name": "24 Horas",
+    "id": "24HorasCanarias.es",
+    "name": "24 Horas Canarias",
     "alt_names": [
-      "Canal 24 Horas",
-      "24h"
+      "Canal 24 Horas Canarias"
     ],
     "network": "TVE",
     "owners": [
@@ -3965,21 +3964,13 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
-    "stream_url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "http://185.47.212.25:8080/24h_HD/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "24Horas.es",
-      "feed": "SD",
-      "site": "tv24.se",
-      "site_id": "canal-24h",
-      "site_name": "Canal 24H",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "http://www.rtve.es/alacarta/tve/24-horas/",
+    "tv_guide": null,
+    "website": "https://www.rtve.es/play/videos/directo/tve-canarias/24-h-can/",
     "launched": "1997-09-15",
     "closed": null
   },
@@ -38666,6 +38657,44 @@
     "closed": null
   },
   {
+    "id": "AXNAsia.sg",
+    "name": "AXN Asia",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "KC Global Media Singapore Pte. Ltd.",
+      "KC Global Media Entertainment LLC"
+    ],
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "stream_url": "http://125.227.210.55:4050/VideoInput/play.ts",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXNAsia.sg",
+      "feed": "Indonesia",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000079",
+      "site_name": "AXN",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://www.axn-asia.com/",
+    "launched": "1997-09-21",
+    "closed": null
+  },
+  {
     "id": "AXNBlack.us",
     "name": "AXN Black",
     "alt_names": [],
@@ -43115,42 +43144,6 @@
     "closed": null
   },
   {
-    "id": "BangBang.al",
-    "name": "Bang Bang",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "DigitAlb"
-    ],
-    "country_code": "AL",
-    "country_name": "Albania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/lpS2PpS.png",
-    "stream_url": "https://digitalb-live.morescreens.com/DAL_1_004/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_004&playlist_template=nginx&profile_id=1&ps=6ca6054c4d6f9fafd6e3202ad620d4cc30ee45fdbbf1526cab3fdcac143b283d2f7251b3babf442b3a4fb90820abcc0cfaab2bff9a76799adc92b09fa0151f25&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7edb2a069c1d9e1872251cc87e99c568dfd18769f97905bd1dcaf519b259c970f880a1c43b6a7392ac496426adb0e55a2f6dbb06981536af9c1c987416282783&video_id=16377",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BangBang.al",
-      "feed": "SD",
-      "site": "ipko.tv",
-      "site_id": "bang-bang",
-      "site_name": "Bang Bang",
-      "lang": "sq",
-      "sources": []
-    },
-    "website": "https://www.digitalb.al/",
-    "launched": "2004-07-01",
-    "closed": null
-  },
-  {
     "id": "BanglaVision.bd",
     "name": "Bangla Vision",
     "alt_names": [
@@ -44258,10 +44251,10 @@
     "tv_guide": {
       "channel": "BBCArabic.uk",
       "feed": "SD",
-      "site": "sky.com",
-      "site_id": "IT#5193",
+      "site": "teleboy.ch",
+      "site_id": "398",
       "site_name": "BBC Arabic",
-      "lang": "it",
+      "lang": "ar",
       "sources": []
     },
     "website": "https://www.bbc.com/arabic",
@@ -44294,10 +44287,10 @@
     "tv_guide": {
       "channel": "BBCArabic.uk",
       "feed": "SD",
-      "site": "sky.com",
-      "site_id": "IT#5193",
+      "site": "teleboy.ch",
+      "site_id": "398",
       "site_name": "BBC Arabic",
-      "lang": "it",
+      "lang": "ar",
       "sources": []
     },
     "website": "https://www.bbc.com/arabic",
@@ -44330,10 +44323,10 @@
     "tv_guide": {
       "channel": "BBCArabic.uk",
       "feed": "SD",
-      "site": "sky.com",
-      "site_id": "IT#5193",
+      "site": "teleboy.ch",
+      "site_id": "398",
       "site_name": "BBC Arabic",
-      "lang": "it",
+      "lang": "ar",
       "sources": []
     },
     "website": "https://www.bbc.com/arabic",
@@ -44366,10 +44359,10 @@
     "tv_guide": {
       "channel": "BBCArabic.uk",
       "feed": "SD",
-      "site": "sky.com",
-      "site_id": "IT#5193",
+      "site": "teleboy.ch",
+      "site_id": "398",
       "site_name": "BBC Arabic",
-      "lang": "it",
+      "lang": "ar",
       "sources": []
     },
     "website": "https://www.bbc.com/arabic",
@@ -44402,10 +44395,10 @@
     "tv_guide": {
       "channel": "BBCArabic.uk",
       "feed": "SD",
-      "site": "sky.com",
-      "site_id": "IT#5193",
+      "site": "teleboy.ch",
+      "site_id": "398",
       "site_name": "BBC Arabic",
-      "lang": "it",
+      "lang": "ar",
       "sources": []
     },
     "website": "https://www.bbc.com/arabic",
@@ -44438,10 +44431,10 @@
     "tv_guide": {
       "channel": "BBCArabic.uk",
       "feed": "SD",
-      "site": "sky.com",
-      "site_id": "IT#5193",
+      "site": "teleboy.ch",
+      "site_id": "398",
       "site_name": "BBC Arabic",
-      "lang": "it",
+      "lang": "ar",
       "sources": []
     },
     "website": "https://www.bbc.com/arabic",
@@ -44474,10 +44467,10 @@
     "tv_guide": {
       "channel": "BBCArabic.uk",
       "feed": "SD",
-      "site": "sky.com",
-      "site_id": "IT#5193",
+      "site": "teleboy.ch",
+      "site_id": "398",
       "site_name": "BBC Arabic",
-      "lang": "it",
+      "lang": "ar",
       "sources": []
     },
     "website": "https://www.bbc.com/arabic",
@@ -70080,7 +70073,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "CanalAlphaJura.ch",
+      "feed": "SD",
+      "site": "teleboy.ch",
+      "site_id": "525",
+      "site_name": "Canal Alpha Jura",
+      "lang": "fr",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -70104,7 +70105,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "CanalAlphaNeuchatel.ch",
+      "feed": "SD",
+      "site": "teleboy.ch",
+      "site_id": "299",
+      "site_name": "Canal Alpha Neuchâtel",
+      "lang": "fr",
+      "sources": []
+    },
     "website": null,
     "launched": null,
     "closed": null
@@ -75158,7 +75167,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "Carac1.ch",
+      "feed": "SD",
+      "site": "teleboy.ch",
+      "site_id": "365",
+      "site_name": "CARAC 1 HD",
+      "lang": "fr",
+      "sources": []
+    },
     "website": "https://carac.tv/",
     "launched": null,
     "closed": null
@@ -75186,7 +75203,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "Carac1.ch",
+      "feed": "SD",
+      "site": "teleboy.ch",
+      "site_id": "365",
+      "site_name": "CARAC 1 HD",
+      "lang": "fr",
+      "sources": []
+    },
     "website": "https://carac.tv/",
     "launched": null,
     "closed": null
@@ -75214,7 +75239,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "Carac2.ch",
+      "feed": "SD",
+      "site": "teleboy.ch",
+      "site_id": "521",
+      "site_name": "CARAC 2 CH HD",
+      "lang": "fr",
+      "sources": []
+    },
     "website": "https://carac.tv/lives/carac-2",
     "launched": null,
     "closed": null
@@ -75242,7 +75275,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "Carac2.ch",
+      "feed": "SD",
+      "site": "teleboy.ch",
+      "site_id": "521",
+      "site_name": "CARAC 2 CH HD",
+      "lang": "fr",
+      "sources": []
+    },
     "website": "https://carac.tv/lives/carac-2",
     "launched": null,
     "closed": null
@@ -75270,7 +75311,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "Carac3.ch",
+      "feed": "SD",
+      "site": "teleboy.ch",
+      "site_id": "520",
+      "site_name": "CARAC 3 HD",
+      "lang": "fr",
+      "sources": []
+    },
     "website": "https://carac.tv/lives/carac-3",
     "launched": null,
     "closed": null
@@ -75298,7 +75347,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "Carac3.ch",
+      "feed": "SD",
+      "site": "teleboy.ch",
+      "site_id": "520",
+      "site_name": "CARAC 3 HD",
+      "lang": "fr",
+      "sources": []
+    },
     "website": "https://carac.tv/lives/carac-3",
     "launched": null,
     "closed": null
@@ -75354,7 +75411,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "Carac5.ch",
+      "feed": "SD",
+      "site": "teleboy.ch",
+      "site_id": "402",
+      "site_name": "beCuriousTV",
+      "lang": "fr",
+      "sources": []
+    },
     "website": "https://carac.tv/lives/carac-5",
     "launched": null,
     "closed": null
@@ -83999,6 +84064,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/qBmomnF.png",
+    "stream_url": "https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CGTNGlobalBiz.cn",
+      "feed": "SD",
+      "site": "watch.whaletvplus.com",
+      "site_id": "989293714931712086",
+      "site_name": "Global Biz",
+      "lang": "en",
+      "sources": []
+    },
+    "website": null,
+    "launched": "2025-11-06",
+    "closed": null
+  },
+  {
+    "id": "CGTNGlobalBiz.cn",
+    "name": "CGTN Global Biz",
+    "alt_names": [
+      "Global Biz"
+    ],
+    "network": "China Global Television Network",
+    "owners": [
+      "China Media Group"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "business"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/qBmomnF.png",
     "stream_url": "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -88570,6 +88673,46 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ChinaTravel.cn",
+    "name": "China Travel",
+    "alt_names": [
+      "China Travel CGTN"
+    ],
+    "network": "China Global Television Network",
+    "owners": [
+      "China Media Group"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary",
+      "travel",
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/vSgY3CD.png",
+    "stream_url": "https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ChinaTravel.cn",
+      "feed": "SD",
+      "site": "watch.whaletvplus.com",
+      "site_id": "989293714931712088",
+      "site_name": "China Travel",
+      "lang": "en",
+      "sources": []
+    },
+    "website": null,
+    "launched": "2025-11-06",
     "closed": null
   },
   {
@@ -94039,6 +94182,42 @@
     "closed": null
   },
   {
+    "id": "CleoTV.us",
+    "name": "Cleo TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Urban One"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/US0T6DC.png",
+    "stream_url": "http://40.160.24.56/Cleo_TV_SD/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CleoTV.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "110288",
+      "site_name": "Cleo TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://mycleo.tv/",
+    "launched": "2019-01-19",
+    "closed": null
+  },
+  {
     "id": "ClergyTV.ke",
     "name": "Clergy TV",
     "alt_names": [],
@@ -98352,40 +98531,6 @@
     "closed": null
   },
   {
-    "id": "ComedyTV.us",
-    "name": "Comedy TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "comedy"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/KLfXnba.png",
-    "stream_url": "https://gpuserver3.tier1streams.com/COMEDY_TV/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ComedyTV.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "80740",
-      "site_name": "Comedy.TV",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://entertainmentstudios.com/network/comedy-tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "ComercioTV.us",
     "name": "Comercio TV",
     "alt_names": [],
@@ -99760,34 +99905,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://grupojapradiotv.com/nuestros-canales-tv/corazon-tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CordobaTV.es",
-    "name": "Cordoba TV",
-    "alt_names": [
-      "Córdoba TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/qVe0hET.png",
-    "stream_url": "https://cloudvideo.servers10.com:8081/8020/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.cordoba-tv.com/",
     "launched": null,
     "closed": null
   },
@@ -102327,6 +102444,78 @@
     "tv_guide": null,
     "website": "https://pluto.tv/live-tv/csi-ny-en-espanol/details",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CSPAN2.us",
+    "name": "C-SPAN 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "National Cable Satellite Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "legislative"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9B6XIQC.png",
+    "stream_url": "http://40.160.24.56/C-SPAN_2_SD/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CSPAN2.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "10162",
+      "site_name": "C-SPAN2",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.c-span.org/",
+    "launched": "1986-06-02",
+    "closed": null
+  },
+  {
+    "id": "CSPAN.us",
+    "name": "C-SPAN",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "National Cable Satellite Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "legislative"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/960px-C-SPAN_Logo_%282019%29.svg.png",
+    "stream_url": "http://40.160.24.56/C-SPAN_HD_SD/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CSPAN.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "10161",
+      "site_name": "C-SPAN",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.c-span.org/",
+    "launched": "1979-03-19",
     "closed": null
   },
   {
@@ -113331,6 +113520,45 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/wr2bLaA.png",
+    "stream_url": "https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DiscoveringChina.cn",
+      "feed": "SD",
+      "site": "watch.whaletvplus.com",
+      "site_id": "989293714931712087",
+      "site_name": "Discovering China",
+      "lang": "en",
+      "sources": []
+    },
+    "website": null,
+    "launched": "2025-11-06",
+    "closed": null
+  },
+  {
+    "id": "DiscoveringChina.cn",
+    "name": "Discovering China",
+    "alt_names": [
+      "Discovering China CGTN"
+    ],
+    "network": "China Global Television Network",
+    "owners": [
+      "China Media Group"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary",
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/wr2bLaA.png",
     "stream_url": "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -119207,7 +119435,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/k8U0e0b.png",
-    "stream_url": "https://cloudvideo.servers10.com:8081/8138/index.m3u8",
+    "stream_url": "https://cloudvideo.servers10.com:8081/8020/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -148237,6 +148465,42 @@
     "closed": null
   },
   {
+    "id": "FXLatinAmerica.us",
+    "name": "FX Latin America",
+    "alt_names": [],
+    "network": "FX Channels",
+    "owners": [
+      "The Walt Disney Company Latin America"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+    "stream_url": "https://streamer.metronethn.com/FX/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FXLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "mi.tv",
+      "site_id": "co#fx-hd",
+      "site_name": "FX HD",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.canalfx.tv/",
+    "launched": "2005-05-01",
+    "closed": null
+  },
+  {
     "id": "FXMovieChannel.us",
     "name": "FX Movie Channel",
     "alt_names": [],
@@ -149043,40 +149307,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://www.parvizshahbazi.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "GansuTV.cn",
-    "name": "Gansu TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "CN",
-    "country_name": "China",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/dANSiug.png",
-    "stream_url": "http://118.81.195.79:9003/hls/25/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "GansuTV.cn",
-      "feed": "SD",
-      "site": "tv.cctv.com",
-      "site_id": "gansu",
-      "site_name": "甘肃卫视",
-      "lang": "zh",
-      "sources": []
-    },
-    "website": "https://www.gstv.com.cn/",
     "launched": null,
     "closed": null
   },
@@ -230208,42 +230438,6 @@
     "closed": null
   },
   {
-    "id": "MSGPlus.us",
-    "name": "MSG Plus",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "MSG Networks Inc"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/7suDpSK.png",
-    "stream_url": "https://gpuserver3.tier1streams.com/MSG_PLUS/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MSGPlus.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "11105",
-      "site_name": "MSG Plus",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.msgnetworks.com/",
-    "launched": "1976-01-01",
-    "closed": null
-  },
-  {
     "id": "MSignMedia.in",
     "name": "M Sign Media",
     "alt_names": [],
@@ -236851,6 +237045,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MWDDocumentary.mm",
+    "name": "MWD Documentary",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Myanmar Armed Forces"
+    ],
+    "country_code": "MM",
+    "country_name": "Myanmar",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4XV7cjU.png",
+    "stream_url": "http://203.81.84.130/hls/mwd_document/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.myawady.net.mm/",
     "launched": null,
     "closed": null
   },
@@ -244911,43 +245133,6 @@
     "tv_guide": null,
     "website": "http://www.nesiha.tv/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NESN.us",
-    "name": "NESN",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Fenway Sports Group",
-      "Delaware North"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Lv1bUG5.png",
-    "stream_url": "https://gpuserver3.tier1streams.com/NESN/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NESN.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "10996",
-      "site_name": "NESN",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://nesn.com/",
-    "launched": "1984-04-04",
     "closed": null
   },
   {
@@ -254672,6 +254857,40 @@
     "logo": "https://i.imgur.com/mmKWrWs.png",
     "stream_url": "http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Novoetelevidenie.kz",
+      "feed": "SD",
+      "site": "galamtv.kz",
+      "site_id": "559d224e78d7270195008a15",
+      "site_name": "Новое Телевидение",
+      "lang": "kk",
+      "sources": []
+    },
+    "website": "https://novoetv.kz/smotret-onlajn/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Novoetelevidenie.kz",
+    "name": "Novoe televidenie",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "KZ",
+    "country_name": "Kazakhstan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/mmKWrWs.png",
+    "stream_url": "https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -271404,6 +271623,44 @@
     "tv_guide": null,
     "website": "https://pboradio.com/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PBO.ph",
+    "name": "PBO",
+    "alt_names": [
+      "Pinoy Box Office"
+    ],
+    "network": null,
+    "owners": [
+      "Viva Communications"
+    ],
+    "country_code": "PH",
+    "country_name": "Philippines",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/HZURi7d.png",
+    "stream_url": "https://streams.comclark.com/pknsd/pbo/playlist.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PBO.ph",
+      "feed": "SD",
+      "site": "clickthecity.com",
+      "site_id": "142",
+      "site_name": "PBO",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://pbo.com.ph/",
+    "launched": "1996-05-06",
     "closed": null
   },
   {
@@ -303481,37 +303738,6 @@
     "closed": null
   },
   {
-    "id": "RacerNetwork.us",
-    "name": "Racer Network",
-    "alt_names": [
-      "MAVTV",
-      "Maverick Television"
-    ],
-    "network": null,
-    "owners": [
-      "Lucas Oil"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg",
-    "stream_url": "https://gpuserver3.tier1streams.com/MAV_TV/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.mavtv.com/platforms/",
-    "launched": "2004-10-01",
-    "closed": null
-  },
-  {
     "id": "RacerSelect.us",
     "name": "Racer Select",
     "alt_names": [
@@ -312658,9 +312884,9 @@
     "tv_guide": {
       "channel": "Record.br",
       "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "br#record",
-      "site_name": "Record TV",
+      "site": "teleboy.ch",
+      "site_id": "489",
+      "site_name": "RecordTV",
       "lang": "pt",
       "sources": []
     },
@@ -312696,9 +312922,9 @@
     "tv_guide": {
       "channel": "Record.br",
       "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "br#record",
-      "site_name": "Record TV",
+      "site": "teleboy.ch",
+      "site_id": "489",
+      "site_name": "RecordTV",
       "lang": "pt",
       "sources": []
     },
@@ -312734,9 +312960,9 @@
     "tv_guide": {
       "channel": "Record.br",
       "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "br#record",
-      "site_name": "Record TV",
+      "site": "teleboy.ch",
+      "site_id": "489",
+      "site_name": "RecordTV",
       "lang": "pt",
       "sources": []
     },
@@ -312772,9 +312998,9 @@
     "tv_guide": {
       "channel": "Record.br",
       "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "br#record",
-      "site_name": "Record TV",
+      "site": "teleboy.ch",
+      "site_id": "489",
+      "site_name": "RecordTV",
       "lang": "pt",
       "sources": []
     },
@@ -312810,9 +313036,9 @@
     "tv_guide": {
       "channel": "Record.br",
       "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "br#record",
-      "site_name": "Record TV",
+      "site": "teleboy.ch",
+      "site_id": "489",
+      "site_name": "RecordTV",
       "lang": "pt",
       "sources": []
     },
@@ -346077,30 +346303,6 @@
     "closed": null
   },
   {
-    "id": "SCTV1.vn",
-    "name": "SCTV1",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/UcMXcHF.png",
-    "stream_url": "https://javiptv.s.gy/iptv-m3u-sctv-vn",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.sctv.com.vn/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "SCTV2.vn",
     "name": "SCTV2",
     "alt_names": [],
@@ -355510,6 +355712,30 @@
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/smithsonian-channel-selects",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SMNI.ph",
+    "name": "SMNI",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PH",
+    "country_name": "Philippines",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9QhVnqY.jpg",
+    "stream_url": "https://stream.kdlc.click/hls/0/stream.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://smni.com/",
     "launched": null,
     "closed": null
   },
@@ -376101,6 +376327,40 @@
     "closed": null
   },
   {
+    "id": "TagalizedMovieChannel.ph",
+    "name": "Tagalized Movie Channel",
+    "alt_names": [],
+    "network": "Viva Television",
+    "owners": [
+      "Viva Communications MVP Entertainment"
+    ],
+    "country_code": "PH",
+    "country_name": "Philippines",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/jr9Qm2M.png",
+    "stream_url": "https://streams.comclark.com/pknsd/tmc/playlist.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TagalizedMovieChannel.ph",
+      "feed": "SD",
+      "site": "clickthecity.com",
+      "site_id": "178",
+      "site_name": "Tagalized Movie Channel",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.viva.com.ph/",
+    "launched": "2014-10-01",
+    "closed": null
+  },
+  {
     "id": "tagesschau24.de",
     "name": "tagesschau24",
     "alt_names": [],
@@ -383350,6 +383610,44 @@
     "closed": null
   },
   {
+    "id": "Telemundo.us",
+    "name": "Telemundo",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NBCUniversal Telemundo Enterprises",
+      "NBCUniversal",
+      "Comcast Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/Fk2SLRFB/IMG-2279.png",
+    "stream_url": "https://streamer.metronethn.com/Telemundo/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Telemundo.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "73245",
+      "site_name": "Telemundo East (National Feed)",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.telemundo.com/",
+    "launched": "1984-06-19",
+    "closed": null
+  },
+  {
     "id": "TelemundoAlDia.us",
     "name": "Telemundo Al Dia",
     "alt_names": [
@@ -387095,32 +387393,6 @@
     "closed": null
   },
   {
-    "id": "TelewizjaNarew.pl",
-    "name": "Telewizja Narew",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/RevNbUo.png",
-    "stream_url": "https://lowa8026-cmyk.github.io/PL/TVNAREW.php.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.narew.info/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TelewizjaRegionalnaZary.pl",
     "name": "Telewizja Regionalna Zary",
     "alt_names": [
@@ -390605,8 +390877,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/0F1c7x4.png",
-    "stream_url": "https://gpuserver3.tier1streams.com/THE_COWBOY_CHANNEL/index.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "http://40.160.24.56/THE_COWBOY_CHANNEL_SD/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -416154,40 +416426,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
-    "stream_url": "https://siarlive.psce.pw/channel5",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVEInternacionalEurope.es",
-      "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "639",
-      "site_name": "TVE Internacional",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.rtve.es/play/tve-internacional/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVEInternacionalEurope.es",
-    "name": "TVE Internacional Europe",
-    "alt_names": [],
-    "network": "TVE",
-    "owners": [
-      "RTVE"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
     "stream_url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -434692,6 +434930,30 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",
+    "stream_url": "https://streamer.metronethn.com/Univision/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://afiliados.televisa-networks.com/programacion/univision-latam/",
+    "launched": "2020-03-30",
+    "closed": null
+  },
+  {
+    "id": "UnivisionLatinAmerica.mx",
+    "name": "Univision Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",
     "stream_url": "http://15.204.246.24:8080/UnivisionHD/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -437618,38 +437880,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://varzeshtv.ir/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Vasantham.sg",
-    "name": "Vasantham",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "SG",
-    "country_name": "Singapore",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/vqVEcuT.png",
-    "stream_url": "https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Vasantham.sg",
-      "feed": "SD",
-      "site": "singtel.com",
-      "site_id": "5005",
-      "site_name": "Vasantham (HD)",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://tv.mewatch.sg/en/vasantham",
     "launched": null,
     "closed": null
   },
@@ -443251,6 +443481,42 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://vitrinatv.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VivaCinema.ph",
+    "name": "Viva Cinema",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Viva Communications"
+    ],
+    "country_code": "PH",
+    "country_name": "Philippines",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Bwcj1Oc.png",
+    "stream_url": "https://streams.comclark.com/pknsd/viva/playlist.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "VivaCinema.ph",
+      "feed": "SD",
+      "site": "clickthecity.com",
+      "site_id": "155",
+      "site_name": "VIVA Cinema",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.viva.com.ph/",
     "launched": null,
     "closed": null
   },
@@ -454906,7 +455172,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "WorldofFreesports.de",
+      "feed": "SD",
+      "site": "teleboy.ch",
+      "site_id": "595",
+      "site_name": "World of Freesports",
+      "lang": "de",
+      "sources": []
+    },
     "website": "https://www.worldoffreesports-tv.com/",
     "launched": null,
     "closed": null
@@ -454932,7 +455206,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "WorldofFreesports.de",
+      "feed": "SD",
+      "site": "teleboy.ch",
+      "site_id": "595",
+      "site_name": "World of Freesports",
+      "lang": "de",
+      "sources": []
+    },
     "website": "https://www.worldoffreesports-tv.com/",
     "launched": null,
     "closed": null

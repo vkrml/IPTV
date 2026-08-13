@@ -611,6 +611,44 @@
     "closed": null
   },
   {
+    "id": "PBO.ph",
+    "name": "PBO",
+    "alt_names": [
+      "Pinoy Box Office"
+    ],
+    "network": null,
+    "owners": [
+      "Viva Communications"
+    ],
+    "country_code": "PH",
+    "country_name": "Philippines",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/HZURi7d.png",
+    "stream_url": "https://streams.comclark.com/pknsd/pbo/playlist.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PBO.ph",
+      "feed": "SD",
+      "site": "clickthecity.com",
+      "site_id": "142",
+      "site_name": "PBO",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://pbo.com.ph/",
+    "launched": "1996-05-06",
+    "closed": null
+  },
+  {
     "id": "PremierSports2.ph",
     "name": "Premier Sports 2",
     "alt_names": [],
@@ -740,6 +778,64 @@
     "closed": null
   },
   {
+    "id": "SMNI.ph",
+    "name": "SMNI",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PH",
+    "country_name": "Philippines",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9QhVnqY.jpg",
+    "stream_url": "https://stream.kdlc.click/hls/0/stream.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://smni.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TagalizedMovieChannel.ph",
+    "name": "Tagalized Movie Channel",
+    "alt_names": [],
+    "network": "Viva Television",
+    "owners": [
+      "Viva Communications MVP Entertainment"
+    ],
+    "country_code": "PH",
+    "country_name": "Philippines",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/jr9Qm2M.png",
+    "stream_url": "https://streams.comclark.com/pknsd/tmc/playlist.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TagalizedMovieChannel.ph",
+      "feed": "SD",
+      "site": "clickthecity.com",
+      "site_id": "178",
+      "site_name": "Tagalized Movie Channel",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.viva.com.ph/",
+    "launched": "2014-10-01",
+    "closed": null
+  },
+  {
     "id": "TV5.ph",
     "name": "TV5",
     "alt_names": [],
@@ -770,6 +866,42 @@
       "sources": []
     },
     "website": "https://www.tv5.com.ph/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VivaCinema.ph",
+    "name": "Viva Cinema",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Viva Communications"
+    ],
+    "country_code": "PH",
+    "country_name": "Philippines",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Bwcj1Oc.png",
+    "stream_url": "https://streams.comclark.com/pknsd/viva/playlist.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "VivaCinema.ph",
+      "feed": "SD",
+      "site": "clickthecity.com",
+      "site_id": "155",
+      "site_name": "VIVA Cinema",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.viva.com.ph/",
     "launched": null,
     "closed": null
   }

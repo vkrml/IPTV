@@ -405,8 +405,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
-    "stream_url": "http://185.47.212.25:8080/24h_HD/index.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -424,11 +424,10 @@
     "closed": null
   },
   {
-    "id": "24Horas.es",
-    "name": "24 Horas",
+    "id": "24HorasCanarias.es",
+    "name": "24 Horas Canarias",
     "alt_names": [
-      "Canal 24 Horas",
-      "24h"
+      "Canal 24 Horas Canarias"
     ],
     "network": "TVE",
     "owners": [
@@ -445,21 +444,13 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
-    "stream_url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "http://185.47.212.25:8080/24h_HD/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "24Horas.es",
-      "feed": "SD",
-      "site": "tv24.se",
-      "site_id": "canal-24h",
-      "site_name": "Canal 24H",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "http://www.rtve.es/alacarta/tve/24-horas/",
+    "tv_guide": null,
+    "website": "https://www.rtve.es/play/videos/directo/tve-canarias/24-h-can/",
     "launched": "1997-09-15",
     "closed": null
   },
@@ -2881,34 +2872,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.congreso.es/en/home",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CordobaTV.es",
-    "name": "Cordoba TV",
-    "alt_names": [
-      "Córdoba TV"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/qVe0hET.png",
-    "stream_url": "https://cloudvideo.servers10.com:8081/8020/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.cordoba-tv.com/",
     "launched": null,
     "closed": null
   },
@@ -8836,40 +8799,6 @@
     "is_nsfw": false,
     "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
     "stream_url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVEInternacionalEurope.es",
-      "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "639",
-      "site_name": "TVE Internacional",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.rtve.es/play/tve-internacional/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVEInternacionalEurope.es",
-    "name": "TVE Internacional Europe",
-    "alt_names": [],
-    "network": "TVE",
-    "owners": [
-      "RTVE"
-    ],
-    "country_code": "ES",
-    "country_name": "Spain",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
-    "stream_url": "https://siarlive.psce.pw/channel5",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

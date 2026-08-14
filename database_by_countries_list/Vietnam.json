@@ -517,8 +517,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/tNKPSkO.png",
-    "stream_url": "http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8",
-    "stream_quality": "480p",
+    "stream_url": "https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -528,10 +528,10 @@
     "closed": null
   },
   {
-    "id": "DongNaiTV2.vn",
-    "name": "Dong Nai TV 2",
+    "id": "DongNaiTV3.vn",
+    "name": "Dong Nai TV 3",
     "alt_names": [
-      "Đồng Nai TV 2"
+      "Đồng Nai TV 3"
     ],
     "network": null,
     "owners": [
@@ -541,21 +541,18 @@
     "country_name": "Vietnam",
     "subdivision": null,
     "city": null,
-    "categories": [
-      "sports",
-      "entertainment"
-    ],
+    "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/tNKPSkO.png",
-    "stream_url": "https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8",
+    "logo": "https://i.imgur.com/6P39BiA.png",
+    "stream_url": "https://dethich.pw/dongnai3/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
     "website": "http://dnrtv.org.vn/",
-    "launched": "2003-01-26",
+    "launched": "2009-01-01",
     "closed": null
   },
   {
@@ -745,36 +742,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png",
     "stream_url": "https://freem3u.xyz/api/live/play.m3u8?vid=9",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://htv.com.vn/",
-    "launched": "2003-10-01",
-    "closed": null
-  },
-  {
-    "id": "HTVKey.vn",
-    "name": "HTV Key",
-    "alt_names": [
-      "HTV4"
-    ],
-    "network": null,
-    "owners": [
-      "Ho Chi Minh City Television Station"
-    ],
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "education"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png",
-    "stream_url": "https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8",
-    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -2126,6 +2093,32 @@
     "closed": null
   },
   {
+    "id": "VTV1.vn",
+    "name": "VTV1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/vZYlGIW.png",
+    "stream_url": "https://dethich.pw/vtv1/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://vtv.vn/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "VTV2.vn",
     "name": "VTV2",
     "alt_names": [],
@@ -2246,6 +2239,32 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/qWWpYRR.png",
     "stream_url": "https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv2-manifest.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://vtv.vn/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VTV2.vn",
+    "name": "VTV2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/qWWpYRR.png",
+    "stream_url": "https://dethich.pw/vtv2/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -2386,6 +2405,32 @@
     "closed": null
   },
   {
+    "id": "VTV3.vn",
+    "name": "VTV3",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4lJG1fu.png",
+    "stream_url": "https://dethich.pw/vtv3/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://vtv.vn/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "VTV4.vn",
     "name": "VTV4",
     "alt_names": [],
@@ -2506,6 +2551,32 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/WsLLmR2.png",
     "stream_url": "https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv4-manifest.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://vtv4.vtv.vn/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VTV4.vn",
+    "name": "VTV4",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/WsLLmR2.png",
+    "stream_url": "https://dethich.pw/vtv4/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -2637,6 +2708,32 @@
     "logo": "https://i.imgur.com/Vnnna1C.png",
     "stream_url": "https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://vtv.vn/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VTV5.vn",
+    "name": "VTV5",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Vnnna1C.png",
+    "stream_url": "https://dethich.pw/vtv5/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -2870,6 +2967,34 @@
     "closed": null
   },
   {
+    "id": "VTV6.vn",
+    "name": "VTV6",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png",
+    "stream_url": "https://dethich.pw/vtv6/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://vtv.vn/",
+    "launched": "2026-06-08",
+    "closed": null
+  },
+  {
     "id": "VTV7.vn",
     "name": "VTV7",
     "alt_names": [],
@@ -3000,6 +3125,32 @@
     "closed": null
   },
   {
+    "id": "VTV7.vn",
+    "name": "VTV7",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ZwoP823.png",
+    "stream_url": "https://dethich.pw/vtv7/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://vtv.vn/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "VTV8.vn",
     "name": "VTV8",
     "alt_names": [],
@@ -3094,6 +3245,32 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/rf9adGJ.png",
     "stream_url": "https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv8-manifest.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://vtv.vn/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VTV8.vn",
+    "name": "VTV8",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/rf9adGJ.png",
+    "stream_url": "https://dethich.pw/vtv8/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -3234,6 +3411,32 @@
     "closed": null
   },
   {
+    "id": "VTV9.vn",
+    "name": "VTV9",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/QiY55sy.png",
+    "stream_url": "https://dethich.pw/vtv9/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://vtv.vn/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "VTV10.vn",
     "name": "VTV10",
     "alt_names": [],
@@ -3303,6 +3506,32 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VTV10_logo_2026.png/960px-VTV10_logo_2026.png",
     "stream_url": "https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://vtv.vn/",
+    "launched": "2026-03-30",
+    "closed": null
+  },
+  {
+    "id": "VTV10.vn",
+    "name": "VTV10",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VTV10_logo_2026.png/960px-VTV10_logo_2026.png",
+    "stream_url": "https://dethich.pw/vtv10/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

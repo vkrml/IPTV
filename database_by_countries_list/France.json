@@ -2170,6 +2170,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png",
+    "stream_url": "https://streams.comclark.com/pknsd/euronews/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EuronewsEnglish.fr",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000117_019351",
+      "site_name": "Euronews",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.euronews.com/",
+    "launched": "1993-01-01",
+    "closed": null
+  },
+  {
+    "id": "EuronewsEnglish.fr",
+    "name": "Euronews English",
+    "alt_names": [],
+    "network": "Euronews",
+    "owners": [
+      "Euronews SA"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png",
     "stream_url": "https://jmp2.uk/plu-61de90a47365340007f77c27.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -4277,6 +4313,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://streams.comclark.com/pknsd/france_24/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "France24.fr",
+      "feed": "French",
+      "site": "zap.co.ao",
+      "site_id": "2132",
+      "site_name": "France 24 Fr",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "https://www.france24.com/",
+    "launched": "2006-12-06",
+    "closed": null
+  },
+  {
+    "id": "France24.fr",
+    "name": "France 24",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "France Medias Monde"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -5793,80 +5865,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/auNdGeW.png",
-    "stream_url": "https://live-3.otcnet.ru/Mezzo/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Mezzo.fr",
-      "feed": "SD",
-      "site": "ziggogo.tv",
-      "site_id": "NL_000130_019274",
-      "site_name": "Mezzo",
-      "lang": "nl",
-      "sources": []
-    },
-    "website": "https://www.mezzo.tv/",
-    "launched": "1998-03-21",
-    "closed": null
-  },
-  {
-    "id": "Mezzo.fr",
-    "name": "Mezzo",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Mezzo SA"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/auNdGeW.png",
-    "stream_url": "http://tmptv.sunduk.tv/CH97/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Mezzo.fr",
-      "feed": "SD",
-      "site": "ziggogo.tv",
-      "site_id": "NL_000130_019274",
-      "site_name": "Mezzo",
-      "lang": "nl",
-      "sources": []
-    },
-    "website": "https://www.mezzo.tv/",
-    "launched": "1998-03-21",
-    "closed": null
-  },
-  {
-    "id": "Mezzo.fr",
-    "name": "Mezzo",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Mezzo SA"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/auNdGeW.png",
-    "stream_url": "https://aes.m3u8simplu.workers.dev/mezzo/index.m3u8",
-    "stream_quality": "576p",
+    "stream_url": "http://158.101.222.193:88/georgia_play.php?id=mezzo",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     "referrer": null,
@@ -9981,6 +9981,40 @@
     "stream_format": null,
     "user_agent": "Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36",
     "referrer": "https://www.dens.tv/",
+    "tv_guide": {
+      "channel": "TV5MondeAsia.fr",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000163",
+      "site_name": "TV5Monde",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://apac.tv5monde.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TV5MondeAsia.fr",
+    "name": "TV5Monde Asia",
+    "alt_names": [
+      "TV5Monde Asie"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/FRsRXRR.png",
+    "stream_url": "https://streams.comclark.com/pknsd/tv5monde/playlist.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
     "tv_guide": {
       "channel": "TV5MondeAsia.fr",
       "feed": "SD",

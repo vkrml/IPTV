@@ -654,6 +654,44 @@
     "closed": null
   },
   {
+    "id": "CCTV4Asia.cn",
+    "name": "CCTV-4 Asia",
+    "alt_names": [
+      "CCTV-4 中文国际亚洲"
+    ],
+    "network": null,
+    "owners": [
+      "China Central Television"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/tWt4Wou.png",
+    "stream_url": "https://streams.comclark.com/pknsd/cctv_4/playlist.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CCTV4Asia.cn",
+      "feed": "SD",
+      "site": "wavve.com",
+      "site_id": "K12",
+      "site_name": "CCTV4",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://tv.cctv.com/cctv4asia/",
+    "launched": "2015-04-15",
+    "closed": null
+  },
+  {
     "id": "CCTV4Europe.cn",
     "name": "CCTV-4 Europe",
     "alt_names": [
@@ -2300,6 +2338,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png",
+    "stream_url": "https://streams.comclark.com/pknsd/cgtn/playlist.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CGTN.cn",
+      "feed": "SD",
+      "site": "webtv.delta.nl",
+      "site_id": "3125",
+      "site_name": "CGTN",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.cgtn.com/tv",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CGTN.cn",
+    "name": "CGTN",
+    "alt_names": [],
+    "network": "China Global Television Network",
+    "owners": [
+      "China Media Group"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png",
     "stream_url": "https://dash4.antik.sk/live/test_cgtn/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -2596,6 +2670,42 @@
     "logo": "https://i.imgur.com/JHv0WxM.png",
     "stream_url": "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CGTNDocumentary.cn",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000155",
+      "site_name": "CGTN Documentary",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://www.cgtn.com/channel/documentary",
+    "launched": "2011-01-01",
+    "closed": null
+  },
+  {
+    "id": "CGTNDocumentary.cn",
+    "name": "CGTN Documentary",
+    "alt_names": [],
+    "network": "China Global Television Network",
+    "owners": [
+      "China Media Group"
+    ],
+    "country_code": "CN",
+    "country_name": "China",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/JHv0WxM.png",
+    "stream_url": "https://streams.comclark.com/pknsd/cgtn_documentary/playlist.m3u8",
+    "stream_quality": "480p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -9357,34 +9467,6 @@
     "logo": "https://www.tvchinese.net/uploads/tv/yunnantv.jpg",
     "stream_url": "http://223.110.245.173/PLTV/4/224/3221225838/index.m3u8",
     "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.yntv.cn/live.html",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "YunnanSatelliteTV.cn",
-    "name": "Yunnan Satellite TV",
-    "alt_names": [
-      "云南卫视"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "CN",
-    "country_name": "China",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.tvchinese.net/uploads/tv/yunnantv.jpg",
-    "stream_url": "http://112.25.48.68/live/program/live/ynws/1300000/mnf.m3u8",
-    "stream_quality": "540p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

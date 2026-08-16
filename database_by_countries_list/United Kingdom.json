@@ -6062,7 +6062,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "BBCThreeCBBC.uk",
+      "feed": "HD",
+      "site": "tv.blue.ch",
+      "site_id": "85",
+      "site_name": "BBC Three / CBBC",
+      "lang": "en",
+      "sources": []
+    },
     "website": "http://www.bbc.co.uk/",
     "launched": "2022-02-01",
     "closed": null
@@ -7608,6 +7616,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://dunyanews.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "EDGEsport.uk",
+    "name": "EDGEsport",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "IMG Media Ltd."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/bgQ6kz7.png",
+    "stream_url": "https://streams.comclark.com/pknsd/edgesports/playlist.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.edgesport.com/",
     "launched": null,
     "closed": null
   },

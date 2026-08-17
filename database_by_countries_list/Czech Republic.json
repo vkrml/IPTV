@@ -453,6 +453,42 @@
     "closed": null
   },
   {
+    "id": "DisneyJunior.cz",
+    "name": "Disney Junior",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "The Walt Disney Company"
+    ],
+    "country_code": "CZ",
+    "country_name": "Czech Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+    "stream_url": "http://88.212.15.19/live/test_disney_junior/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyJunior.cz",
+      "feed": "SD",
+      "site": "mujtvprogram.cz",
+      "site_id": "355",
+      "site_name": "Disney Junior",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.disney.cz/disney-junior",
+    "launched": "2009-09-19",
+    "closed": null
+  },
+  {
     "id": "ElektrikaTV.cz",
     "name": "Elektrika TV",
     "alt_names": [],
@@ -866,6 +902,74 @@
     "closed": null
   },
   {
+    "id": "NationalGeographic.cz",
+    "name": "National Geographic",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CZ",
+    "country_name": "Czech Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "stream_url": "http://88.212.15.19/live/test_ngc/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalGeographic.cz",
+      "feed": "SD",
+      "site": "mujtvprogram.cz",
+      "site_id": "21",
+      "site_name": "National Geographic",
+      "lang": "cs",
+      "sources": []
+    },
+    "website": "http://www.natgeotv.com/cz",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NationalGeographicWild.cz",
+    "name": "National Geographic Wild",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CZ",
+    "country_name": "Czech Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "stream_url": "http://88.212.15.29/live/test_ngw/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalGeographicWild.cz",
+      "feed": "SD",
+      "site": "mujtvprogram.cz",
+      "site_id": "82",
+      "site_name": "National Geographic Wild",
+      "lang": "cs",
+      "sources": []
+    },
+    "website": "http://natgeotv.com/cz/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Nickelodeon.cz",
     "name": "Nickelodeon",
     "alt_names": [],
@@ -899,6 +1003,40 @@
     },
     "website": "http://www.nickelodeon.cz/",
     "launched": "1998-11-15",
+    "closed": null
+  },
+  {
+    "id": "NickJr.cz",
+    "name": "Nick Jr.",
+    "alt_names": [],
+    "network": "Nickelodeon",
+    "owners": [],
+    "country_code": "CZ",
+    "country_name": "Czech Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KT4tdQs.png",
+    "stream_url": "http://88.212.15.19/live/test_nick_jr/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NickJr.cz",
+      "feed": "SD",
+      "site": "mujtvprogram.cz",
+      "site_id": "622",
+      "site_name": "Nick Jr. Czech",
+      "lang": "cs",
+      "sources": []
+    },
+    "website": "http://www.nickelodeon.cz/",
+    "launched": null,
     "closed": null
   },
   {
@@ -2010,6 +2148,43 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.tvnoe.cz/live-noeplus",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVPaprika.cz",
+    "name": "TV Paprika",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "AMC Networks Inc."
+    ],
+    "country_code": "CZ",
+    "country_name": "Czech Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle",
+      "travel"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NSabYyT.png",
+    "stream_url": "http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVPaprika.cz",
+      "feed": "SD",
+      "site": "mujtvprogram.cz",
+      "site_id": "29",
+      "site_name": "TV Paprika",
+      "lang": "cs",
+      "sources": []
+    },
+    "website": "http://www.tvpaprika.cz/",
     "launched": null,
     "closed": null
   },

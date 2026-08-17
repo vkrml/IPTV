@@ -382,6 +382,44 @@
     "closed": null
   },
   {
+    "id": "i24NEWSArabic.il",
+    "name": "i24NEWS Arabic",
+    "alt_names": [
+      "i24NEWS عربى"
+    ],
+    "network": null,
+    "owners": [
+      "Israel Television News Company"
+    ],
+    "country_code": "IL",
+    "country_name": "Israel",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+    "stream_url": "https://hlspackager.akamaized.net/live/DB/i24_ARABIC/HLS/i24_ARABIC.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "i24NEWSArabic.il",
+      "feed": "SD",
+      "site": "sat.tv",
+      "site_id": "1#33#I24 News Arabic",
+      "site_name": "I24 News Arabic",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.i24news.tv/ar/",
+    "launched": "2013-07-17",
+    "closed": null
+  },
+  {
     "id": "i24NEWSEnglishWorld.il",
     "name": "i24NEWS English World",
     "alt_names": [],
@@ -400,6 +438,42 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
     "stream_url": "https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "i24NEWSEnglishWorld.il",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "208",
+      "site_name": "i24 News",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.i24news.tv/en/",
+    "launched": "2013-07-17",
+    "closed": null
+  },
+  {
+    "id": "i24NEWSEnglishWorld.il",
+    "name": "i24NEWS English World",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Israel Television News Company"
+    ],
+    "country_code": "IL",
+    "country_name": "Israel",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+    "stream_url": "https://hlspackager.akamaized.net/live/DB/i24_ENGLISH/HLS/i24_ENGLISH.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

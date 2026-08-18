@@ -2254,6 +2254,44 @@
     "closed": null
   },
   {
+    "id": "ACCNetwork.us",
+    "name": "ACC Network",
+    "alt_names": [
+      "ACCN"
+    ],
+    "network": null,
+    "owners": [
+      "ESPN Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TpCkbkT.png",
+    "stream_url": "http://23.239.31.26:8989/accnetwork/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ACCNetwork.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "111871",
+      "site_name": "ACC Network",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://getaccn.com/",
+    "launched": "2019-08-22",
+    "closed": null
+  },
+  {
     "id": "AccuWeatherNOW.us",
     "name": "AccuWeather NOW",
     "alt_names": [],
@@ -7855,6 +7893,42 @@
     "logo": "https://i.imgur.com/WxLHBwu.png",
     "stream_url": "https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BabyFirst.us",
+      "feed": "US",
+      "site": "tvtv.us",
+      "site_id": "50338",
+      "site_name": "BabyFirst TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.babyfirsttv.com/",
+    "launched": "2006-05-11",
+    "closed": null
+  },
+  {
+    "id": "BabyFirst.us",
+    "name": "BabyFirst",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "First Media"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/WxLHBwu.png",
+    "stream_url": "http://181.78.106.127:5000/play/a0sa/index.m3u8",
+    "stream_quality": "480p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -25241,6 +25315,32 @@
     "closed": null
   },
   {
+    "id": "ElevationChurchNetwork.us",
+    "name": "Elevation Church Network",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/VosP75g.png",
+    "stream_url": "https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.elevationchurch.org/network",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ElRey.us",
     "name": "El Rey",
     "alt_names": [],
@@ -30155,6 +30255,40 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/qFNRJLb.png",
+    "stream_url": "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FuboSportsNetwork.us",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "5fc705f68aba71002d8b7b37",
+      "site_name": "Fubo Sports Network",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.fubo.tv/news/uncategorized/contact-us/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FuboSportsNetwork.us",
+    "name": "Fubo Sports Network",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/qFNRJLb.png",
     "stream_url": "https://dnf08l6u6uxnz.cloudfront.net/master.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -30388,43 +30522,6 @@
     "logo": "https://i.ibb.co/35wTxjfF/IMG-2451.png",
     "stream_url": "http://23.237.104.106:8080/USA_FX/index.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FX.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "14753",
-      "site_name": "FX West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.fxnetworks.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "FX.us",
-    "name": "FX",
-    "alt_names": [],
-    "network": "FX Channels",
-    "owners": [
-      "FX Networks LLC",
-      "The Walt Disney Company"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/35wTxjfF/IMG-2451.png",
-    "stream_url": "http://40.160.24.56/FX_SD/index.m3u8",
-    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -37405,6 +37502,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://plus.qvc.com/channels/in-the-kitchen",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "InTouchPlus.us",
+    "name": "InTouch+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "In Touch Ministries"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://d2cc5gnf1jy2pj.cloudfront.net/custom_landing_pages/intouchplus/intouchplus_logo.svg",
+    "stream_url": "https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.intouch.org/plus",
     "launched": null,
     "closed": null
   },
@@ -54711,42 +54836,6 @@
     },
     "website": "https://www.newsnationnow.com/",
     "launched": "2021-03-01",
-    "closed": null
-  },
-  {
-    "id": "NewsNet.us",
-    "name": "NewsNet",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Bridge Media Networks"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png",
-    "stream_url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NewsNet.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "92205",
-      "site_name": "Newsnet",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.newsnetmedia.com/",
-    "launched": "2019-01-01",
     "closed": null
   },
   {
@@ -78760,7 +78849,45 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.ibb.co/Fk2SLRFB/IMG-2279.png",
-    "stream_url": "https://streamer.metronethn.com/Telemundo/index.m3u8",
+    "stream_url": "http://168.228.44.241:9997/play/a07g/index.m3u8",
+    "stream_quality": "2160p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Telemundo.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "73245",
+      "site_name": "Telemundo East (National Feed)",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.telemundo.com/",
+    "launched": "1984-06-19",
+    "closed": null
+  },
+  {
+    "id": "Telemundo.us",
+    "name": "Telemundo",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NBCUniversal Telemundo Enterprises",
+      "NBCUniversal",
+      "Comcast Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/Fk2SLRFB/IMG-2279.png",
+    "stream_url": "http://190.124.20.69/Telemundo/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -78798,8 +78925,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.ibb.co/Fk2SLRFB/IMG-2279.png",
-    "stream_url": "http://168.228.44.241:9997/play/a07g/index.m3u8",
-    "stream_quality": "2160p",
+    "stream_url": "https://streamer.metronethn.com/Telemundo/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

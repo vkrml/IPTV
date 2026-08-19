@@ -13818,6 +13818,46 @@
     "closed": null
   },
   {
+    "id": "SkyMix.uk",
+    "name": "Sky Mix",
+    "alt_names": [
+      "Pick",
+      "Pick TV",
+      "Sky 3",
+      "Sky3",
+      "Sky Three"
+    ],
+    "network": null,
+    "owners": [
+      "Sky Group"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/hHEz5rq.png",
+    "stream_url": "http://188.138.29.131/skymix/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SkyMix.uk",
+      "feed": "HD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "1384",
+      "site_name": "Sky Mix HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sky.com/watch/channel/pick",
+    "launched": "2005-10-31",
+    "closed": null
+  },
+  {
     "id": "SkyNature.uk",
     "name": "Sky Nature",
     "alt_names": [],
@@ -13956,6 +13996,42 @@
     "closed": null
   },
   {
+    "id": "SkySportsF1.uk",
+    "name": "Sky Sports F1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sky Group"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png",
+    "stream_url": "http://188.138.29.131/skysportsf1/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SkySportsF1.uk",
+      "feed": "HD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "1771",
+      "site_name": "Sky Sports Darts HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.skysports.com/f1",
+    "launched": "2012-03-09",
+    "closed": null
+  },
+  {
     "id": "SkySportsGolf.uk",
     "name": "Sky Sports Golf",
     "alt_names": [],
@@ -13971,8 +14047,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png",
-    "stream_url": "https://xemzi.short.gy/2000009",
-    "stream_quality": "1080p",
+    "stream_url": "http://188.138.29.131/skygolf/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

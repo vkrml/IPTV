@@ -112,8 +112,36 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/IecOZHR.png",
+    "stream_url": "https://streams.comclark.com/pknsd/3abn/playlist.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://3abnplus.tv/programs/live-d6m99by540u?categoryId=48342",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "3ABNInternational.us",
+    "name": "3ABN International",
+    "alt_names": [],
+    "network": "3ABN",
+    "owners": [
+      "Danny and Linda Shelton"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/IecOZHR.png",
     "stream_url": "https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8",
-    "stream_quality": null,
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -25549,6 +25577,42 @@
     },
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ESPNDeportes.us",
+    "name": "ESPN Deportes",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "ESPN Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png",
+    "stream_url": "http://168.228.44.241:9998/play/a0dz/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ESPNDeportes.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "25595",
+      "site_name": "ESPN Deportes",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://espndeportes.espn.com/",
+    "launched": "2001-07-01",
     "closed": null
   },
   {
@@ -73612,6 +73676,34 @@
     "closed": null
   },
   {
+    "id": "SPremium.us",
+    "name": "S Premium!",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "S Plus Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/Mp1TTWq0/In-Shot-20260818-135217619.png",
+    "stream_url": "https://vodcdn.bamboo-cloud.com/livehls/68d0876e06304461862415b2/master.m3u8",
+    "stream_quality": "360p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://sites.google.com/view/splusgroup",
+    "launched": "2026-08-18",
+    "closed": null
+  },
+  {
     "id": "SPTV.us",
     "name": "SPTV",
     "alt_names": [],
@@ -74229,6 +74321,76 @@
     "closed": null
   },
   {
+    "id": "StarzEdge.us",
+    "name": "Starz Edge",
+    "alt_names": [],
+    "network": "STARZ",
+    "owners": [
+      "Starz Entertainment Corp."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/MvH3Cz2.png",
+    "stream_url": "http://168.228.44.241:9998/play/a0e0/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarzEdge.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "17129",
+      "site_name": "Starz Edge West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.starz.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "StarzEncoreSpanish.us",
+    "name": "Starz Encore Spanish",
+    "alt_names": [
+      "Starz Encore Español"
+    ],
+    "network": "STARZ Encore",
+    "owners": [
+      "Starz Entertainment Corp."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5aibRWY.png",
+    "stream_url": "http://168.228.44.241:9998/play/a0e1/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarzEncoreSpanish.us",
+      "feed": "East",
+      "site": "ontvtonight.com",
+      "site_id": "us#69040329/starz-encore-espanol",
+      "site_name": "STARZ ENCORE Español",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.starz.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "StarzKidsFamily.us",
     "name": "Starz Kids & Family",
     "alt_names": [],
@@ -74350,6 +74512,34 @@
     "tv_guide": null,
     "website": "http://ww1.stocktonca.gov/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "STomSings.us",
+    "name": "S Tom Sings",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "S Plus Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/5tfB3Ktv/In-Shot-20260818-133542271.png",
+    "stream_url": "https://vodcdn.bamboo-cloud.com/livehls/6a8408ae0630440c2f39aec3/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://sites.google.com/view/splusgroup",
+    "launched": "2026-08-18",
     "closed": null
   },
   {

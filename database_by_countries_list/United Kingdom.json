@@ -194,6 +194,32 @@
     "closed": null
   },
   {
+    "id": "AlbUKTV.uk",
+    "name": "Alb UK TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TMg4Kxi.png",
+    "stream_url": "http://5.254.89.106/8794/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://albuk.tv/",
+    "launched": "2017-01-01",
+    "closed": null
+  },
+  {
     "id": "AlHiwarTV.uk",
     "name": "Al Hiwar TV",
     "alt_names": [
@@ -1917,6 +1943,42 @@
     "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
     "stream_url": "http://138.121.15.230:9002/BBC-NEWS/index.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BBCNews.uk",
+      "feed": "Africa",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000116_019005",
+      "site_name": "BBC News",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.bbc.co.uk/tv/bbcnews",
+    "launched": "1997-11-09",
+    "closed": null
+  },
+  {
+    "id": "BBCNews.uk",
+    "name": "BBC News",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BBC Studios"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://tvsen1.aynaott.com/shn6jGTk/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -9998,6 +10060,40 @@
     "closed": null
   },
   {
+    "id": "IqraBangla.uk",
+    "name": "Iqra Bangla",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/BZBZAeC.png",
+    "stream_url": "https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "IqraBangla.uk",
+      "feed": "SD",
+      "site": "sky.com",
+      "site_id": "GB#3914",
+      "site_name": "IQRA Bangla",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://iqra.tv/iqra-bangla/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "IqraTV.uk",
     "name": "Iqra TV",
     "alt_names": [],
@@ -11787,6 +11883,42 @@
     },
     "website": "https://mytimemovienetwork.com/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Nickelodeon.uk",
+    "name": "Nickelodeon",
+    "alt_names": [],
+    "network": "Nickelodeon",
+    "owners": [
+      "Nickelodeon UK Ltd"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "stream_url": "https://sra72yz.s.gy/NICKELODEON_UK_PLUS_1.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Nickelodeon.uk",
+      "feed": "HD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "1734",
+      "site_name": "Nick HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.nick.co.uk/",
+    "launched": "1993-09-01",
     "closed": null
   },
   {
@@ -13713,6 +13845,38 @@
     "tv_guide": null,
     "website": "https://safeertv.com/live/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SangatTV.uk",
+    "name": "Sangat TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c3/Sangat_TV_logo.png",
+    "stream_url": "https://mumt06.tangotv.in/qYyB8fXVSANGATTV/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SangatTV.uk",
+      "feed": "SD",
+      "site": "sky.com",
+      "site_id": "GB#3355",
+      "site_name": "Sangat",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://sangattelevision.org/",
+    "launched": "2010-09-01",
     "closed": null
   },
   {

@@ -617,45 +617,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Asu5pE9.png",
-    "stream_url": "https://streams.comclark.com/pknsd/arirang/playlist.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ArirangTV.kr",
-      "feed": "HD",
-      "site": "vodafone.pt",
-      "site_id": "3019",
-      "site_name": "Arirang TV",
-      "lang": "pt",
-      "sources": []
-    },
-    "website": "https://www.arirang.com/",
-    "launched": "1997-02-03",
-    "closed": null
-  },
-  {
-    "id": "ArirangTV.kr",
-    "name": "Arirang TV",
-    "alt_names": [
-      "아리랑 국제방송"
-    ],
-    "network": null,
-    "owners": [
-      "Korea International Broadcasting Foundation"
-    ],
-    "country_code": "KR",
-    "country_name": "South Korea",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news",
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Asu5pE9.png",
     "stream_url": "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -2120,6 +2081,44 @@
     },
     "website": "https://www.hmall.com/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "KBSJoy.kr",
+    "name": "KBS Joy",
+    "alt_names": [
+      "KBS 조이"
+    ],
+    "network": null,
+    "owners": [
+      "Korean Broadcasting System"
+    ],
+    "country_code": "KR",
+    "country_name": "South Korea",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/960px-KBS_JOY.svg.png",
+    "stream_url": "https://xykt-fix.github.io/flv/KJ_W.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "KBSJoy.kr",
+      "feed": "SD",
+      "site": "wavve.com",
+      "site_id": "K04",
+      "site_name": "KBS JOY",
+      "lang": "ko",
+      "sources": []
+    },
+    "website": "http://www.kbsn.co.kr/",
+    "launched": "2006-11-01",
     "closed": null
   },
   {

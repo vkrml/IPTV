@@ -579,6 +579,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/4BDJ5FT.png",
+    "stream_url": "https://cdn1tlinkgo.tlink.cl/babytv/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BabyTV.uk",
+      "feed": "UK",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000091_019490",
+      "site_name": "BabyTV",
+      "lang": "nl",
+      "sources": []
+    },
+    "website": "http://www.babytv.com/",
+    "launched": "2005-07-04",
+    "closed": null
+  },
+  {
+    "id": "BabyTV.uk",
+    "name": "BabyTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "The Walt Disney Company Limited"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4BDJ5FT.png",
     "stream_url": "https://saran-live.ercdn.net/babytv/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -7734,34 +7770,6 @@
     "closed": null
   },
   {
-    "id": "EDGEsport.uk",
-    "name": "EDGEsport",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "IMG Media Ltd."
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/bgQ6kz7.png",
-    "stream_url": "https://streams.comclark.com/pknsd/edgesports/playlist.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.edgesport.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "EmanChannel.uk",
     "name": "Eman Channel",
     "alt_names": [],
@@ -7950,6 +7958,40 @@
     "website": "https://epicdrama.eu/",
     "launched": null,
     "closed": "2026-05-20"
+  },
+  {
+    "id": "Eurochannel.uk",
+    "name": "Eurochannel",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/yXAtmI6.png",
+    "stream_url": "https://cdn1tlinkgo.tlink.cl/eurochannel/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Eurochannel.uk",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "al/programacioni#eurochannel",
+      "site_name": "Eurochannel",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "http://www.eurochannel.com/",
+    "launched": "1994-01-01",
+    "closed": null
   },
   {
     "id": "FaithWorldTV.uk",

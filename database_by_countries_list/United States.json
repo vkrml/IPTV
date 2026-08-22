@@ -112,34 +112,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/IecOZHR.png",
-    "stream_url": "https://streams.comclark.com/pknsd/3abn/playlist.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://3abnplus.tv/programs/live-d6m99by540u?categoryId=48342",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "3ABNInternational.us",
-    "name": "3ABN International",
-    "alt_names": [],
-    "network": "3ABN",
-    "owners": [
-      "Danny and Linda Shelton"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/IecOZHR.png",
     "stream_url": "https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -4507,6 +4479,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+    "stream_url": "https://cdn1tlinkgo.tlink.cl/amchd/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AMCLatinAmerica.us",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "532",
+      "site_name": "AMC",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.amctv.la/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AMCLatinAmerica.us",
+    "name": "AMC Latin America",
+    "alt_names": [],
+    "network": "AMC",
+    "owners": [
+      "AMC Global Media"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
     "stream_url": "http://45.171.108.253:8888/AMC/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -7378,6 +7386,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "stream_url": "https://cdn1tlinkgo.tlink.cl/axnhd/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXNLatinAmerica.us",
+      "feed": "Andes",
+      "site": "siba.com.co",
+      "site_id": "384",
+      "site_name": "AXN",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://la.axn.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AXNLatinAmerica.us",
+    "name": "AXN Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sony Pictures Television"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "stream_url": "http://190.11.225.124:5000/live/axn_hd/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -8439,6 +8483,58 @@
     "closed": null
   },
   {
+    "id": "BATVEducationalChannel.us",
+    "name": "BATV Educational Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/eDoJqtg.png",
+    "stream_url": "https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.batvinc.org/educationallivestream.html",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BATVGovernmentChannel.us",
+    "name": "BATV Government Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "legislative"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4MdSstx.png",
+    "stream_url": "https://livestream.telvue.com/billerica3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.batvinc.org/governmentlivestream.html",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BATVGovernmentTV.us",
     "name": "BATV Government TV",
     "alt_names": [],
@@ -8461,6 +8557,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://reflect-batv.cablecast.tv/CablecastPublicSite/watch/3?channel=3",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BATVPublicChannel.us",
+    "name": "BATV Public Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/zKQMDsu.png",
+    "stream_url": "https://livestream.telvue.com/billerica1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.batvinc.org/publiclivestream.html",
     "launched": null,
     "closed": null
   },
@@ -9543,6 +9665,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.bctv.org/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BestofBATVChannel.us",
+    "name": "Best of BATV Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TUMiKCX.png",
+    "stream_url": "https://livestream.telvue.com/billerica4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.batvinc.org/governmentlivestream-185062.html",
     "launched": null,
     "closed": null
   },
@@ -16382,6 +16530,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
+    "stream_url": "https://cdn1tlinkgo.tlink.cl/cinecanalhd/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Cinecanal.us",
+      "feed": "Pacific",
+      "site": "siba.com.co",
+      "site_id": "407",
+      "site_name": "CINECANAL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://foxplay.com/ar/brandingchannel/98d445b15e5f4d3ab92fdc1e84bbc45e",
+    "launched": "1993-04-01",
+    "closed": null
+  },
+  {
+    "id": "Cinecanal.us",
+    "name": "Cinecanal",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "The Walt Disney Company Latin America"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
     "stream_url": "http://45.162.193.35/CINECANAL/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -22594,6 +22778,40 @@
     "closed": null
   },
   {
+    "id": "DHE.us",
+    "name": "DHE",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nsttoEa.png",
+    "stream_url": "https://cdn1tlinkgo.tlink.cl/dhehd/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DHE.us",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#dhe",
+      "site_name": "DHE",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.canaldhe.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "DidgahTV.us",
     "name": "Didgah TV",
     "alt_names": [],
@@ -26748,42 +26966,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/sua70RO.png",
-    "stream_url": "https://streams.comclark.com/pknsd/ewtn/playlist.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "EWTN.us",
-      "feed": "AsiaPacific",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000154",
-      "site_name": "EWTN",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://www.ewtn.com/tv/",
-    "launched": "1981-08-15",
-    "closed": null
-  },
-  {
-    "id": "EWTN.us",
-    "name": "EWTN",
-    "alt_names": [],
-    "network": "EWTN",
-    "owners": [
-      "Eternal Word Television Network"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/sua70RO.png",
     "stream_url": "https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -28512,32 +28694,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/nRiApdI.png",
-    "stream_url": "https://streams.comclark.com/pknsd/filamtv/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://filamtv.us",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "FilAmTVNetwork.us",
-    "name": "FilAmTV Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/nRiApdI.png",
     "stream_url": "https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -28902,6 +29058,58 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://flowerstv.us/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FMHKids.us",
+    "name": "FMH Kids",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_480_270.png",
+    "stream_url": "https://cdn1tlinkgo.tlink.cl/fmhkidshd/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FMHMovies.us",
+    "name": "FMH Movies",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/24/23/1735058961578/eaf883fb926d_480_270.png",
+    "stream_url": "https://cdn1tlinkgo.tlink.cl/fmhmovies/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -29304,6 +29512,44 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png",
     "stream_url": "https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8",
     "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FoxBusinessNetwork.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "58649",
+      "site_name": "Fox Business",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.foxbusiness.com/",
+    "launched": "2007-10-15",
+    "closed": null
+  },
+  {
+    "id": "FoxBusinessNetwork.us",
+    "name": "Fox Business Network",
+    "alt_names": [
+      "Fox Business"
+    ],
+    "network": null,
+    "owners": [
+      "Fox Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "business"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png",
+    "stream_url": "http://5.254.89.106/6187/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -30761,6 +31007,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+    "stream_url": "https://cdn1tlinkgo.tlink.cl/fxhd/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FXLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "mi.tv",
+      "site_id": "co#fx-hd",
+      "site_name": "FX HD",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.canalfx.tv/",
+    "launched": "2005-05-01",
+    "closed": null
+  },
+  {
+    "id": "FXLatinAmerica.us",
+    "name": "FX Latin America",
+    "alt_names": [],
+    "network": "FX Channels",
+    "owners": [
+      "The Walt Disney Company Latin America"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
     "stream_url": "http://72.1.184.5:8089/play/a05i/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -30836,6 +31118,43 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/960px-FX_Movies_logo.svg.png",
     "stream_url": "https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FXMovieChannel.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "70253",
+      "site_name": "FX Movie Channel",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.fxnetworks.com/fxm",
+    "launched": "1994-10-31",
+    "closed": null
+  },
+  {
+    "id": "FXMovieChannel.us",
+    "name": "FX Movie Channel",
+    "alt_names": [],
+    "network": "FX Channels",
+    "owners": [
+      "FX Networks LLC",
+      "The Walt Disney Company"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/960px-FX_Movies_logo.svg.png",
+    "stream_url": "http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1106/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -34604,6 +34923,42 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
     "stream_url": "http://190.93.224.42/HISTORY-2/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "History2LatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "894",
+      "site_name": "H2",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.historyplay.tv/history-2",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "History2LatinAmerica.us",
+    "name": "History 2 Latin America",
+    "alt_names": [
+      "History 2 Brasil"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
+    "stream_url": "https://cdn1tlinkgo.tlink.cl/history2hd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -44315,6 +44670,42 @@
     "closed": null
   },
   {
+    "id": "LifetimeLatinAmerica.us",
+    "name": "Lifetime Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "A&E Networks"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+    "stream_url": "https://cdn1tlinkgo.tlink.cl/lifetime/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "LifetimeLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "893",
+      "site_name": "LIFETIME",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.historyplay.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "LifetimeMovies.us",
     "name": "Lifetime Movies",
     "alt_names": [
@@ -51689,6 +52080,43 @@
     "closed": null
   },
   {
+    "id": "NationalGeographicLatinAmerica.us",
+    "name": "National Geographic Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "National Geographic Partners LLC.",
+      "The Walt Disney Company"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "stream_url": "https://cdn1tlinkgo.tlink.cl/natgeohd/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalGeographicLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "550",
+      "site_name": "NATIONAL GEOGRAPHIC",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.nationalgeographicla.com/",
+    "launched": "2001-01-07",
+    "closed": null
+  },
+  {
     "id": "NationalGeographicWild.us",
     "name": "National Geographic Wild",
     "alt_names": [],
@@ -56447,6 +56875,42 @@
     "closed": null
   },
   {
+    "id": "NTDTV.us",
+    "name": "NTD TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Epoch Media Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/QtFM5Oo.png",
+    "stream_url": "https://ntd02.akamaized.net/HD-LA/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NTDTV.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "11253",
+      "site_name": "NTD TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.ntdtv.com/",
+    "launched": "2001-12-03",
+    "closed": null
+  },
+  {
     "id": "NTDTVAsiaPacific.us",
     "name": "NTD TV Asia-Pacific",
     "alt_names": [],
@@ -58905,6 +59369,42 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/VGnbWjO.png",
     "stream_url": "http://190.93.224.42/PASIONES/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PasionesLatinAmerica.us",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch5701",
+      "site_name": "Pasiones HD",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://latam.tvpasiones.com/",
+    "launched": "2008-07-01",
+    "closed": null
+  },
+  {
+    "id": "PasionesLatinAmerica.us",
+    "name": "Pasiones Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Hemisphere Media Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/VGnbWjO.png",
+    "stream_url": "https://cdn1tlinkgo.tlink.cl/pasioneshd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -73189,6 +73689,38 @@
     "closed": null
   },
   {
+    "id": "SonyChannelAndes.us",
+    "name": "Sony Channel Andes",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",
+    "stream_url": "https://cdn1tlinkgo.tlink.cl/sonyhd/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyChannelAndes.us",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "571",
+      "site_name": "SONY",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://la.sonychannel.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SonyKALHindi.us",
     "name": "Sony KAL Hindi",
     "alt_names": [],
@@ -74561,6 +75093,41 @@
     "closed": null
   },
   {
+    "id": "StarChannelLatinAmerica.us",
+    "name": "Star Channel Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "stream_url": "https://cdn1tlinkgo.tlink.cl/starchannelhd/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarChannelLatinAmerica.us",
+      "feed": "South",
+      "site": "mi.tv",
+      "site_id": "ar#fox",
+      "site_name": "Star Channel",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.star-latam.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "StarTrek.us",
     "name": "Star Trek",
     "alt_names": [
@@ -75424,6 +75991,40 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",
     "stream_url": "http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StudioUniversalLatinAmerica.us",
+      "feed": "Brazil",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000054",
+      "site_name": "Studio Universal",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "http://www.universalplus.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "StudioUniversalLatinAmerica.us",
+    "name": "Studio Universal Latin America",
+    "alt_names": [
+      "Studio Universal Brasil"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",
+    "stream_url": "https://cdn1tlinkgo.tlink.cl/studiouniversalhd/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -76791,32 +77392,6 @@
       "sources": []
     },
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TBNAsia.us",
-    "name": "TBN Asia",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/9Sw2Cns.png",
-    "stream_url": "https://streams.comclark.com/pknsd/tbn/playlist.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.tbnasia.org/",
     "launched": null,
     "closed": null
   },
@@ -84820,7 +85395,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",
-    "stream_url": "http://200.115.120.1:8000/play/ca106/index.m3u8",
+    "stream_url": "http://45.190.13.8/UnivisionHD/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -84852,7 +85427,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",
-    "stream_url": "http://45.190.13.8/UnivisionHD/index.m3u8",
+    "stream_url": "http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1099/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -85648,32 +86223,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://vcat.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "VegasLifeTV.us",
-    "name": "Vegas Life TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/G7lONcu.png",
-    "stream_url": "https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.vegaslifetv.us",
     "launched": null,
     "closed": null
   },

@@ -106,6 +106,36 @@
     "closed": null
   },
   {
+    "id": "AmericaParaguay.py",
+    "name": "America Paraguay",
+    "alt_names": [
+      "América Paraguay"
+    ],
+    "network": null,
+    "owners": [
+      "Grupo América"
+    ],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/rCEu3fM.png",
+    "stream_url": "http://45.170.130.224:8000/play/a02o/index.m3u8?hls",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://americatv.com.py/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BrunoMasiTV.py",
     "name": "Bruno Masi TV",
     "alt_names": [],
@@ -1070,6 +1100,46 @@
     "closed": null
   },
   {
+    "id": "Paravision.py",
+    "name": "Paravision",
+    "alt_names": [
+      "Paravisión",
+      "Canal 5"
+    ],
+    "network": null,
+    "owners": [
+      "Albavisión",
+      "Grupo SNT"
+    ],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/yd9Dw2G.png",
+    "stream_url": "http://45.170.130.224:8000/play/a032/index.m3u8?hls",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Paravision.py",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "paravision",
+      "site_name": "Canal Paravisión",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.paravision.com.py/",
+    "launched": "2004-10-07",
+    "closed": null
+  },
+  {
     "id": "PopuTV.py",
     "name": "Popu TV",
     "alt_names": [],
@@ -1489,6 +1559,46 @@
     "closed": null
   },
   {
+    "id": "SURTVItapua.py",
+    "name": "SUR TV Itapua",
+    "alt_names": [
+      "SUR TV Itapúa",
+      "SUR Televisión"
+    ],
+    "network": null,
+    "owners": [
+      "Albavisión",
+      "Grupo SNT"
+    ],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ltJQvZd.png",
+    "stream_url": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SURTVItapua.py",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "sur_tv_itapua_paraguay",
+      "site_name": "Canal Sur TV Itapúa (Paraguay)",
+      "lang": "es",
+      "sources": []
+    },
+    "website": null,
+    "launched": "2013-11-24",
+    "closed": null
+  },
+  {
     "id": "Telefuturo.py",
     "name": "Telefuturo",
     "alt_names": [],
@@ -1577,6 +1687,68 @@
     "closed": null
   },
   {
+    "id": "TigoSportsPlus.py",
+    "name": "Tigo Sports+",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
+    "stream_url": "https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.tigosports.com.py/",
+    "launched": "2018-06-06",
+    "closed": null
+  },
+  {
+    "id": "Trece.py",
+    "name": "Trece",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo JBB"
+    ],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/cgIv5QK.png",
+    "stream_url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Trece.py",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "13_de_paraguay",
+      "site_name": "Canal 13 de Paraguay (Trece)",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.trece.com.py/",
+    "launched": "1981-02-11",
+    "closed": null
+  },
+  {
     "id": "TVAire.py",
     "name": "TV Aire",
     "alt_names": [],
@@ -1599,6 +1771,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://video.hostingcaaguazu.com:2020/public/tvairepy",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVCamara.py",
+    "name": "TV Camara",
+    "alt_names": [
+      "TV Cámara"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "legislative"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Mfypr0t.png",
+    "stream_url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://tv.diputados.gov.py/",
     "launched": null,
     "closed": null
   },
@@ -1628,6 +1828,42 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Unicanal.py",
+    "name": "Unicanal",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo JBB"
+    ],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/cgTD2TW.png",
+    "stream_url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Unicanal.py",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "unicanal",
+      "site_name": "Canal Unicanal",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.unicanal.com.py/",
+    "launched": "1989-12-15",
     "closed": null
   },
   {

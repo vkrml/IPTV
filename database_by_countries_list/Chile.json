@@ -82,6 +82,47 @@
     "closed": null
   },
   {
+    "id": "13C.cl",
+    "name": "13C",
+    "alt_names": [
+      "13C",
+      "Canal 13 Cable",
+      "13 Cable",
+      " 13 Cultura"
+    ],
+    "network": "13Go",
+    "owners": [
+      "Grupo Luksic"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Zfe2f5j.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/13c/mono.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "13C.cl",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "cl#canal-13-c",
+      "site_name": "13C",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.13.cl/c",
+    "launched": "1995-07-15",
+    "closed": null
+  },
+  {
     "id": "13E.cl",
     "name": "13E",
     "alt_names": [
@@ -282,6 +323,34 @@
     "closed": null
   },
   {
+    "id": "13Rec.cl",
+    "name": "13Rec",
+    "alt_names": [],
+    "network": "13Go",
+    "owners": [
+      "Grupo Luksic"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "classic"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/WtBbxEf.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.13.cl/rec",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "13T.cl",
     "name": "13T",
     "alt_names": [
@@ -309,6 +378,45 @@
     "tv_guide": null,
     "website": "https://www.13go.cl/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "24Horas.cl",
+    "name": "24 Horas",
+    "alt_names": [
+      "24 Horas Play",
+      "24 Play"
+    ],
+    "network": "TVN",
+    "owners": [
+      "Televisión Nacional de Chile"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CEE9zPe.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "24Horas.cl",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "cl#tvn-24-h",
+      "site_name": "24 Horas",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.24horas.cl/",
+    "launched": "2009-03-04",
     "closed": null
   },
   {
@@ -764,6 +872,34 @@
     "closed": null
   },
   {
+    "id": "BioBioTV.cl",
+    "name": "Bio Bio TV",
+    "alt_names": [
+      "Bío Bío TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/lhglEUP.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/biobiotv/mono.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.biobiochile.cl/biobiotv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BuinSomosTodos.cl",
     "name": "Buin Somos Todos",
     "alt_names": [],
@@ -1166,6 +1302,43 @@
     "closed": null
   },
   {
+    "id": "Canal13.cl",
+    "name": "Canal 13",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Secuoya Chile",
+      "Grupo Luksic"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/canal13hd/mono.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Canal13.cl",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "cl#canal-13",
+      "site_name": "Canal 13",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.13.cl/",
+    "launched": "1959-08-21",
+    "closed": null
+  },
+  {
     "id": "Canal30Loncomilla.cl",
     "name": "Canal 30 Loncomilla",
     "alt_names": [],
@@ -1239,6 +1412,34 @@
     "tv_guide": null,
     "website": "http://www.canalchilote.cl/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CanalCHVNoticias.cl",
+    "name": "Canal CHV Noticias",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vytal Group"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sx8Aaxr.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/chvnoticias/mono.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.chvnoticias.cl/",
+    "launched": "2024-01-24",
     "closed": null
   },
   {
@@ -1476,6 +1677,36 @@
     "closed": null
   },
   {
+    "id": "CDO.cl",
+    "name": "CDO",
+    "alt_names": [
+      "Canal del Deporte Olímpico"
+    ],
+    "network": null,
+    "owners": [
+      "Comite Olimpico de Chile"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/zH3jHIT.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.cdo.tv/",
+    "launched": "2011-05-19",
+    "closed": null
+  },
+  {
     "id": "CDTV.cl",
     "name": "CDTV",
     "alt_names": [
@@ -1579,6 +1810,44 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/PRijvR0.png",
     "stream_url": "http://15.204.246.24:8080/CHVHD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ChileVision.cl",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "cl#chilevision",
+      "site_name": "Chilevisión",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.chilevision.cl/",
+    "launched": "1960-11-04",
+    "closed": null
+  },
+  {
+    "id": "ChileVision.cl",
+    "name": "ChileVision",
+    "alt_names": [
+      "ChileVisión"
+    ],
+    "network": null,
+    "owners": [
+      "Vytal Group"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/PRijvR0.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/chvhd/mono.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -2569,6 +2838,42 @@
     "closed": null
   },
   {
+    "id": "ETCTV.cl",
+    "name": "ETC TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Megamedia"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/RVYgh7h9/ETC-Logo.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ETCTV.cl",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "cl#etc-tv",
+      "site_name": "ETC TV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.etc.cl/",
+    "launched": "1996-08-01",
+    "closed": null
+  },
+  {
     "id": "Evavision.cl",
     "name": "Evavision",
     "alt_names": [
@@ -3365,6 +3670,42 @@
     "closed": null
   },
   {
+    "id": "LaRed.cl",
+    "name": "La Red",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Albavisión"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nJOVM6e.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/laredhd/mono.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "LaRed.cl",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "cl#la-red",
+      "site_name": "La Red",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.lared.cl/",
+    "launched": "1991-05-12",
+    "closed": null
+  },
+  {
     "id": "LilaTVPencahue.cl",
     "name": "Lila TV Pencahue",
     "alt_names": [],
@@ -3513,6 +3854,34 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/c1ME00r.png",
     "stream_url": "http://15.204.246.24:8080/Mega2HD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.mega.cl/temas/mega-2/",
+    "launched": "2022-09-20",
+    "closed": null
+  },
+  {
+    "id": "Mega2.cl",
+    "name": "Mega 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Mega Media"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/c1ME00r.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/mega2/mono.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -3700,6 +4069,128 @@
     },
     "website": "https://www.mega.cl/",
     "launched": "1990-10-23",
+    "closed": null
+  },
+  {
+    "id": "Mega.cl",
+    "name": "Mega",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Mega Media"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/RlZfR84.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/megahd/mono.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Mega.cl",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "cl#mega",
+      "site_name": "Mega",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.mega.cl/",
+    "launched": "1990-10-23",
+    "closed": null
+  },
+  {
+    "id": "MegaFiccion.cl",
+    "name": "Mega Ficcion",
+    "alt_names": [
+      "Mega Ficción"
+    ],
+    "network": null,
+    "owners": [
+      "Mega Media"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/aQdhJie.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.mega.cl/temas/mega-ficcion/",
+    "launched": "2022-04-01",
+    "closed": null
+  },
+  {
+    "id": "MeganoticiasAhora.cl",
+    "name": "Meganoticias Ahora",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Mega Media"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/JCVEqTc.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/meganoticias/mono.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.meganoticias.cl/",
+    "launched": "2019-07-22",
+    "closed": null
+  },
+  {
+    "id": "Megatiempo.cl",
+    "name": "Megatiempo",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Mega Media"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "weather"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/1xLhAEq.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/megatiempo/mono.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.megatiempo.cl/",
+    "launched": null,
     "closed": null
   },
   {
@@ -3915,6 +4406,35 @@
     "closed": null
   },
   {
+    "id": "NTV.cl",
+    "name": "NTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Televisión Nacional de Chile"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture",
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NnkSyta.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.tvn.cl/ntv",
+    "launched": "2021-08-08",
+    "closed": null
+  },
+  {
     "id": "Nublevision.cl",
     "name": "Nublevision",
     "alt_names": [
@@ -3962,6 +4482,34 @@
     "logo": "https://i.imgur.com/eCPzibM.png",
     "stream_url": "https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.nuevotiempo.cl/tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NuevoTiempoTV.cl",
+    "name": "Nuevo Tiempo TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Iglesia Adventista del Séptimo Día"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/eCPzibM.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/nuevotiempo/mono.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -5692,6 +6240,32 @@
     "closed": null
   },
   {
+    "id": "SURTV.cl",
+    "name": "SUR TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/wDCqoor.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/surtv/mono.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.surtv.cl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SuyaiTV.cl",
     "name": "Suyai TV",
     "alt_names": [],
@@ -5925,6 +6499,40 @@
     "logo": "https://i.imgur.com/NoJvlig.png",
     "stream_url": "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TeletrakTV.cl",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "cl#teletrak",
+      "site_name": "Teletrak",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.teletrak.cl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TeletrakTV.cl",
+    "name": "Teletrak TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NoJvlig.png",
+    "stream_url": "https://cdn1tlinkgo.tlink.cl/teletrak/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -6340,6 +6948,34 @@
     "closed": null
   },
   {
+    "id": "TVN3.cl",
+    "name": "TVN3",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Televisión Nacional de Chile"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "classic"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9LEiQPJ.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/tvn3/mono.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.tvn.cl/tvn3",
+    "launched": "2023-07-26",
+    "closed": null
+  },
+  {
     "id": "TVN.cl",
     "name": "TVN",
     "alt_names": [],
@@ -6484,6 +7120,78 @@
     "closed": null
   },
   {
+    "id": "TVN.cl",
+    "name": "TVN",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Televisión Nacional de Chile"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/3FKZHL4.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/tvnhd/mono.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVN.cl",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "tvn_chile",
+      "site_name": "Canal TVN (Chile)",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.tvn.cl/",
+    "launched": "1969-01-31",
+    "closed": null
+  },
+  {
+    "id": "TVN.cl",
+    "name": "TVN",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Televisión Nacional de Chile"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/3FKZHL4.png",
+    "stream_url": "https://iptv.bitred.cl/tvn/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVN.cl",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "tvn_chile",
+      "site_name": "Canal TVN (Chile)",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.tvn.cl/",
+    "launched": "1969-01-31",
+    "closed": null
+  },
+  {
     "id": "TVOSanVicente.cl",
     "name": "TVO San Vicente",
     "alt_names": [],
@@ -6527,6 +7235,35 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/960px-TV%2B_%282018%29.png",
     "stream_url": "https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.tvmas.tv/",
+    "launched": "1959-08-22",
+    "closed": null
+  },
+  {
+    "id": "TVPlus.cl",
+    "name": "TV+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Media 23 SpA",
+      "PUCV Multimedios SpA"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/960px-TV%2B_%282018%29.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/tvmashd/mono.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -6585,6 +7322,30 @@
     "closed": null
   },
   {
+    "id": "TVR.cl",
+    "name": "TVR",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/prDRDZw3/TVR-Logo.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/tvr/mono.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.tvr.cl/",
+    "launched": "2006-10-11",
+    "closed": null
+  },
+  {
     "id": "TVSenado.cl",
     "name": "TV Senado",
     "alt_names": [],
@@ -6600,6 +7361,38 @@
     "logo": "https://i.imgur.com/CNUZ6ig.png",
     "stream_url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
     "stream_quality": "360p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVSenado.cl",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "cl#senado-tv",
+      "site_name": "TV Senado",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.senado.cl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVSenado.cl",
+    "name": "TV Senado",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CNUZ6ig.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/tvsenado/mono.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -6635,6 +7428,34 @@
     "is_nsfw": false,
     "logo": "https://i.ibb.co/5vFMTxt/Logo-tvu.png",
     "stream_url": "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://tvu.cl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVU.cl",
+    "name": "TVU",
+    "alt_names": [
+      "Televisión Universidad de Concepción"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/5vFMTxt/Logo-tvu.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/tvu/mono.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -6802,6 +7623,43 @@
     "logo": "https://i.postimg.cc/jjGpZf4T/UCV-Logo.png",
     "stream_url": "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "UCVTV.cl",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "cl#ucv-tv",
+      "site_name": "UCV TV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://ucvtv.cl/home.php",
+    "launched": "2018-04-12",
+    "closed": null
+  },
+  {
+    "id": "UCVTV.cl",
+    "name": "UCV TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Media 23 SpA",
+      "PUCV Multimedios SpA"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/jjGpZf4T/UCV-Logo.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/ucvhd/mono.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -7032,6 +7890,42 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png",
     "stream_url": "http://45.170.130.224:8000/play/a025/index.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ViaX.cl",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "cl#via-x",
+      "site_name": "Vía X",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.canalviax.com/",
+    "launched": "1994-10-07",
+    "closed": null
+  },
+  {
+    "id": "ViaX.cl",
+    "name": "Via X",
+    "alt_names": [
+      "Vía X"
+    ],
+    "network": null,
+    "owners": [
+      "TVI Filmocentro Televisión"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png",
+    "stream_url": "http://cdn1tlinkgo.tlink.cl/viax/mono.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

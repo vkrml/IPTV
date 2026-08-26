@@ -213,6 +213,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/EPmwuuv.png",
+    "stream_url": "https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Antena1.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "antena-1",
+      "site_name": "Antena 1",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://a1.ro/",
+    "launched": "1993-11-29",
+    "closed": null
+  },
+  {
+    "id": "Antena1.ro",
+    "name": "Antena 1",
+    "alt_names": [],
+    "network": "Antena Group",
+    "owners": [
+      "Intact Media Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/EPmwuuv.png",
     "stream_url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7002/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -232,13 +268,51 @@
     "closed": null
   },
   {
-    "id": "AntenaInternational.ro",
-    "name": "Antena International",
-    "alt_names": [],
+    "id": "AntenaStars.ro",
+    "name": "Antena Stars",
+    "alt_names": [
+      "Antena 2"
+    ],
     "network": "Antena Group",
     "owners": [
-      "Intact Media Group"
+      "Antena TV Group"
     ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300",
+    "stream_url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AntenaStars.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "antena-stars",
+      "site_name": "Antena Stars",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://antenastars.ro/",
+    "launched": "2013-12-16",
+    "closed": null
+  },
+  {
+    "id": "ArgesTV.ro",
+    "name": "Arges TV",
+    "alt_names": [
+      "Argeș TV"
+    ],
+    "network": null,
+    "owners": [],
     "country_code": "RO",
     "country_name": "Romania",
     "subdivision": null,
@@ -248,50 +322,14 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/38/Antena_Interna%C8%9Bional_2022.png/revision/latest/scale-to-width-down/512",
-    "stream_url": "https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AntenaInternational.ro",
-      "feed": "SD",
-      "site": "programetv.ro",
-      "site_id": "antena-international",
-      "site_name": "Antena International",
-      "lang": "ro",
-      "sources": []
-    },
-    "website": "http://antenainternational.ro/",
-    "launched": "2006-07-01",
-    "closed": null
-  },
-  {
-    "id": "AntenaMonden.ro",
-    "name": "Antena Monden",
-    "alt_names": [],
-    "network": "Antena Group",
-    "owners": [
-      "Intact Media Group"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "lifestyle"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300",
-    "stream_url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+    "logo": "https://i.imgur.com/qufz6nk.png",
+    "stream_url": "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": "https://antenaplay.ro/",
+    "website": "https://argestv.ro/",
     "launched": null,
     "closed": null
   },
@@ -349,6 +387,43 @@
     "tv_guide": null,
     "website": "https://www.atomictv.ro/",
     "launched": "2021-11-20",
+    "closed": null
+  },
+  {
+    "id": "BollywoodClassic.ro",
+    "name": "Bollywood Classic",
+    "alt_names": [
+      "Bollywood Clasic"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "classic"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ugPo6ca.png",
+    "stream_url": "https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+    "referrer": "https://cool-tv.net/",
+    "tv_guide": {
+      "channel": "BollywoodClassic.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "bollywood-classic",
+      "site_name": "Bollywood Classic",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.bollywoodtv.ro/",
+    "launched": null,
     "closed": null
   },
   {
@@ -1061,8 +1136,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/TdKO0er.png",
-    "stream_url": "https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -3019,6 +3094,84 @@
     "tv_guide": null,
     "website": "https://www.tvsud.ro/",
     "launched": "2011-06-20",
+    "closed": null
+  },
+  {
+    "id": "ViasatExplore.ro",
+    "name": "Viasat Explore",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg",
+    "stream_url": "https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+    "referrer": "https://cool-tv.net/",
+    "tv_guide": null,
+    "website": "https://viasatexplore.ro",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ViasatHistory.ro",
+    "name": "Viasat History",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg",
+    "stream_url": "https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+    "referrer": "https://cool-tv.net/",
+    "tv_guide": null,
+    "website": "https://viasathistory.ro",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ViasatNature.ro",
+    "name": "Viasat Nature",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png",
+    "stream_url": "https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+    "referrer": "https://cool-tv.net/",
+    "tv_guide": null,
+    "website": "https://viasatnature.ro",
+    "launched": null,
     "closed": null
   }
 ]

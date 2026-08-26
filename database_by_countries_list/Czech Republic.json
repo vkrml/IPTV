@@ -561,6 +561,32 @@
     "closed": null
   },
   {
+    "id": "Eurosport4KCzechia.cz",
+    "name": "Eurosport 4K Czechia",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CZ",
+    "country_name": "Czech Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/0o3zjC7.png",
+    "stream_url": "http://88.212.15.19/live/esp_4k_atk/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "FilmPlus.cz",
     "name": "Film+",
     "alt_names": [],
@@ -1546,6 +1572,40 @@
     "closed": null
   },
   {
+    "id": "PrimaKrimi.cz",
+    "name": "Prima Krimi",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "FTV Prima"
+    ],
+    "country_code": "CZ",
+    "country_name": "Czech Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Prima_Krimi.png/960px-Prima_Krimi.png",
+    "stream_url": "http://88.212.15.19/live/test_prima_krimi_cz/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PrimaKrimi.cz",
+      "feed": "SD",
+      "site": "mujtvprogram.cz",
+      "site_id": "608",
+      "site_name": "Prim KRIMI",
+      "lang": "cs",
+      "sources": []
+    },
+    "website": "https://krimi.iprima.cz/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PrimaLove.cz",
     "name": "Prima Love",
     "alt_names": [],
@@ -1577,6 +1637,40 @@
     },
     "website": "http://love.iprima.cz/",
     "launched": "2011-03-08",
+    "closed": null
+  },
+  {
+    "id": "PrimaMax.cz",
+    "name": "Prima Max",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "FTV Prima"
+    ],
+    "country_code": "CZ",
+    "country_name": "Czech Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ePrdyLi.png",
+    "stream_url": "http://88.212.15.19/live/test_prima_max_cz/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PrimaMax.cz",
+      "feed": "SD",
+      "site": "mujtvprogram.cz",
+      "site_id": "474",
+      "site_name": "Prima MAX",
+      "lang": "cs",
+      "sources": []
+    },
+    "website": "http://max.iprima.cz/",
+    "launched": null,
     "closed": null
   },
   {

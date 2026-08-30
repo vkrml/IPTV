@@ -2335,6 +2335,42 @@
     "closed": null
   },
   {
+    "id": "7Gold.it",
+    "name": "7 Gold",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Giorgio Tacchino"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/7gold.jpg/960px-7gold.jpg",
+    "stream_url": "https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "7Gold.it",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "1388",
+      "site_name": "Telecity",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "http://www.my7.tv/",
+    "launched": "1999-05-31",
+    "closed": null
+  },
+  {
     "id": "7Info.ci",
     "name": "7 Info",
     "alt_names": [],
@@ -2693,6 +2729,44 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
+    "tv_guide": {
+      "channel": "8TV.my",
+      "feed": "SD",
+      "site": "playtv.unifi.com.my",
+      "site_id": "20000017",
+      "site_name": "8TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.xtra.com.my/",
+    "launched": "2004-01-08",
+    "closed": null
+  },
+  {
+    "id": "8TV.my",
+    "name": "8TV",
+    "alt_names": [
+      "八度空间"
+    ],
+    "network": null,
+    "owners": [
+      "Media Prima"
+    ],
+    "country_code": "MY",
+    "country_name": "Malaysia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Jkx9W88.png",
+    "stream_url": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420325",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420325",
     "tv_guide": {
       "channel": "8TV.my",
       "feed": "SD",
@@ -10782,44 +10856,6 @@
     "tv_guide": null,
     "website": "https://www.accessvision.tv/live-17",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ACCNetwork.us",
-    "name": "ACC Network",
-    "alt_names": [
-      "ACCN"
-    ],
-    "network": null,
-    "owners": [
-      "ESPN Inc."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/TpCkbkT.png",
-    "stream_url": "https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F23.239.31.26%3A8989%2Faccnetwork%2Findex.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://directv-iptv-player.vercel.app/",
-    "tv_guide": {
-      "channel": "ACCNetwork.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "111871",
-      "site_name": "ACC Network",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://getaccn.com/",
-    "launched": "2019-08-22",
     "closed": null
   },
   {
@@ -73166,6 +73202,45 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png",
+    "stream_url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Canale5.it",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "al/programacioni#canale-5",
+      "site_name": "Canale 5",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "https://mediasetinfinity.mediaset.it/canale5",
+    "launched": "1980-11-11",
+    "closed": null
+  },
+  {
+    "id": "Canale5.it",
+    "name": "Canale 5",
+    "alt_names": [
+      "Canale 10",
+      "Telemilano"
+    ],
+    "network": null,
+    "owners": [
+      "Mediasat"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png",
     "stream_url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -91479,6 +91554,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/960px-Cine34_logo.svg.png",
+    "stream_url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Cine34.it",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "1665",
+      "site_name": "Cine34",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "https://www.mediasetplay.mediaset.it/cine34",
+    "launched": "2020-01-20",
+    "closed": null
+  },
+  {
+    "id": "Cine34.it",
+    "name": "Cine34",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "MFE - MediaForEurope"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/960px-Cine34_logo.svg.png",
     "stream_url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -92484,6 +92595,110 @@
       "sources": []
     },
     "website": "https://cinemaworld.asia/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Cinemax2.cz",
+    "name": "Cinemax 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CZ",
+    "country_name": "Czech Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png",
+    "stream_url": "http://88.212.15.19/live/test_cinemax2_hd_hevc/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Cinemax2.cz",
+    "name": "Cinemax 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CZ",
+    "country_name": "Czech Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png",
+    "stream_url": "https://cronos.mangora1.cfd/xmas2/usergendxt1v8klq6rnd.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+    "referrer": "https://cool-tv.net/",
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Cinemax.cz",
+    "name": "Cinemax",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CZ",
+    "country_name": "Czech Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png",
+    "stream_url": "http://88.212.15.19/live/test_cinemax_hd_hevc/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Cinemax.cz",
+    "name": "Cinemax",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CZ",
+    "country_name": "Czech Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png",
+    "stream_url": "https://cronos.mangora1.cfd/xmas1/usergendx27y41s0rnd.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+    "referrer": "https://cool-tv.net/",
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -99569,6 +99784,44 @@
     },
     "website": "https://pluto.tv/live-tv/comedia-a-lo-bestia-de-pluto-tv-es/details",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ComedyCentral.de",
+    "name": "Comedy Central",
+    "alt_names": [
+      "Comedy Central Deutschland"
+    ],
+    "network": null,
+    "owners": [
+      "Paramount Networks EMEAA"
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+    "stream_url": "https://ma.anixa.tv/clips/stream/comedy_central/playlist.php",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ComedyCentral.de",
+      "feed": "SD",
+      "site": "web.magentatv.de",
+      "site_id": "50",
+      "site_name": "Comedy Central",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "http://www.comedycentral.de/",
+    "launched": "2007-01-15",
     "closed": null
   },
   {
@@ -106677,6 +106930,32 @@
     "closed": null
   },
   {
+    "id": "DailyPostTV.in",
+    "name": "Daily Post TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://papaji.freetvindia.com/media/Daily_post.png",
+    "stream_url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/103b8dd3-a888-4d1d-89a5-8a4bc25e48c1/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "DakLakTV.vn",
     "name": "Dak Lak TV",
     "alt_names": [],
@@ -111973,6 +112252,32 @@
     "closed": null
   },
   {
+    "id": "DeewanaHD.in",
+    "name": "Deewana HD",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/xIYITQ9.png",
+    "stream_url": "https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8",
+    "stream_quality": "540p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "DeFianceMedia.pr",
     "name": "DeFiance Media",
     "alt_names": [],
@@ -114517,6 +114822,35 @@
     "closed": null
   },
   {
+    "id": "DidikTVKPM.my",
+    "name": "DidikTV KPM",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Media Prima",
+      "Ministry of Education"
+    ],
+    "country_code": "MY",
+    "country_name": "Malaysia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/7qehib0.png",
+    "stream_url": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420324",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420324",
+    "tv_guide": null,
+    "website": "https://didik.tv/",
+    "launched": "2021-02-17",
+    "closed": null
+  },
+  {
     "id": "Diema.bg",
     "name": "Diema",
     "alt_names": [
@@ -115616,6 +115950,30 @@
     "tv_guide": null,
     "website": "https://www.discoverpakistan.tv/",
     "launched": "2021-03-21",
+    "closed": null
+  },
+  {
+    "id": "DishaTV.in",
+    "name": "Disha TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/U4W0Rw8.png",
+    "stream_url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
+    "stream_quality": "396p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://dishatv.com/",
+    "launched": null,
     "closed": null
   },
   {
@@ -121125,6 +121483,34 @@
     "tv_guide": null,
     "website": "https://www.mvtv.co.th/channel/ramachannel",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DramaSangat.my",
+    "name": "Drama Sangat",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Media Prima Berhad"
+    ],
+    "country_code": "MY",
+    "country_name": "Malaysia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/BqIVmN1.png",
+    "stream_url": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420342",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420342",
+    "tv_guide": null,
+    "website": "https://www.xtra.com.my/",
+    "launched": "2017-10-27",
     "closed": null
   },
   {
@@ -127549,6 +127935,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ByMyRI9.png",
+    "stream_url": "http://190.61.101.11:7050/play/a09s/index.m3u8?hls",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ElGourmet.ar",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "485",
+      "site_name": "EL GOURMET",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://elgourmet.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ElGourmet.ar",
+    "name": "El Gourmet",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "AMC Global Media"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "cooking"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ByMyRI9.png",
     "stream_url": "https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -130294,6 +130716,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540",
+    "stream_url": "https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EpicBhojpuri.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "830",
+      "site_name": "EPIC Bhojpuri",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.epicon.in/live-tv/filamchi-live-tv",
+    "launched": "2021-01-01",
+    "closed": null
+  },
+  {
+    "id": "EpicBhojpuri.in",
+    "name": "Epic Bhojpuri",
+    "alt_names": [
+      "Filamchi Bhojpuri"
+    ],
+    "network": "Epic",
+    "owners": [
+      "The Epic Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540",
     "stream_url": "https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -131308,6 +131768,42 @@
     "website": "https://www.espacetvguinee.info/",
     "launched": "2014-01-01",
     "closed": "2024-05-22"
+  },
+  {
+    "id": "EspansioneTV.it",
+    "name": "Espansione TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Espansione S.r.l."
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NZJi7mm.png",
+    "stream_url": "https://b53136fc0d724da78cac7754d601393d.msvdn.net/live/S13070333/lgUidxJCmpO3/playlist.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EspansioneTV.it",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "1645",
+      "site_name": "Espansione TV",
+      "lang": "it",
+      "sources": []
+    },
+    "website": null,
+    "launched": "1982-01-01",
+    "closed": null
   },
   {
     "id": "EsperiaTV.it",
@@ -133660,7 +134156,7 @@
     },
     "website": "http://www.etv.co.in/channels/home?channelId=6",
     "launched": "2015-11-01",
-    "closed": null
+    "closed": "2026-08-27"
   },
   {
     "id": "ETVAndhraPradesh.in",
@@ -133791,7 +134287,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900003U3_20251106T195117SQUARE.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Comedy.png",
     "stream_url": "https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -133820,7 +134316,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900004LP_20250811T033452SQUARE.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Josh.png",
     "stream_url": "https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -133993,7 +134489,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900001AQ_20250811T033458SQUARE.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_News.png",
     "stream_url": "https://cc-3448kp65yhc5w.akamaized.net/WWBI/Amagi/ETV_News_IN/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -137853,32 +138349,6 @@
       "sources": []
     },
     "website": "https://www.extratv42.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ExtraTV.hr",
-    "name": "Extra TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "HR",
-    "country_name": "Croatia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/5edYPBO.png",
-    "stream_url": "https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://extrafm.hr/extra-tv/",
     "launched": null,
     "closed": null
   },
@@ -146823,6 +147293,42 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
     "stream_url": "http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8",
     "stream_quality": "144p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FoxNewsChannel.us",
+      "feed": "SD",
+      "site": "webtv.delta.nl",
+      "site_id": "3116",
+      "site_name": "Fox News Channel",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.foxnews.com/",
+    "launched": "1996-10-07",
+    "closed": null
+  },
+  {
+    "id": "FoxNewsChannel.us",
+    "name": "Fox News Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Fox Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
+    "stream_url": "http://4.30.180.36:8420/foxnews/index.m3u8?token=test",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -181860,6 +182366,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ZLnSLh4.png",
+    "stream_url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Iris.it",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "214",
+      "site_name": "IRIS",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "https://www.mediasetplay.mediaset.it/iris",
+    "launched": "2007-11-30",
+    "closed": null
+  },
+  {
+    "id": "Iris.it",
+    "name": "Iris",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Mediaset Italia"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ZLnSLh4.png",
     "stream_url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -208101,6 +208643,42 @@
     "closed": null
   },
   {
+    "id": "LazioStyleChannel.it",
+    "name": "Lazio Style Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "SS Lazio"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/vDB8HFq.png",
+    "stream_url": "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "LazioStyleChannel.it",
+      "feed": "SD",
+      "site": "superguidatv.it",
+      "site_id": "lazio-style-channel/sky-sport/58",
+      "site_name": "Lazio Style Channel",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "https://www.sslazio.it/",
+    "launched": "2012-09-02",
+    "closed": null
+  },
+  {
     "id": "LazioTV.it",
     "name": "Lazio TV",
     "alt_names": [],
@@ -226262,6 +226840,42 @@
     "closed": null
   },
   {
+    "id": "MeTV.us",
+    "name": "MeTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Weigel Broadcasting"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/960px-MeTV_Logo.svg.png",
+    "stream_url": "http://4.30.180.36:8420/metv/index.m3u8?token=test",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MeTV.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "70436",
+      "site_name": "MeTV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.metv.com/",
+    "launched": "2010-12-15",
+    "closed": null
+  },
+  {
     "id": "meWATCHLIVE1.sg",
     "name": "meWATCH LIVE 1",
     "alt_names": [],
@@ -236673,6 +237287,45 @@
     "closed": null
   },
   {
+    "id": "MTV.de",
+    "name": "MTV",
+    "alt_names": [
+      "MTV Germany",
+      "MTV DE"
+    ],
+    "network": null,
+    "owners": [
+      "Paramount Networks EMEAA"
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "stream_url": "https://ma.anixa.tv/clips/stream/mtv/playlist.php",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MTV.de",
+      "feed": "SD",
+      "site": "web.magentatv.de",
+      "site_id": "28",
+      "site_name": "MTV",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "http://www.mtv.de/",
+    "launched": "1997-03-07",
+    "closed": null
+  },
+  {
     "id": "MTV.fr",
     "name": "MTV",
     "alt_names": [],
@@ -236782,6 +237435,42 @@
     },
     "website": "http://www.mtvindia.com/",
     "launched": "1996-10-28",
+    "closed": null
+  },
+  {
+    "id": "MTV.jp",
+    "name": "MTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Paramount Networks Japan K.K."
+    ],
+    "country_code": "JP",
+    "country_name": "Japan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "stream_url": "http://42.118.247.37:9394/stream/74.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MTV.jp",
+      "feed": "SD",
+      "site": "tvguide.myjcom.jp",
+      "site_id": "120_150_65406",
+      "site_name": "MTV HD",
+      "lang": "ja",
+      "sources": []
+    },
+    "website": "http://www.mtvjapan.com/",
+    "launched": "1993-11-15",
     "closed": null
   },
   {
@@ -238384,6 +239073,45 @@
     "stream_quality": null,
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MTVGlobal.uk",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "hu/tvmusor#mtv-europe-hu",
+      "site_name": "MTV Europe HU",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "https://www.mtv.com/",
+    "launched": "1987-08-01",
+    "closed": null
+  },
+  {
+    "id": "MTVGlobal.uk",
+    "name": "MTV Global",
+    "alt_names": [
+      "MTV European",
+      "MTV Europe"
+    ],
+    "network": null,
+    "owners": [
+      "Paramount Networks EMEAA"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/n2BoU7Q.png",
+    "stream_url": "http://dvr2.kablova.tv/MTV/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "MTVGlobal.uk",
@@ -248855,14 +249583,12 @@
     "closed": null
   },
   {
-    "id": "NBT2HD.th",
-    "name": "NBT 2 HD",
-    "alt_names": [
-      "เอ็นบีที 2 เอชดี"
-    ],
+    "id": "NBTTVChiangMai.th",
+    "name": "NBT TV Chiang Mai",
+    "alt_names": [],
     "network": null,
     "owners": [
-      "Public Relations Department of the Office of the Prime Minister"
+      "National Broadcasting Services of Thailand"
     ],
     "country_code": "TH",
     "country_name": "Thailand",
@@ -248873,21 +249599,13 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/IJh6SHb.png",
+    "logo": "https://i.imgur.com/u0Zv1yb.png",
     "stream_url": "https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "NBT2HD.th",
-      "feed": "SD",
-      "site": "tv.trueid.net",
-      "site_id": "nbt",
-      "site_name": "เอ็นบีที",
-      "lang": "th",
-      "sources": []
-    },
+    "tv_guide": null,
     "website": "http://nbt2hd.prd.go.th/",
     "launched": null,
     "closed": null
@@ -255917,43 +256635,6 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "Nickelodeon.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "11007",
-      "site_name": "Nickelodeon West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.nick.com/",
-    "launched": "1979-04-01",
-    "closed": null
-  },
-  {
-    "id": "Nickelodeon.us",
-    "name": "Nickelodeon",
-    "alt_names": [],
-    "network": "Nickelodeon",
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "stream_url": "https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F198.58.104.90%3A8989%2Fnickelodeon%2Findex.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://directv-iptv-player.vercel.app/",
     "tv_guide": {
       "channel": "Nickelodeon.us",
       "feed": "West",
@@ -267053,6 +267734,34 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "1987-11-06",
+    "closed": null
+  },
+  {
+    "id": "Odeon24.it",
+    "name": "Odeon 24",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Gold TV"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Ho7SdXY.png",
+    "stream_url": "https://5f11919dca3bd.streamlock.net/odeonjump/_definst_/odeonjump/playlist.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://www.grupposciscione.it/odeon-2/#/?playlistId=0&videoId=0",
     "tv_guide": null,
     "website": null,
     "launched": "1987-11-06",
@@ -310601,6 +311310,32 @@
     "closed": null
   },
   {
+    "id": "RadiantTV.us",
+    "name": "RadiantTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wixstatic.com/media/ba7a6c_6cc667c69cf24b94934b9d7f2e9853a5~mv2.png",
+    "stream_url": "https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.radianttv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Radio1.be",
     "name": "Radio 1",
     "alt_names": [
@@ -353246,43 +353981,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://a.jsrdn.com/hls/22849/schwab-network/logo_20231219_221750_68.png",
-    "stream_url": "https://tdameritrade-distro.amagi.tv/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SchwabNetwork.us",
-      "feed": "SD",
-      "site": "distro.tv",
-      "site_id": "36454",
-      "site_name": "Schwab Network",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://schwabnetwork.com/",
-    "launched": "2023-08-21",
-    "closed": null
-  },
-  {
-    "id": "SchwabNetwork.us",
-    "name": "Schwab Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Charles Schwab Media Productions Company (CSMPC)",
-      "The Charles Schwab Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "business"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://a.jsrdn.com/hls/22849/schwab-network/logo_20231219_221750_68.png",
     "stream_url": "https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -379385,7 +380083,9 @@
   {
     "id": "SubhartiTV.in",
     "name": "Subharti TV",
-    "alt_names": [],
+    "alt_names": [
+      "सुभारती"
+    ],
     "network": null,
     "owners": [],
     "country_code": "IN",
@@ -379404,12 +380104,14 @@
     "tv_guide": null,
     "website": "https://subhartimedia.com/",
     "launched": null,
-    "closed": null
+    "closed": "2026-08-14"
   },
   {
     "id": "SubhartiTV.in",
     "name": "Subharti TV",
-    "alt_names": [],
+    "alt_names": [
+      "सुभारती"
+    ],
     "network": null,
     "owners": [],
     "country_code": "IN",
@@ -379428,7 +380130,7 @@
     "tv_guide": null,
     "website": "https://subhartimedia.com/",
     "launched": null,
-    "closed": null
+    "closed": "2026-08-14"
   },
   {
     "id": "SubhavaarthaTV.in",
@@ -389862,6 +390564,36 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://www.cablecanalriomayo.com.ar/telecinco-trelew/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TelecityLombardia.it",
+    "name": "Telecity Lombardia",
+    "alt_names": [
+      "Canale 13"
+    ],
+    "network": null,
+    "owners": [
+      "Netweek SpA"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.telecity.it/wp-content/uploads/2024/01/canale_lombardia.jpg",
+    "stream_url": "https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.telecity.it/canali/telecity-lombardia/",
     "launched": null,
     "closed": null
   },
@@ -416818,6 +417550,38 @@
     "closed": null
   },
   {
+    "id": "TV3.my",
+    "name": "TV3",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "MY",
+    "country_name": "Malaysia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/bHcZgIo.png",
+    "stream_url": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420323",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420323",
+    "tv_guide": {
+      "channel": "TV3.my",
+      "feed": "SD",
+      "site": "playtv.unifi.com.my",
+      "site_id": "20000011",
+      "site_name": "TV3",
+      "lang": "my",
+      "sources": []
+    },
+    "website": "https://www.xtra.com.my/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TV3.ru",
     "name": "TV-3",
     "alt_names": [
@@ -419231,6 +419995,38 @@
     "closed": null
   },
   {
+    "id": "TV9.my",
+    "name": "TV9",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "MY",
+    "country_name": "Malaysia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Krh1F8d.png",
+    "stream_url": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420326",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420326",
+    "tv_guide": {
+      "channel": "TV9.my",
+      "feed": "SD",
+      "site": "playtv.unifi.com.my",
+      "site_id": "20000020",
+      "site_name": "TV9",
+      "lang": "my",
+      "sources": []
+    },
+    "website": "https://www.xtra.com.my/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TV9.sk",
     "name": "TV9",
     "alt_names": [],
@@ -419857,6 +420653,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://tv10sanjuan.com.do/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TV13Gujarati.in",
+    "name": "TV13 Gujarati",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.tv13gujarati.com/assets/front/img/footer-logo.jpg",
+    "stream_url": "https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.tv13gujarati.com/",
     "launched": null,
     "closed": null
   },
@@ -441585,6 +442407,42 @@
     "closed": null
   },
   {
+    "id": "TyCSports.ar",
+    "name": "TyC Sports",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Torneos Clarin Group"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
+    "stream_url": "http://38.44.109.41:8003/play/a02l/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TyCSports.ar",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "16275",
+      "site_name": "TyC Sports",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.tycsports.com/",
+    "launched": "1994-01-01",
+    "closed": null
+  },
+  {
     "id": "TyCSportsUSA.ar",
     "name": "TyC Sports USA",
     "alt_names": [],
@@ -450686,6 +451544,32 @@
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ViasatEpicDrama.uk",
+    "name": "Viasat Epic Drama",
+    "alt_names": [],
+    "network": "Viasat World",
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg",
+    "stream_url": "https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+    "referrer": "https://cool-tv.net/",
     "tv_guide": null,
     "website": null,
     "launched": null,
@@ -466060,6 +466944,32 @@
       "sources": []
     },
     "website": "https://www.worldpokertour.tv/watch/channel/live/live/hFz9XetVSqRy-pluto",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WorldPunjabiTV.in",
+    "name": "World Punjabi TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://papaji.freetvindia.com/media/World_Punjabi_TV.png",
+    "stream_url": "https://live1.ottlive.co.in/worldpunjabitv/worldpunjabitv/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },

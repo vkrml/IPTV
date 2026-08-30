@@ -2301,44 +2301,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/TpCkbkT.png",
-    "stream_url": "https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F23.239.31.26%3A8989%2Faccnetwork%2Findex.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://directv-iptv-player.vercel.app/",
-    "tv_guide": {
-      "channel": "ACCNetwork.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "111871",
-      "site_name": "ACC Network",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://getaccn.com/",
-    "launched": "2019-08-22",
-    "closed": null
-  },
-  {
-    "id": "ACCNetwork.us",
-    "name": "ACC Network",
-    "alt_names": [
-      "ACCN"
-    ],
-    "network": null,
-    "owners": [
-      "ESPN Inc."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/TpCkbkT.png",
     "stream_url": "http://23.239.31.26:8989/accnetwork/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -30047,6 +30009,42 @@
     "closed": null
   },
   {
+    "id": "FoxNewsChannel.us",
+    "name": "Fox News Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Fox Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
+    "stream_url": "http://4.30.180.36:8420/foxnews/index.m3u8?token=test",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FoxNewsChannel.us",
+      "feed": "SD",
+      "site": "webtv.delta.nl",
+      "site_id": "3116",
+      "site_name": "Fox News Channel",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.foxnews.com/",
+    "launched": "1996-10-07",
+    "closed": null
+  },
+  {
     "id": "FoxNewsRadio.us",
     "name": "Fox News Radio",
     "alt_names": [],
@@ -47339,6 +47337,42 @@
     "closed": null
   },
   {
+    "id": "MeTV.us",
+    "name": "MeTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Weigel Broadcasting"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/960px-MeTV_Logo.svg.png",
+    "stream_url": "http://4.30.180.36:8420/metv/index.m3u8?token=test",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MeTV.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "70436",
+      "site_name": "MeTV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.metv.com/",
+    "launched": "2010-12-15",
+    "closed": null
+  },
+  {
     "id": "MidnightPulp.us",
     "name": "Midnight Pulp",
     "alt_names": [],
@@ -55420,43 +55454,6 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "Nickelodeon.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "11007",
-      "site_name": "Nickelodeon West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.nick.com/",
-    "launched": "1979-04-01",
-    "closed": null
-  },
-  {
-    "id": "Nickelodeon.us",
-    "name": "Nickelodeon",
-    "alt_names": [],
-    "network": "Nickelodeon",
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "stream_url": "https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F198.58.104.90%3A8989%2Fnickelodeon%2Findex.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://directv-iptv-player.vercel.app/",
     "tv_guide": {
       "channel": "Nickelodeon.us",
       "feed": "West",
@@ -69717,6 +69714,32 @@
     "closed": null
   },
   {
+    "id": "RadiantTV.us",
+    "name": "RadiantTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wixstatic.com/media/ba7a6c_6cc667c69cf24b94934b9d7f2e9853a5~mv2.png",
+    "stream_url": "https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.radianttv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RadioMensajeTV.us",
     "name": "RadioMensaje TV",
     "alt_names": [],
@@ -72143,43 +72166,6 @@
     "tv_guide": null,
     "website": "https://communitytv.org/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SchwabNetwork.us",
-    "name": "Schwab Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Charles Schwab Media Productions Company (CSMPC)",
-      "The Charles Schwab Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "business"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://a.jsrdn.com/hls/22849/schwab-network/logo_20231219_221750_68.png",
-    "stream_url": "https://tdameritrade-distro.amagi.tv/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SchwabNetwork.us",
-      "feed": "SD",
-      "site": "distro.tv",
-      "site_id": "36454",
-      "site_name": "Schwab Network",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://schwabnetwork.com/",
-    "launched": "2023-08-21",
     "closed": null
   },
   {

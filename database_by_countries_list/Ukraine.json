@@ -2454,6 +2454,34 @@
     "closed": null
   },
   {
+    "id": "ICTV.ua",
+    "name": "ICTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Starlight Media Group"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/97W1NOW.png",
+    "stream_url": "http://dtv.vol.net.ua/ICTV_HD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://ictv.ua/",
+    "launched": "1992-06-15",
+    "closed": null
+  },
+  {
     "id": "InRatingTV.ua",
     "name": "InRating TV",
     "alt_names": [],
@@ -3233,6 +3261,34 @@
     "closed": null
   },
   {
+    "id": "M1.ua",
+    "name": "M1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Starlight Media"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/wbRdUw8.png",
+    "stream_url": "http://dtv.vol.net.ua/M1-HD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://m1.tv/",
+    "launched": "2002-01-01",
+    "closed": null
+  },
+  {
     "id": "M2.ua",
     "name": "M2",
     "alt_names": [],
@@ -3397,6 +3453,43 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Hsr0EvO.png",
     "stream_url": "http://stream.mcquack.net/325/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Mega.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "mega-ua",
+      "site_name": "Мега",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://megatv.kiev.ua/",
+    "launched": "2005-05-30",
+    "closed": null
+  },
+  {
+    "id": "Mega.ua",
+    "name": "Mega",
+    "alt_names": [
+      "Мега",
+      "Мегаспорт"
+    ],
+    "network": null,
+    "owners": [
+      "GDF Media Limited"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Hsr0EvO.png",
+    "stream_url": "http://dtv.vol.net.ua/MEGA_HD/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -4656,6 +4749,30 @@
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
     "referrer": "http://live.tvstitch.com/",
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RAZ3.ua",
+    "name": "RAZ 3",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/tvpedia/images/f/f4/RAZ_3.jpg/revision/latest?cb=20260831213225",
+    "stream_url": "http://dtv.vol.net.ua/Kvartal-TV/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
     "tv_guide": null,
     "website": null,
     "launched": null,
@@ -6164,6 +6281,34 @@
     "closed": null
   },
   {
+    "id": "ViasatHistory.ua",
+    "name": "Viasat History",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Viasat Ukraine"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/39qZ68J.png",
+    "stream_url": "http://dtv.vol.net.ua/Viasat-History/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://viasat.com.ua/channel/viasat_history",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ViasatKino.ua",
     "name": "Viasat Kino",
     "alt_names": [
@@ -6405,6 +6550,32 @@
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
     "referrer": "http://live.tvstitch.com/",
+    "tv_guide": null,
+    "website": "https://viasat.com.ua/channel/nature_hd",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ViasatNature.ua",
+    "name": "Viasat Nature",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Viasat Ukraine"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/YY0LfBA.png",
+    "stream_url": "http://dtv.vol.net.ua/Viasat-Nature/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
     "tv_guide": null,
     "website": "https://viasat.com.ua/channel/nature_hd",
     "launched": null,

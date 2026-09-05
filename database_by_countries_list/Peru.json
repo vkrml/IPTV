@@ -1854,6 +1854,42 @@
     "closed": null
   },
   {
+    "id": "CanalN.pe",
+    "name": "Canal N",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "America Multimedia"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Xytvw3J.png",
+    "stream_url": "http://190.108.91.206:9050/play/a0bd/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalN.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch2169",
+      "site_name": "CANAL N",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://canaln.pe/",
+    "launched": "1999-07-04",
+    "closed": null
+  },
+  {
     "id": "CasmaTV.pe",
     "name": "Casma TV",
     "alt_names": [],
@@ -3958,6 +3994,40 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/yGQGDoi.png",
     "stream_url": "http://45.4.1.201:8000/play/a19y/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MovistarPlus.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch3302",
+      "site_name": "M PLUS",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.movistarplus.pe/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MovistarPlus.pe",
+    "name": "Movistar Plus",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/yGQGDoi.png",
+    "stream_url": "http://190.108.91.206:9050/play/a0bb/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -6400,6 +6470,45 @@
     "logo": "https://i.imgur.com/6io0IrX.png",
     "stream_url": "http://190.93.224.42/VIVA-TV/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVPeru.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch2210",
+      "site_name": "TV PERU",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.tvperu.gob.pe/",
+    "launched": "1958-01-12",
+    "closed": null
+  },
+  {
+    "id": "TVPeru.pe",
+    "name": "TV Peru",
+    "alt_names": [
+      "TV Perú"
+    ],
+    "network": null,
+    "owners": [
+      "Gobierno del Perú",
+      "National Institute of Radio and Television of Peru"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6io0IrX.png",
+    "stream_url": "https://cablered.iptvperu.tv:1936/cablered/tvperu_new/playlist.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

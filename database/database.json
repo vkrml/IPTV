@@ -24350,6 +24350,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/L1h6W5Q.png",
+    "stream_url": "https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AMCenEspanol.us",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "62d1efa6c33948ea4ceedbcf",
+      "site_name": "AMC en Español",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://watch.plex.tv/live-tv/channel/amc-en-espanol",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AMCenEspanol.us",
+    "name": "AMC en Espanol",
+    "alt_names": [
+      "AMC en Español"
+    ],
+    "network": "AMC",
+    "owners": [
+      "AMC Networks Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/L1h6W5Q.png",
     "stream_url": "https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -25840,42 +25878,6 @@
     },
     "website": "https://www.americatevepr.com/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "AmericaTV.ar",
-    "name": "America TV",
-    "alt_names": [
-      "América TV"
-    ],
-    "network": "Grupo America",
-    "owners": [],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
-    "stream_url": "http://playcom.trapemn.tv:1935/transcoderip/america.stream/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AmericaTV.ar",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "ar#america-2-capital",
-      "site_name": "América TV",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.americatv.com.ar/",
-    "launched": "1996-06-25",
     "closed": null
   },
   {
@@ -36784,6 +36786,34 @@
     "tv_guide": null,
     "website": "https://www.asomavision.com/",
     "launched": "1993-11-27",
+    "closed": null
+  },
+  {
+    "id": "AspireTVLife.us",
+    "name": "Aspire TV Life",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "UP Entertainment"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://press.upentertainment.com/wp-content/uploads/2022/03/aspire-tv-life-logo.jpg",
+    "stream_url": "https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
     "closed": null
   },
   {
@@ -86733,36 +86763,6 @@
     "closed": null
   },
   {
-    "id": "CDTV.cl",
-    "name": "CDTV",
-    "alt_names": [
-      "Cámara de Diputadas y Diputados Televisión"
-    ],
-    "network": null,
-    "owners": [
-      "Estado de Chile"
-    ],
-    "country_code": "CL",
-    "country_name": "Chile",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "legislative"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/pMnk2TH.png",
-    "stream_url": "http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.camara.cl/prensa/television.aspx",
-    "launched": "2000-09-01",
-    "closed": null
-  },
-  {
     "id": "CEACOMTV.bo",
     "name": "CEACOM TV",
     "alt_names": [
@@ -95017,8 +95017,8 @@
     "closed": null
   },
   {
-    "id": "CinemaxLatino.us",
-    "name": "Cinemax Latino",
+    "id": "CinemaxClassics.us",
+    "name": "Cinemax Classics",
     "alt_names": [],
     "network": null,
     "owners": [
@@ -95028,18 +95028,48 @@
     "country_name": "United States",
     "subdivision": null,
     "city": null,
-    "categories": [],
+    "categories": [
+      "movies"
+    ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.ibb.co/4w27VFFr/IMG-2468.png",
-    "stream_url": "https://streamer.metronethn.com/Cinemax/index.m3u8",
-    "stream_quality": "480p",
+    "logo": "https://static.hbo.com/2025-09/Cinemax_Classics_Plex_Logo_bw.svg",
+    "stream_url": "http://23.237.104.106:8080/USA_5STARMAX/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "user_agent": null,
     "referrer": null,
     "tv_guide": null,
     "website": "http://www.cinemax.com/",
-    "launched": null,
+    "launched": "2025-09-04",
+    "closed": null
+  },
+  {
+    "id": "CinemaxHits.us",
+    "name": "Cinemax Hits",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Warner Bros. Discovery Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.hbo.com/2025-09/Cinemax_Hits_Plex_Logo_bw.svg",
+    "stream_url": "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.cinemax.com/",
+    "launched": "2025-09-04",
     "closed": null
   },
   {
@@ -101350,6 +101380,44 @@
     },
     "website": "https://www.colorstv.com/us/",
     "launched": "2018-02-19",
+    "closed": null
+  },
+  {
+    "id": "ColorVision.do",
+    "name": "Color Vision",
+    "alt_names": [
+      "Color Visión"
+    ],
+    "network": null,
+    "owners": [
+      "Bermúdez family"
+    ],
+    "country_code": "DO",
+    "country_name": "Dominican Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/rkgWToA.jpg",
+    "stream_url": "https://hls.tvabierta.net/hls/009.m3u8",
+    "stream_quality": "1280p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ColorVision.do",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "9_republica_dominicana",
+      "site_name": "Canal 9 de Color Visión (República Dominicana)",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://colorvision.com.do/",
+    "launched": "1969-11-30",
     "closed": null
   },
   {
@@ -134237,7 +134305,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png",
+    "logo": "https://imgx.fubo.tv/station_logos/espn-hd-deportes_c.png",
     "stream_url": "http://168.228.44.241:9998/play/a0dz/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -145503,44 +145571,6 @@
     "closed": null
   },
   {
-    "id": "FilmBox.nl",
-    "name": "FilmBox",
-    "alt_names": [
-      "FilmBox"
-    ],
-    "network": null,
-    "owners": [
-      "SPI International Inc."
-    ],
-    "country_code": "NL",
-    "country_name": "Netherlands",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/VyaslIY.png",
-    "stream_url": "http://46.149.191.219:9100/play/a015",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FilmBox.nl",
-      "feed": "Netherlands",
-      "site": "ziggogo.tv",
-      "site_id": "NL_000213_020003",
-      "site_name": "FilmBox",
-      "lang": "nl",
-      "sources": []
-    },
-    "website": "https://www.filmbox.nl/",
-    "launched": "2021-05-03",
-    "closed": null
-  },
-  {
     "id": "FILMBOXPlusAction.pl",
     "name": "FILMBOX+ Action",
     "alt_names": [],
@@ -146276,6 +146306,32 @@
     "stream_quality": null,
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FILMBOXPlusOne.pl",
+    "name": "FILMBOX+ One",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
+    "stream_url": "http://46.149.191.219:9100/play/a015",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": null,
     "website": null,
@@ -162334,40 +162390,6 @@
     "closed": null
   },
   {
-    "id": "GoodnessTV.in",
-    "name": "Goodness TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143091_ld_h15_aa.png?lock=720x540",
-    "stream_url": "https://mumt02.tangotv.in/GOODNESSTV/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "GoodnessTV.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "269",
-      "site_name": "Goodness",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.goodnesstv.in/about",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "GoodNewsToday.in",
     "name": "Good News Today",
     "alt_names": [
@@ -162710,32 +162732,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.gospeltruth.tv/contact/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "GospelTVIndia.in",
-    "name": "Gospel TV India",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/xhbZvzt/cropped-final-logo-300x127.png",
-    "stream_url": "https://server.livelegitpro.in:9899/gospeltv/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://gospeltvindia.com/",
     "launched": null,
     "closed": null
   },
@@ -164428,32 +164424,6 @@
     "closed": null
   },
   {
-    "id": "GSTV.in",
-    "name": "GS TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/VCKeGFj.png",
-    "stream_url": "https://cdn-4.pishow.tv/live/1462/master.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.gstv.in/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "GSTV.jp",
     "name": "GSTV",
     "alt_names": [],
@@ -164581,78 +164551,6 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "GTCPunjabi.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "1836",
-      "site_name": "GTC Punjabi",
-      "lang": "en",
-      "sources": []
-    },
-    "website": null,
-    "launched": "2025-12-10",
-    "closed": null
-  },
-  {
-    "id": "GTCPunjabi.in",
-    "name": "GTC Punjabi",
-    "alt_names": [],
-    "network": "GTC Network",
-    "owners": [
-      "Galactic Television & Communications Pvt Ltd."
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://media.thegtcnetwork.com/uploads/gtc-pujabin-s.jpg",
-    "stream_url": "http://103.213.31.109:90/FilmachiBhojpuri/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "GTCPunjabi.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "1836",
-      "site_name": "GTC Punjabi",
-      "lang": "en",
-      "sources": []
-    },
-    "website": null,
-    "launched": "2025-12-10",
-    "closed": null
-  },
-  {
-    "id": "GTCPunjabi.in",
-    "name": "GTC Punjabi",
-    "alt_names": [],
-    "network": "GTC Network",
-    "owners": [
-      "Galactic Television & Communications Pvt Ltd."
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://media.thegtcnetwork.com/uploads/gtc-pujabin-s.jpg",
-    "stream_url": "http://103.175.73.12:8080/live/772/master.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "GTCPunjabi.in",
@@ -168034,42 +167932,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143102_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://103.175.73.12:8080/live/259/master.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "HareKrsnaTV.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "837",
-      "site_name": "Hare Krsna",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.harekrsnatv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "HareKrsnaTV.in",
-    "name": "Hare Krsna TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Hare Krsna Content Broadcast Pvt. Ltd."
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143102_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://mumt05.tangotv.in/87NeALx2HAREKRSNA/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -168605,6 +168467,102 @@
     },
     "website": "https://haunt-tv.com/",
     "launched": "2020-12-16",
+    "closed": null
+  },
+  {
+    "id": "HBOHits.us",
+    "name": "HBO Hits",
+    "alt_names": [
+      "HBO2",
+      "HBO Plus East"
+    ],
+    "network": "HBO",
+    "owners": [
+      "Home Box Office Inc.",
+      "Warner Bros. Discovery Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg",
+    "stream_url": "http://tvsen7.aynascope.net/hbo2/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.hbo.com/",
+    "launched": "2025-09-04",
+    "closed": null
+  },
+  {
+    "id": "HBOHits.us",
+    "name": "HBO Hits",
+    "alt_names": [
+      "HBO2",
+      "HBO Plus East"
+    ],
+    "network": "HBO",
+    "owners": [
+      "Home Box Office Inc.",
+      "Warner Bros. Discovery Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg",
+    "stream_url": "http://4.30.180.36:8420/hbo2/index.m3u8?token=test",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.hbo.com/",
+    "launched": "2025-09-04",
+    "closed": null
+  },
+  {
+    "id": "HBOMovies.us",
+    "name": "HBO Movies",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Home Box Office Inc.",
+      "Warner Bros. Discovery Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.hbo.com/2025-09/HBO_Movies_Plex_Logo_bw.svg",
+    "stream_url": "http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.hbo.com/",
+    "launched": "2025-09-04",
     "closed": null
   },
   {
@@ -170224,32 +170182,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/bnST6y5.png",
-    "stream_url": "http://103.175.73.12:8080/live/713/master.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "HiDost.in",
-    "name": "Hi Dost!",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/bnST6y5.png",
     "stream_url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -171348,6 +171280,32 @@
     "closed": null
   },
   {
+    "id": "History2Ukraine.ua",
+    "name": "History2 Ukraine",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/960px-History2_logo_%282022%29.svg.png",
+    "stream_url": "http://dtv.vol.net.ua/H2-HD/index.m3u8",
+    "stream_quality": "360p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "History.bg",
     "name": "History",
     "alt_names": [],
@@ -172355,17 +172313,13 @@
     "closed": null
   },
   {
-    "id": "HistoryTV18.in",
-    "name": "History TV18",
+    "id": "HistoryUkraine.ua",
+    "name": "History Ukraine",
     "alt_names": [],
-    "network": "Network18",
-    "owners": [
-      "AETN18 Media Pvt. Ltd.",
-      "Network18 Media & Investments Ltd",
-      "A+E Networks"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
+    "network": null,
+    "owners": [],
+    "country_code": "UA",
+    "country_name": "Ukraine",
     "subdivision": null,
     "city": null,
     "categories": [
@@ -172373,23 +172327,15 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://103.72.101.252:8080/live/1471.m3u8",
-    "stream_quality": "576p",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/960px-History_%282021%29.svg.png",
+    "stream_url": "http://dtv.vol.net.ua/History_HD/index.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "HistoryTV18.in",
-      "feed": "HD",
-      "site": "tataplay.com",
-      "site_id": "616",
-      "site_name": "History TV18 HD",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.historyindia.com/",
-    "launched": "2011-10-09",
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
     "closed": null
   },
   {
@@ -173638,40 +173584,6 @@
       "sources": []
     },
     "website": "https://www.hmtvlive.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "HNN24x7.in",
-    "name": "HNN 24x7",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCVaHnXsaEt_m9s71ZRgHMPUckFZ8cW87J-AsQh0Q6pA&s",
-    "stream_url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "HNN24x7.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "1267",
-      "site_name": "HNN News",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://hnn24x7.com/",
     "launched": null,
     "closed": null
   },
@@ -182206,43 +182118,6 @@
     "closed": null
   },
   {
-    "id": "IndiaNewsMadhyaPradeshChhattisgarh.in",
-    "name": "India News Madhya Pradesh/Chhattisgarh",
-    "alt_names": [],
-    "network": "iTV Network",
-    "owners": [
-      "Information TV Private Limited",
-      "Kartikeya Sharma"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/3IoC5QR.png",
-    "stream_url": "https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "IndiaNewsMadhyaPradeshChhattisgarh.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "222",
-      "site_name": "India News MP CG",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.indiatvnews.com/cms/contact-us",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "IndiaToday.in",
     "name": "India Today",
     "alt_names": [],
@@ -182448,44 +182323,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143199_ld_h15_aa.png?lock=720x540",
-    "stream_url": "https://cdn-2.pishow.tv/live/1043/master.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "IndiaTV.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "104",
-      "site_name": "India TV",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.indiatvnews.com/",
-    "launched": "2004-05-20",
-    "closed": null
-  },
-  {
-    "id": "IndiaTV.in",
-    "name": "India TV",
-    "alt_names": [
-      "इंडिया टी.वी."
-    ],
-    "network": null,
-    "owners": [
-      "Independent News Service Pvt Ltd (INSPL)"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143199_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://streams.tangotv.in/INDIATV/ORIGIN/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -182594,42 +182431,6 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "IndiaTVSpeedNews.in",
-      "feed": "HD",
-      "site": "tataplay.com",
-      "site_id": "1407",
-      "site_name": "India TV Speed News HD",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.indiatvspeednews.com/livetv",
-    "launched": "2024-09-05",
-    "closed": null
-  },
-  {
-    "id": "IndiaTVSpeedNews.in",
-    "name": "India TV Speed News",
-    "alt_names": [],
-    "network": "India TV",
-    "owners": [
-      "Independent News Service Pvt Ltd (INSPL)"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Speed_News.png",
-    "stream_url": "https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/master.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
-    "referrer": "https://www.indiatvspeednews.com/",
     "tv_guide": {
       "channel": "IndiaTVSpeedNews.in",
       "feed": "HD",
@@ -184019,32 +183820,6 @@
       "sources": []
     },
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Insync.in",
-    "name": "Insync",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/fAJdazJ.png",
-    "stream_url": "http://103.175.73.12:8080/live/160/master.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.insyncmusic.net/",
     "launched": null,
     "closed": null
   },
@@ -186756,42 +186531,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s143212_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://ptuf.ridsys.in/riptv/live/KALAIGNAR_ISAI_ARUVI/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "IsaiAruvi.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "647",
-      "site_name": "Isaiaruvi",
-      "lang": "en",
-      "sources": []
-    },
-    "website": null,
-    "launched": "2008-02-22",
-    "closed": null
-  },
-  {
-    "id": "IsaiAruvi.in",
-    "name": "Isai Aruvi",
-    "alt_names": [],
-    "network": "Kalaignar TV",
-    "owners": [
-      "Kalaignar TV Private Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143212_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8",
     "stream_quality": "396p",
     "stream_format": null,
@@ -186938,42 +186677,6 @@
     "logo": "https://dtil.tmsimg.com/assets/s143213_ld_h9_aa.png?lock=720x540",
     "stream_url": "https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "IshwarBhaktiTV.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "594",
-      "site_name": "Ishwar TV",
-      "lang": "en",
-      "sources": []
-    },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "IshwarBhaktiTV.in",
-    "name": "Ishwar Bhakti TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Crystal Business System Ltd"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "religious"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143213_ld_h9_aa.png?lock=720x540",
-    "stream_url": "https://cdn-2.pishow.tv/live/1464/master.m3u8",
-    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -189011,40 +188714,6 @@
     "logo": "https://dtil.tmsimg.com/assets/s143221_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8",
     "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "JanamTV.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "270",
-      "site_name": "Janam TV",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://janamtv.com/",
-    "launched": "2015-04-19",
-    "closed": null
-  },
-  {
-    "id": "JanamTV.in",
-    "name": "Janam TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143221_ld_h15_aa.png?lock=720x540",
-    "stream_url": "https://cdn-3.pishow.tv/live/1466/master.m3u8",
-    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -192238,42 +191907,6 @@
     "closed": null
   },
   {
-    "id": "JMovie.in",
-    "name": "J Movie",
-    "alt_names": [
-      "Jaya Movie"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143215_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://103.72.101.252:8080/live/417.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "JMovie.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "201",
-      "site_name": "J Movies",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://jayamovies.jayatvnetwork.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "JN19.pe",
     "name": "JN 19",
     "alt_names": [],
@@ -192701,36 +192334,6 @@
     },
     "website": "https://pluto.tv/en/live-tv/johnny-carson-tv",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "JOJGDTV.jp",
-    "name": "JOJG-DTV",
-    "alt_names": [
-      "NHK総合テレビジョン"
-    ],
-    "network": "NHK G",
-    "owners": [
-      "日本放送協会"
-    ],
-    "country_code": "JP",
-    "country_name": "Japan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/fAZ2BEZ.png",
-    "stream_url": "https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8",
-    "stream_quality": "1080i",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.nhk.or.jp/yamagata/",
-    "launched": "2005-12-01",
     "closed": null
   },
   {
@@ -208499,46 +208102,6 @@
     "tv_guide": null,
     "website": "https://www.lamorerockshowwebtv.com.br/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "LaNacionPlus.ar",
-    "name": "La Nacion +",
-    "alt_names": [
-      "La Nación +",
-      "La Nación Más",
-      "LN+"
-    ],
-    "network": null,
-    "owners": [
-      "La Nación"
-    ],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Gj1kqH5.png",
-    "stream_url": "http://playcom.trapemn.tv:1935/transcoderip/lanacionplus.stream/playlist.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "LaNacionPlus.ar",
-      "feed": "SD",
-      "site": "programacion.tcc.com.uy",
-      "site_id": "417",
-      "site_name": "La Nacion",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "http://lnmas.lanacion.com.ar/",
-    "launched": "2016-11-07",
     "closed": null
   },
   {
@@ -236482,42 +236045,6 @@
     "closed": null
   },
   {
-    "id": "MoreMax.us",
-    "name": "MoreMax",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Warner Bros. Discovery Inc."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/960px-MoreMax_Logo.svg.png",
-    "stream_url": "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MoreMax.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "16620",
-      "site_name": "MoreMax West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.cinemax.com/",
-    "launched": "1998-01-01",
-    "closed": null
-  },
-  {
     "id": "MorePlutoTVComedy.us",
     "name": "More Pluto TV Comedy",
     "alt_names": [],
@@ -241070,43 +240597,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
     "stream_url": "https://tvsen6.aynaott.com/mtv/index.m3u8",
     "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MTV.us",
-      "feed": "East",
-      "site": "tvtv.us",
-      "site_id": "10986",
-      "site_name": "MTV East",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.mtv.com/",
-    "launched": "1981-08-01",
-    "closed": null
-  },
-  {
-    "id": "MTV.us",
-    "name": "MTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
-    "stream_url": "http://5.254.89.106/6199/index.m3u8",
-    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -373739,6 +373229,81 @@
     "closed": null
   },
   {
+    "id": "SonyAath.in",
+    "name": "Sony Aath",
+    "alt_names": [],
+    "network": "Sony Pictures Networks",
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002YP08L.png?lock=720x540",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/aath.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyAath.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "34",
+      "site_name": "SONY AATH",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.aath.in/",
+    "launched": "2009-04-01",
+    "closed": null
+  },
+  {
+    "id": "SonyBBCEarth.in",
+    "name": "Sony BBC Earth",
+    "alt_names": [],
+    "network": "Sony Pictures Networks",
+    "owners": [
+      "BBC Earth",
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/bbcearthhd.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyBBCEarth.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "460",
+      "site_name": "SONY BBC Earth HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.bbcasia.com/channels/earth/",
+    "launched": "2017-03-06",
+    "closed": null
+  },
+  {
     "id": "SonyCanalNovelas.us",
     "name": "Sony Canal Novelas",
     "alt_names": [],
@@ -374260,6 +373825,43 @@
     "closed": null
   },
   {
+    "id": "SonyMarathi.in",
+    "name": "Sony Marathi",
+    "alt_names": [],
+    "network": "Sony Pictures Networks",
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s157970_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/marathi.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyMarathi.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "658",
+      "site_name": "Sony Marathi",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sonymarathi.com/",
+    "launched": "2018-08-19",
+    "closed": null
+  },
+  {
     "id": "SonyMax1.in",
     "name": "Sony Max 1",
     "alt_names": [],
@@ -374334,6 +373936,82 @@
     "closed": null
   },
   {
+    "id": "SonyMax2.in",
+    "name": "Sony Max 2",
+    "alt_names": [],
+    "network": "Sony Pictures Networks",
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/max2.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyMax2.in",
+      "feed": "SD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "2032",
+      "site_name": "SONY MAX2",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sonymax2.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SonyMax.in",
+    "name": "Sony Max",
+    "alt_names": [
+      "SET Max"
+    ],
+    "network": null,
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/maxhd.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyMax.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "80",
+      "site_name": "SONY MAX HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sonymax.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SonyMax.in",
     "name": "Sony Max",
     "alt_names": [
@@ -374356,6 +374034,45 @@
     "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
     "stream_url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyMax.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "80",
+      "site_name": "SONY MAX HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sonymax.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SonyMax.in",
+    "name": "Sony Max",
+    "alt_names": [
+      "SET Max"
+    ],
+    "network": null,
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/max.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -374964,6 +374681,43 @@
     "closed": null
   },
   {
+    "id": "SonyPal.in",
+    "name": "Sony Pal",
+    "alt_names": [],
+    "network": "Sony Pictures Networks",
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/pal.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyPal.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "554",
+      "site_name": "Sony Pal",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.sonypal.in/",
+    "launched": "2014-09-01",
+    "closed": null
+  },
+  {
     "id": "SonyPix.in",
     "name": "Sony Pix",
     "alt_names": [],
@@ -374998,6 +374752,490 @@
     },
     "website": "http://www.sonypix.com/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SonyPix.in",
+    "name": "Sony Pix",
+    "alt_names": [],
+    "network": "Sony Pictures Networks",
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/pixhd.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyPix.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "32",
+      "site_name": "SONY PIX HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.sonypix.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SonySAB.in",
+    "name": "Sony SAB",
+    "alt_names": [
+      "SAB TV"
+    ],
+    "network": "Sony Pictures Networks",
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/sabhd.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonySAB.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "48",
+      "site_name": "SONY SAB HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sabtv.com/en_in/",
+    "launched": "1999-04-23",
+    "closed": null
+  },
+  {
+    "id": "SonySportsTen1.in",
+    "name": "Sony Sports Ten 1",
+    "alt_names": [
+      "Sony Ten 1",
+      "Ten 1",
+      "Ten Sports"
+    ],
+    "network": "Sony Sports Network",
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonySportsTen1.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "81",
+      "site_name": "SONY SPORTS TEN 1 HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sonysportsnetwork.com/",
+    "launched": "2002-01-01",
+    "closed": null
+  },
+  {
+    "id": "SonySportsTen1.in",
+    "name": "Sony Sports Ten 1",
+    "alt_names": [
+      "Sony Ten 1",
+      "Ten 1",
+      "Ten Sports"
+    ],
+    "network": "Sony Sports Network",
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/ten1.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonySportsTen1.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "81",
+      "site_name": "SONY SPORTS TEN 1 HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sonysportsnetwork.com/",
+    "launched": "2002-01-01",
+    "closed": null
+  },
+  {
+    "id": "SonySportsTen2.in",
+    "name": "Sony Sports Ten 2",
+    "alt_names": [
+      "Sony Ten 2",
+      "Ten 2",
+      "Ten Action",
+      "Ten Action+"
+    ],
+    "network": "Sony Sports Network",
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/ten2hd.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonySportsTen2.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "462",
+      "site_name": "SONY SPORTS TEN 2 HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sonysportsnetwork.com/",
+    "launched": "2010-01-01",
+    "closed": null
+  },
+  {
+    "id": "SonySportsTen2.in",
+    "name": "Sony Sports Ten 2",
+    "alt_names": [
+      "Sony Ten 2",
+      "Ten 2",
+      "Ten Action",
+      "Ten Action+"
+    ],
+    "network": "Sony Sports Network",
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/ten2.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonySportsTen2.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "462",
+      "site_name": "SONY SPORTS TEN 2 HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sonysportsnetwork.com/",
+    "launched": "2010-01-01",
+    "closed": null
+  },
+  {
+    "id": "SonySportsTen3Hindi.in",
+    "name": "Sony Sports Ten 3 Hindi",
+    "alt_names": [
+      "Sony Sports Ten 3",
+      "Sony Ten 3",
+      "Ten 3",
+      "Ten Cricket"
+    ],
+    "network": "Sony Sports Network",
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonySportsTen3Hindi.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "464",
+      "site_name": "SONY SPORTS TEN 3 Hindi HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sonysportsnetwork.com/",
+    "launched": "2010-01-01",
+    "closed": null
+  },
+  {
+    "id": "SonySportsTen3Hindi.in",
+    "name": "Sony Sports Ten 3 Hindi",
+    "alt_names": [
+      "Sony Sports Ten 3",
+      "Sony Ten 3",
+      "Ten 3",
+      "Ten Cricket"
+    ],
+    "network": "Sony Sports Network",
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/ten3.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonySportsTen3Hindi.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "464",
+      "site_name": "SONY SPORTS TEN 3 Hindi HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sonysportsnetwork.com/",
+    "launched": "2010-01-01",
+    "closed": null
+  },
+  {
+    "id": "SonySportsTen4.in",
+    "name": "Sony Sports Ten 4",
+    "alt_names": [
+      "Sony Ten 4"
+    ],
+    "network": "Sony Sports Network",
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/SonyTen4Kan.png",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/ten4.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonySportsTen4.in",
+      "feed": "Kannada",
+      "site": "dishtv.in",
+      "site_id": "209012",
+      "site_name": "Sony Sports Ten 4 Kannada",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sonysportsnetwork.com/",
+    "launched": "2021-06-01",
+    "closed": null
+  },
+  {
+    "id": "SonySportsTen4.in",
+    "name": "Sony Sports Ten 4",
+    "alt_names": [
+      "Sony Ten 4"
+    ],
+    "network": "Sony Sports Network",
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/SonyTen4Kan.png",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonySportsTen4.in",
+      "feed": "Kannada",
+      "site": "dishtv.in",
+      "site_id": "209012",
+      "site_name": "Sony Sports Ten 4 Kannada",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sonysportsnetwork.com/",
+    "launched": "2021-06-01",
+    "closed": null
+  },
+  {
+    "id": "SonySportsTen5.in",
+    "name": "Sony Sports Ten 5",
+    "alt_names": [
+      "Sony Six",
+      "Sony Max HD"
+    ],
+    "network": "Sony Sports Network",
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonySportsTen5.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "35",
+      "site_name": "SONY SPORTS TEN 5 HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sonysportsnetwork.com/",
+    "launched": "2011-01-01",
+    "closed": null
+  },
+  {
+    "id": "SonySportsTen5.in",
+    "name": "Sony Sports Ten 5",
+    "alt_names": [
+      "Sony Six",
+      "Sony Max HD"
+    ],
+    "network": "Sony Sports Network",
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/ten5.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonySportsTen5.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "35",
+      "site_name": "SONY SPORTS TEN 5 HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sonysportsnetwork.com/",
+    "launched": "2011-01-01",
     "closed": null
   },
   {
@@ -375038,6 +375276,43 @@
     "closed": null
   },
   {
+    "id": "SonyWah.in",
+    "name": "Sony Wah",
+    "alt_names": [],
+    "network": "Sony Pictures Networks",
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/wah.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyWah.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "56",
+      "site_name": "Sony Wah",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sonywah.tv/",
+    "launched": "2016-05-08",
+    "closed": null
+  },
+  {
     "id": "SonyYay.in",
     "name": "Sony Yay!",
     "alt_names": [],
@@ -375059,6 +375334,44 @@
     "logo": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540",
     "stream_url": "http://103.165.93.31:8095/sonyYay/index.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyYay.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "45",
+      "site_name": "SONY YAY!",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.sonyyay.com/",
+    "launched": "2017-04-18",
+    "closed": null
+  },
+  {
+    "id": "SonyYay.in",
+    "name": "Sony Yay!",
+    "alt_names": [],
+    "network": "Sony Pictures Networks",
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -395470,7 +395783,7 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://tbc.go.tz/",
-    "launched": null,
+    "launched": "2000-03-15",
     "closed": null
   },
   {
@@ -395498,7 +395811,7 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://tbc.go.tz/",
-    "launched": null,
+    "launched": "2000-03-15",
     "closed": null
   },
   {
@@ -397773,6 +398086,42 @@
     "closed": null
   },
   {
+    "id": "Teleantioquia.co",
+    "name": "Teleantioquia",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Gobernación de Antioquia"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6WMV2Az.png",
+    "stream_url": "https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Teleantioquia.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "580",
+      "site_name": "TELEANTIOQUIA",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.teleantioquia.co/",
+    "launched": "1985-08-11",
+    "closed": null
+  },
+  {
     "id": "TeleAragua.ve",
     "name": "TeleAragua",
     "alt_names": [],
@@ -399231,42 +399580,6 @@
     "closed": null
   },
   {
-    "id": "Telefe.ar",
-    "name": "Telefe",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Grupo Televisión Litoral"
-    ],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
-    "stream_url": "http://201.190.41.246:8822/play/a036/index.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Telefe.ar",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "ar#telefe",
-      "site_name": "Telefe",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://telefe.com/",
-    "launched": "1990-03-05",
-    "closed": null
-  },
-  {
     "id": "TeleFeBolivia.bo",
     "name": "Tele Fe Bolivia",
     "alt_names": [],
@@ -399380,40 +399693,6 @@
     },
     "website": "http://telefeinternacional.com.ar/",
     "launched": "1998-01-01",
-    "closed": null
-  },
-  {
-    "id": "TelefeRosario.ar",
-    "name": "Telefe Rosario",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Grupo Televisión Litoral"
-    ],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/960px-Telefe_Rosario_%282018%29.png",
-    "stream_url": "https://cdn-cirion01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TelefeRosario.ar",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "ar#telefe-rosario",
-      "site_name": "Telefe Rosario",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "http://rosario.telefe.com/",
-    "launched": null,
     "closed": null
   },
   {
@@ -403235,6 +403514,42 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ZzeZKCu.png",
     "stream_url": "https://cdn3.wind.do/streams/telesistema/telesistema_master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Telesistema11.do",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "telesistema_11",
+      "site_name": "Canal Telesistema 11 (República Dominicana)",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://telesistema11.com.do/",
+    "launched": "1974-03-13",
+    "closed": null
+  },
+  {
+    "id": "Telesistema11.do",
+    "name": "Telesistema 11",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Corripio"
+    ],
+    "country_code": "DO",
+    "country_name": "Dominican Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ZzeZKCu.png",
+    "stream_url": "https://cdn4.wind.do/streams/telesistema/telesistema_master.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

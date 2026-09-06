@@ -5597,6 +5597,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/L1h6W5Q.png",
+    "stream_url": "https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AMCenEspanol.us",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "62d1efa6c33948ea4ceedbcf",
+      "site_name": "AMC en Español",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://watch.plex.tv/live-tv/channel/amc-en-espanol",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AMCenEspanol.us",
+    "name": "AMC en Espanol",
+    "alt_names": [
+      "AMC en Español"
+    ],
+    "network": "AMC",
+    "owners": [
+      "AMC Networks Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/L1h6W5Q.png",
     "stream_url": "https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -7827,6 +7865,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.actvus.com",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AspireTVLife.us",
+    "name": "Aspire TV Life",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "UP Entertainment"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://press.upentertainment.com/wp-content/uploads/2022/03/aspire-tv-life-logo.jpg",
+    "stream_url": "https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -18816,8 +18882,8 @@
     "closed": null
   },
   {
-    "id": "CinemaxLatino.us",
-    "name": "Cinemax Latino",
+    "id": "CinemaxClassics.us",
+    "name": "Cinemax Classics",
     "alt_names": [],
     "network": null,
     "owners": [
@@ -18827,18 +18893,48 @@
     "country_name": "United States",
     "subdivision": null,
     "city": null,
-    "categories": [],
+    "categories": [
+      "movies"
+    ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.ibb.co/4w27VFFr/IMG-2468.png",
-    "stream_url": "https://streamer.metronethn.com/Cinemax/index.m3u8",
-    "stream_quality": "480p",
+    "logo": "https://static.hbo.com/2025-09/Cinemax_Classics_Plex_Logo_bw.svg",
+    "stream_url": "http://23.237.104.106:8080/USA_5STARMAX/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "user_agent": null,
     "referrer": null,
     "tv_guide": null,
     "website": "http://www.cinemax.com/",
-    "launched": null,
+    "launched": "2025-09-04",
+    "closed": null
+  },
+  {
+    "id": "CinemaxHits.us",
+    "name": "Cinemax Hits",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Warner Bros. Discovery Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.hbo.com/2025-09/Cinemax_Hits_Plex_Logo_bw.svg",
+    "stream_url": "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.cinemax.com/",
+    "launched": "2025-09-04",
     "closed": null
   },
   {
@@ -28607,7 +28703,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png",
+    "logo": "https://imgx.fubo.tv/station_logos/espn-hd-deportes_c.png",
     "stream_url": "http://168.228.44.241:9998/play/a0dz/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -37813,6 +37909,102 @@
     "tv_guide": null,
     "website": null,
     "launched": "2026-04-13",
+    "closed": null
+  },
+  {
+    "id": "HBOHits.us",
+    "name": "HBO Hits",
+    "alt_names": [
+      "HBO2",
+      "HBO Plus East"
+    ],
+    "network": "HBO",
+    "owners": [
+      "Home Box Office Inc.",
+      "Warner Bros. Discovery Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg",
+    "stream_url": "http://tvsen7.aynascope.net/hbo2/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.hbo.com/",
+    "launched": "2025-09-04",
+    "closed": null
+  },
+  {
+    "id": "HBOHits.us",
+    "name": "HBO Hits",
+    "alt_names": [
+      "HBO2",
+      "HBO Plus East"
+    ],
+    "network": "HBO",
+    "owners": [
+      "Home Box Office Inc.",
+      "Warner Bros. Discovery Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg",
+    "stream_url": "http://4.30.180.36:8420/hbo2/index.m3u8?token=test",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.hbo.com/",
+    "launched": "2025-09-04",
+    "closed": null
+  },
+  {
+    "id": "HBOMovies.us",
+    "name": "HBO Movies",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Home Box Office Inc.",
+      "Warner Bros. Discovery Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.hbo.com/2025-09/HBO_Movies_Plex_Logo_bw.svg",
+    "stream_url": "http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.hbo.com/",
+    "launched": "2025-09-04",
     "closed": null
   },
   {
@@ -49860,42 +50052,6 @@
     "closed": null
   },
   {
-    "id": "MoreMax.us",
-    "name": "MoreMax",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Warner Bros. Discovery Inc."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/960px-MoreMax_Logo.svg.png",
-    "stream_url": "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MoreMax.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "16620",
-      "site_name": "MoreMax West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.cinemax.com/",
-    "launched": "1998-01-01",
-    "closed": null
-  },
-  {
     "id": "MorePlutoTVComedy.us",
     "name": "More Pluto TV Comedy",
     "alt_names": [],
@@ -50970,43 +51126,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
     "stream_url": "https://tvsen6.aynaott.com/mtv/index.m3u8",
     "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MTV.us",
-      "feed": "East",
-      "site": "tvtv.us",
-      "site_id": "10986",
-      "site_name": "MTV East",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.mtv.com/",
-    "launched": "1981-08-01",
-    "closed": null
-  },
-  {
-    "id": "MTV.us",
-    "name": "MTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
-    "stream_url": "http://5.254.89.106/6199/index.m3u8",
-    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

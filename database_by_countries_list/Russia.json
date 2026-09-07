@@ -5217,6 +5217,39 @@
     "closed": null
   },
   {
+    "id": "DetvoraPlus.ru",
+    "name": "Detvora+",
+    "alt_names": [
+      "ДетвораПлюс",
+      " DetvoraPlus"
+    ],
+    "network": "InterraMedia",
+    "owners": [
+      "InterraMedia"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids",
+      "family"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://interra-cdn-europe1.b-cdn.net/logo-detvora.png",
+    "stream_url": "https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://smotret-tv.org/ru/channel/detvora-plus",
+    "launched": "2026-08-20",
+    "closed": null
+  },
+  {
     "id": "Dikayaokhota.ru",
     "name": "Dikaya okhota",
     "alt_names": [
@@ -7995,7 +8028,7 @@
       "sources": []
     },
     "website": "https://www.red-media.ru/company/channels/81834/",
-    "launched": "2007-07-14",
+    "launched": "2023-01-01",
     "closed": null
   },
   {
@@ -8034,7 +8067,7 @@
       "sources": []
     },
     "website": "https://www.red-media.ru/company/channels/81834/",
-    "launched": "2007-07-14",
+    "launched": "2023-01-01",
     "closed": null
   },
   {
@@ -15138,6 +15171,42 @@
     "closed": "2022-10-01"
   },
   {
+    "id": "NationalGeographic.ru",
+    "name": "National Geographic",
+    "alt_names": [
+      "National Geographic Россия"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "stream_url": "http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalGeographic.ru",
+      "feed": "SD",
+      "site": "teliatv.ee",
+      "site_id": "ru#19",
+      "site_name": "National Geographic",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://www.natgeotv.com/ru",
+    "launched": null,
+    "closed": "2022-10-01"
+  },
+  {
     "id": "NationalGeographicWild.ru",
     "name": "National Geographic Wild",
     "alt_names": [
@@ -15197,44 +15266,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
     "stream_url": "https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv",
     "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NationalGeographicWild.ru",
-      "feed": "SD",
-      "site": "teliatv.ee",
-      "site_id": "ru#79",
-      "site_name": "Nat Geo Wild",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "http://natgeotv.com/ru/wild",
-    "launched": null,
-    "closed": "2022-10-01"
-  },
-  {
-    "id": "NationalGeographicWild.ru",
-    "name": "National Geographic Wild",
-    "alt_names": [
-      "National Geographic Wild Россия"
-    ],
-    "network": null,
-    "owners": [
-      "National Geographic Society"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
-    "stream_url": "http://dtv.vol.net.ua/Nat-Geo-Wild-HD/index.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -39045,6 +39076,254 @@
     },
     "website": "http://usadba.tv/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VelvetEuropeanMovies.ru",
+    "name": "Velvet. European Movies",
+    "alt_names": [
+      "Velvet. Европейское кино"
+    ],
+    "network": "InterraMedia",
+    "owners": [
+      "InterraMedia"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "family"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://antiabuse-container.b-cdn.net/eurkino.png",
+    "stream_url": "https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://interramedia.co/channels/velveteurkinohd",
+    "launched": "2026-08-20",
+    "closed": null
+  },
+  {
+    "id": "VelvetGoldenCollection.ru",
+    "name": "Velvet. Golden Collection",
+    "alt_names": [
+      "Velvet. Золотая коллекция"
+    ],
+    "network": "VXDGroup",
+    "owners": [
+      "VXDGroup"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "classic"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://interra-cdn-europe1.b-cdn.net/zolo.png",
+    "stream_url": "https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://smotret-tv.org/ru/channel/velvet-zolotaya-kollektsiya-hd",
+    "launched": "2026-08-20",
+    "closed": null
+  },
+  {
+    "id": "VelvetMentovskiyeSerialy.ru",
+    "name": "Velvet. Mentovskiye Serialy",
+    "alt_names": [
+      "Velvet. Ментовские сериалы"
+    ],
+    "network": "InterraMedia",
+    "owners": [
+      "InterraMedia"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://interra-cdn-europe1.b-cdn.net/ment.png",
+    "stream_url": "https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://smotret-tv.org/ru/channel/velvet-mentovskie-serialy-hd",
+    "launched": "2026-08-20",
+    "closed": null
+  },
+  {
+    "id": "VelvetScary.ru",
+    "name": "Velvet. Scary",
+    "alt_names": [
+      "Velvet. Ужасы"
+    ],
+    "network": "InterraMedia",
+    "owners": [
+      "InterraMedia"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://antiabuse-container.b-cdn.net/uzh1.png",
+    "stream_url": "https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://interramedia.co/channels/velvetuzhasyhd",
+    "launched": "2026-08-20",
+    "closed": null
+  },
+  {
+    "id": "VelvetSeriesHits.ru",
+    "name": "Velvet. Series Hits",
+    "alt_names": [
+      "Velvet. Сериалы Хиты"
+    ],
+    "network": "InterraMedia",
+    "owners": [
+      "InterraMedia"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series",
+      "comedy",
+      "family"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://antiabuse-container.b-cdn.net/serialyhity.png",
+    "stream_url": "https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://interramedia.co/channels/serialyhityhd",
+    "launched": "2026-08-20",
+    "closed": null
+  },
+  {
+    "id": "VelvetSovetskoeKino.ru",
+    "name": "Velvet. Sovetskoe Kino",
+    "alt_names": [
+      "Velvet. Советское кино"
+    ],
+    "network": "InterraMedia",
+    "owners": [
+      "InterraMedia"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "classic",
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://interra-cdn-europe1.b-cdn.net/soviet.png",
+    "stream_url": "https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://smotret-tv.org/ru/channel/velvet-sovetskoe-kino-hd",
+    "launched": "2026-08-20",
+    "closed": null
+  },
+  {
+    "id": "VelvetSvaty.ru",
+    "name": "Velvet. Svaty",
+    "alt_names": [
+      "Velvet. Сваты"
+    ],
+    "network": "InterraMedia",
+    "owners": [
+      "InterraMedia"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series",
+      "family"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://interra-cdn-europe1.b-cdn.net/svatyv.png",
+    "stream_url": "https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://smotret-tv.org/ru/channel/velvet-svaty",
+    "launched": "2026-08-20",
+    "closed": null
+  },
+  {
+    "id": "VelvetWorldSeries.ru",
+    "name": "Velvet. World Series",
+    "alt_names": [
+      "Velvet. Мировые сериалы"
+    ],
+    "network": "InterraMedia",
+    "owners": [
+      "InterraMedia"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series",
+      "comedy",
+      "family"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://antiabuse-container.b-cdn.net/mirseriallogo.png",
+    "stream_url": "https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://interramedia.co/channels/mirserialhd",
+    "launched": "2026-08-20",
     "closed": null
   },
   {

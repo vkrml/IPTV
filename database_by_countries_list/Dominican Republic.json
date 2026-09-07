@@ -5828,42 +5828,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ZzeZKCu.png",
-    "stream_url": "https://cdn3.wind.do/streams/telesistema/telesistema_master.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Telesistema11.do",
-      "feed": "SD",
-      "site": "gatotv.com",
-      "site_id": "telesistema_11",
-      "site_name": "Canal Telesistema 11 (República Dominicana)",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://telesistema11.com.do/",
-    "launched": "1974-03-13",
-    "closed": null
-  },
-  {
-    "id": "Telesistema11.do",
-    "name": "Telesistema 11",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Grupo Corripio"
-    ],
-    "country_code": "DO",
-    "country_name": "Dominican Republic",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ZzeZKCu.png",
     "stream_url": "https://cdn4.wind.do/streams/telesistema/telesistema_master.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -5973,6 +5937,40 @@
       "sources": []
     },
     "website": "http://teleuniontvrd.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Teleuniverso.do",
+    "name": "Teleuniverso",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "DO",
+    "country_name": "Dominican Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/gQev8ST.png",
+    "stream_url": "https://hls.tvabierta.net/hls/029.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Teleuniverso.do",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "29_republica_dominicana",
+      "site_name": "Canal 29 de TeleUniverso (República Dominicana)",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://teleuniversotv.com/",
     "launched": null,
     "closed": null
   },

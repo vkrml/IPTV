@@ -390,6 +390,42 @@
     "closed": null
   },
   {
+    "id": "B1.ro",
+    "name": "B1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "B1 TV Channel SRL"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/B1_TV_logo.svg/960px-B1_TV_logo.svg.png",
+    "stream_url": "https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "B1.ro",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#b1-tv",
+      "site_name": "B1 TV",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "https://b1.ro/",
+    "launched": "2001-12-14",
+    "closed": null
+  },
+  {
     "id": "BollywoodClassic.ro",
     "name": "Bollywood Classic",
     "alt_names": [
@@ -1549,6 +1585,35 @@
     "closed": null
   },
   {
+    "id": "Minimax.ro",
+    "name": "Minimax",
+    "alt_names": [],
+    "network": "AMC GLOBAL MEDIA",
+    "owners": [
+      "AMC GLOBAL MEDIA"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/ba/Minimax_2021.svg",
+    "stream_url": "https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://cool-tv.net/",
+    "tv_guide": null,
+    "website": "https://minimaxro.tv/",
+    "launched": "2001-06-01",
+    "closed": null
+  },
+  {
     "id": "Mireasa.ro",
     "name": "Mireasa",
     "alt_names": [],
@@ -1668,6 +1733,46 @@
     "closed": null
   },
   {
+    "id": "National24Plus.ro",
+    "name": "National 24 Plus",
+    "alt_names": [
+      "Național 24 Plus",
+      "N24 Plus",
+      "N24"
+    ],
+    "network": null,
+    "owners": [
+      "Centrul Național Media"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/VxBdga3.png",
+    "stream_url": "https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "National24Plus.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "national-24-plus",
+      "site_name": "National 24 Plus",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.n24plus.ro/",
+    "launched": "2004-08-30",
+    "closed": null
+  },
+  {
     "id": "NationalGeographic.ro",
     "name": "National Geographic",
     "alt_names": [
@@ -1737,6 +1842,44 @@
     },
     "website": "http://www.natgeowild.ro/",
     "launched": "2009-07-01",
+    "closed": null
+  },
+  {
+    "id": "NationalTV.ro",
+    "name": "National TV",
+    "alt_names": [
+      "Național TV"
+    ],
+    "network": null,
+    "owners": [
+      "Centrul Național Media"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KHzUIwG.png",
+    "stream_url": "https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "national-tv",
+      "site_name": "National TV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.nationaltv.ro/",
+    "launched": null,
     "closed": null
   },
   {

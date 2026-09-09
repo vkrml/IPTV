@@ -5607,6 +5607,37 @@
     "closed": null
   },
   {
+    "id": "SuspilneDonbas.ua",
+    "name": "Suspilne. Donbas",
+    "alt_names": [
+      "Суспільне. Донбас",
+      "UΛ: Донбасс"
+    ],
+    "network": null,
+    "owners": [
+      "National Public Television and Radio Company of Ukraine"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/GPXrpJC.png",
+    "stream_url": "http://hls127.freeott.top:8080/UA_DONBAS/video.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://dn.suspilne.media/",
+    "launched": "2018-01-16",
+    "closed": null
+  },
+  {
     "id": "SuspilneKrym.ua",
     "name": "Suspilne. Krym",
     "alt_names": [
@@ -6426,6 +6457,32 @@
     "closed": null
   },
   {
+    "id": "UPLTV.ua",
+    "name": "UPL.TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://s4.vcdn.biz/static/f/9219528031/image.jpg",
+    "stream_url": "http://dtv.vol.net.ua/UPL-TV/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ViasatExplore.ua",
     "name": "Viasat Explore",
     "alt_names": [],
@@ -6526,6 +6583,44 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/io0WAkA.png",
     "stream_url": "http://176.61.157.250/TV1000/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ViasatKino.ua",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "tv1000-cee",
+      "site_name": "Viasat Kino",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://viasat.com.ua/channel/ViasatKinohd",
+    "launched": "2003-03-06",
+    "closed": null
+  },
+  {
+    "id": "ViasatKino.ua",
+    "name": "Viasat Kino",
+    "alt_names": [
+      "TV1000 East"
+    ],
+    "network": null,
+    "owners": [
+      "Viasat Ukraine"
+    ],
+    "country_code": "UA",
+    "country_name": "Ukraine",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/io0WAkA.png",
+    "stream_url": "http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

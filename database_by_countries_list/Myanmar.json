@@ -139,34 +139,6 @@
     "closed": null
   },
   {
-    "id": "FortuneTV.mm",
-    "name": "Fortune TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Fortune Group"
-    ],
-    "country_code": "MM",
-    "country_name": "Myanmar",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/MM5evnD.png",
-    "stream_url": "https://mmtvs.exliatycl.online/fortunetv/stream.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": "2019-02-16",
-    "closed": null
-  },
-  {
     "id": "HluttawSD.mm",
     "name": "Hluttaw S & D",
     "alt_names": [],
@@ -531,6 +503,36 @@
     "tv_guide": null,
     "website": "http://www.myawady.net.mm/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MyanmarInternationalTV.mm",
+    "name": "Myanmar International TV",
+    "alt_names": [
+      "မြန်မာအင်တာနေရှင်နယ်ရုပ်သံလိုင်း"
+    ],
+    "network": null,
+    "owners": [
+      "Ministry of Information"
+    ],
+    "country_code": "MM",
+    "country_name": "Myanmar",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ClmWqE5.png",
+    "stream_url": "https://mrtvott.com/cache/MITV/master.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.myanmaritv.com/",
+    "launched": "2001-08-01",
     "closed": null
   }
 ]

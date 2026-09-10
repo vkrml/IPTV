@@ -5007,7 +5007,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/9/93/24_News_HD_Logo.png",
+    "logo": "https://i.imgur.com/IH6AaWm.jpeg",
     "stream_url": "https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -13395,9 +13395,7 @@
   {
     "id": "ADOTV.bj",
     "name": "ADO TV",
-    "alt_names": [
-      "Bénin TV Juniors"
-    ],
+    "alt_names": [],
     "network": null,
     "owners": [
       "Societé de Radio et de Télévision du Bénin"
@@ -13421,7 +13419,7 @@
     "tv_guide": null,
     "website": "https://srtb.bj/directbenintvjuniors/",
     "launched": "2013-01-31",
-    "closed": null
+    "closed": "2023-01-31"
   },
   {
     "id": "AdrenalinaPuraTV.us",
@@ -24630,6 +24628,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+    "stream_url": "http://hls127.freeott.top:8080/BG_AMC/video.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AMCEurope.uk",
+      "feed": "Hungary",
+      "site": "tvprofil.com",
+      "site_id": "hu/tvmusor#amc-hu",
+      "site_name": "AMC HU",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "https://uk.amc.com/",
+    "launched": "2015-08-28",
+    "closed": null
+  },
+  {
+    "id": "AMCEurope.uk",
+    "name": "AMC Europe",
+    "alt_names": [],
+    "network": "AMC Networks International UK",
+    "owners": [
+      "AMC Networks Inc."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
     "stream_url": "http://88.212.15.19/live/test_amc_25p/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -31898,44 +31932,6 @@
     "closed": null
   },
   {
-    "id": "ArenaSport1.ba",
-    "name": "Arena Sport 1",
-    "alt_names": [
-      "Arena Sport 1 Bosna i Hercegovina"
-    ],
-    "network": null,
-    "owners": [
-      "Telekom Srbjia"
-    ],
-    "country_code": "BA",
-    "country_name": "Bosnia and Herzegovina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/RJrJGbW.png",
-    "stream_url": "https://nl1.nghk.ai/ArenaSport1BH/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ArenaSport1.ba",
-      "feed": "SD",
-      "site": "tvprofil.com",
-      "site_id": "ba/tvprogram#arena-sport-1-ba",
-      "site_name": "Arena Sport 1 BiH",
-      "lang": "hr",
-      "sources": []
-    },
-    "website": "https://www.tvarenasport.com/ba",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "ArenaSport1.hr",
     "name": "Arena Sport 1",
     "alt_names": [
@@ -31971,44 +31967,6 @@
     },
     "website": "http://www.tvarenasport.hr/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ArenaSport1.rs",
-    "name": "Arena Sport 1",
-    "alt_names": [
-      "Arena Sport 1 Srbija"
-    ],
-    "network": null,
-    "owners": [
-      "Telekom Srbjia"
-    ],
-    "country_code": "RS",
-    "country_name": "Serbia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/RJrJGbW.png",
-    "stream_url": "https://nl1.nghk.ai/ArenaSport1HD/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ArenaSport1.rs",
-      "feed": "SD",
-      "site": "tvprofil.com",
-      "site_id": "rs/tvprogram#tv-arena-sport-1",
-      "site_name": "Arena Sport 1 RS",
-      "lang": "hr",
-      "sources": []
-    },
-    "website": "https://www.tvarenasport.com/",
-    "launched": "2009-01-01",
     "closed": null
   },
   {
@@ -32083,36 +32041,6 @@
     },
     "website": "https://www.tvarenasport.com/",
     "launched": "2009-01-01",
-    "closed": null
-  },
-  {
-    "id": "ArenaSport2.ba",
-    "name": "Arena Sport 2",
-    "alt_names": [
-      "Arena Sport 2 Bosna i Hercegovina"
-    ],
-    "network": null,
-    "owners": [
-      "Telekom Srbjia"
-    ],
-    "country_code": "BA",
-    "country_name": "Bosnia and Herzegovina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/aqlECBj.png",
-    "stream_url": "https://nl1.nghk.ai/ArenaSport2BH/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.tvarenasport.com/ba",
-    "launched": null,
     "closed": null
   },
   {
@@ -32304,36 +32232,6 @@
     "closed": null
   },
   {
-    "id": "ArenaSport3.ba",
-    "name": "Arena Sport 3",
-    "alt_names": [
-      "Arena Sport 3 Bosna i Hercegovina"
-    ],
-    "network": null,
-    "owners": [
-      "Telekom Srbjia"
-    ],
-    "country_code": "BA",
-    "country_name": "Bosnia and Herzegovina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/3r3burN.png",
-    "stream_url": "https://nl1.nghk.ai/ArenaSport3BH/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.tvarenasport.com/ba",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "ArenaSport3.hr",
     "name": "Arena Sport 3",
     "alt_names": [
@@ -32471,36 +32369,6 @@
     "stream_quality": "1081p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.tvarenasport.com/ba",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ArenaSport4.ba",
-    "name": "Arena Sport 4",
-    "alt_names": [
-      "Arena Sport 4 Bosna i Hercegovina"
-    ],
-    "network": null,
-    "owners": [
-      "Telekom Srbjia"
-    ],
-    "country_code": "BA",
-    "country_name": "Bosnia and Herzegovina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/h1XhGkz.png",
-    "stream_url": "https://nl1.nghk.ai/ArenaSport4BH/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.tvarenasport.com/ba",
@@ -32695,32 +32563,6 @@
     },
     "website": "https://www.tvarenasport.com/",
     "launched": "2009-01-01",
-    "closed": null
-  },
-  {
-    "id": "ArenaSport5BH.ba",
-    "name": "Arena Sport 5 BH",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BA",
-    "country_name": "Bosnia and Herzegovina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/036qMgu.png",
-    "stream_url": "https://nl1.nghk.ai/ArenaSport5BH/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
     "closed": null
   },
   {
@@ -33199,32 +33041,6 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ArenaSportPremium1BH.ba",
-    "name": "Arena Sport Premium 1 BH",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BA",
-    "country_name": "Bosnia and Herzegovina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://imgur.com/csv6YsL",
-    "stream_url": "https://nl1.nghk.ai/ArenaPremium1BH/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
     "referrer": null,
     "tv_guide": null,
     "website": null,
@@ -62432,6 +62248,42 @@
     "closed": null
   },
   {
+    "id": "BNT1.bg",
+    "name": "BNT 1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BNT"
+    ],
+    "country_code": "BG",
+    "country_name": "Bulgaria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/7JU9b5j.png",
+    "stream_url": "http://hls127.freeott.top:8080/BG_BNT_1/video.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BNT1.bg",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "bg/tv-programa#bnt-1",
+      "site_name": "БНТ 1",
+      "lang": "bg",
+      "sources": []
+    },
+    "website": "https://bnt1.bnt.bg/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BNT2.bg",
     "name": "BNT 2",
     "alt_names": [],
@@ -62489,6 +62341,42 @@
     "stream_quality": null,
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BNT2.bg",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "bg/tv-programa#bnt-2",
+      "site_name": "БНТ 2",
+      "lang": "bg",
+      "sources": []
+    },
+    "website": "https://bnt2.bnt.bg/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BNT2.bg",
+    "name": "BNT 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BNT"
+    ],
+    "country_code": "BG",
+    "country_name": "Bulgaria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/FyTUr9Q.png",
+    "stream_url": "http://hls127.freeott.top:8080/BG_BNT_2_HD/video.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "BNT2.bg",
@@ -62576,6 +62464,42 @@
     "closed": null
   },
   {
+    "id": "BNT3.bg",
+    "name": "BNT 3",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BNT"
+    ],
+    "country_code": "BG",
+    "country_name": "Bulgaria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/pPpSJ4u.png",
+    "stream_url": "http://hls127.freeott.top:8080/BG_BNT_3_HD/video.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BNT3.bg",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "bg/tv-programa#bnt-3",
+      "site_name": "БНТ 3",
+      "lang": "bg",
+      "sources": []
+    },
+    "website": "https://bnthd.bnt.bg/",
+    "launched": "2014-02-06",
+    "closed": null
+  },
+  {
     "id": "BNT4.bg",
     "name": "BNT 4",
     "alt_names": [],
@@ -62633,6 +62557,42 @@
     "stream_quality": null,
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BNT4.bg",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "bg/tv-programa#bnt-4",
+      "site_name": "БНТ 4",
+      "lang": "bg",
+      "sources": []
+    },
+    "website": "https://bntworld.bnt.bg/",
+    "launched": "1999-05-02",
+    "closed": null
+  },
+  {
+    "id": "BNT4.bg",
+    "name": "BNT 4",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BNT"
+    ],
+    "country_code": "BG",
+    "country_name": "Bulgaria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Lw8b3yu.png",
+    "stream_url": "http://hls127.freeott.top:8080/BG_BNT_4_HD/video.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "BNT4.bg",
@@ -69744,6 +69704,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://canal2gualeguay.com.ar/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Canal2MardelPlata.ar",
+    "name": "Canal 2 Mar del Plata",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/wlKFPBW.jpeg",
+    "stream_url": "https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://canal2mdp.com.ar/",
     "launched": null,
     "closed": null
   },
@@ -109087,13 +109073,15 @@
     "name": "D3 TV",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Fousseyni Maïga"
+    ],
     "country_code": "ML",
     "country_name": "Mali",
     "subdivision": null,
     "city": null,
     "categories": [
-      "music"
+      "entertainment"
     ],
     "languages": [],
     "is_nsfw": false,
@@ -109113,13 +109101,15 @@
     "name": "D3 TV",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Fousseyni Maïga"
+    ],
     "country_code": "ML",
     "country_name": "Mali",
     "subdivision": null,
     "city": null,
     "categories": [
-      "music"
+      "entertainment"
     ],
     "languages": [],
     "is_nsfw": false,
@@ -146832,7 +146822,7 @@
     "stream_url": "https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": null,
     "website": null,
@@ -148065,6 +148055,42 @@
     "tv_guide": null,
     "website": "https://watch.plex.tv/live-tv/channel/fite-24-7",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FixFoxi.de",
+    "name": "Fix & Foxi",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Your Family Entertainment AG"
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fix_and_Fox_Channel_Logo.png/250px-Fix_and_Fox_Channel_Logo.png",
+    "stream_url": "https://live.omni3.pl/fixfoxide/index.m3u8?token=ebnk.xyz",
+    "stream_quality": "540p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FixFoxi.de",
+      "feed": "SD",
+      "site": "tv.sfr.fr",
+      "site_id": "3381",
+      "site_name": "Fix et Foxy",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://fixundfoxi.tv/",
+    "launched": "2014-12-01",
     "closed": null
   },
   {
@@ -151100,42 +151126,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
     "stream_url": "http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8",
     "stream_quality": "144p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FoxNewsChannel.us",
-      "feed": "SD",
-      "site": "webtv.delta.nl",
-      "site_id": "3116",
-      "site_name": "Fox News Channel",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.foxnews.com/",
-    "launched": "1996-10-07",
-    "closed": null
-  },
-  {
-    "id": "FoxNewsChannel.us",
-    "name": "Fox News Channel",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Fox Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
-    "stream_url": "http://4.30.180.36:8420/foxnews/index.m3u8?token=test",
-    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -161398,6 +161388,42 @@
     "logo": "https://i.imgur.com/oxdM3gm.png",
     "stream_url": "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8",
     "stream_quality": "396p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GODTV.uk",
+      "feed": "SD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "250",
+      "site_name": "GOD TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.god.tv/",
+    "launched": "1995-01-01",
+    "closed": null
+  },
+  {
+    "id": "GODTV.uk",
+    "name": "GOD TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Angel Christian Television Trust"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/oxdM3gm.png",
+    "stream_url": "https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -186863,7 +186889,9 @@
     "name": "Isango TV",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Isango Star"
+    ],
     "country_code": "RW",
     "country_name": "Rwanda",
     "subdivision": null,
@@ -231541,42 +231569,6 @@
     "closed": null
   },
   {
-    "id": "Minimax.si",
-    "name": "Minimax",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "AMC Networks Inc."
-    ],
-    "country_code": "SI",
-    "country_name": "Slovenia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/WWOlm1x.png",
-    "stream_url": "https://live.omni3.pl/minimaxsi/index.m3u8",
-    "stream_quality": "540p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Minimax.si",
-      "feed": "SD",
-      "site": "neo.io",
-      "site_id": "minimax",
-      "site_name": "Minimax",
-      "lang": "sl",
-      "sources": []
-    },
-    "website": "https://www.minimaxtv.si/",
-    "launched": "2011-11-22",
-    "closed": null
-  },
-  {
     "id": "MinimaxCEE.cz",
     "name": "Minimax CEE",
     "alt_names": [],
@@ -261731,6 +261723,42 @@
     "closed": null
   },
   {
+    "id": "Nickelodeon.bg",
+    "name": "Nickelodeon",
+    "alt_names": [],
+    "network": "Nickelodeon",
+    "owners": [
+      "Paramount Networks EMEAA"
+    ],
+    "country_code": "BG",
+    "country_name": "Bulgaria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "stream_url": "http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Nickelodeon.bg",
+      "feed": "SD",
+      "site": "tv.dir.bg",
+      "site_id": "78",
+      "site_name": "Nickelodeon",
+      "lang": "bg",
+      "sources": []
+    },
+    "website": "http://www.nick.bg/",
+    "launched": "1998-11-15",
+    "closed": null
+  },
+  {
     "id": "Nickelodeon.br",
     "name": "Nickelodeon",
     "alt_names": [
@@ -270570,6 +270598,36 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG",
     "stream_url": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8",
     "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://ntv.ca/",
+    "launched": "1955-09-06",
+    "closed": null
+  },
+  {
+    "id": "NTV.ca",
+    "name": "NTV",
+    "alt_names": [
+      "CJON-DT"
+    ],
+    "network": null,
+    "owners": [
+      "Stirling Communications International"
+    ],
+    "country_code": "CA",
+    "country_name": "Canada",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG",
+    "stream_url": "https://live.omni3.pl/cjon-dt/index.m3u8?token=ebnk.xyz",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -290367,34 +290425,6 @@
     },
     "website": "http://www.plus-plus.tv/",
     "launched": "2012-08-04",
-    "closed": null
-  },
-  {
-    "id": "PlusSBTNovelas.br",
-    "name": "+SBT Novelas",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Grupo Silvio Santos"
-    ],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/%2BSBT_2024.svg/960px-%2BSBT_2024.svg.png",
-    "stream_url": "https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/Novelas_cmaf/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.mais.sbt.com.br/",
-    "launched": null,
     "closed": null
   },
   {
@@ -311054,6 +311084,44 @@
     "closed": null
   },
   {
+    "id": "PrimaTV.ro",
+    "name": "Prima TV",
+    "alt_names": [
+      "Canal 38 Amerom Bucureşti"
+    ],
+    "network": null,
+    "owners": [
+      "Clever Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/p2umWAT.png",
+    "stream_url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6995/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PrimaTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "prima-tv",
+      "site_name": "Prima TV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.primatv.ro/",
+    "launched": "1997-12-17",
+    "closed": null
+  },
+  {
     "id": "Primavera15.pe",
     "name": "Primavera 15",
     "alt_names": [],
@@ -312084,6 +312152,40 @@
     },
     "website": "http://prosveshenie.tv/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PROTV.ro",
+    "name": "PRO TV",
+    "alt_names": [
+      "Canal 31"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/zVk3WlT.png",
+    "stream_url": "http://eb4b8dcf.kablakaka.ru/iptv/3KZ2W9GEEY49ZV/6997/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PROTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "pro-tv",
+      "site_name": "PRO TV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.protv.ro/",
+    "launched": "1995-12-01",
     "closed": null
   },
   {
@@ -340409,6 +340511,44 @@
     "closed": null
   },
   {
+    "id": "RTL.de",
+    "name": "RTL",
+    "alt_names": [
+      "RTL Television",
+      "RTL Plus",
+      "RTL Plus Television"
+    ],
+    "network": null,
+    "owners": [
+      "RTL Group S.A."
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/94K94k2.png",
+    "stream_url": "https://live.omni3.pl/rtlde/index.m3u8?token=ebnk.xyz",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RTL.de",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000038_019063",
+      "site_name": "RTL",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "https://www.rtl.de/",
+    "launched": "1984-01-02",
+    "closed": null
+  },
+  {
     "id": "RTL.hu",
     "name": "RTL",
     "alt_names": [
@@ -340811,6 +340951,40 @@
     },
     "website": "http://www.rtl.lu/tele/",
     "launched": "2004-03-15",
+    "closed": null
+  },
+  {
+    "id": "RTLZwei.de",
+    "name": "RTL Zwei",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RTL Group S.A."
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png",
+    "stream_url": "https://live.omni3.pl/rtl2de/index.m3u8?token=ebnk.xyz",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RTLZwei.de",
+      "feed": "SD",
+      "site": "web.magentatv.de",
+      "site_id": "382",
+      "site_name": "RTLZWEI",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "https://www.rtl2.de/",
+    "launched": "1993-03-06",
     "closed": null
   },
   {
@@ -407615,7 +407789,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/nnqpYNm.png",
+    "logo": "https://i.imgur.com/58dIRkS.jpeg",
     "stream_url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -415378,6 +415552,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://pluto.tv/live-tv/til-middag-hos-dk/details",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TimelessDiziChannel.pl",
+    "name": "Timeless Dizi Channel",
+    "alt_names": [
+      "Timeless Dizi Channel Polska"
+    ],
+    "network": null,
+    "owners": [
+      "SPI International"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/s3Sqd4L.png",
+    "stream_url": "http://hls127.freeott.top:8080/BG_Dizi_HD/video.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://dizi.pl/",
     "launched": null,
     "closed": null
   },
@@ -427532,7 +427734,9 @@
       "TV One"
     ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Kakooza Nkuliza Charles"
+    ],
     "country_code": "RW",
     "country_name": "Rwanda",
     "subdivision": null,
@@ -479681,7 +479885,7 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.yadahtv.co/",
-    "launched": null,
+    "launched": "2018-01-18",
     "closed": null
   },
   {

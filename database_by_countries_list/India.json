@@ -104,7 +104,7 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/zDiIhdN.png",
     "stream_url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
-    "stream_quality": "576p",
+    "stream_quality": "360p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -5544,6 +5544,40 @@
     "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brk-news.png",
     "stream_url": "https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BRKNews.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "1194",
+      "site_name": "BRK News",
+      "lang": "en",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BRKNews.in",
+    "name": "BRK News",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brk-news.png",
+    "stream_url": "https://d2gvyg6lvauoko.cloudfront.net/230226/brknews/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -18133,6 +18167,42 @@
     "closed": null
   },
   {
+    "id": "Mh1Music.in",
+    "name": "Mh 1 Music",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "MH One TV Network Pvt Ltd"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143539_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://livestream.jswk.online/playlisttest/live/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Mh1Music.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "399",
+      "site_name": "MH One",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://music.mhone.in/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Mh1News.in",
     "name": "Mh 1 News",
     "alt_names": [],
@@ -18169,6 +18239,170 @@
     "closed": null
   },
   {
+    "id": "Mh1News.in",
+    "name": "Mh 1 News",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "MH One TV Network Pvt Ltd"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143540_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://streams.tangotv.in/MHONENEWS/ORIGIN/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Mh1News.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "401",
+      "site_name": "MH One News",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.mhone.in/mhone-news/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Mh1News.in",
+    "name": "Mh 1 News",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "MH One TV Network Pvt Ltd"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143540_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://livestream.jswk.online/mhonenews/live/playlist.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Mh1News.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "401",
+      "site_name": "MH One News",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.mhone.in/mhone-news/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Mh1Prime.in",
+    "name": "Mh 1 Prime",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "MH One TV Network Pvt Ltd"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "https://streams.tangotv.in/MHONE/ORIGIN/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.mhone.in/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MHOneDilSe.in",
+    "name": "MH One Dil Se",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "MH One TV Network Pvt Ltd"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dilse.mhone.in/wp-content/uploads/2022/02/MH-ONE-dil-se-LOGO-white-copy.png",
+    "stream_url": "https://streams.tangotv.in/MHONEDILSE/ORIGIN/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MHOneDilSe.in",
+      "feed": "SD",
+      "site": "dishtv.in",
+      "site_id": "143536",
+      "site_name": "MH One Dil Se",
+      "lang": "en",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MHOneMovies.in",
+    "name": "MH One Movies",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "MH One TV Network Pvt Ltd"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "MHOneShraddha.in",
     "name": "MH One Shraddha",
     "alt_names": [],
@@ -18187,6 +18421,42 @@
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002NFEZK.png?lock=720x540",
     "stream_url": "https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MHOneShraddha.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "397",
+      "site_name": "MH One Shraddha",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://shraddha.mhone.in/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MHOneShraddha.in",
+    "name": "MH One Shraddha",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "MH One TV Network Pvt Ltd"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002NFEZK.png?lock=720x540",
+    "stream_url": "https://livestream.jswk.online/mhoneshraddha/live/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -21624,6 +21894,46 @@
     "closed": null
   },
   {
+    "id": "Nickelodeon.in",
+    "name": "Nickelodeon",
+    "alt_names": [
+      "Nick"
+    ],
+    "network": "Nickelodeon",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002YJ9BJ.png?lock=720x540",
+    "stream_url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Nickelodeon.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "138",
+      "site_name": "Nick",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.nickindia.com/",
+    "launched": "1999-10-16",
+    "closed": null
+  },
+  {
     "id": "NickHDPlus.in",
     "name": "Nick HD+",
     "alt_names": [],
@@ -21720,6 +22030,44 @@
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002YJ9M2.png?lock=720x540",
     "stream_url": "http://103.185.24.134:3001/NICK-JR/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NickJr.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "118",
+      "site_name": "Nick Jr",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://nickjrindia.com/",
+    "launched": "2012-11-21",
+    "closed": null
+  },
+  {
+    "id": "NickJr.in",
+    "name": "Nick Jr.",
+    "alt_names": [],
+    "network": "Nickelodeon",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002YJ9M2.png?lock=720x540",
+    "stream_url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -23424,6 +23772,42 @@
     "closed": null
   },
   {
+    "id": "PratidinTime.in",
+    "name": "Pratidin Time",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Yash TV Entertainment Pvt. Ltd."
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143674_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://d1msejlow1t3l4.cloudfront.net/fta/protidintime/playlist.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PratidinTime.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "221",
+      "site_name": "Protidin Time",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.pratidintime.com/",
+    "launched": "2015-04-01",
+    "closed": null
+  },
+  {
     "id": "PravahPicture.in",
     "name": "Pravah Picture",
     "alt_names": [
@@ -25052,6 +25436,42 @@
       "site": "tataplay.com",
       "site_id": "426",
       "site_name": "Raj Digital Plus",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.rajtvnet.in/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RajMusixMalayalam.in",
+    "name": "Raj Musix Malayalam",
+    "alt_names": [],
+    "network": "Raj",
+    "owners": [
+      "Raj Television Network"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143706_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://cdn.pishow.tv/ott/live/1073/master.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RajMusixMalayalam.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "541",
+      "site_name": "Raj Musix Malayalam",
       "lang": "en",
       "sources": []
     },
@@ -28828,44 +29248,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540",
-    "stream_url": "http://103.175.73.12:8080/live/21/21_0.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ShemarooJosh.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "1269",
-      "site_name": "Shemaroo Josh",
-      "lang": "en",
-      "sources": []
-    },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ShemarooJosh.in",
-    "name": "Shemaroo Josh",
-    "alt_names": [
-      "Chumbak TV"
-    ],
-    "network": "Shemaroo Entertainment",
-    "owners": [
-      "Shemaroo Entertainment"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540",
     "stream_url": "https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -29768,6 +30150,47 @@
     "closed": null
   },
   {
+    "id": "Sonic.in",
+    "name": "Sonic",
+    "alt_names": [
+      "Nickelodeon Sonic",
+      "Sonic Nickelodeon"
+    ],
+    "network": "Nickelodeon",
+    "owners": [
+      "JioStar India Pvt. Ltd.",
+      "Reliance Industries(RIL)",
+      "The Walt Disney Company"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002YJB2K.png?lock=720x540",
+    "stream_url": "http://202.70.146.135:8000/play/a02t/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Sonic.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "127",
+      "site_name": "Sonic",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.sonicgang.com/",
+    "launched": "2011-12-20",
+    "closed": null
+  },
+  {
     "id": "SonyAath.in",
     "name": "Sony Aath",
     "alt_names": [],
@@ -29944,6 +30367,47 @@
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540",
     "stream_url": "http://stb-air.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&pass=krish-ka&uid=gana-sunega",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyEntertainmentTelevision.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "15",
+      "site_name": "SET HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.setindia.com/",
+    "launched": "1995-09-30",
+    "closed": null
+  },
+  {
+    "id": "SonyEntertainmentTelevision.in",
+    "name": "Sony Entertainment Television",
+    "alt_names": [
+      "SET",
+      "Sony TV",
+      "SET India"
+    ],
+    "network": "Sony Pictures Networks",
+    "owners": [
+      "Sony Pictures Networks India (SPNI)",
+      "Culver Max Entertainment Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://cloudplay-sonyliv.pages.dev/sethd.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -32396,6 +32860,32 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/yOPB7JB.png",
     "stream_url": "https://mumt04.tangotv.in/m18aqlK4STUDIOONEPLUS/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "StudioOnePlus.in",
+    "name": "Studio One +",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/yOPB7JB.png",
+    "stream_url": "https://d2gvyg6lvauoko.cloudfront.net/230226/studiooneplus/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -38698,44 +39188,6 @@
     "closed": null
   },
   {
-    "id": "ZeeAction.in",
-    "name": "Zee Action",
-    "alt_names": [
-      "Action Cinema"
-    ],
-    "network": "Z",
-    "owners": [
-      "Zee Entertainment Enterprises Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540",
-    "stream_url": "http://103.175.73.12:8080/live/270/master.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ZeeAction.in",
-      "feed": "SD",
-      "site": "zee5.com",
-      "site_id": "0-9-zeeaction",
-      "site_name": "Zee Action",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.zee5.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "ZeeBangla.in",
     "name": "Zee Bangla",
     "alt_names": [],
@@ -39198,36 +39650,6 @@
     "closed": null
   },
   {
-    "id": "ZeeCafe.in",
-    "name": "Zee Cafe",
-    "alt_names": [
-      "Zee Café"
-    ],
-    "network": "Z",
-    "owners": [
-      "Zee Entertainment Enterprises Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022ZMMH.png?lock=720x540",
-    "stream_url": "http://103.72.101.252:8080/live/1319.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://zeecafe.zee5.com/",
-    "launched": "2000-03-15",
-    "closed": "2026-06-02"
-  },
-  {
     "id": "ZeeCineClassic.in",
     "name": "Zee Cine Classic",
     "alt_names": [
@@ -39275,80 +39697,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540",
-    "stream_url": "https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ZeeCinema.in",
-      "feed": "SD",
-      "site": "ziggogo.tv",
-      "site_id": "NL_000153_020076",
-      "site_name": "Zee Cinema",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://zeecinema.zee5.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ZeeCinema.in",
-    "name": "Zee Cinema",
-    "alt_names": [],
-    "network": "Z",
-    "owners": [
-      "Zee Entertainment Enterprises Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540",
     "stream_url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ZeeCinema.in",
-      "feed": "SD",
-      "site": "ziggogo.tv",
-      "site_id": "NL_000153_020076",
-      "site_name": "Zee Cinema",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://zeecinema.zee5.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ZeeCinema.in",
-    "name": "Zee Cinema",
-    "alt_names": [],
-    "network": "Z",
-    "owners": [
-      "Zee Entertainment Enterprises Limited"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540",
-    "stream_url": "http://103.72.101.252:8080/live/165.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

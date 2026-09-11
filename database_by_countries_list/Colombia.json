@@ -172,6 +172,34 @@
     "closed": null
   },
   {
+    "id": "BethelColombia.co",
+    "name": "Bethel Colombia",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Obra del Movimiento Misionero Mundial"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/BYdMsLL.png",
+    "stream_url": "http://138.121.15.230:9002/BETHEL/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://bethelcolombia.co/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BluRadio.co",
     "name": "Blu Radio",
     "alt_names": [],
@@ -3567,6 +3595,46 @@
     "closed": null
   },
   {
+    "id": "Telecafe.co",
+    "name": "Telecafe",
+    "alt_names": [
+      "Telecafé"
+    ],
+    "network": null,
+    "owners": [
+      "Gobernación de Caldas",
+      "Gobernación del Quindío",
+      "Gobernación de Risaralda"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/28XmS1J.png",
+    "stream_url": "http://138.121.15.230:9002/TELECAFE/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Telecafe.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "581",
+      "site_name": "TELECAFE",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://telecafe.gov.co/",
+    "launched": "1992-10-17",
+    "closed": null
+  },
+  {
     "id": "Telecaribe.co",
     "name": "Telecaribe",
     "alt_names": [],
@@ -3594,6 +3662,48 @@
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Telecaribe.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "582",
+      "site_name": "TELECARIBE",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://telecaribe.co/",
+    "launched": "1986-10-10",
+    "closed": null
+  },
+  {
+    "id": "Telecaribe.co",
+    "name": "Telecaribe",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Gobernación del Atlántico",
+      "Gobernación de Bolívar",
+      "Gobernación del Cesar",
+      "Gobernación de Córdoba",
+      "Gobernación de La Guajira",
+      "Gobernación de Magdalena",
+      "Gobernación del Sucre"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/E35cXHt.png",
+    "stream_url": "http://138.121.15.230:9002/TELECARIBE/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "Telecaribe.co",
@@ -4203,6 +4313,44 @@
     },
     "website": "https://www.winsports.co/",
     "launched": "2012-11-29",
+    "closed": null
+  },
+  {
+    "id": "Zoom.co",
+    "name": "Zoom",
+    "alt_names": [
+      "Canal Universitario de Colombia"
+    ],
+    "network": null,
+    "owners": [
+      "Asociación Colombiana de Universidades"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/euy5zp6.png",
+    "stream_url": "http://138.121.15.230:9002/ZOOM/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Zoom.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "611",
+      "site_name": "ZOOM TV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.zoomcanal.com.co/",
+    "launched": null,
     "closed": null
   }
 ]

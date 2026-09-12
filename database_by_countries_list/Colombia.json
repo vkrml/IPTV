@@ -3374,6 +3374,44 @@
     "closed": null
   },
   {
+    "id": "SenalColombia.co",
+    "name": "Senal Colombia",
+    "alt_names": [
+      "Señal Colombia"
+    ],
+    "network": "RTVC Sistema de Medios Públicos",
+    "owners": [
+      "Government of Colombia"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Y9x16vl.png",
+    "stream_url": "http://138.121.15.230:9002/SENAL-COLOMBIA/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SenalColombia.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "570",
+      "site_name": "SENAL COLOMBIA",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.senalcolombia.tv/",
+    "launched": "1970-02-09",
+    "closed": null
+  },
+  {
     "id": "SoonaTV.co",
     "name": "Soona TV",
     "alt_names": [],
@@ -3540,6 +3578,42 @@
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Teleantioquia.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "580",
+      "site_name": "TELEANTIOQUIA",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.teleantioquia.co/",
+    "launched": "1985-08-11",
+    "closed": null
+  },
+  {
+    "id": "Teleantioquia.co",
+    "name": "Teleantioquia",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Gobernación de Antioquia"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6WMV2Az.png",
+    "stream_url": "http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "Teleantioquia.co",

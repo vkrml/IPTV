@@ -868,5 +868,37 @@
     "website": null,
     "launched": null,
     "closed": null
+  },
+  {
+    "id": "TVS.my",
+    "name": "TVS",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "MY",
+    "country_name": "Malaysia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/960px-TVS_Sarawak.jpg",
+    "stream_url": "https://api.dani-dev.co.za/v1/stream/mytv/live/tvs",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVS.my",
+      "feed": "SD",
+      "site": "content.astro.com.my",
+      "site_id": "429",
+      "site_name": "TV Sarawak",
+      "lang": "ms",
+      "sources": []
+    },
+    "website": "https://tvstv.my/",
+    "launched": "2020-10-10",
+    "closed": null
   }
 ]

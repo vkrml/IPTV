@@ -11984,6 +11984,87 @@
     "closed": null
   },
   {
+    "id": "Acasa.ro",
+    "name": "Acasa",
+    "alt_names": [
+      "Acasă",
+      "Pro 2",
+      "Acasă TV"
+    ],
+    "network": null,
+    "owners": [
+      "Central European Media Enterprises"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Acasa_2022_flat.png/960px-Acasa_2022_flat.png",
+    "stream_url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Acasa.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "acasa",
+      "site_name": "Acasa",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://acasatv.ro/",
+    "launched": "1998-02-02",
+    "closed": null
+  },
+  {
+    "id": "AcasaGold.ro",
+    "name": "Acasa Gold",
+    "alt_names": [
+      "Acasă Gold",
+      "Pro Gold",
+      "Acasă Clasic",
+      "Acasă 2"
+    ],
+    "network": null,
+    "owners": [
+      "Central European Media Enterprises"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fb/Acasa_Gold_2022.svg/revision/latest/scale-to-width-down/512",
+    "stream_url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AcasaGold.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "acasa-gold",
+      "site_name": "Acasa Gold",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.acasagold.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ACCDigitalNetwork.us",
     "name": "ACC Digital Network",
     "alt_names": [
@@ -14685,7 +14766,9 @@
       "Afrikinfo TV"
     ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Afrikinfo Médias"
+    ],
     "country_code": "GN",
     "country_name": "Guinea",
     "subdivision": null,
@@ -70265,6 +70348,30 @@
     "closed": null
   },
   {
+    "id": "Canal8MardelPlata.ar",
+    "name": "Canal 8 Mar del Plata",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/G7TaQ1L.png",
+    "stream_url": "https://canal8mdq.unpocodeawita.workers.dev/",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://canal8mardelplata.com.ar/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Canal8SanJuan.ar",
     "name": "Canal 8 San Juan",
     "alt_names": [],
@@ -72815,7 +72922,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/I93ypGY.png",
+    "logo": "https://files.catbox.moe/bt6ltn.jpg",
     "stream_url": "https://streamconex.com:19360/mardelplata/mardelplata.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -74219,8 +74326,8 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.perfil.com/canal-e",
-    "launched": null,
-    "closed": null
+    "launched": "2023-05-30",
+    "closed": "2026-08-05"
   },
   {
     "id": "CanaleDieci.it",
@@ -77028,7 +77135,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/trmPKYw.png",
+    "logo": "https://files.catbox.moe/n1b27y.png",
     "stream_url": "https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -89554,7 +89661,9 @@
     "name": "Channel 13",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Media Ring Pvt Ltd."
+    ],
     "country_code": "MV",
     "country_name": "Maldives",
     "subdivision": null,
@@ -89571,7 +89680,7 @@
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": "https://stream.theyraonline.com/",
+    "website": "https://theyranews.com/",
     "launched": null,
     "closed": null
   },
@@ -154753,43 +154862,6 @@
     },
     "website": "http://www.canalfx.tv/",
     "launched": "2005-05-01",
-    "closed": null
-  },
-  {
-    "id": "FXMovieChannel.us",
-    "name": "FX Movie Channel",
-    "alt_names": [],
-    "network": "FX Channels",
-    "owners": [
-      "FX Networks LLC",
-      "The Walt Disney Company"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/960px-FX_Movies_logo.svg.png",
-    "stream_url": "https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FXMovieChannel.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "70253",
-      "site_name": "FX Movie Channel",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.fxnetworks.com/fxm",
-    "launched": "1994-10-31",
     "closed": null
   },
   {
@@ -221047,7 +221119,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": null,
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrGNUi4TMw8UslbIJF1ja-NrA1Ps656h9cxrj6aTfl3Cm-_C2gxtBBAKz-fLdPk7rJ0YrXfNvcQaBSDFTUdPgSYt8sBA0xn4aSMPnl-J2hiKa7P3Ybjd3BlE3XjoAJ0d7HNvhy8mZFDbf1JfAdMVBpdnPBuim3y3x0zMw1D3ryOw3NCoOsPA5fMMplPbU/s500/manoranjan-prime-tv-schedule-on-dd-freedish.jpg",
     "stream_url": "https://cdn-4.pishow.tv/live/1474/master.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -221083,7 +221155,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": null,
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrGNUi4TMw8UslbIJF1ja-NrA1Ps656h9cxrj6aTfl3Cm-_C2gxtBBAKz-fLdPk7rJ0YrXfNvcQaBSDFTUdPgSYt8sBA0xn4aSMPnl-J2hiKa7P3Ybjd3BlE3XjoAJ0d7HNvhy8mZFDbf1JfAdMVBpdnPBuim3y3x0zMw1D3ryOw3NCoOsPA5fMMplPbU/s500/manoranjan-prime-tv-schedule-on-dd-freedish.jpg",
     "stream_url": "https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -233597,7 +233669,9 @@
     "name": "MMTV",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Maldives Media House Pvt Ltd."
+    ],
     "country_code": "MV",
     "country_name": "Maldives",
     "subdivision": null,
@@ -233615,7 +233689,7 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://mmtv.mv/",
-    "launched": null,
+    "launched": "2024-11-17",
     "closed": null
   },
   {
@@ -244753,7 +244827,7 @@
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": null,
+    "website": "https://www.psm.mv/brands/munnaaru",
     "launched": "2016-12-29",
     "closed": null
   },
@@ -245379,6 +245453,40 @@
     "is_nsfw": false,
     "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png",
     "stream_url": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MUTV.uk",
+      "feed": "SD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "327",
+      "site_name": "MUTV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://mutv.manutd.com",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MUTV.uk",
+    "name": "MUTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png",
+    "stream_url": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -261859,82 +261967,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/E84jnP8.png",
-    "stream_url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Nickelodeon.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "11007",
-      "site_name": "Nickelodeon West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.nick.com/",
-    "launched": "1979-04-01",
-    "closed": null
-  },
-  {
-    "id": "Nickelodeon.us",
-    "name": "Nickelodeon",
-    "alt_names": [],
-    "network": "Nickelodeon",
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/E84jnP8.png",
     "stream_url": "http://198.58.104.90:8989/nickelodeon/index.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Nickelodeon.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "11007",
-      "site_name": "Nickelodeon West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.nick.com/",
-    "launched": "1979-04-01",
-    "closed": null
-  },
-  {
-    "id": "Nickelodeon.us",
-    "name": "Nickelodeon",
-    "alt_names": [],
-    "network": "Nickelodeon",
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "stream_url": "https://sra72yz.s.gy/NICKELODEON_EAST_US.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -262928,43 +262962,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/KT4tdQs.png",
-    "stream_url": "https://sra72yz.s.gy/NICK_JR_US.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NickJr.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "77996",
-      "site_name": "Nick Jr West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.nickjr.com/",
-    "launched": "1988-01-04",
-    "closed": null
-  },
-  {
-    "id": "NickJr.us",
-    "name": "Nick Jr.",
-    "alt_names": [],
-    "network": "Nickelodeon",
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/KT4tdQs.png",
     "stream_url": "http://tvsen7.aynascope.net/nickjr/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -263642,45 +263639,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg",
     "stream_url": "http://41.205.93.154/NICKTOONS/index.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Nicktoons.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "91718",
-      "site_name": "Nicktoons West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://nicktoons.nick.com/",
-    "launched": "2002-05-01",
-    "closed": null
-  },
-  {
-    "id": "Nicktoons.us",
-    "name": "Nicktoons",
-    "alt_names": [
-      "Nickelodeon NickToons"
-    ],
-    "network": "Nickelodeon",
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg",
-    "stream_url": "https://sra72yz.s.gy/NICKTOONS_US.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -310966,6 +310924,34 @@
     "closed": null
   },
   {
+    "id": "PrimaNews.ro",
+    "name": "Prima News",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Clever Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/wlqGfU2.png",
+    "stream_url": "https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.primaplay.ro/live/primanews",
+    "launched": "2022-11-28",
+    "closed": null
+  },
+  {
     "id": "PrimAntennaTV.it",
     "name": "PrimAntenna TV",
     "alt_names": [],
@@ -311581,6 +311567,44 @@
     "closed": null
   },
   {
+    "id": "ProArena.ro",
+    "name": "Pro Arena",
+    "alt_names": [
+      "Pro X",
+      "Sport.ro",
+      "TV Sport"
+    ],
+    "network": "Pro TV",
+    "owners": [
+      "Pro TV SRL"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KQmB9Cc.png",
+    "stream_url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6990/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ProArena.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "pro-arena-hd",
+      "site_name": "Pro Arena HD",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.proarena.ro/",
+    "launched": "2003-07-27",
+    "closed": null
+  },
+  {
     "id": "ProbashiTVNews.ca",
     "name": "Probashi TV News",
     "alt_names": [],
@@ -311640,6 +311664,42 @@
     },
     "website": "https://www.probusinesstv.ru/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ProCinema.ro",
+    "name": "Pro Cinema",
+    "alt_names": [],
+    "network": "Pro TV",
+    "owners": [
+      "Pro TV SRL"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TvHFGwZ.png",
+    "stream_url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ProCinema.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "pro-cinema-hd",
+      "site_name": "Pro Cinema HD",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://procinema.protv.ro/",
+    "launched": "2004-04-19",
     "closed": null
   },
   {
@@ -317901,7 +317961,9 @@
     "name": "Raajje TV",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Raajje Television Pvt Ltd."
+    ],
     "country_code": "MV",
     "country_name": "Maldives",
     "subdivision": null,
@@ -338601,7 +338663,7 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.rtbgo.bn/",
-    "launched": null,
+    "launched": "2020-10-05",
     "closed": null
   },
   {
@@ -384773,40 +384835,6 @@
     "closed": null
   },
   {
-    "id": "Starz.us",
-    "name": "Starz",
-    "alt_names": [],
-    "network": "STARZ",
-    "owners": [
-      "Starz Entertainment Corp."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/N7oSm4d.png",
-    "stream_url": "http://23.237.104.106:8080/USA_STARZ/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Starz.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "12741",
-      "site_name": "Starz West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.starz.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "StarzCinema.us",
     "name": "Starz Cinema",
     "alt_names": [],
@@ -388918,6 +388946,37 @@
     "tv_guide": null,
     "website": "https://stztv.org.br/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SuaraSurabayaVisualRadio.id",
+    "name": "Suara Surabaya Visual Radio",
+    "alt_names": [
+      "suarasurabaya.net"
+    ],
+    "network": "Suara Surabaya Media",
+    "owners": [
+      "PT Radio Fiskaria Jaya Suara Surabaya"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news",
+      "interactive"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/id/f/f8/Suara_Surabaya.svg",
+    "stream_url": "https://ssfm.siar.us/ssfm/live/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://www.suarasurabaya.net/",
+    "tv_guide": null,
+    "website": "https://www.suarasurabaya.net/visualradio/",
+    "launched": "1983-06-11",
     "closed": null
   },
   {
@@ -400716,6 +400775,30 @@
       "sources": []
     },
     "website": "http://rosario.telefe.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TelefeSalta.ar",
+    "name": "Telefe Salta",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/960px-Telefe_Salta_%282018%29.png",
+    "stream_url": "https://canal11saltatv.unpocodeawita.workers.dev/",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://salta.mitelefe.com/",
     "launched": null,
     "closed": null
   },
@@ -424999,7 +425082,7 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
-    "closed": null
+    "closed": "2024-01-06"
   },
   {
     "id": "TRTEBALise.tr",
@@ -425025,7 +425108,7 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
-    "closed": null
+    "closed": "2024-01-06"
   },
   {
     "id": "TRTGenc.tr",
@@ -479510,7 +479593,9 @@
     "subdivision": null,
     "city": null,
     "categories": [
-      "news"
+      "entertainment",
+      "sports",
+      "culture"
     ],
     "languages": [],
     "is_nsfw": false,
@@ -479522,7 +479607,7 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://psmnews.mv/",
-    "launched": null,
+    "launched": "2016-04-11",
     "closed": null
   },
   {
@@ -479538,7 +479623,9 @@
     "subdivision": null,
     "city": null,
     "categories": [
-      "news"
+      "entertainment",
+      "sports",
+      "culture"
     ],
     "languages": [],
     "is_nsfw": false,
@@ -479550,7 +479637,7 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://psmnews.mv/",
-    "launched": null,
+    "launched": "2016-04-11",
     "closed": null
   },
   {

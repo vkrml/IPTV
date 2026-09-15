@@ -3929,34 +3929,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
-    "stream_url": "https://streamer.metronethn.com/AdultSwim/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": "2023-10-31",
-    "closed": null
-  },
-  {
-    "id": "AdultSwimLatinAmerica.us",
-    "name": "Adult Swim Latin America",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Warner Bros. Discovery Inc."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
     "stream_url": "http://138.121.15.230:9002/ADULT-SWIM/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -4103,44 +4075,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
     "stream_url": "http://190.93.224.42/AYE/index.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AELatinAmerica.us",
-      "feed": "Chile",
-      "site": "siba.com.co",
-      "site_id": "380",
-      "site_name": "A&E",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.historyplay.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "AELatinAmerica.us",
-    "name": "A&E Latin America",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "A&E Television Networks LLC",
-      "Hearst Communications Inc.",
-      "The Walt Disney Company"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
-    "stream_url": "https://streamer.metronethn.com/AE/index.m3u8",
-    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -5733,42 +5667,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
     "stream_url": "http://45.162.193.35/AMC/index.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AMCLatinAmerica.us",
-      "feed": "SD",
-      "site": "siba.com.co",
-      "site_id": "532",
-      "site_name": "AMC",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "http://www.amctv.la/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "AMCLatinAmerica.us",
-    "name": "AMC Latin America",
-    "alt_names": [],
-    "network": "AMC",
-    "owners": [
-      "AMC Global Media"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-    "stream_url": "https://streamer.metronethn.com/AMC/index.m3u8",
-    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -15657,6 +15555,43 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CBS.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "10098",
+      "site_name": "CBS East",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.cbs.com/",
+    "launched": "1941-07-01",
+    "closed": null
+  },
+  {
+    "id": "CBS.us",
+    "name": "CBS",
+    "alt_names": [],
+    "network": "CBS Entertainment",
+    "owners": [
+      "CBS Broadcasting Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/KBOI_logo.png/960px-KBOI_logo.png",
+    "stream_url": "http://best.happytv.xyz:2082/live/JThibodeau0923/gcEyG7W3/2193473.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0",
     "referrer": null,
     "tv_guide": {
       "channel": "CBS.us",
@@ -34944,42 +34879,6 @@
     "closed": null
   },
   {
-    "id": "FXLatinAmerica.us",
-    "name": "FX Latin America",
-    "alt_names": [],
-    "network": "FX Channels",
-    "owners": [
-      "The Walt Disney Company Latin America"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
-    "stream_url": "https://streamer.metronethn.com/FX/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FXLatinAmerica.us",
-      "feed": "Panregional",
-      "site": "mi.tv",
-      "site_id": "co#fx-hd",
-      "site_name": "FX HD",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "http://www.canalfx.tv/",
-    "launched": "2005-05-01",
-    "closed": null
-  },
-  {
     "id": "G10TV.us",
     "name": "G10TV",
     "alt_names": [],
@@ -39125,6 +39024,40 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
     "stream_url": "https://freem3u.xyz/api/live/play.m3u8?vid=9856",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HistoryAsia.us",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000104",
+      "site_name": "History",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "http://www.historyasia.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HistoryAsia.us",
+    "name": "History Asia",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "stream_url": "http://58.8.186.128:10005/bysid/2517",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -44297,6 +44230,34 @@
     "closed": null
   },
   {
+    "id": "KNino.us",
+    "name": "KNino",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "2BeNamed"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://ipuntotv.com/IMAGES/Knino-logo.png",
+    "stream_url": "https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/kninohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2026-03-01",
+    "closed": null
+  },
+  {
     "id": "KNOVCD411.us",
     "name": "KNOV-CD 41.1",
     "alt_names": [
@@ -45948,42 +45909,6 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
     "stream_url": "http://181.209.105.115:2525/play/lifetime/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "LifetimeLatinAmerica.us",
-      "feed": "Panregional",
-      "site": "siba.com.co",
-      "site_id": "893",
-      "site_name": "LIFETIME",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.historyplay.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "LifetimeLatinAmerica.us",
-    "name": "Lifetime Latin America",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "A&E Networks"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
-    "stream_url": "https://streamer.metronethn.com/Lifetime/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -49189,42 +49114,6 @@
     "closed": null
   },
   {
-    "id": "MLBNetwork.us",
-    "name": "MLB Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Major League Baseball"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/sA5V39D.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/mlbnetwork-usa/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MLBNetwork.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "62079",
-      "site_name": "MLB Network",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.mlb.com/network",
-    "launched": "2009-01-01",
-    "closed": null
-  },
-  {
     "id": "MLBStrikeZone.us",
     "name": "MLB Strike Zone",
     "alt_names": [],
@@ -51808,43 +51697,6 @@
     "closed": null
   },
   {
-    "id": "MTVLatinAmerica.us",
-    "name": "MTV Latin America",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
-    "stream_url": "https://streamer.metronethn.com/MTV/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MTVLatinAmerica.us",
-      "feed": "Panregional",
-      "site": "siba.com.co",
-      "site_id": "544",
-      "site_name": "MTV",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "http://www.mtvla.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "MTVLive.us",
     "name": "MTV Live",
     "alt_names": [],
@@ -53829,42 +53681,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/nbatv-usa/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NBATV.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "32281",
-      "site_name": "NBA TV",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.nba.com/nba_tv/",
-    "launched": "1999-11-02",
-    "closed": null
-  },
-  {
-    "id": "NBATV.us",
-    "name": "NBA TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "National Basketball Association"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",
     "stream_url": "https://cdn1.ayitistream.com/NBATV/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -54083,42 +53899,6 @@
     "logo": "https://i.imgur.com/q4DRG10.png",
     "stream_url": "http://stream.cammonitorplus.net/1785/index.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NBC.us",
-      "feed": "East",
-      "site": "tvtv.us",
-      "site_id": "10991",
-      "site_name": "NBC East",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.nbc.com/",
-    "launched": "1939-04-30",
-    "closed": null
-  },
-  {
-    "id": "NBC.us",
-    "name": "NBC",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "NBC Entertainment"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/q4DRG10.png",
-    "stream_url": "http://170.254.17.2/NBC/index.m3u8",
-    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -55714,35 +55494,6 @@
     "closed": null
   },
   {
-    "id": "NBCSportsBayArea.us",
-    "name": "NBC Sports Bay Area",
-    "alt_names": [],
-    "network": "NBC Sports Regional Networks",
-    "owners": [
-      "NBCUniversal",
-      "Comcast Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/MTgUVKx.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/nbc-sports-bayarea/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.nbcsports.com/bayarea/",
-    "launched": "1989-09-01",
-    "closed": null
-  },
-  {
     "id": "NBCSportsNOW.us",
     "name": "NBC Sports NOW",
     "alt_names": [
@@ -55896,43 +55647,6 @@
     },
     "website": "https://www.nbcsports.com/now",
     "launched": "2023-06-29",
-    "closed": null
-  },
-  {
-    "id": "NBCSportsPhiladelphia.us",
-    "name": "NBC Sports Philadelphia",
-    "alt_names": [],
-    "network": "NBC Sports Regional Networks",
-    "owners": [
-      "NBCUniversal",
-      "Comcast Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/960px-NBC_Sports_Philadelphia.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/nbc-sports-philly/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NBCSportsPhiladelphia.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "17596",
-      "site_name": "NBC Sports Philadelphia",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.nbcsports.com/philadelphia/",
-    "launched": "1997-10-01",
     "closed": null
   },
   {
@@ -57937,43 +57651,6 @@
     "closed": null
   },
   {
-    "id": "NickelodeonLatinAmerica.us",
-    "name": "Nickelodeon Latin America",
-    "alt_names": [],
-    "network": "Nickelodeon",
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "stream_url": "https://streamer.metronethn.com/Nickelodeon/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NickelodeonLatinAmerica.us",
-      "feed": "Panregional",
-      "site": "siba.com.co",
-      "site_id": "552",
-      "site_name": "NICKELODEON",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "http://nickelodeon.la/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "NickelodeonPlutoTV.us",
     "name": "Nickelodeon Pluto TV",
     "alt_names": [],
@@ -58338,43 +58015,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://pluto.tv/en/live-tv/nick-jr-club-1",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NickJrLatinAmerica.us",
-    "name": "Nick Jr. Latin America",
-    "alt_names": [],
-    "network": "Nickelodeon",
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/KT4tdQs.png",
-    "stream_url": "https://streamer.metronethn.com/NickJr/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NickJrLatinAmerica.us",
-      "feed": "Panregional",
-      "site": "siba.com.co",
-      "site_id": "551",
-      "site_name": "NICK JR",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "http://la.nickjr.tv/",
     "launched": null,
     "closed": null
   },
@@ -72171,37 +71811,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg",
-    "stream_url": "https://messi.damitv.st/papi/ts/racernetwork-usa/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.mavtv.com/platforms/",
-    "launched": "2004-10-01",
-    "closed": null
-  },
-  {
-    "id": "RacerNetwork.us",
-    "name": "Racer Network",
-    "alt_names": [
-      "MAVTV",
-      "Maverick Television"
-    ],
-    "network": null,
-    "owners": [
-      "Lucas Oil"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg",
     "stream_url": "https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -77989,41 +77598,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
-    "stream_url": "https://streamer.metronethn.com/StarChannel/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarChannelLatinAmerica.us",
-      "feed": "South",
-      "site": "mi.tv",
-      "site_id": "ar#fox",
-      "site_name": "Star Channel",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.star-latam.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "StarChannelLatinAmerica.us",
-    "name": "Star Channel Latin America",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies",
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
     "stream_url": "http://15.204.246.24:8080/STARCHANNELHD/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -81042,44 +80616,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Azteca_America_2011_logo.png",
-    "stream_url": "https://streamer.metronethn.com/Telemundo/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Telemundo.us",
-      "feed": "East",
-      "site": "tvtv.us",
-      "site_id": "73245",
-      "site_name": "Telemundo East (National Feed)",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.telemundo.com/",
-    "launched": "1984-06-19",
-    "closed": null
-  },
-  {
-    "id": "Telemundo.us",
-    "name": "Telemundo",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "NBCUniversal Telemundo Enterprises",
-      "NBCUniversal",
-      "Comcast Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Azteca_America_2011_logo.png",
     "stream_url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -81744,42 +81280,6 @@
     "logo": "https://i.imgur.com/tsljAnY.png",
     "stream_url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TennisChannel.us",
-      "feed": "Plus2",
-      "site": "xumo.tv",
-      "site_id": "50#99951389",
-      "site_name": "TennisChannel 2",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.tennischannel.app/",
-    "launched": "2003-05-15",
-    "closed": null
-  },
-  {
-    "id": "TennisChannel.us",
-    "name": "Tennis Channel",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Sinclair Broadcast Group"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/tsljAnY.png",
-    "stream_url": "https://messi.damitv.st/papi/ts/tennischannel-usa/playlist.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -92502,42 +92002,6 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/3840px-Wetv-july-2024-logo.svg.png",
     "stream_url": "http://170.254.17.2/WE_TV/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "WeTV.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "54292",
-      "site_name": "We TV West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.wetv.com/",
-    "launched": "1997-09-01",
-    "closed": null
-  },
-  {
-    "id": "WeTV.us",
-    "name": "We TV",
-    "alt_names": [],
-    "network": "We TV",
-    "owners": [
-      "AMC Global Media"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/3840px-Wetv-july-2024-logo.svg.png",
-    "stream_url": "https://streamer1.nexgen.bz/WE_TV/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,

@@ -39,6 +39,45 @@
     "closed": null
   },
   {
+    "id": "3sat.de",
+    "name": "3sat",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "ZDF",
+      "ORF",
+      "SRG",
+      "ARD"
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
+    "stream_url": "https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "3sat.de",
+      "feed": "SD",
+      "site": "webtv.delta.nl",
+      "site_id": "3016",
+      "site_name": "3Sat",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "https://www.3sat.de/",
+    "launched": "1984-12-01",
+    "closed": null
+  },
+  {
     "id": "16AnnieIncinta.de",
     "name": "16 Anni e Incinta",
     "alt_names": [],
@@ -3802,42 +3841,6 @@
     "closed": null
   },
   {
-    "id": "FixFoxi.de",
-    "name": "Fix & Foxi",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Your Family Entertainment AG"
-    ],
-    "country_code": "DE",
-    "country_name": "Germany",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fix_and_Fox_Channel_Logo.png/250px-Fix_and_Fox_Channel_Logo.png",
-    "stream_url": "https://live.omni3.pl/fixfoxide/index.m3u8?token=ebnk.xyz",
-    "stream_quality": "540p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FixFoxi.de",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "3381",
-      "site_name": "Fix et Foxy",
-      "lang": "fr",
-      "sources": []
-    },
-    "website": "https://fixundfoxi.tv/",
-    "launched": "2014-12-01",
-    "closed": null
-  },
-  {
     "id": "FolxMusicTelevision.de",
     "name": "Folx Music Television",
     "alt_names": [],
@@ -7525,6 +7528,44 @@
     "closed": null
   },
   {
+    "id": "Nitro.de",
+    "name": "Nitro",
+    "alt_names": [
+      "RTL Nitro"
+    ],
+    "network": null,
+    "owners": [
+      "RTL Group"
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png",
+    "stream_url": "https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Nitro.de",
+      "feed": "SD",
+      "site": "web.magentatv.de",
+      "site_id": "395",
+      "site_name": "NITRO",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "https://www.nitro-tv.de/",
+    "launched": "2012-04-01",
+    "closed": null
+  },
+  {
     "id": "noa4Hamburg.de",
     "name": "noa4 Hamburg",
     "alt_names": [],
@@ -7608,6 +7649,42 @@
     },
     "website": "https://www.nrwision.de/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ntv.de",
+    "name": "n-tv",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RTL Group"
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/960px-N-tv_logo-september2017.svg.png",
+    "stream_url": "https://dash4.antik.sk/live/test_ntv_tizen/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ntv.de",
+      "feed": "SD",
+      "site": "webtv.delta.nl",
+      "site_id": "3019",
+      "site_name": "n-tv",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "https://www.n-tv.de/",
+    "launched": "1992-11-30",
     "closed": null
   },
   {
@@ -16301,8 +16378,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/94K94k2.png",
-    "stream_url": "https://live.omni3.pl/rtlde/index.m3u8?token=ebnk.xyz",
-    "stream_quality": "1080p",
+    "stream_url": "https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -16337,11 +16414,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/KbdK8t9.png",
-    "stream_url": "https://forsizero.github.io/iptv/m3u/superrtlhd.m3u",
-    "stream_quality": "720p",
+    "stream_url": "https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
-    "referrer": "https://www.2ix2.com/super-rtl-live/",
+    "referrer": null,
     "tv_guide": {
       "channel": "RTLSuper.de",
       "feed": "SD",
@@ -16371,8 +16448,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png",
-    "stream_url": "https://live.omni3.pl/rtl2de/index.m3u8?token=ebnk.xyz",
-    "stream_quality": "1080p",
+    "stream_url": "https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -17736,6 +17813,40 @@
     "closed": null
   },
   {
+    "id": "SWRFernsehenHD.de",
+    "name": "SWR Fernsehen HD",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Südwestrundfunk"
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/960px-SWR_Logo_2023.svg.png",
+    "stream_url": "https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SWRFernsehenHD.de",
+      "feed": "SD",
+      "site": "tv.sfr.fr",
+      "site_id": "182",
+      "site_name": "SWR",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.swrfernsehen.de/",
+    "launched": "2012-04-30",
+    "closed": null
+  },
+  {
     "id": "SWRFernsehenRheinlandPfalz.de",
     "name": "SWR Fernsehen Rheinland-Pfalz",
     "alt_names": [
@@ -18749,6 +18860,40 @@
     "closed": null
   },
   {
+    "id": "VOX.de",
+    "name": "VOX",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vox Television GmbH"
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/QPcmfZb.png",
+    "stream_url": "https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "VOX.de",
+      "feed": "SD",
+      "site": "webtv.delta.nl",
+      "site_id": "3017",
+      "site_name": "VOX",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "https://www.vox.de/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "WDR1Live.de",
     "name": "WDR 1 Live",
     "alt_names": [],
@@ -19285,6 +19430,42 @@
     "closed": null
   },
   {
+    "id": "WELT.de",
+    "name": "WELT",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "WeltN24 GmbH"
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/s4TZoxx.png",
+    "stream_url": "https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "WELT.de",
+      "feed": "SD",
+      "site": "web.magentatv.de",
+      "site_id": "375",
+      "site_name": "WELT",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "https://www.welt.de/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "WeltderWunderTV.de",
     "name": "Welt der Wunder TV",
     "alt_names": [],
@@ -19426,6 +19607,38 @@
     "logo": "https://i.imgur.com/rtLb6m9.png",
     "stream_url": "https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ZDF.de",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000035_020028",
+      "site_name": "ZDF",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "https://www.zdf.de/",
+    "launched": "1963-04-01",
+    "closed": null
+  },
+  {
+    "id": "ZDF.de",
+    "name": "ZDF",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/rtLb6m9.png",
+    "stream_url": "https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

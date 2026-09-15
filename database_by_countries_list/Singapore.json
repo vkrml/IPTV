@@ -112,6 +112,44 @@
     "closed": null
   },
   {
+    "id": "AXNAsia.sg",
+    "name": "AXN Asia",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "KC Global Media Singapore Pte. Ltd.",
+      "KC Global Media Entertainment LLC"
+    ],
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "stream_url": "http://58.8.186.128:10007/bysid/2814",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXNAsia.sg",
+      "feed": "Indonesia",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000079",
+      "site_name": "AXN",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://www.axn-asia.com/",
+    "launched": "1997-09-21",
+    "closed": null
+  },
+  {
     "id": "Channel8.sg",
     "name": "Channel 8",
     "alt_names": [
@@ -601,6 +639,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+    "stream_url": "http://58.8.186.128:10003/bysid/2330",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NickJrAsia.sg",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000060",
+      "site_name": "Nick Jr",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "http://www.nickjr.tv/",
+    "launched": "2011-05-18",
+    "closed": null
+  },
+  {
+    "id": "NickJrAsia.sg",
+    "name": "Nick Jr. Asia",
+    "alt_names": [],
+    "network": "Nickelodeon",
+    "owners": [
+      "Paramount Networks EMEAA"
+    ],
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
     "stream_url": "http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -651,6 +725,68 @@
     },
     "website": "https://www.rockentertainment.com/our-brands/rock-action",
     "launched": "2022-12-12",
+    "closed": null
+  },
+  {
+    "id": "ROCKEntertainment.sg",
+    "name": "ROCK Entertainment",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/PWzq0aU.png",
+    "stream_url": "http://58.8.186.128:10006/bysid/2612",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ROCKEntertainment.sg",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000092",
+      "site_name": "Rock Entertainment",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://www.rockentertainment.com/our-brands/rock-entertainment",
+    "launched": "2013-09-01",
+    "closed": null
+  },
+  {
+    "id": "ROCKXStream.sg",
+    "name": "ROCK X Stream",
+    "alt_names": [],
+    "network": "ROCK Network",
+    "owners": [
+      "Rock Entertainment Holdings"
+    ],
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/TM8d2yp8/Rock-X-Stream.webp",
+    "stream_url": "http://58.8.186.128:10007/bysid/2811",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.rockentertainment.com/",
+    "launched": "2026-02-02",
     "closed": null
   },
   {

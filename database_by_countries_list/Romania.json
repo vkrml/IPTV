@@ -294,8 +294,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/EPmwuuv.png",
-    "stream_url": "https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8",
-    "stream_quality": null,
+    "stream_url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7002/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -330,8 +330,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/EPmwuuv.png",
-    "stream_url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7002/index.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "https://live4dai.antenaplay.ro/live2_sport07/live2_sport07_600k.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -346,6 +346,70 @@
     },
     "website": "http://a1.ro/",
     "launched": "1993-11-29",
+    "closed": null
+  },
+  {
+    "id": "AntenaInternational.ro",
+    "name": "Antena International",
+    "alt_names": [],
+    "network": "Antena Group",
+    "owners": [
+      "Intact Media Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/38/Antena_Interna%C8%9Bional_2022.png/revision/latest/scale-to-width-down/512",
+    "stream_url": "https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AntenaInternational.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "antena-international",
+      "site_name": "Antena International",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://antenainternational.ro/",
+    "launched": "2006-07-01",
+    "closed": null
+  },
+  {
+    "id": "AntenaMonden.ro",
+    "name": "Antena Monden",
+    "alt_names": [],
+    "network": "Antena Group",
+    "owners": [
+      "Intact Media Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300",
+    "stream_url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://antenaplay.ro/",
+    "launched": null,
     "closed": null
   },
   {
@@ -368,8 +432,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300",
-    "stream_url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1146,6 +1210,40 @@
     "closed": null
   },
   {
+    "id": "EtnoTV.ro",
+    "name": "Etno TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/jzhZ8kl.png",
+    "stream_url": "https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EtnoTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "etno-tv",
+      "site_name": "Etno TV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.etno.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "EuronewsRomania.ro",
     "name": "Euronews Romania",
     "alt_names": [],
@@ -1207,6 +1305,42 @@
     },
     "website": "http://www.digi-film.ro/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HappyChannel.ro",
+    "name": "Happy Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Antena TV Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/kpFaiku.png",
+    "stream_url": "https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HappyChannel.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "happy-channel",
+      "site_name": "Happy Channel",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://tvhappy.ro/",
+    "launched": "2016-03-07",
     "closed": null
   },
   {
@@ -1717,6 +1851,30 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://antenaplay.ro/live/mireasa",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MireasaExtra.ro",
+    "name": "Mireasa Extra",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4NHO9BM.png",
+    "stream_url": "rtmp://stream1.antenaplay.ro/live/MireasaExtra",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://antenaplay.ro/live/mireasa-extra",
     "launched": null,
     "closed": null
   },
@@ -2827,6 +2985,32 @@
     "tv_guide": null,
     "website": "https://traditionaltv.net/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TraLaLaTV.ro",
+    "name": "TraLaLa TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/xJBMnjy.png",
+    "stream_url": "https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://tv.tralala.ro/",
+    "launched": "2021-10-20",
     "closed": null
   },
   {

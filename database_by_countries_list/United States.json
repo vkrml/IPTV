@@ -1854,42 +1854,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/KTVX2022LOGO.svg",
-    "stream_url": "http://stream.cammonitorplus.net/1797/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ABC.us",
-      "feed": "East",
-      "site": "tvtv.us",
-      "site_id": "10003",
-      "site_name": "ABC East",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://abc.com/",
-    "launched": "1948-04-19",
-    "closed": null
-  },
-  {
-    "id": "ABC.us",
-    "name": "ABC",
-    "alt_names": [],
-    "network": "ABC",
-    "owners": [
-      "The Walt Disney Company"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/KTVX2022LOGO.svg",
     "stream_url": "https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -5738,6 +5702,42 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
     "stream_url": "http://138.121.15.230:9002/AMC/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AMCLatinAmerica.us",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "532",
+      "site_name": "AMC",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.amctv.la/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AMCLatinAmerica.us",
+    "name": "AMC Latin America",
+    "alt_names": [],
+    "network": "AMC",
+    "owners": [
+      "AMC Global Media"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+    "stream_url": "https://iptv2.intersurtv.cl/AMC/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -13246,6 +13246,82 @@
     "closed": null
   },
   {
+    "id": "BloombergTV.us",
+    "name": "Bloomberg TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Bloomberg L.P.",
+      "Michael Bloomberg",
+      "Bank of America"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "business"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OuogLHx.png",
+    "stream_url": "https://mumbai-edge.smartplaytv.in/Bloomberg/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BloombergTV.us",
+      "feed": "Europe",
+      "site": "webtv.delta.nl",
+      "site_id": "3118",
+      "site_name": "Bloomberg Television",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.bloomberg.com/live/us/btv",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BloombergTV.us",
+    "name": "Bloomberg TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Bloomberg L.P.",
+      "Michael Bloomberg",
+      "Bank of America"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "business"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OuogLHx.png",
+    "stream_url": "https://tvsen6.aynaott.com/bloombergtv/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BloombergTV.us",
+      "feed": "Europe",
+      "site": "webtv.delta.nl",
+      "site_id": "3118",
+      "site_name": "Bloomberg Television",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.bloomberg.com/live/us/btv",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BlueBloods.us",
     "name": "Blue Bloods",
     "alt_names": [],
@@ -18707,7 +18783,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
-    "stream_url": "http://45.162.193.35/CINECANAL/index.m3u8",
+    "stream_url": "https://iptv2.intersurtv.cl/CINECANAL/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -33491,42 +33567,6 @@
     "closed": null
   },
   {
-    "id": "FoxNewsChannel.us",
-    "name": "Fox News Channel",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Fox Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
-    "stream_url": "https://tvsen6.aynaott.com/foxnews/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FoxNewsChannel.us",
-      "feed": "SD",
-      "site": "webtv.delta.nl",
-      "site_id": "3116",
-      "site_name": "Fox News Channel",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.foxnews.com/",
-    "launched": "1996-10-07",
-    "closed": null
-  },
-  {
     "id": "FoxNewsRadio.us",
     "name": "Fox News Radio",
     "alt_names": [],
@@ -34860,6 +34900,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+    "stream_url": "https://iptv2.intersurtv.cl/FX/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FXLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "mi.tv",
+      "site_id": "co#fx-hd",
+      "site_name": "FX HD",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.canalfx.tv/",
+    "launched": "2005-05-01",
+    "closed": null
+  },
+  {
+    "id": "FXLatinAmerica.us",
+    "name": "FX Latin America",
+    "alt_names": [],
+    "network": "FX Channels",
+    "owners": [
+      "The Walt Disney Company Latin America"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
     "stream_url": "http://72.1.184.5:8089/play/a05i/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -34982,6 +35058,44 @@
     "logo": "https://i.ibb.co/zThkPg23/IMG-2277.png",
     "stream_url": "https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Galavision.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "18350",
+      "site_name": "Galavisión Oeste",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.univision.com/galavision",
+    "launched": "1979-04-02",
+    "closed": null
+  },
+  {
+    "id": "Galavision.us",
+    "name": "Galavision",
+    "alt_names": [
+      "Galavisión East"
+    ],
+    "network": null,
+    "owners": [
+      "TelevisaUnivision"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/zThkPg23/IMG-2277.png",
+    "stream_url": "http://200.115.120.1:8000/play/ca128/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -37545,6 +37659,34 @@
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/happy-days-ptv1",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HappyKids.us",
+    "name": "HappyKids",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Future Today Inc"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/cPrUCFw.png",
+    "stream_url": "https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://happykids.tv/",
     "launched": null,
     "closed": null
   },
@@ -43517,6 +43659,40 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/1luzP3T.png",
+    "stream_url": "https://rarelivetv8080.neocities.org/USA_KARTOON_CHANNEL/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "KartoonChannel.us",
+      "feed": "SD",
+      "site": "pluto.tv",
+      "site_id": "60fb040d4795a6000762fe8f",
+      "site_name": "Kartoon Channel!",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://pluto.tv/en/live-tv/kartoon-channel",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "KartoonChannel.us",
+    "name": "Kartoon Channel!",
+    "alt_names": [],
+    "network": "Pluto TV",
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/1luzP3T.png",
     "stream_url": "https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -45766,6 +45942,42 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
     "stream_url": "http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "LifetimeAsia.us",
+      "feed": "SD",
+      "site": "wavve.com",
+      "site_id": "C5902",
+      "site_name": "LIFETIME",
+      "lang": "ko",
+      "sources": []
+    },
+    "website": "http://www.lifetimeasia.com/",
+    "launched": "2013-06-14",
+    "closed": null
+  },
+  {
+    "id": "LifetimeAsia.us",
+    "name": "Lifetime Asia",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "A&E Networks Asia"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+    "stream_url": "http://58.8.186.128:10006/bysid/2615",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -53569,6 +53781,43 @@
     "closed": null
   },
   {
+    "id": "NationalGeographicLatinAmerica.us",
+    "name": "National Geographic Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "National Geographic Partners LLC.",
+      "The Walt Disney Company"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "stream_url": "https://iptv2.intersurtv.cl/NATGEO/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalGeographicLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "550",
+      "site_name": "NATIONAL GEOGRAPHIC",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.nationalgeographicla.com/",
+    "launched": "2001-01-07",
+    "closed": null
+  },
+  {
     "id": "NationalGeographicWild.us",
     "name": "National Geographic Wild",
     "alt_names": [],
@@ -57287,6 +57536,42 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",
     "stream_url": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NFLNetwork.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "102790",
+      "site_name": "NFL Network",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.nfl.com/network",
+    "launched": "2003-11-04",
+    "closed": null
+  },
+  {
+    "id": "NFLNetwork.us",
+    "name": "NFL Network",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "National Football League"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",
+    "stream_url": "https://tvsen6.aynaott.com/nfl/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -63347,6 +63632,43 @@
     "logo": "https://i.imgur.com/MsIx7Ax.png",
     "stream_url": "https://jukin-peopleareawesome-2-se.samsung.wurl.tv/playlist.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PeopleAreAwesome.us",
+      "feed": "SD",
+      "site": "watch.whaletvplus.com",
+      "site_id": "411588625798144805",
+      "site_name": "People are Awesome",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.peopleareawesome.com/pages/streaming",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PeopleAreAwesome.us",
+    "name": "People Are Awesome",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "The Jukin Media Inc.",
+      "Trusted Media Brands Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/MsIx7Ax.png",
+    "stream_url": "https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -75348,6 +75670,38 @@
     "closed": null
   },
   {
+    "id": "ShemarooBollywood.us",
+    "name": "Shemaroo Bollywood",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TFxLj80.png",
+    "stream_url": "https://mumbai-edge.smartplaytv.in/ShemaroBollywood/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ShemarooBollywood.us",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "62d1a58e520656fda09e609d",
+      "site_name": "Shemaroo Bollywood",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://watch.plex.tv/live-tv/channel/shemaroo-bollywood",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ShopLC.us",
     "name": "Shop LC",
     "alt_names": [],
@@ -78724,6 +79078,40 @@
     "closed": null
   },
   {
+    "id": "StudioUniversalLatinAmerica.us",
+    "name": "Studio Universal Latin America",
+    "alt_names": [
+      "Studio Universal Brasil"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",
+    "stream_url": "https://iptv2.intersurtv.cl/STUDIO-UNIVERSAL/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StudioUniversalLatinAmerica.us",
+      "feed": "Brazil",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000054",
+      "site_name": "Studio Universal",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "http://www.universalplus.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "STV.us",
     "name": "STV",
     "alt_names": [],
@@ -81005,6 +81393,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.tempe.gov/community/tempe-11",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TennisChannel2.us",
+    "name": "Tennis Channel 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sinclair Broadcast Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png",
+    "stream_url": "https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.tennischannel.app/",
     "launched": null,
     "closed": null
   },
@@ -92349,6 +92765,45 @@
     "is_nsfw": false,
     "logo": "https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png",
     "stream_url": "https://tvsen5.aynaott.com/willowhd/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Willow.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "68605",
+      "site_name": "Willow",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.willow.tv/",
+    "launched": "2010-08-27",
+    "closed": null
+  },
+  {
+    "id": "Willow.us",
+    "name": "Willow",
+    "alt_names": [
+      "Willow TV"
+    ],
+    "network": "Willow",
+    "owners": [
+      "Times Internet (UK) Ltd.",
+      "Bennett Coleman and Company Limited (BCCL)"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png",
+    "stream_url": "https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,

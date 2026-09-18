@@ -1837,6 +1837,40 @@
     "closed": null
   },
   {
+    "id": "NationalGeographic.bg",
+    "name": "National Geographic",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BG",
+    "country_name": "Bulgaria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "stream_url": "http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalGeographic.bg",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "bg/tv-programa#national-geographic-bg",
+      "site_name": "National Geographic BG",
+      "lang": "bg",
+      "sources": []
+    },
+    "website": "http://www.natgeotv.com/bg",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "NationalGeographicWild.bg",
     "name": "National Geographic Wild",
     "alt_names": [],
@@ -1858,6 +1892,42 @@
     "stream_quality": null,
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalGeographicWild.bg",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "bg/tv-programa#nat-geo-wild-bg",
+      "site_name": "Nat Geo Wild BG",
+      "lang": "bg",
+      "sources": []
+    },
+    "website": "http://natgeotv.com/bg/wild",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NationalGeographicWild.bg",
+    "name": "National Geographic Wild",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "National Geographic Society"
+    ],
+    "country_code": "BG",
+    "country_name": "Bulgaria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+    "stream_url": "http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "NationalGeographicWild.bg",

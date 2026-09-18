@@ -294,43 +294,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/EPmwuuv.png",
-    "stream_url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7002/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Antena1.ro",
-      "feed": "SD",
-      "site": "programetv.ro",
-      "site_id": "antena-1",
-      "site_name": "Antena 1",
-      "lang": "ro",
-      "sources": []
-    },
-    "website": "http://a1.ro/",
-    "launched": "1993-11-29",
-    "closed": null
-  },
-  {
-    "id": "Antena1.ro",
-    "name": "Antena 1",
-    "alt_names": [],
-    "network": "Antena Group",
-    "owners": [
-      "Intact Media Group"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/EPmwuuv.png",
-    "stream_url": "https://live4dai.antenaplay.ro/live2_sport07/live2_sport07_600k.m3u8",
+    "stream_url": "https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -600,6 +564,41 @@
       "site": "programetv.ro",
       "site_id": "bollywood-classic",
       "site_name": "Bollywood Classic",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.bollywoodtv.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BollywoodFilm.ro",
+    "name": "Bollywood Film",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "classic"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/bEMUpHZ.png",
+    "stream_url": "https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BollywoodFilm.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "bollywood-film",
+      "site_name": "Bollywood FILM",
       "lang": "ro",
       "sources": []
     },
@@ -1530,6 +1529,38 @@
     "closed": null
   },
   {
+    "id": "IneditTV.ro",
+    "name": "Inedit TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/HcFpNwA.png",
+    "stream_url": "https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "IneditTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "inedit-tv",
+      "site_name": "Inedit TV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://inedittv.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "InformatiaTV.ro",
     "name": "Informatia TV",
     "alt_names": [
@@ -1904,6 +1935,114 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://misatv.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MoozDance.ro",
+    "name": "Mooz Dance",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Cristinal Popa and Ionut Samoila"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/aX70RD2.png",
+    "stream_url": "https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MoozDance.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "mooz-dance",
+      "site_name": "Mooz Dance",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://mooz.tv/mooz-dance/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MoozHits.ro",
+    "name": "Mooz Hits",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Cristinal Popa and Ionut Samoila"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/GwATd3Y.png",
+    "stream_url": "https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MoozHits.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "mooz-hits",
+      "site_name": "Mooz Hits",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://mooz.tv/mooz-hits/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MoozRo.ro",
+    "name": "Mooz Ro!",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Cristinal Popa and Ionut Samoila"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Ft24x5T.png",
+    "stream_url": "https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MoozRo.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "mooz-ro",
+      "site_name": "Mooz Ro",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://mooz.tv/mooz-ro/",
     "launched": null,
     "closed": null
   },

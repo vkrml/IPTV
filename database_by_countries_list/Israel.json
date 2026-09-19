@@ -1076,10 +1076,10 @@
     "closed": null
   },
   {
-    "id": "RelevantTV.il",
-    "name": "Relevant TV",
+    "id": "RealityChannel.il",
+    "name": "Reality Channel",
     "alt_names": [
-      "רלוונט"
+      "ערוץ הריאליטי"
     ],
     "network": null,
     "owners": [],
@@ -1088,18 +1088,18 @@
     "subdivision": null,
     "city": null,
     "categories": [
-      "news"
+      "entertainment"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/jCZ5gFO.png",
-    "stream_url": "https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8",
-    "stream_quality": "1080p",
+    "logo": "https://static.g-cdn.app/streams/yes-reality-channel-il-hd.png",
+    "stream_url": "https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": "https://relevant.co.il/",
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -1154,6 +1154,60 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://nick.co.il/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VacationChannel.il",
+    "name": "Vacation Channel",
+    "alt_names": [
+      "הנופש ערוץ"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "IL",
+    "country_name": "Israel",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.g-cdn.app/streams/vacation-channel-il-hd.png",
+    "stream_url": "https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VivaPremium.il",
+    "name": "Viva Premium",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IL",
+    "country_name": "Israel",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://cdn.epg.one/img2/9055.png",
+    "stream_url": "http://stream.mcquack.net/43/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },

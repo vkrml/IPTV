@@ -1,5 +1,127 @@
 [
   {
+    "id": "5Gold.il",
+    "name": "5Gold",
+    "alt_names": [
+      "Sports5"
+    ],
+    "network": null,
+    "owners": [
+      "RGE Group"
+    ],
+    "country_code": "IL",
+    "country_name": "Israel",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/zFLRfXh.png",
+    "stream_url": "http://str2.iptvhd.ru:8080/sport5gold/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.sport5.co.il/",
+    "launched": "1990-01-01",
+    "closed": null
+  },
+  {
+    "id": "5Live.il",
+    "name": "5Live",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RGE Group"
+    ],
+    "country_code": "IL",
+    "country_name": "Israel",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/0yr3yvd.png",
+    "stream_url": "http://str2.iptvhd.ru:8080/5live/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.sport5.co.il/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "5Plus.il",
+    "name": "5Plus",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RGE Group"
+    ],
+    "country_code": "IL",
+    "country_name": "Israel",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/L3RA9Lv.png",
+    "stream_url": "http://89.33.29.115:8080/sportplus/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.sport5.co.il/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "5Sport4K.il",
+    "name": "5Sport 4K",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RGE Group"
+    ],
+    "country_code": "IL",
+    "country_name": "Israel",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Msfhpqd.png",
+    "stream_url": "http://str2.iptvhd.ru:8080/5SPORT_4K/index.m3u8",
+    "stream_quality": "2160p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "5Sport4K.il",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "yes-sport-5-4k",
+      "site_name": "5Sport 4K",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "http://www.sport5.co.il/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "5Sport.il",
     "name": "5Sport",
     "alt_names": [
@@ -19,10 +141,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/dRVsB89.png",
-    "stream_url": "http://stream.mcquack.net/41/index.m3u8",
+    "stream_url": "http://str2.iptvhd.ru:8080/5sport/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "5Sport.il",
@@ -212,6 +334,32 @@
     "closed": null
   },
   {
+    "id": "FoodChannel.il",
+    "name": "Food Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IL",
+    "country_name": "Israel",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "cooking"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/mpXPmfw.png",
+    "stream_url": "http://str2.iptvhd.ru:8080/FoodChannel/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://xnet.ynet.co.il/home/0",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "GoodLife.il",
     "name": "Good Life",
     "alt_names": [],
@@ -268,6 +416,32 @@
     "closed": null
   },
   {
+    "id": "HealthChannel.il",
+    "name": "Health Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IL",
+    "country_name": "Israel",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://cdn.epg.one/img2/2709.png",
+    "stream_url": "http://89.33.29.115:8080/Health/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Hidabroot.il",
     "name": "Hidabroot",
     "alt_names": [],
@@ -290,6 +464,30 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.hidabroot.org/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HomePlus.il",
+    "name": "Home +",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IL",
+    "country_name": "Israel",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/HPsxqMx.png",
+    "stream_url": "http://str2.iptvhd.ru:8080/home_plus/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },
@@ -452,6 +650,33 @@
     "closed": null
   },
   {
+    "id": "HOTComedy.il",
+    "name": "HOT Comedy",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IL",
+    "country_name": "Israel",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy",
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/he/thumb/0/08/HOTComedyCentral.svg/250px-HOTComedyCentral.svg.png",
+    "stream_url": "http://str2.iptvhd.ru:8080/HOTComedy/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "HOTDrama.il",
     "name": "HOT Drama",
     "alt_names": [],
@@ -471,6 +696,32 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HOTSenior.il",
+    "name": "HOT Senior",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IL",
+    "country_name": "Israel",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HotNewLogo.svg/250px-HotNewLogo.svg.png",
+    "stream_url": "http://str2.iptvhd.ru:8080/HOT_Senior/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": null,
     "website": null,
@@ -756,6 +1007,32 @@
     "closed": null
   },
   {
+    "id": "Junior.il",
+    "name": "Junior",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IL",
+    "country_name": "Israel",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/w8fYTnw.png",
+    "stream_url": "http://str2.iptvhd.ru:8080/junior/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "KabbalahforthePeopleIsrael.il",
     "name": "Kabbalah for the People Israel",
     "alt_names": [],
@@ -972,6 +1249,34 @@
     "closed": null
   },
   {
+    "id": "Luli.il",
+    "name": "Luli",
+    "alt_names": [
+      "לולי"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "IL",
+    "country_name": "Israel",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://cdn.epg.one/img2/2695.png",
+    "stream_url": "http://str2.iptvhd.ru:8080/HOT_Luli/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Makan33.il",
     "name": "Makan 33",
     "alt_names": [
@@ -1076,6 +1381,34 @@
     "closed": null
   },
   {
+    "id": "One2.il",
+    "name": "One 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Yedioth Ahronoth Group"
+    ],
+    "country_code": "IL",
+    "country_name": "Israel",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/JQLhYEs.png",
+    "stream_url": "http://str2.iptvhd.ru:8080/One/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.one.co.il/",
+    "launched": "2018-05-01",
+    "closed": null
+  },
+  {
     "id": "RealityChannel.il",
     "name": "Reality Channel",
     "alt_names": [
@@ -1132,6 +1465,32 @@
     "closed": null
   },
   {
+    "id": "Sport2.il",
+    "name": "Sport 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IL",
+    "country_name": "Israel",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Headxmx.png",
+    "stream_url": "http://str2.iptvhd.ru:8080/Sport_2/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://sport1.maariv.co.il/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TeenNick.il",
     "name": "TeenNick",
     "alt_names": [],
@@ -1149,6 +1508,32 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/1280px-TeenNick_logo_2023_%28outline%29.svg.png",
     "stream_url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://nick.co.il/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TeenNick.il",
+    "name": "TeenNick",
+    "alt_names": [],
+    "network": "Nickelodeon",
+    "owners": [],
+    "country_code": "IL",
+    "country_name": "Israel",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/1280px-TeenNick_logo_2023_%28outline%29.svg.png",
+    "stream_url": "http://89.33.29.115:8080/TeenNick/index.m3u8",
+    "stream_quality": "406p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1186,6 +1571,34 @@
     "closed": null
   },
   {
+    "id": "VivaIstanbul.il",
+    "name": "Viva Istanbul",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Yes Docu"
+    ],
+    "country_code": "IL",
+    "country_name": "Israel",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://cdn.epg.one/img2/88006.png",
+    "stream_url": "http://str2.iptvhd.ru:8080/viva_plus/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "VivaPremium.il",
     "name": "Viva Premium",
     "alt_names": [],
@@ -1202,6 +1615,32 @@
     "is_nsfw": false,
     "logo": "https://cdn.epg.one/img2/9055.png",
     "stream_url": "http://stream.mcquack.net/43/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VivaTelenovelas.il",
+    "name": "Viva Telenovelas",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IL",
+    "country_name": "Israel",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.g-cdn.app/streams/viva-il.png",
+    "stream_url": "http://str2.iptvhd.ru:8080/VIVA/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

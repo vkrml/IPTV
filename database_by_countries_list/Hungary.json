@@ -1376,6 +1376,34 @@
     "closed": null
   },
   {
+    "id": "HalomTV.hu",
+    "name": "Halom TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Halom Television Nonprofit"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/x8shi7l.png",
+    "stream_url": "rtmp://212.92.13.108/live/livestream1",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.halomtv.hu/",
+    "launched": "1990-03-15",
+    "closed": null
+  },
+  {
     "id": "HangulatTV.hu",
     "name": "Hangulat TV",
     "alt_names": [
@@ -1679,6 +1707,42 @@
     "stream_quality": null,
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "JimJam.hu",
+      "feed": "SD",
+      "site": "musor.tv",
+      "site_id": "JIMJAM",
+      "site_name": "JimJam",
+      "lang": "hu",
+      "sources": []
+    },
+    "website": "http://hu.jimjam.tv/",
+    "launched": "2008-01-01",
+    "closed": null
+  },
+  {
+    "id": "JimJam.hu",
+    "name": "JimJam",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "AMC Networks Inc."
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ODhkYyx.png",
+    "stream_url": "https://xyktmobile00.s.gy/PPV897_JIMJA_SD",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "JimJam.hu",

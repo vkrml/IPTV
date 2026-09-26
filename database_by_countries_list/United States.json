@@ -8987,6 +8987,42 @@
     "closed": null
   },
   {
+    "id": "AXNLatinAmerica.us",
+    "name": "AXN Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sony Pictures Television"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "stream_url": "http://181.78.12.119:16123/play/ch46/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXNLatinAmerica.us",
+      "feed": "Andes",
+      "site": "siba.com.co",
+      "site_id": "384",
+      "site_name": "AXN",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://la.axn.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AXNWhite.us",
     "name": "AXN White",
     "alt_names": [],
@@ -18950,6 +18986,34 @@
     "tv_guide": null,
     "website": "https://www.latingroup.us/ch.html",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CinemaxAction.us",
+    "name": "Cinemax Action",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Warner Bros. Discovery Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/6JL79rbZ/IMG-2472.png",
+    "stream_url": "https://sra72yz.s.gy/CINEMAX_ACTION_HD.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.cinemax.com/",
+    "launched": "2025-09-04",
     "closed": null
   },
   {
@@ -37142,13 +37206,10 @@
     "closed": null
   },
   {
-    "id": "HBOHits.us",
-    "name": "HBO Hits",
-    "alt_names": [
-      "HBO2",
-      "HBO Plus East"
-    ],
-    "network": "HBO",
+    "id": "HBODrama.us",
+    "name": "HBO Drama",
+    "alt_names": [],
+    "network": null,
     "owners": [
       "Home Box Office Inc.",
       "Warner Bros. Discovery"
@@ -37163,14 +37224,14 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg",
-    "stream_url": "http://tvsen7.aynascope.net/hbo2/index.m3u8",
-    "stream_quality": "720p",
+    "logo": "https://static.hbo.com/2025-09/HBO_Drama_Plex_Logo_bw.svg",
+    "stream_url": "https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": "https://www.hbo.com/",
+    "website": "http://www.hbo.com/",
     "launched": "2025-09-04",
     "closed": null
   },
@@ -57626,6 +57687,43 @@
     "closed": null
   },
   {
+    "id": "NickJr.us",
+    "name": "Nick Jr.",
+    "alt_names": [],
+    "network": "Nickelodeon",
+    "owners": [
+      "Viacom International Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KT4tdQs.png",
+    "stream_url": "https://sra72yz.s.gy/NICK_JR_HD.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NickJr.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "77996",
+      "site_name": "Nick Jr West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.nickjr.com/",
+    "launched": "1988-01-04",
+    "closed": null
+  },
+  {
     "id": "NickJrClub.us",
     "name": "Nick Jr. Club",
     "alt_names": [
@@ -57860,8 +57958,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg",
-    "stream_url": "http://tvsen7.aynascope.net/nicktoons/index.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "https://sra72yz.s.gy/NICKTOONS_HD.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -91688,42 +91786,6 @@
     },
     "website": "https://pluto.tv/en/live-tv/western-tv",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "WeTV.us",
-    "name": "We TV",
-    "alt_names": [],
-    "network": "We TV",
-    "owners": [
-      "AMC Global Media"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/3840px-Wetv-july-2024-logo.svg.png",
-    "stream_url": "http://170.254.17.2/WE_TV/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "WeTV.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "54292",
-      "site_name": "We TV West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.wetv.com/",
-    "launched": "1997-09-01",
     "closed": null
   },
   {

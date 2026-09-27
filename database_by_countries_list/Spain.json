@@ -2081,6 +2081,46 @@
     "closed": null
   },
   {
+    "id": "CanalSur.es",
+    "name": "Canal Sur",
+    "alt_names": [
+      "Andalucía Televisión",
+      "Andalucía TV"
+    ],
+    "network": null,
+    "owners": [
+      "Radio y Televisión de Andalucía"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general",
+      "public"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg",
+    "stream_url": "https://cdn.stmify.com/zapitv/stream/CANAL_SUR/canal_sur_hd.mpd",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalSur.es",
+      "feed": "SD",
+      "site": "orangetv.orange.es",
+      "site_id": "1035",
+      "site_name": "CanalSur",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://canalsur.es/television",
+    "launched": "1989-02-28",
+    "closed": null
+  },
+  {
     "id": "CanalSurAndalucia.es",
     "name": "Canal Sur Andalucia",
     "alt_names": [
@@ -4452,6 +4492,43 @@
     "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
     "stream_url": "https://ztnr.rtve.es/ztnr/1688877.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "La1.es",
+      "feed": "SD",
+      "site": "tv-programme.telecablesat.fr",
+      "site_id": "206",
+      "site_name": "TVE 1",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "http://www.rtve.es/television/",
+    "launched": "1956-10-28",
+    "closed": null
+  },
+  {
+    "id": "La1.es",
+    "name": "La 1",
+    "alt_names": [],
+    "network": "TVE",
+    "owners": [
+      "RTVE"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general",
+      "public"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
+    "stream_url": "https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd",
+    "stream_quality": "1086p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -7560,6 +7637,42 @@
     "closed": null
   },
   {
+    "id": "SundanceTV.es",
+    "name": "Sundance TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "AMC Networks Inc."
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/960px-SundanceTV_2014.svg.png",
+    "stream_url": "https://cdn.stmify.com/zapitv/stream/SUNDANCE_TV/sundance_hd.mpd",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SundanceTV.es",
+      "feed": "SD",
+      "site": "programacion-tv.elpais.com",
+      "site_id": "699",
+      "site_name": "Sundance Channel",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.sundancechannel.es/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SX3.es",
     "name": "SX3",
     "alt_names": [
@@ -8809,6 +8922,40 @@
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVEInternacionalAsiaOceania.es",
+      "feed": "SD",
+      "site": "programacion-tv.elpais.com",
+      "site_id": "667",
+      "site_name": "TVE Internacional Asia",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.rtve.es/play/tve-internacional/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVEInternacionalAsiaOceania.es",
+    "name": "TVE Internacional Asia-Oceania",
+    "alt_names": [],
+    "network": "TVE",
+    "owners": [
+      "RTVE"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
+    "stream_url": "https://racitonsen.s.gy/TVE_ASIA",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "TVEInternacionalAsiaOceania.es",

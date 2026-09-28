@@ -1,28 +1,32 @@
 [
   {
-    "id": "ElOussraTV.mr",
-    "name": "El Oussra TV",
-    "alt_names": [],
+    "id": "Sahara24.mr",
+    "name": "Sahara 24",
+    "alt_names": [
+      "صحراء 24"
+    ],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Sahara Medias"
+    ],
     "country_code": "MR",
     "country_name": "Mauritania",
     "subdivision": null,
     "city": null,
     "categories": [
-      "general"
+      "news"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/hpnL96b.png",
-    "stream_url": "https://dvrfl06.bozztv.com/astv-elousra/index.m3u8",
-    "stream_quality": null,
+    "logo": "https://i.imgur.com/pnzWYwT.png",
+    "stream_url": "https://live.saharamedias.net:3317/live/shara24live.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": "https://www.masef.gov.mr/",
-    "launched": null,
+    "website": "https://saharamedias.net/",
+    "launched": "2024-06-01",
     "closed": null
   }
 ]

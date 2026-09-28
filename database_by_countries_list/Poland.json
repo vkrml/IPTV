@@ -269,6 +269,37 @@
     "closed": null
   },
   {
+    "id": "BTB.pl",
+    "name": "BTB",
+    "alt_names": [
+      "Telewizja BTB",
+      "Bombaska Telewizja Boża"
+    ],
+    "network": "Telewizja BTB",
+    "owners": [
+      "Telewizja BTB"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/U8mcRal.png",
+    "stream_url": "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://btb.j00r.us/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BTBInfo.pl",
     "name": "BTB Info",
     "alt_names": [],
@@ -427,6 +458,42 @@
     "tv_guide": null,
     "website": "https://www.rakuten.tv/pl/live_channels/cartoon-classics",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CBeebies.pl",
+    "name": "CBeebies",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BBC"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
+    "stream_url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_cbeebies.stream/playlist.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CBeebies.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "bbc-cbeebies-2",
+      "site_name": "BBC CBeebies",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://www.bbcpolska.com/channels/cbeebies/",
+    "launched": "2007-12-02",
     "closed": null
   },
   {
@@ -596,6 +663,117 @@
     "closed": null
   },
   {
+    "id": "EskaRockTV.pl",
+    "name": "Eska Rock TV",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/o0Fg19Q.png",
+    "stream_url": "http://91.228.35.249:8001/1:0:1:2909:1EDC:71:820000:0:0:0:",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EskaRockTV.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "hip-hop-tv-511",
+      "site_name": "Eska Rock TV",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://www.eska.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "EskaTV.pl",
+    "name": "Eska TV",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/N0eH0Cg.png",
+    "stream_url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_eskatv.stream/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EskaTV.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "eska-tv-114",
+      "site_name": "Eska TV",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://www.eska.tv/",
+    "launched": "2008-08-08",
+    "closed": null
+  },
+  {
+    "id": "EskaTVExtra.pl",
+    "name": "Eska TV Extra",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/pZAFshQ.png",
+    "stream_url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_eskatvextra.stream/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EskaTVExtra.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "eska-tv-extra-597",
+      "site_name": "Eska TV Extra",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://www.eska.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Euronews.pl",
     "name": "Euronews",
     "alt_names": [
@@ -690,6 +868,34 @@
     "closed": null
   },
   {
+    "id": "FILMBOXPlusAction.pl",
+    "name": "FILMBOX+ Action",
+    "alt_names": [],
+    "network": "FILMBOX+",
+    "owners": [
+      "SPI International"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png",
+    "stream_url": "https://racitonsen.s.gy/FB_ACTION_PL",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2026-06-10",
+    "closed": null
+  },
+  {
     "id": "FILMBOXPlusComedy.pl",
     "name": "FILMBOX+ Comedy",
     "alt_names": [],
@@ -739,6 +945,34 @@
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2026-06-10",
+    "closed": null
+  },
+  {
+    "id": "FILMBOXPlusComedy.pl",
+    "name": "FILMBOX+ Comedy",
+    "alt_names": [],
+    "network": "FILMBOX+",
+    "owners": [
+      "SPI International"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png",
+    "stream_url": "https://racitonsen.s.gy/FB_COMEDY_PL",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": null,
     "website": null,
@@ -903,6 +1137,34 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png",
+    "stream_url": "https://racitonsen.s.gy/FB_EMOTION_PL",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2026-06-10",
+    "closed": null
+  },
+  {
+    "id": "FILMBOXPlusEmotion.pl",
+    "name": "FILMBOX+ Emotion",
+    "alt_names": [],
+    "network": "FILMBOX+",
+    "owners": [
+      "SPI International"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png",
     "stream_url": "https://onyx1.mofta1.cfd/fboye/usergendlg8sl1ks0tv7sr8n.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -963,6 +1225,34 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2026-06-10",
+    "closed": null
+  },
+  {
+    "id": "FILMBOXPlusFestival.pl",
+    "name": "FILMBOX+ Festival",
+    "alt_names": [],
+    "network": "FILMBOX+",
+    "owners": [
+      "SPI International"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png",
+    "stream_url": "https://racitonsen.s.gy/FB_FESTIVAL_PL",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": null,
     "website": null,
@@ -1072,6 +1362,34 @@
     "is_nsfw": false,
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
     "stream_url": "http://88.212.15.19/live/fb_premium_hungary/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2026-06-10",
+    "closed": null
+  },
+  {
+    "id": "FILMBOXPlusHits.pl",
+    "name": "FILMBOX+ Hits",
+    "alt_names": [],
+    "network": "FILMBOX+",
+    "owners": [
+      "SPI International"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
+    "stream_url": "https://racitonsen.s.gy/FB_HITS_PL",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -1413,6 +1731,32 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
+    "stream_url": "https://racitonsen.s.gy/FB_ONE_PL",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FILMBOXPlusOne.pl",
+    "name": "FILMBOX+ One",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
     "stream_url": "https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -1526,6 +1870,144 @@
     "closed": null
   },
   {
+    "id": "History2.pl",
+    "name": "History 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
+    "stream_url": "https://racitonsen.s.gy/H2_PL",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "History2.pl",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#history-channel-2",
+      "site_name": "History Channel 2",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "https://www.historytv.pl/history2",
+    "launched": "2014-10-28",
+    "closed": null
+  },
+  {
+    "id": "History.pl",
+    "name": "History",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "stream_url": "https://racitonsen.s.gy/HISTORY_PL",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "History.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "history-91",
+      "site_name": "HISTORY",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://www.historytv.pl/",
+    "launched": "2008-04-09",
+    "closed": null
+  },
+  {
+    "id": "KinoPolska.pl",
+    "name": "Kino Polska",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "SPI International Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/lbl8K23.png",
+    "stream_url": "https://racitonsen.s.gy/KINO_POLSKA",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "KinoPolska.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "kino-polska-324",
+      "site_name": "Kino Polska",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://kinopolska.pl/",
+    "launched": "2003-12-20",
+    "closed": null
+  },
+  {
+    "id": "KinoPolskaMuzyka.pl",
+    "name": "Kino Polska Muzyka",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/lE1IlPQ.png",
+    "stream_url": "https://racitonsen.s.gy/KINO_POLSKA_MUZYKA",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "KinoPolskaMuzyka.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "kino-polska-muzyka-426",
+      "site_name": "Kino Polska Muzyka",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://kinopolskamuzyka.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Mango.pl",
     "name": "Mango",
     "alt_names": [
@@ -1608,6 +2090,32 @@
     "tv_guide": null,
     "website": "https://musicboxtv.pl/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NewsmaxPolska.pl",
+    "name": "Newsmax Polska",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/2NhPCrY.png",
+    "stream_url": "http://91.228.35.249:8001/1:0:1:1C8A:1CE8:71:820000:0:0:0",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://newsmaxpolska.pl/",
+    "launched": "2026-07-04",
     "closed": null
   },
   {
@@ -1770,43 +2278,6 @@
     "closed": null
   },
   {
-    "id": "Polsat1.pl",
-    "name": "Polsat 1",
-    "alt_names": [],
-    "network": "Cyfrowy Polsat",
-    "owners": [
-      "Telewizja Polsat",
-      "Cyfrowy Polsat"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Polsat_1_2021_gradient.svg/960px-Polsat_1_2021_gradient.svg.png",
-    "stream_url": "https://cdn-s-lb2.pluscdn.pl/lv/1517829/348/hls/816eca15/masterlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Polsat1.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "polsat-1-36",
-      "site_name": "Polsat 1",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "https://www.polsat1.pl/",
-    "launched": "2015-12-18",
-    "closed": null
-  },
-  {
     "id": "Polsat.pl",
     "name": "Polsat",
     "alt_names": [],
@@ -1841,6 +2312,42 @@
     },
     "website": "https://www.polsat.pl/",
     "launched": "1992-12-05",
+    "closed": null
+  },
+  {
+    "id": "PolsatCafe.pl",
+    "name": "Polsat Cafe",
+    "alt_names": [
+      "Polsat Café"
+    ],
+    "network": null,
+    "owners": [
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Polsat_Caf%C3%A9_2021_gradient.svg/500px-Polsat_Caf%C3%A9_2021_gradient.svg.png",
+    "stream_url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatCafe.stream/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatCafe.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-caf-110",
+      "site_name": "Polsat Café",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://www.polsatcafe.pl/",
+    "launched": "2004-08-02",
     "closed": null
   },
   {
@@ -2079,6 +2586,41 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PolsatPlay.pl",
+    "name": "Polsat Play",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Polsat_Play_2021_gradient.svg/500px-Polsat_Play_2021_gradient.svg.png",
+    "stream_url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatPlay.stream/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatPlay.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-play-21",
+      "site_name": "Polsat Play",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://www.polsatplay.pl/",
+    "launched": "2008-10-06",
     "closed": null
   },
   {
@@ -3041,6 +3583,40 @@
     "closed": null
   },
   {
+    "id": "TVPHD.pl",
+    "name": "TVP HD",
+    "alt_names": [],
+    "network": "TVP",
+    "owners": [
+      "Telewizja Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/960px-TVP_HD_logo.svg.png",
+    "stream_url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPHD.stream/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVPHD.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tvp-hd-101",
+      "site_name": "TVP HD",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://hd.tvp.pl/",
+    "launched": "2008-08-06",
+    "closed": null
+  },
+  {
     "id": "TVPInfo.pl",
     "name": "TVP Info",
     "alt_names": [],
@@ -3075,6 +3651,40 @@
     "closed": null
   },
   {
+    "id": "TVPKultura.pl",
+    "name": "TVP Kultura",
+    "alt_names": [],
+    "network": "TVP",
+    "owners": [
+      "Telewizja Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/JU858Es.png",
+    "stream_url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPKultura.stream/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVPKultura.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tvp-kultura-477",
+      "site_name": "TVP Kultura",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://tvpkultura.tvp.pl/",
+    "launched": "2005-04-24",
+    "closed": null
+  },
+  {
     "id": "TVPPolonia.pl",
     "name": "TVP Polonia",
     "alt_names": [],
@@ -3106,6 +3716,76 @@
     },
     "website": "https://polonia.tvp.pl/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVPRozrywka.pl",
+    "name": "TVP Rozrywka",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Telewizja Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/05Vx5px.png",
+    "stream_url": "http://185.227.34.179:8080/tvp-rozrywka/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVPRozrywka.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tvp-rozrywka-159",
+      "site_name": "TVP Rozrywka",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://tvprozrywka.tvp.pl/",
+    "launched": "2013-04-15",
+    "closed": null
+  },
+  {
+    "id": "TVPSeriale.pl",
+    "name": "TVP Seriale",
+    "alt_names": [],
+    "network": "TVP",
+    "owners": [
+      "Telewizja Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/MuRtvXk.png",
+    "stream_url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPSERIALE.stream/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVPSeriale.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tvp-seriale-130",
+      "site_name": "TVP Seriale",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://seriale.tvp.pl/",
+    "launched": "2010-12-06",
     "closed": null
   },
   {

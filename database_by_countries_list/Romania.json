@@ -443,6 +443,34 @@
     "closed": null
   },
   {
+    "id": "AsiaExpressNonStop.ro",
+    "name": "Asia Express NonStop",
+    "alt_names": [],
+    "network": "Antena TV Group",
+    "owners": [
+      "Antena TV Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://assets.antenaplay.ro/2026/08/25/00keSCoSw0EaWnICcuYB.png",
+    "stream_url": "https://live4dai.antenaplay.ro/live2_sport05/live2_sport05_600k.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://antenaplay.ro/live/asia-express-nonstop",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AtomicAcademyTV.ro",
     "name": "Atomic Academy TV",
     "alt_names": [],
@@ -970,6 +998,76 @@
     "closed": null
   },
   {
+    "id": "DigiLife.ro",
+    "name": "Digi Life",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RCS & RDS"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/YhKpUkd.png",
+    "stream_url": "https://dokagents.site/live/digilife/mono.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DigiLife.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "digi-life",
+      "site_name": "Digi Life",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.digi-life.tv/",
+    "launched": "2012-10-01",
+    "closed": null
+  },
+  {
+    "id": "DigiSport1.ro",
+    "name": "Digi Sport 1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RCS & RDS"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5zMxDYq.png",
+    "stream_url": "https://dokagents.site/live/digisport1/mono.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DigiSport1.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "digi-sport-1",
+      "site_name": "Digi Sport 1",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://digisport.ro/",
+    "launched": "2012-08-11",
+    "closed": null
+  },
+  {
     "id": "DigiSport1.ro",
     "name": "Digi Sport 1",
     "alt_names": [],
@@ -998,6 +1096,78 @@
       "site": "programetv.ro",
       "site_id": "digi-sport-1",
       "site_name": "Digi Sport 1",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://digisport.ro/",
+    "launched": "2012-08-11",
+    "closed": null
+  },
+  {
+    "id": "DigiSport2.ro",
+    "name": "Digi Sport 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RCS & RDS"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KWDUi3v.png",
+    "stream_url": "https://lbgo.bozztv.com/ssh101/ssh101/digisport222/playlist.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DigiSport2.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "digi-sport-2",
+      "site_name": "Digi Sport 2",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://digisport.ro/",
+    "launched": "2012-08-11",
+    "closed": null
+  },
+  {
+    "id": "DigiSport2.ro",
+    "name": "Digi Sport 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RCS & RDS"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KWDUi3v.png",
+    "stream_url": "https://dokagents.site/live/digisport2/mono.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DigiSport2.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "digi-sport-2",
+      "site_name": "Digi Sport 2",
       "lang": "ro",
       "sources": []
     },
@@ -1078,6 +1248,42 @@
     "closed": null
   },
   {
+    "id": "DigiSport3.ro",
+    "name": "Digi Sport 3",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RCS & RDS"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/T1ci5UK.png",
+    "stream_url": "https://dokagents.site/live/digisport3/mono.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DigiSport3.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "digi-sport-3",
+      "site_name": "Digi Sport 3",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://digisport.ro/",
+    "launched": "2012-08-11",
+    "closed": null
+  },
+  {
     "id": "DigiSport4.ro",
     "name": "Digi Sport 4",
     "alt_names": [],
@@ -1111,6 +1317,78 @@
     },
     "website": "http://digisport.ro/",
     "launched": "2012-08-11",
+    "closed": null
+  },
+  {
+    "id": "DigiSport4.ro",
+    "name": "Digi Sport 4",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RCS & RDS"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Knj9I6f.png",
+    "stream_url": "https://dokagents.site/live/digisport4/mono.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DigiSport4.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "digi-sport-4",
+      "site_name": "Digi Sport 4",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://digisport.ro/",
+    "launched": "2012-08-11",
+    "closed": null
+  },
+  {
+    "id": "DigiWorld.ro",
+    "name": "Digi World",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RCS & RDS"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/pGICS9K.png",
+    "stream_url": "https://dokagents.site/live/digiworld/mono.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DigiWorld.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "digi-world",
+      "site_name": "Digi World",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.digi-world.tv/",
+    "launched": "2012-10-01",
     "closed": null
   },
   {
@@ -1294,6 +1572,42 @@
     "tv_guide": null,
     "website": "https://www.euronews.ro/",
     "launched": "2022-01-01",
+    "closed": null
+  },
+  {
+    "id": "FilmNow.ro",
+    "name": "Film Now",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RCS & RDS"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sSoRvGz.png",
+    "stream_url": "https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FilmNow.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "film-now",
+      "site_name": "Film Now",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.digi-film.ro/",
+    "launched": null,
     "closed": null
   },
   {
@@ -2557,6 +2871,34 @@
     "closed": null
   },
   {
+    "id": "PrimaSport5.ro",
+    "name": "Prima Sport 5",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Clever Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "https://dokagents.site/live/pr5/mono.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://primasport.ro/",
+    "launched": "2022-10-06",
+    "closed": null
+  },
+  {
     "id": "PrimaTV.ro",
     "name": "Prima TV",
     "alt_names": [
@@ -2633,6 +2975,44 @@
     "closed": null
   },
   {
+    "id": "ProArena.ro",
+    "name": "Pro Arena",
+    "alt_names": [
+      "Pro X",
+      "Sport.ro",
+      "TV Sport"
+    ],
+    "network": "Pro TV",
+    "owners": [
+      "Pro TV SRL"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KQmB9Cc.png",
+    "stream_url": "https://dokagents.site/live/proarena/mono.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ProArena.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "pro-arena-hd",
+      "site_name": "Pro Arena HD",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.proarena.ro/",
+    "launched": "2003-07-27",
+    "closed": null
+  },
+  {
     "id": "ProCinema.ro",
     "name": "Pro Cinema",
     "alt_names": [],
@@ -2654,6 +3034,42 @@
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ProCinema.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "pro-cinema-hd",
+      "site_name": "Pro Cinema HD",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://procinema.protv.ro/",
+    "launched": "2004-04-19",
+    "closed": null
+  },
+  {
+    "id": "ProCinema.ro",
+    "name": "Pro Cinema",
+    "alt_names": [],
+    "network": "Pro TV",
+    "owners": [
+      "Pro TV SRL"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TvHFGwZ.png",
+    "stream_url": "https://dokagents.site/live/procinema/mono.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "ProCinema.ro",
@@ -2714,6 +3130,40 @@
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PROTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "pro-tv",
+      "site_name": "PRO TV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.protv.ro/",
+    "launched": "1995-12-01",
+    "closed": null
+  },
+  {
+    "id": "PROTV.ro",
+    "name": "PRO TV",
+    "alt_names": [
+      "Canal 31"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/zVk3WlT.png",
+    "stream_url": "https://dokagents.site/live/protv/mono.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "PROTV.ro",
@@ -2984,6 +3434,42 @@
     },
     "website": "https://www.rockfm.ro/rocktv",
     "launched": "2001-01-01",
+    "closed": null
+  },
+  {
+    "id": "RomaniaTV.ro",
+    "name": "Romania TV",
+    "alt_names": [
+      "România TV"
+    ],
+    "network": null,
+    "owners": [
+      "Ridzone Computers"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ZIfEp5I.png",
+    "stream_url": "https://dokagents.site/live/romaniatv/mono.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RomaniaTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "romania-tv",
+      "site_name": "România TV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.romaniatv.net/",
+    "launched": "2011-10-23",
     "closed": null
   },
   {

@@ -21790,6 +21790,58 @@
     "closed": null
   },
   {
+    "id": "Oplot2.ru",
+    "name": "Oplot 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://nettv.live/uploads/allimg/21/1-210123195A80-L.jpg",
+    "stream_url": "http://iptv.mega.net.ru:8888/Oplot_2/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "OplotTV.ru",
+    "name": "Oplot TV",
+    "alt_names": [
+      "Оплот ТВ"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://pic.rtbcdn.ru/user/2025-08-18/24/91/24919316f6594ce2542686d540894797.jpg",
+    "stream_url": "http://31.131.141.195:8000/play/a006/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://oplottv.ru/",
+    "launched": "2014-08-08",
+    "closed": null
+  },
+  {
     "id": "OplotTV.ru",
     "name": "Oplot TV",
     "alt_names": [
@@ -25574,6 +25626,44 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png",
     "stream_url": "https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RTenEspanol.ru",
+      "feed": "SD",
+      "site": "reportv.com.ar",
+      "site_id": "1502",
+      "site_name": "RUSSIA TODAY",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://actualidad.rt.com/",
+    "launched": "2009-12-28",
+    "closed": null
+  },
+  {
+    "id": "RTenEspanol.ru",
+    "name": "RT en Espanol",
+    "alt_names": [
+      "RT en Español"
+    ],
+    "network": "RT",
+    "owners": [
+      "TV-Novosti"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png",
+    "stream_url": "http://168.196.127.137:6001/play/a0a9/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

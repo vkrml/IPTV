@@ -3549,8 +3549,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.ibb.co/Kc0xHyBb/8XM-Logo.png",
-    "stream_url": "http://115.42.65.142:9981/stream/channelid/582886861",
-    "stream_quality": "576p",
+    "stream_url": "https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -5045,6 +5045,45 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/CEE9zPe.png",
     "stream_url": "http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "24Horas.cl",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "cl#tvn-24-h",
+      "site_name": "24 Horas",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.24horas.cl/",
+    "launched": "2009-03-04",
+    "closed": null
+  },
+  {
+    "id": "24Horas.cl",
+    "name": "24 Horas",
+    "alt_names": [
+      "24 Horas Play",
+      "24 Play"
+    ],
+    "network": "TVN",
+    "owners": [
+      "Televisión Nacional de Chile"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CEE9zPe.png",
+    "stream_url": "http://187.102.208.209:8000/play/a0a1/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -9986,42 +10025,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/KTVX2022LOGO.svg",
-    "stream_url": "https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ABC.us",
-      "feed": "East",
-      "site": "tvtv.us",
-      "site_id": "10003",
-      "site_name": "ABC East",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://abc.com/",
-    "launched": "1948-04-19",
-    "closed": null
-  },
-  {
-    "id": "ABC.us",
-    "name": "ABC",
-    "alt_names": [],
-    "network": "ABC",
-    "owners": [
-      "The Walt Disney Company"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/KTVX2022LOGO.svg",
     "stream_url": "https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -11574,6 +11577,34 @@
     "tv_guide": null,
     "website": "https://iview.abc.net.au/channel/abc1",
     "launched": "1956-11-06",
+    "closed": null
+  },
+  {
+    "id": "ABCTVParaguay.py",
+    "name": "ABC-TV Paraguay",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo ABC Comunicaciones"
+    ],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OqfBMGy.png",
+    "stream_url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(vig4KUMvzIpvL_0CGgNPG2QFE6DukpwGhRZzGj8aqOyedNaDjlOwv-qe03N1Bk5-7nB-V7Uv8gBwwy2h-0TCL_WRE6IWeUWiVcnYm587YcdKpnqvQZ3tYg9iGdqpySyX)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.abc.com.py/tv/",
+    "launched": "2017-08-07",
     "closed": null
   },
   {
@@ -24771,42 +24802,6 @@
     "closed": null
   },
   {
-    "id": "AMC.us",
-    "name": "AMC",
-    "alt_names": [],
-    "network": "AMC",
-    "owners": [
-      "AMC Global Media"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-    "stream_url": "http://4.30.180.36:8420/amc/index.m3u8?token=test",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AMC.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "31556",
-      "site_name": "AMC West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.amc.com/",
-    "launched": "1984-10-01",
-    "closed": null
-  },
-  {
     "id": "AMCanal.cl",
     "name": "AM Canal",
     "alt_names": [],
@@ -29877,6 +29872,42 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png",
     "stream_url": "https://xyktmobile00.s.gy/091_ANTENA3_INT",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Antena3Internacional.es",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch6292",
+      "site_name": "ANTENA 3",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.antena3internacional.com/",
+    "launched": "1995-01-01",
+    "closed": null
+  },
+  {
+    "id": "Antena3Internacional.es",
+    "name": "Antena 3 Internacional",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Atresmedia Corporación de Medios de Comunicación SA"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png",
+    "stream_url": "http://38.252.238.18:8000/play/a04a/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -41167,6 +41198,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "stream_url": "http://181.78.8.199:8000/play/a0cu/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXNLatinAmerica.us",
+      "feed": "Andes",
+      "site": "siba.com.co",
+      "site_id": "384",
+      "site_name": "AXN",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://la.axn.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AXNLatinAmerica.us",
+    "name": "AXN Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sony Pictures Television"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "stream_url": "http://138.121.15.230:9002/AXN/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -41939,6 +42006,42 @@
     "closed": null
   },
   {
+    "id": "AyMSports.mx",
+    "name": "AyM Sports",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "AYM Media Networks"
+    ],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/yu3Bpbd.png",
+    "stream_url": "http://168.196.127.137:6001/play/a06v/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AyMSports.mx",
+      "feed": "SD",
+      "site": "watch.whaletvplus.com",
+      "site_id": "967946649035481278",
+      "site_name": "AYM Sports",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://aymsports.net/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AYNITV.bo",
     "name": "AYNI TV",
     "alt_names": [],
@@ -42274,6 +42377,34 @@
     },
     "website": "https://www.tvazteca.com/tvpaga/notas/cinema",
     "launched": "2015-05-05",
+    "closed": null
+  },
+  {
+    "id": "AzClic.mx",
+    "name": "Az Clic",
+    "alt_names": [
+      "Clic"
+    ],
+    "network": "TV Azteca Internacional",
+    "owners": [],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ClqIQ4M.png",
+    "stream_url": "http://38.252.238.18:8000/play/a01g/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.tvazteca.com/tvpaga/notas/clic",
+    "launched": "2000-01-01",
     "closed": null
   },
   {
@@ -44373,6 +44504,42 @@
     "logo": "https://i.imgur.com/4BDJ5FT.png",
     "stream_url": "https://xyktmobile00.s.gy/PPV935_BABY",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BabyTV.uk",
+      "feed": "UK",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000091_019490",
+      "site_name": "BabyTV",
+      "lang": "nl",
+      "sources": []
+    },
+    "website": "http://www.babytv.com/",
+    "launched": "2005-07-04",
+    "closed": null
+  },
+  {
+    "id": "BabyTV.uk",
+    "name": "BabyTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "The Walt Disney Company Limited"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4BDJ5FT.png",
+    "stream_url": "http://38.44.109.41:8003/play/a0eh",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -59937,6 +60104,42 @@
     "closed": null
   },
   {
+    "id": "BilliardsTV.kr",
+    "name": "Billiards TV",
+    "alt_names": [
+      "빌리어즈TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "KR",
+    "country_name": "South Korea",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/fo1k0Oj.png",
+    "stream_url": "https://xyktmobile00.s.gy/PPV942_BILLIARD",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BilliardsTV.kr",
+      "feed": "SD",
+      "site": "watch.whaletvplus.com",
+      "site_id": "942280082834594507",
+      "site_name": "Billiards TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.billiardstv.co.kr/",
+    "launched": "2009-01-01",
+    "closed": null
+  },
+  {
     "id": "BilliardTV.us",
     "name": "Billiard TV",
     "alt_names": [],
@@ -63976,6 +64179,46 @@
     "closed": null
   },
   {
+    "id": "BoliviaTV.bo",
+    "name": "Bolivia TV",
+    "alt_names": [
+      "Bolivia TV",
+      "BTV",
+      "Bolivia Televisión"
+    ],
+    "network": null,
+    "owners": [
+      "Empresa Nacional de Televisión de Bolivia"
+    ],
+    "country_code": "BO",
+    "country_name": "Bolivia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/tKLYYys.png",
+    "stream_url": "http://190.181.61.93:8000/play/a001/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BoliviaTV.bo",
+      "feed": "SD",
+      "site": "reportv.com.ar",
+      "site_id": "4055",
+      "site_name": "BOLIVIA TV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.boliviatv.bo/",
+    "launched": "2009-04-15",
+    "closed": null
+  },
+  {
     "id": "Bolivision.bo",
     "name": "Bolivision",
     "alt_names": [
@@ -65435,6 +65678,32 @@
     "tv_guide": null,
     "website": "https://www.bragadotv.com.ar/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BrainTV.kr",
+    "name": "Brain TV",
+    "alt_names": [
+      "브레인TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "KR",
+    "country_name": "South Korea",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/uF5jZbl.png",
+    "stream_url": "https://xyktmobile00.s.gy/PPV941_BRAIN",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.braintv.co.kr/",
+    "launched": "2004-01-01",
     "closed": null
   },
   {
@@ -70408,6 +70677,98 @@
     "closed": null
   },
   {
+    "id": "Canal1.co",
+    "name": "Canal 1",
+    "alt_names": [
+      "Canal Uno",
+      "Inravisión Cadena Uno",
+      "Inravisión Cadena 1",
+      "Inravisión Primera Cadena Color",
+      "Inravisión Primera Cadena",
+      "Inravisión Canal Nacional",
+      "Televisora Nacional de Colombia",
+      "HJTV-2",
+      "HJRN-TV"
+    ],
+    "network": null,
+    "owners": [
+      "Government of Colombia"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/MiYlN0t.png",
+    "stream_url": "http://38.134.250.110:8000/play/a014/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Canal1.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "401",
+      "site_name": "CANAL 1",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://canal1.com.co/",
+    "launched": "1954-06-13",
+    "closed": null
+  },
+  {
+    "id": "Canal1.co",
+    "name": "Canal 1",
+    "alt_names": [
+      "Canal Uno",
+      "Inravisión Cadena Uno",
+      "Inravisión Cadena 1",
+      "Inravisión Primera Cadena Color",
+      "Inravisión Primera Cadena",
+      "Inravisión Canal Nacional",
+      "Televisora Nacional de Colombia",
+      "HJTV-2",
+      "HJRN-TV"
+    ],
+    "network": null,
+    "owners": [
+      "Government of Colombia"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/MiYlN0t.png",
+    "stream_url": "http://190.61.47.54:8000/play/a00u/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Canal1.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "401",
+      "site_name": "CANAL 1",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://canal1.com.co/",
+    "launched": "1954-06-13",
+    "closed": null
+  },
+  {
     "id": "Canal1.cr",
     "name": "Canal 1",
     "alt_names": [],
@@ -71738,6 +72099,40 @@
     "closed": null
   },
   {
+    "id": "Canal5.mx",
+    "name": "Canal 5",
+    "alt_names": [],
+    "network": "Televisa",
+    "owners": [],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/uZdVSoW.png",
+    "stream_url": "http://45.5.118.152:8000/play/a03i/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Canal5.mx",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "mx#xh-gc-canal-5",
+      "site_name": "Canal 5",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.televisa.com/canal5/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Canal5.uy",
     "name": "Canal 5",
     "alt_names": [
@@ -72939,6 +73334,34 @@
     "closed": null
   },
   {
+    "id": "Canal9LaUnion.sv",
+    "name": "Canal 9 La Union",
+    "alt_names": [
+      "Canal 9 La Unión"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "SV",
+    "country_name": "El Salvador",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/rdeUErb.png",
+    "stream_url": "http://45.167.2.101:8000/play/a0r5/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://multicanallu.com.sv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Canal9Link.ar",
     "name": "Canal 9 Link",
     "alt_names": [],
@@ -73951,6 +74374,43 @@
     "closed": null
   },
   {
+    "id": "Canal13.cl",
+    "name": "Canal 13",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Secuoya Chile",
+      "Grupo Luksic"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/",
+    "stream_url": "http://187.102.208.209:8000/play/a099/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Canal13.cl",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "cl#canal-13",
+      "site_name": "Canal 13",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.13.cl/",
+    "launched": "1959-08-21",
+    "closed": null
+  },
+  {
     "id": "Canal13.gt",
     "name": "Canal 13",
     "alt_names": [],
@@ -73969,6 +74429,34 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/C1yVU3J.png",
     "stream_url": "http://190.61.101.11:7050/play/a07f/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://canales11y13.blogspot.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Canal13.gt",
+    "name": "Canal 13",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Albavisión"
+    ],
+    "country_code": "GT",
+    "country_name": "Guatemala",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/C1yVU3J.png",
+    "stream_url": "http://168.196.127.137:6001/play/a064/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -75661,6 +76149,42 @@
     "logo": "https://i.imgur.com/zAYtbYi.png",
     "stream_url": "http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalCapital.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "393",
+      "site_name": "CANAL CAPITAL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.canalcapital.gov.co/",
+    "launched": "1997-11-03",
+    "closed": null
+  },
+  {
+    "id": "CanalCapital.co",
+    "name": "Canal Capital",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Capital Sistema de Comunicación Pública de Bogotá"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/zAYtbYi.png",
+    "stream_url": "http://190.61.47.54:8000/play/a00x/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -78179,6 +78703,42 @@
     "closed": null
   },
   {
+    "id": "CanalN.pe",
+    "name": "Canal N",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "America Multimedia"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Xytvw3J.png",
+    "stream_url": "http://187.102.208.209:8000/play/a0az/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalN.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch2169",
+      "site_name": "CANAL N",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://canaln.pe/",
+    "launched": "1999-07-04",
+    "closed": null
+  },
+  {
     "id": "CanalNets.co",
     "name": "Canal Nets",
     "alt_names": [],
@@ -78747,6 +79307,44 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/5PhTaHp.png",
     "stream_url": "http://209.14.115.253:8081/RCN/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalRCN.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "399",
+      "site_name": "CANAL RCN",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.canalrcn.com/",
+    "launched": "1998-07-10",
+    "closed": null
+  },
+  {
+    "id": "CanalRCN.co",
+    "name": "Canal RCN",
+    "alt_names": [
+      "RCN Televisión"
+    ],
+    "network": "RCN Televisión",
+    "owners": [
+      "Organización Ardila Lülle"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5PhTaHp.png",
+    "stream_url": "http://190.61.47.54:8000/play/a01f/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -79538,6 +80136,80 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalTRO.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "591",
+      "site_name": "TRO",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.canaltro.com/",
+    "launched": "1995-06-22",
+    "closed": null
+  },
+  {
+    "id": "CanalTRO.co",
+    "name": "Canal TRO",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Gobernación de Santander",
+      "Gobernación del Norte de Santander"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/bdBduvj.png",
+    "stream_url": "http://190.61.47.54:8000/play/a013/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalTRO.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "591",
+      "site_name": "TRO",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.canaltro.com/",
+    "launched": "1995-06-22",
+    "closed": null
+  },
+  {
+    "id": "CanalTRO.co",
+    "name": "Canal TRO",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Gobernación de Santander",
+      "Gobernación del Norte de Santander"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/bdBduvj.png",
+    "stream_url": "http://181.78.211.244:8005/play/a08c/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "CanalTRO.co",
@@ -81100,42 +81772,6 @@
     },
     "website": "http://caracolinternacional.com/",
     "launched": "2002-12-12",
-    "closed": null
-  },
-  {
-    "id": "CaracolTV.co",
-    "name": "Caracol TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Caracol Televisión S.A."
-    ],
-    "country_code": "CO",
-    "country_name": "Colombia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/WbfdJbk.png",
-    "stream_url": "http://45.171.108.253:8888/CARACOL/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CaracolTV.co",
-      "feed": "SD",
-      "site": "siba.com.co",
-      "site_id": "394",
-      "site_name": "CANAL CARACOL",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.caracoltv.com/",
-    "launched": "1998-07-10",
     "closed": null
   },
   {
@@ -96234,6 +96870,42 @@
     "closed": null
   },
   {
+    "id": "Cinecanal.us",
+    "name": "Cinecanal",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "The Walt Disney Company Latin America"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
+    "stream_url": "http://190.61.47.54:8000/play/a02z/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Cinecanal.us",
+      "feed": "Pacific",
+      "site": "siba.com.co",
+      "site_id": "407",
+      "site_name": "CINECANAL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://foxplay.com/ar/brandingchannel/98d445b15e5f4d3ab92fdc1e84bbc45e",
+    "launched": "1993-04-01",
+    "closed": null
+  },
+  {
     "id": "CineCatastrophebyPlutoTV.de",
     "name": "Cine Catastrophe by Pluto TV",
     "alt_names": [
@@ -100994,6 +101666,42 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ClassTVModa.it",
+    "name": "Class TV Moda",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Class Editori"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Class-tv-moda.png/960px-Class-tv-moda.png",
+    "stream_url": "https://racitonsen.s.gy/CLASS_TV_MODA",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Enigma2",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ClassTVModa.it",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "101",
+      "site_name": "Class TV Moda",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "http://www.tvmoda.it/",
+    "launched": "2002-09-11",
     "closed": null
   },
   {
@@ -118064,6 +118772,44 @@
     "closed": null
   },
   {
+    "id": "DePeliculaLatinAmerica.mx",
+    "name": "De Pelicula Latin America",
+    "alt_names": [
+      "De Película Latin America"
+    ],
+    "network": null,
+    "owners": [
+      "Televisa Networks"
+    ],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/aksM8pa.png",
+    "stream_url": "http://190.60.55.141:9083/play/a0nf/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DePeliculaLatinAmerica.mx",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "mx#de-pelicula-hd",
+      "site_name": "De Película HD",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://televisa-networks.ioncom.mx/portfolio/de-pelicula/",
+    "launched": "1991-12-25",
+    "closed": null
+  },
+  {
     "id": "DePeliculaPlus.mx",
     "name": "De Pelicula Plus",
     "alt_names": [
@@ -119206,6 +119952,40 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/nsttoEa.png",
     "stream_url": "https://cdn1tlinkgo.tlink.cl/dhehd/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DHE.us",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#dhe",
+      "site_name": "DHE",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.canaldhe.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DHE.us",
+    "name": "DHE",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nsttoEa.png",
+    "stream_url": "http://38.252.238.18:8000/play/a01f/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -128142,6 +128922,34 @@
     "closed": null
   },
   {
+    "id": "DSports.us",
+    "name": "DSports",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Werthein"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
+    "stream_url": "http://38.187.7.252:8000/play/a03d/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.directvsports.com/",
+    "launched": "2009-06-13",
+    "closed": null
+  },
+  {
     "id": "DSTV.bg",
     "name": "DSTV",
     "alt_names": [],
@@ -131729,6 +132537,42 @@
     "closed": null
   },
   {
+    "id": "EcuadorTV.ec",
+    "name": "Ecuador TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Comunica EP"
+    ],
+    "country_code": "EC",
+    "country_name": "Ecuador",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/hj6EYwe.png",
+    "stream_url": "http://38.44.109.41:8003/play/a0e9/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EcuadorTV.ec",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "ecuador_tv",
+      "site_name": "Canal Ecuador TV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://ecuadortv.ec/",
+    "launched": "2007-11-29",
+    "closed": null
+  },
+  {
     "id": "EcuaMundoRadioTV.ec",
     "name": "EcuaMundo Radio TV",
     "alt_names": [],
@@ -133679,6 +134523,36 @@
     "closed": null
   },
   {
+    "id": "ElimTV.sv",
+    "name": "Elim TV",
+    "alt_names": [
+      "Canal 27"
+    ],
+    "network": null,
+    "owners": [
+      "Misión Cristiana Elim Internacional"
+    ],
+    "country_code": "SV",
+    "country_name": "El Salvador",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/payIg0N.png",
+    "stream_url": "http://38.252.238.18:8000/play/a01k/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.elim.org.sv/elimtv/",
+    "launched": "2011-03-17",
+    "closed": null
+  },
+  {
     "id": "EliveTVBrescia.it",
     "name": "Elive TV Brescia",
     "alt_names": [],
@@ -134482,6 +135356,44 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Vo6prbh.png",
     "stream_url": "http://200.7.99.59:8000/play/a0gm/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ElTreceInternacionalLatinAmerica.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#el-trece-satelital",
+      "site_name": "Canal 13 (Satelital)",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.eltrecetv.com.ar/",
+    "launched": "2009-04-01",
+    "closed": null
+  },
+  {
+    "id": "ElTreceInternacionalLatinAmerica.ar",
+    "name": "El Trece Internacional Latin America",
+    "alt_names": [
+      "Canal 13"
+    ],
+    "network": null,
+    "owners": [
+      "Grupo Clarin"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Vo6prbh.png",
+    "stream_url": "http://190.60.55.141:9083/play/a0ph/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -135555,6 +136467,42 @@
     "logo": "https://i.imgur.com/YwUVTmS.png",
     "stream_url": "http://138.121.15.230:9002/ENLACE/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Enlace.cr",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "20286",
+      "site_name": "Enlace",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.enlace.org/",
+    "launched": "1988-09-09",
+    "closed": null
+  },
+  {
+    "id": "Enlace.cr",
+    "name": "Enlace",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Enlace Internacional"
+    ],
+    "country_code": "CR",
+    "country_name": "Costa Rica",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/YwUVTmS.png",
+    "stream_url": "http://187.102.208.209:8000/play/a0ae/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -137502,6 +138450,42 @@
     "tv_guide": null,
     "website": "http://www.eslah.tv/",
     "launched": "2013-01-01",
+    "closed": null
+  },
+  {
+    "id": "ESNETV.us",
+    "name": "ESNE TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "El Sembrador Ministries"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/B50i65o.png",
+    "stream_url": "http://168.196.127.137:6001/play/a071/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ESNETV.us",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "486",
+      "site_name": "EL SEMBRADOR",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://elsembradorministries.com/",
+    "launched": "2002-01-01",
     "closed": null
   },
   {
@@ -142547,6 +143531,42 @@
     "closed": null
   },
   {
+    "id": "EuropaEuropa.ar",
+    "name": "Europa Europa",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "AMC Global Media"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/w5SOfyJ.png",
+    "stream_url": "http://38.252.238.18:8000/play/a01d/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EuropaEuropa.ar",
+      "feed": "SD",
+      "site": "reportv.com.ar",
+      "site_id": "184",
+      "site_name": "EUROPA EUROPA",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.europaeuropa.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "EuropaPlusTV.ru",
     "name": "Europa Plus TV",
     "alt_names": [],
@@ -143871,6 +144891,42 @@
     "logo": "https://i.imgur.com/sua70RO.png",
     "stream_url": "http://45.167.1.138:8000/play/a01m",
     "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EWTN.us",
+      "feed": "AsiaPacific",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000154",
+      "site_name": "EWTN",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://www.ewtn.com/tv/",
+    "launched": "1981-08-15",
+    "closed": null
+  },
+  {
+    "id": "EWTN.us",
+    "name": "EWTN",
+    "alt_names": [],
+    "network": "EWTN",
+    "owners": [
+      "Eternal Word Television Network"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sua70RO.png",
+    "stream_url": "http://187.102.208.209:8000/play/a0ac/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -159785,6 +160841,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+    "stream_url": "http://38.252.238.18:8000/play/a01c/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FXLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "mi.tv",
+      "site_id": "co#fx-hd",
+      "site_name": "FX HD",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.canalfx.tv/",
+    "launched": "2005-05-01",
+    "closed": null
+  },
+  {
+    "id": "FXLatinAmerica.us",
+    "name": "FX Latin America",
+    "alt_names": [],
+    "network": "FX Channels",
+    "owners": [
+      "The Walt Disney Company Latin America"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
     "stream_url": "http://72.1.184.5:8089/play/a05i/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -160344,6 +161436,45 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",
     "stream_url": "https://stream.esradioecuador.com/hls/stream.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Gamavision.ec",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "gamavision",
+      "site_name": "Canal Gamavisión",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.gamavision.com.ec/",
+    "launched": "1977-04-18",
+    "closed": null
+  },
+  {
+    "id": "Gamavision.ec",
+    "name": "Gamavision",
+    "alt_names": [
+      "Gamavisión"
+    ],
+    "network": null,
+    "owners": [
+      "Comunica EP",
+      "Workers of the channel"
+    ],
+    "country_code": "EC",
+    "country_name": "Ecuador",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",
+    "stream_url": "http://181.78.211.244:8000/play/a0a2/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -164372,6 +165503,32 @@
     "closed": null
   },
   {
+    "id": "GloboplayNovelas.br",
+    "name": "Globoplay Novelas",
+    "alt_names": [
+      "Viva"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/m5TBCDL2/Globoplay-Novelas-1.png",
+    "stream_url": "http://79.127.238.228:14455",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://globosatplay.globo.com/viva/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "GloboTV.hn",
     "name": "Globo TV",
     "alt_names": [],
@@ -165994,6 +167151,40 @@
     "closed": null
   },
   {
+    "id": "GoldenPlus.mx",
+    "name": "Golden Plus",
+    "alt_names": [],
+    "network": "Televisa Networks",
+    "owners": [
+      "Grupo Televisa"
+    ],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OOEkyM2.png",
+    "stream_url": "http://45.5.118.152:8000/play/a03p/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GoldenPlus.mx",
+      "feed": "SD",
+      "site": "reportv.com.ar",
+      "site_id": "4993",
+      "site_name": "GOLDEN PLUS HD",
+      "lang": "es",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "GoldenPremier2.mx",
     "name": "Golden Premier 2",
     "alt_names": [],
@@ -166867,6 +168058,42 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png",
     "stream_url": "http://143.14.178.35/TCM-HD/index.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GolfChannelLatinAmerica.us",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#golf-channel",
+      "site_name": "Golf Channel",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.golfchannel-la.com/",
+    "launched": "2006-01-01",
+    "closed": null
+  },
+  {
+    "id": "GolfChannelLatinAmerica.us",
+    "name": "Golf Channel Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Versant Media Group Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png",
+    "stream_url": "http://38.252.238.18:8000/play/a01i/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -178474,6 +179701,42 @@
     "logo": "https://i.imgur.com/i0Qexxd.png",
     "stream_url": "https://xyktmobile00.s.gy/PPV901_HOLA_TV",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HolaTVLatinAmerica.us",
+      "feed": "SD",
+      "site": "reportv.com.ar",
+      "site_id": "2669",
+      "site_name": "HOLA TV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.hola.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HolaTVLatinAmerica.us",
+    "name": "Hola! TV Latin America",
+    "alt_names": [
+      "¡Hola! TV Latin America"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/i0Qexxd.png",
+    "stream_url": "http://168.196.127.137:6001/play/a03q/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -202036,6 +203299,34 @@
     "closed": null
   },
   {
+    "id": "KanalZEROTV.pl",
+    "name": "Kanal ZERO TV",
+    "alt_names": [
+      "ZERO TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/LzgJ7hzR/KANA-ZERO.jpg",
+    "stream_url": "https://racitonsen.s.gy/ZERO_PL",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Enigma2",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://kanalzero.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "KandelaTV.ve",
     "name": "KandelaTV",
     "alt_names": [],
@@ -215503,6 +216794,82 @@
     "closed": null
   },
   {
+    "id": "LasEstrellasLatinAmerica.mx",
+    "name": "Las Estrellas Latin America",
+    "alt_names": [
+      "Las Estrellas Latin América"
+    ],
+    "network": "Televisa",
+    "owners": [
+      "TelevisaUnivision"
+    ],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/g5ShxZ7.png",
+    "stream_url": "http://38.44.109.41:8003/play/a0he",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "LasEstrellasLatinAmerica.mx",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "396",
+      "site_name": "CANAL DE LAS ESTRELLAS",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.lasestrellas.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "LasEstrellasLatinAmerica.mx",
+    "name": "Las Estrellas Latin America",
+    "alt_names": [
+      "Las Estrellas Latin América"
+    ],
+    "network": "Televisa",
+    "owners": [
+      "TelevisaUnivision"
+    ],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/g5ShxZ7.png",
+    "stream_url": "http://190.60.55.141:9083/play/a0np/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "LasEstrellasLatinAmerica.mx",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "396",
+      "site_name": "CANAL DE LAS ESTRELLAS",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.lasestrellas.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "LasTortugasNinja.us",
     "name": "Las Tortugas Ninja",
     "alt_names": [
@@ -219084,6 +220451,42 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
     "stream_url": "https://cdn1tlinkgo.tlink.cl/lifetime/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "LifetimeLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "893",
+      "site_name": "LIFETIME",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.historyplay.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "LifetimeLatinAmerica.us",
+    "name": "Lifetime Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "A&E Networks"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+    "stream_url": "http://187.102.208.209:8000/play/a0ad/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -232751,6 +234154,78 @@
     "closed": null
   },
   {
+    "id": "MC.mx",
+    "name": "MC",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "MVS Cominicaciones"
+    ],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TAjbaml.png",
+    "stream_url": "http://168.196.127.137:6001/play/a070/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MC.mx",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "mc",
+      "site_name": "Canal MC",
+      "lang": "es",
+      "sources": []
+    },
+    "website": null,
+    "launched": "1990-05-22",
+    "closed": null
+  },
+  {
+    "id": "MC.mx",
+    "name": "MC",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "MVS Cominicaciones"
+    ],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TAjbaml.png",
+    "stream_url": "http://45.5.118.152:8000/play/a03r/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MC.mx",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "mc",
+      "site_name": "Canal MC",
+      "lang": "es",
+      "sources": []
+    },
+    "website": null,
+    "launched": "1990-05-22",
+    "closed": null
+  },
+  {
     "id": "MCITelevision.co",
     "name": "MCI Television",
     "alt_names": [
@@ -240520,6 +241995,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MizpaTV.sv",
+    "name": "Mizpa TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "SV",
+    "country_name": "El Salvador",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4FPaLYo.jpeg",
+    "stream_url": "http://45.167.2.101:8000/play/a0r7/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.radiomizpa.net/",
     "launched": null,
     "closed": null
   },
@@ -259620,6 +261121,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",
+    "stream_url": "http://rezofoot.tv/NBATV/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NBATV.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "32281",
+      "site_name": "NBA TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.nba.com/nba_tv/",
+    "launched": "1999-11-02",
+    "closed": null
+  },
+  {
+    "id": "NBATV.us",
+    "name": "NBA TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "National Basketball Association"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",
     "stream_url": "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -268323,78 +269860,6 @@
     "closed": null
   },
   {
-    "id": "NFLNetwork.us",
-    "name": "NFL Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "National Football League"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",
-    "stream_url": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NFLNetwork.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "102790",
-      "site_name": "NFL Network",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.nfl.com/network",
-    "launched": "2003-11-04",
-    "closed": null
-  },
-  {
-    "id": "NFLNetwork.us",
-    "name": "NFL Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "National Football League"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",
-    "stream_url": "https://tvsen6.aynaott.com/nfl/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NFLNetwork.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "102790",
-      "site_name": "NFL Network",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.nfl.com/network",
-    "launched": "2003-11-04",
-    "closed": null
-  },
-  {
     "id": "NGFederal.ar",
     "name": "NG Federal",
     "alt_names": [],
@@ -268710,45 +270175,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png",
     "stream_url": "http://170.83.16.50/NHK_WORLD/index.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NHKWorldJapan.jp",
-      "feed": "SD",
-      "site": "www3.nhk.or.jp",
-      "site_id": "0",
-      "site_name": "NHK World-Japan",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www3.nhk.or.jp/nhkworld/",
-    "launched": "1998-04-01",
-    "closed": null
-  },
-  {
-    "id": "NHKWorldJapan.jp",
-    "name": "NHK World-Japan",
-    "alt_names": [
-      "NHK World"
-    ],
-    "network": null,
-    "owners": [
-      "Government of Japan"
-    ],
-    "country_code": "JP",
-    "country_name": "Japan",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news",
-      "culture"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png",
-    "stream_url": "http://nmk.ioapk.com:5050/4gtv-live168/index.m3u8",
-    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -280167,6 +281593,45 @@
     "closed": null
   },
   {
+    "id": "NuestraTeleInternacional.co",
+    "name": "Nuestra Tele Internacional",
+    "alt_names": [
+      "Nuestra Tele",
+      "TV Colombia"
+    ],
+    "network": "RCN Televisión",
+    "owners": [
+      "Organización Ardila Lülle"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/JoGQqmP.png",
+    "stream_url": "http://190.60.55.141:9083/play/a0hg/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NuestraTeleInternacional.co",
+      "feed": "SD",
+      "site": "directv.com.uy",
+      "site_id": "775#NTEL",
+      "site_name": "RCN Nuestra Tele",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.nuestrateleinternacional.com/",
+    "launched": "2003-04-03",
+    "closed": null
+  },
+  {
     "id": "NuevaVidaFM.pr",
     "name": "Nueva Vida FM",
     "alt_names": [],
@@ -287077,6 +288542,58 @@
     "closed": null
   },
   {
+    "id": "Oplot2.ru",
+    "name": "Oplot 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://nettv.live/uploads/allimg/21/1-210123195A80-L.jpg",
+    "stream_url": "http://iptv.mega.net.ru:8888/Oplot_2/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "OplotTV.ru",
+    "name": "Oplot TV",
+    "alt_names": [
+      "Оплот ТВ"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://pic.rtbcdn.ru/user/2025-08-18/24/91/24919316f6594ce2542686d540894797.jpg",
+    "stream_url": "http://31.131.141.195:8000/play/a006/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://oplottv.ru/",
+    "launched": "2014-08-08",
+    "closed": null
+  },
+  {
     "id": "OplotTV.ru",
     "name": "Oplot TV",
     "alt_names": [
@@ -291527,44 +293044,6 @@
     "closed": null
   },
   {
-    "id": "ParamountNetwork.us",
-    "name": "Paramount Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Paramount Network Broadcasting Ltd",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series",
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
-    "stream_url": "http://4.30.180.36:8420/paramount/index.m3u8?token=test",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ParamountNetwork.us",
-      "feed": "East",
-      "site": "tvtv.us",
-      "site_id": "11163",
-      "site_name": "Paramount Network East",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.paramountnetwork.com/",
-    "launched": "1983-03-07",
-    "closed": null
-  },
-  {
     "id": "ParamountPlusPicks.us",
     "name": "Paramount+ Picks",
     "alt_names": [],
@@ -292519,6 +293998,42 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/VGnbWjO.png",
     "stream_url": "https://cdn1tlinkgo.tlink.cl/pasioneshd/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PasionesLatinAmerica.us",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch5701",
+      "site_name": "Pasiones HD",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://latam.tvpasiones.com/",
+    "launched": "2008-07-01",
+    "closed": null
+  },
+  {
+    "id": "PasionesLatinAmerica.us",
+    "name": "Pasiones Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Hemisphere Media Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/VGnbWjO.png",
+    "stream_url": "http://190.60.55.141:9083/play/a0ni/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -297442,6 +298957,32 @@
     "closed": null
   },
   {
+    "id": "PicosaTV.hn",
+    "name": "Picosa TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "HN",
+    "country_name": "Honduras",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/AGFeu7r.png",
+    "stream_url": "http://45.167.2.101:8000/play/a0sd/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PieraTV.es",
     "name": "Piera TV",
     "alt_names": [],
@@ -298679,6 +300220,33 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/MYc8srh.png",
     "stream_url": "http://200.115.120.1:8000/play/ca091/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://plimplim.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PlimPlim.ar",
+    "name": "Plim Plim",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/MYc8srh.png",
+    "stream_url": "http://45.70.168.162:1503/play/a02a/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -315193,6 +316761,32 @@
     "closed": null
   },
   {
+    "id": "PolsatFilm2.pl",
+    "name": "Polsat Film 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/19aDJjn.png",
+    "stream_url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatFilm2.stream/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.polsatfilm.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PolsatGames.pl",
     "name": "Polsat Games",
     "alt_names": [],
@@ -315466,6 +317060,32 @@
     "closed": null
   },
   {
+    "id": "PolsatReality.pl",
+    "name": "Polsat Reality",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/yBecqPa.png",
+    "stream_url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatReality.stream/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.polsat.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PolsatSport1.pl",
     "name": "Polsat Sport 1",
     "alt_names": [],
@@ -315529,6 +317149,30 @@
     },
     "website": "https://viasathistory.pl/",
     "launched": "2004-09-01",
+    "closed": null
+  },
+  {
+    "id": "PolsatX.pl",
+    "name": "Polsat X",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/8juCHsb.png",
+    "stream_url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatX.stream/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.polsat.pl/",
+    "launched": null,
     "closed": null
   },
   {
@@ -323095,6 +324739,40 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://pvtv.hu/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PXSports.mx",
+    "name": "PX Sports",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/960px-PX_Sports_-_Logo.png",
+    "stream_url": "http://38.252.238.18:8000/play/a02f/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PXSports.mx",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch6293",
+      "site_name": "PX SPORTS",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://pxsports.com/",
     "launched": null,
     "closed": null
   },
@@ -343416,6 +345094,32 @@
     "closed": null
   },
   {
+    "id": "RIK1.cy",
+    "name": "RIK 1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Cyprus Broadcasting Corporation"
+    ],
+    "country_code": "CY",
+    "country_name": "Cyprus",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/31eq4lS.png",
+    "stream_url": "https://l6.cloudskep.com/rikct/rik1/playlist.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://cybc.com.cy/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RIK2.cy",
     "name": "RIK 2",
     "alt_names": [],
@@ -343433,6 +345137,32 @@
     "logo": "https://i.imgur.com/EZUDmtI.png",
     "stream_url": "http://213.7.216.229:8888/udp/239.23.0.2:1234",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://cybc.com.cy/",
+    "launched": "1992-03-21",
+    "closed": null
+  },
+  {
+    "id": "RIK2.cy",
+    "name": "RIK 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Cyprus Broadcasting Corporation"
+    ],
+    "country_code": "CY",
+    "country_name": "Cyprus",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/EZUDmtI.png",
+    "stream_url": "https://l6.cloudskep.com/rikct/rik2/playlist.m3u8",
+    "stream_quality": "576i",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -343485,6 +345215,30 @@
     "logo": "https://i.imgur.com/xQnHaPy.png",
     "stream_url": "http://213.7.216.229:8888/udp/239.23.0.5:1234",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RIKHD.cy",
+    "name": "RIK HD",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CY",
+    "country_name": "Cyprus",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/xQnHaPy.png",
+    "stream_url": "https://l6.cloudskep.com/rikct/rikhd/playlist.m3u8",
+    "stream_quality": "576i",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -347397,6 +349151,44 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png",
     "stream_url": "https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RTenEspanol.ru",
+      "feed": "SD",
+      "site": "reportv.com.ar",
+      "site_id": "1502",
+      "site_name": "RUSSIA TODAY",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://actualidad.rt.com/",
+    "launched": "2009-12-28",
+    "closed": null
+  },
+  {
+    "id": "RTenEspanol.ru",
+    "name": "RT en Espanol",
+    "alt_names": [
+      "RT en Español"
+    ],
+    "network": "RT",
+    "owners": [
+      "TV-Novosti"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png",
+    "stream_url": "http://168.196.127.137:6001/play/a0a9/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -377436,41 +379228,6 @@
     "closed": null
   },
   {
-    "id": "Showtime.us",
-    "name": "Showtime",
-    "alt_names": [],
-    "network": "Paramount+ with SHOWTIME",
-    "owners": [
-      "Showtime Networks Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Or0LKsu.png",
-    "stream_url": "http://4.30.180.36:8420/showtime/mono.m3u8?token=test",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Showtime.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "11117",
-      "site_name": "Showtime West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.sho.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "ShowtimeFamilyZone.us",
     "name": "Showtime Family Zone",
     "alt_names": [],
@@ -381199,6 +382956,36 @@
     "closed": null
   },
   {
+    "id": "SmithsonianChannelAsia.us",
+    "name": "Smithsonian Channel Asia",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "SNI/SI Networks L.L.C.",
+      "Smithsonian Institution",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "science"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/960px-SmithsonianChannellogo.png",
+    "stream_url": "https://xyktmobile00.s.gy/PPV940_SMITHSONIAN",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.smithsonianchannel.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SmithsonianChannelPlutoTV.us",
     "name": "Smithsonian Channel Pluto TV",
     "alt_names": [],
@@ -384307,6 +386094,40 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",
     "stream_url": "https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyMoviesLatinAmerica.us",
+      "feed": "SD",
+      "site": "programacion.tcc.com.uy",
+      "site_id": "468",
+      "site_name": "Sony Movies",
+      "lang": "es",
+      "sources": []
+    },
+    "website": null,
+    "launched": "2022-04-01",
+    "closed": null
+  },
+  {
+    "id": "SonyMoviesLatinAmerica.us",
+    "name": "Sony Movies Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",
+    "stream_url": "http://38.252.238.18:8000/play/a01e/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -391391,6 +393212,41 @@
     "closed": null
   },
   {
+    "id": "StarChannel.co",
+    "name": "Star Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "stream_url": "http://190.61.47.54:8000/play/a035/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StarChannel.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "505",
+      "site_name": "STAR CHANNEL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.star-latam.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "STARChannel.fi",
     "name": "STAR Channel",
     "alt_names": [],
@@ -393904,40 +395760,6 @@
       "site": "tvtv.us",
       "site_id": "34902",
       "site_name": "Starz Comedy West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.starz.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "StarzEdge.us",
-    "name": "Starz Edge",
-    "alt_names": [],
-    "network": "STARZ",
-    "owners": [
-      "Starz Entertainment Corp."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/MvH3Cz2.png",
-    "stream_url": "http://168.228.44.241:9998/play/a0e0/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarzEdge.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "17129",
-      "site_name": "Starz Edge West",
       "lang": "en",
       "sources": []
     },
@@ -410018,6 +411840,40 @@
     "closed": null
   },
   {
+    "id": "TelefeInternacional.ar",
+    "name": "Telefe Internacional",
+    "alt_names": [],
+    "network": "Telefe",
+    "owners": [
+      "Grupo Televisión Litoral"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/HNcCX3h.png",
+    "stream_url": "http://190.60.55.141:9083/play/a0pb/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TelefeInternacional.ar",
+      "feed": "SD",
+      "site": "reportv.com.ar",
+      "site_id": "149",
+      "site_name": "TELEFE INTERNACIONAL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://telefeinternacional.com.ar/",
+    "launched": "1998-01-01",
+    "closed": null
+  },
+  {
     "id": "TelefeRosario.ar",
     "name": "Telefe Rosario",
     "alt_names": [],
@@ -410589,6 +412445,78 @@
     "logo": "https://i.imgur.com/aKHGRyk.png",
     "stream_url": "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8",
     "stream_quality": "486p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Teleislas.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "922",
+      "site_name": "TELEISLAS CHANNEL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://teleislas.gov.co/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Teleislas.co",
+    "name": "Teleislas",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Televisión Regional de Islas y Providencia"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/aKHGRyk.png",
+    "stream_url": "http://190.61.47.54:8000/play/a015/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Teleislas.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "922",
+      "site_name": "TELEISLAS CHANNEL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://teleislas.gov.co/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Teleislas.co",
+    "name": "Teleislas",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Televisión Regional de Islas y Providencia"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/aKHGRyk.png",
+    "stream_url": "http://181.78.211.244:8005/play/a08d/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -412013,6 +413941,44 @@
     "logo": "https://www.mediamoves.com/wp-content/uploads/2012/11/Telemundo-logo-2012-e1358145354448.jpg",
     "stream_url": "http://168.228.44.241:9997/play/a07g/index.m3u8",
     "stream_quality": "2160p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Telemundo.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "73245",
+      "site_name": "Telemundo East (National Feed)",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.telemundo.com/",
+    "launched": "1984-06-19",
+    "closed": null
+  },
+  {
+    "id": "Telemundo.us",
+    "name": "Telemundo",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NBCUniversal Telemundo Enterprises",
+      "NBCUniversal",
+      "Comcast Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.mediamoves.com/wp-content/uploads/2012/11/Telemundo-logo-2012-e1358145354448.jpg",
+    "stream_url": "https://xyktmobile00.s.gy/PPV943_CANAL27_ESAL",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -414444,6 +416410,42 @@
     "closed": null
   },
   {
+    "id": "Telesur.ve",
+    "name": "Telesur",
+    "alt_names": [],
+    "network": "Telesur",
+    "owners": [
+      "Sistema Bolivariano de Comunicación e Información"
+    ],
+    "country_code": "VE",
+    "country_name": "Venezuela",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/P50VjRX.png",
+    "stream_url": "http://181.78.211.244:8005/play/a0cc/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Telesur.ve",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "1668",
+      "site_name": "teleSUR",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.telesurtv.net/",
+    "launched": "2005-07-24",
+    "closed": null
+  },
+  {
     "id": "TeleSURCostaRica.cr",
     "name": "TeleSUR Costa Rica",
     "alt_names": [],
@@ -415195,6 +417197,42 @@
     "logo": "https://i.imgur.com/cxvkUvK.png",
     "stream_url": "http://181.78.8.199:8000/play/a09j/index.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Televen.ve",
+      "feed": "SD",
+      "site": "reportv.com.ar",
+      "site_id": "408",
+      "site_name": "TELEVEN",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.televen.com/",
+    "launched": "1987-07-23",
+    "closed": null
+  },
+  {
+    "id": "Televen.ve",
+    "name": "Televen",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Omar Nicolas Camero Zamora"
+    ],
+    "country_code": "VE",
+    "country_name": "Venezuela",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/cxvkUvK.png",
+    "stream_url": "http://38.134.250.110:8000/play/a02i/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -431318,6 +433356,30 @@
     "closed": null
   },
   {
+    "id": "TownTV.kh",
+    "name": "Town TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "KH",
+    "country_name": "Cambodia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9fUGvVG.png",
+    "stream_url": "https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TPlusE.ca",
     "name": "T+E",
     "alt_names": [
@@ -433912,6 +435974,42 @@
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Trece.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "392",
+      "site_name": "TRECE",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://canaltrece.com.co/",
+    "launched": "1998-09-01",
+    "closed": null
+  },
+  {
+    "id": "Trece.co",
+    "name": "Trece",
+    "alt_names": [],
+    "network": "RTVC Sistema de Medios Públicos",
+    "owners": [
+      "Government of Colombia"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/jsuXXIg.png",
+    "stream_url": "http://190.60.46.228:8888/play/a030/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "Trece.co",
@@ -436696,6 +438794,38 @@
     "logo": "https://i.imgur.com/oT5CAvd.png",
     "stream_url": "https://streaming.alwaysdata.net/tudn.php",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TUDN.mx",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "tudn_mexico",
+      "site_name": "Canal TUDN (México)",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.tudn.mx/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TUDN.mx",
+    "name": "TUDN",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/oT5CAvd.png",
+    "stream_url": "http://45.5.118.152:8000/play/a08n/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -446276,6 +448406,42 @@
     "closed": null
   },
   {
+    "id": "TVChile.cl",
+    "name": "TV Chile",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Televisión Nacional de Chile"
+    ],
+    "country_code": "CL",
+    "country_name": "Chile",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/oYFto0V.png",
+    "stream_url": "http://38.252.238.18:8000/play/a04b/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVChile.cl",
+      "feed": "SD",
+      "site": "tvpassport.com",
+      "site_id": "tv-chile/2102",
+      "site_name": "TV Chile",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.tvchile.cl/",
+    "launched": "1989-03-10",
+    "closed": null
+  },
+  {
     "id": "TVChosun2.kr",
     "name": "TV Chosun 2",
     "alt_names": [
@@ -448376,6 +450542,36 @@
     "is_nsfw": false,
     "logo": "https://i.ibb.co/j98NY8Mr/starcolor.png",
     "stream_url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.rtve.es/comercial/distribucion-canales/star/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVEStar.es",
+    "name": "TVE Star",
+    "alt_names": [
+      "Star TVE"
+    ],
+    "network": "TVE",
+    "owners": [
+      "RTVE"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/j98NY8Mr/starcolor.png",
+    "stream_url": "http://38.252.238.18:8000/play/a01h/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -455121,6 +457317,45 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/6io0IrX.png",
     "stream_url": "http://181.224.200.5:2277/play/a0dx/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVPeru.pe",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch2210",
+      "site_name": "TV PERU",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.tvperu.gob.pe/",
+    "launched": "1958-01-12",
+    "closed": null
+  },
+  {
+    "id": "TVPeru.pe",
+    "name": "TV Peru",
+    "alt_names": [
+      "TV Perú"
+    ],
+    "network": null,
+    "owners": [
+      "Gobierno del Perú",
+      "National Institute of Radio and Television of Peru"
+    ],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6io0IrX.png",
+    "stream_url": "http://187.102.208.209:8000/play/a0ay/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -462868,6 +465103,45 @@
     "closed": null
   },
   {
+    "id": "Twentyseven.it",
+    "name": "Twentyseven",
+    "alt_names": [
+      "27Twentyseven"
+    ],
+    "network": null,
+    "owners": [
+      "MFE - MediaForEurope"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/960px-Twentyseven_logo.svg.png",
+    "stream_url": "https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "HbbTV/1.6.1",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Twentyseven.it",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "1948",
+      "site_name": "Twentyseven",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "https://www.mediasetplay.mediaset.it/27twentyseven",
+    "launched": "2022-01-17",
+    "closed": null
+  },
+  {
     "id": "TwojaTV.pl",
     "name": "Twoja.TV",
     "alt_names": [],
@@ -463043,6 +465317,42 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
     "stream_url": "http://38.44.109.41:8003/play/a02l/index.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TyCSports.ar",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "16275",
+      "site_name": "TyC Sports",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.tycsports.com/",
+    "launched": "1994-01-01",
+    "closed": null
+  },
+  {
+    "id": "TyCSports.ar",
+    "name": "TyC Sports",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Torneos Clarin Group"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
+    "stream_url": "http://168.228.44.241:9999/play/a02e/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -466506,6 +468816,38 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/NpBJT6P.png",
+    "stream_url": "http://38.252.238.18:8000/play/a03e/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Univision.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "68049",
+      "site_name": "Univision East (National Feed)",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.univision.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Univision.us",
+    "name": "Univision",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NpBJT6P.png",
     "stream_url": "http://45.190.13.8/UnivisionHD/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -467647,123 +469989,6 @@
       "sources": []
     },
     "website": "http://usadba.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "USANetwork.us",
-    "name": "USA Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Versant Media Group Inc."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies",
-      "series",
-      "sports",
-      "comedy"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/960px-USA_Network_2025_logo.svg.png",
-    "stream_url": "http://190.11.225.124:5000/live/usa_hd/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "USANetwork.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "11208",
-      "site_name": "USA Network West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.usanetwork.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "USANetwork.us",
-    "name": "USA Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Versant Media Group Inc."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies",
-      "series",
-      "sports",
-      "comedy"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/960px-USA_Network_2025_logo.svg.png",
-    "stream_url": "https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "USANetwork.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "11208",
-      "site_name": "USA Network West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.usanetwork.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "USANetwork.us",
-    "name": "USA Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Versant Media Group Inc."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies",
-      "series",
-      "sports",
-      "comedy"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/960px-USA_Network_2025_logo.svg.png",
-    "stream_url": "http://4.30.180.36:8420/usa/index.m3u8?token=test",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "USANetwork.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "11208",
-      "site_name": "USA Network West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.usanetwork.com/",
     "launched": null,
     "closed": null
   },
@@ -470873,6 +473098,44 @@
     "closed": null
   },
   {
+    "id": "VePlus.ve",
+    "name": "Ve Plus",
+    "alt_names": [
+      "Venevisión Plus"
+    ],
+    "network": null,
+    "owners": [
+      "Cisneros Media"
+    ],
+    "country_code": "VE",
+    "country_name": "Venezuela",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/uc3zqcP.png",
+    "stream_url": "http://186.148.196.100:8000/play/a01d",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "VePlus.ve",
+      "feed": "Venezuela",
+      "site": "tvtv.us",
+      "site_id": "34296",
+      "site_name": "Venevisión Plus",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://veplusgo.com/",
+    "launched": "2007-12-01",
+    "closed": null
+  },
+  {
     "id": "Vera24.ru",
     "name": "Vera 24",
     "alt_names": [
@@ -472454,43 +474717,6 @@
       "sources": []
     },
     "website": "https://skazka-tv.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "VH1.us",
-    "name": "VH1",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png",
-    "stream_url": "http://4.30.180.36:8420/vh1/index.m3u8?token=test",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "VH1.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "16376",
-      "site_name": "VH1 West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.vh1.com/",
     "launched": null,
     "closed": null
   },
@@ -485964,6 +488190,43 @@
     "logo": "https://i.imgur.com/TL6xy4y.png",
     "stream_url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "WKAQTV22.pr",
+      "feed": "HD",
+      "site": "tvtv.us",
+      "site_id": "69285",
+      "site_name": "Punto 2 (WKAQ-DT2) San Juan, PR",
+      "lang": "en",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WKAQTV22.pr",
+    "name": "WKAQ-TV 2.2",
+    "alt_names": [
+      "Punto 2",
+      "WKAQ .2"
+    ],
+    "network": "Spanish Independent",
+    "owners": [
+      "Telemundo of Puerto Rico LLC"
+    ],
+    "country_code": "PR",
+    "country_name": "Puerto Rico",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TL6xy4y.png",
+    "stream_url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_720.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

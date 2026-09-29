@@ -1566,42 +1566,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/KTVX2022LOGO.svg",
-    "stream_url": "https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ABC.us",
-      "feed": "East",
-      "site": "tvtv.us",
-      "site_id": "10003",
-      "site_name": "ABC East",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://abc.com/",
-    "launched": "1948-04-19",
-    "closed": null
-  },
-  {
-    "id": "ABC.us",
-    "name": "ABC",
-    "alt_names": [],
-    "network": "ABC",
-    "owners": [
-      "The Walt Disney Company"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/KTVX2022LOGO.svg",
     "stream_url": "https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -5356,42 +5320,6 @@
     "closed": null
   },
   {
-    "id": "AMC.us",
-    "name": "AMC",
-    "alt_names": [],
-    "network": "AMC",
-    "owners": [
-      "AMC Global Media"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-    "stream_url": "http://4.30.180.36:8420/amc/index.m3u8?token=test",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AMC.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "31556",
-      "site_name": "AMC West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.amc.com/",
-    "launched": "1984-10-01",
-    "closed": null
-  },
-  {
     "id": "AMCenEspanol.us",
     "name": "AMC en Espanol",
     "alt_names": [
@@ -8587,6 +8515,42 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AXNLatinAmerica.us",
+    "name": "AXN Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sony Pictures Television"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "stream_url": "http://181.78.8.199:8000/play/a0cu/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXNLatinAmerica.us",
+      "feed": "Andes",
+      "site": "siba.com.co",
+      "site_id": "384",
+      "site_name": "AXN",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://la.axn.com/",
     "launched": null,
     "closed": null
   },
@@ -18471,6 +18435,42 @@
     "closed": null
   },
   {
+    "id": "Cinecanal.us",
+    "name": "Cinecanal",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "The Walt Disney Company Latin America"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
+    "stream_url": "http://190.61.47.54:8000/play/a02z/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Cinecanal.us",
+      "feed": "Pacific",
+      "site": "siba.com.co",
+      "site_id": "407",
+      "site_name": "CINECANAL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://foxplay.com/ar/brandingchannel/98d445b15e5f4d3ab92fdc1e84bbc45e",
+    "launched": "1993-04-01",
+    "closed": null
+  },
+  {
     "id": "Cineenespanol.us",
     "name": "Cine en espanol",
     "alt_names": [
@@ -24792,6 +24792,40 @@
     "closed": null
   },
   {
+    "id": "DHE.us",
+    "name": "DHE",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nsttoEa.png",
+    "stream_url": "http://38.252.238.18:8000/play/a01f/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DHE.us",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#dhe",
+      "site_name": "DHE",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.canaldhe.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "DidgahTV.us",
     "name": "Didgah TV",
     "alt_names": [],
@@ -26741,6 +26775,34 @@
     "closed": null
   },
   {
+    "id": "DSports.us",
+    "name": "DSports",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Werthein"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
+    "stream_url": "http://38.187.7.252:8000/play/a03d/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.directvsports.com/",
+    "launched": "2009-06-13",
+    "closed": null
+  },
+  {
     "id": "DuckDynasty.us",
     "name": "Duck Dynasty",
     "alt_names": [],
@@ -28092,6 +28154,42 @@
     "closed": null
   },
   {
+    "id": "ESNETV.us",
+    "name": "ESNE TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "El Sembrador Ministries"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/B50i65o.png",
+    "stream_url": "http://168.196.127.137:6001/play/a071/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ESNETV.us",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "486",
+      "site_name": "EL SEMBRADOR",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://elsembradorministries.com/",
+    "launched": "2002-01-01",
+    "closed": null
+  },
+  {
     "id": "ESPN8TheOcho.us",
     "name": "ESPN8: The Ocho",
     "alt_names": [],
@@ -29375,6 +29473,42 @@
     "logo": "https://i.imgur.com/sua70RO.png",
     "stream_url": "http://45.167.1.138:8000/play/a01m",
     "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EWTN.us",
+      "feed": "AsiaPacific",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000154",
+      "site_name": "EWTN",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://www.ewtn.com/tv/",
+    "launched": "1981-08-15",
+    "closed": null
+  },
+  {
+    "id": "EWTN.us",
+    "name": "EWTN",
+    "alt_names": [],
+    "network": "EWTN",
+    "owners": [
+      "Eternal Word Television Network"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sua70RO.png",
+    "stream_url": "http://187.102.208.209:8000/play/a0ac/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -34097,6 +34231,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+    "stream_url": "http://38.252.238.18:8000/play/a01c/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FXLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "mi.tv",
+      "site_id": "co#fx-hd",
+      "site_name": "FX HD",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.canalfx.tv/",
+    "launched": "2005-05-01",
+    "closed": null
+  },
+  {
+    "id": "FXLatinAmerica.us",
+    "name": "FX Latin America",
+    "alt_names": [],
+    "network": "FX Channels",
+    "owners": [
+      "The Walt Disney Company Latin America"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
     "stream_url": "http://72.1.184.5:8089/play/a05i/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -35646,6 +35816,42 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png",
     "stream_url": "http://143.14.178.35/TCM-HD/index.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GolfChannelLatinAmerica.us",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#golf-channel",
+      "site_name": "Golf Channel",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.golfchannel-la.com/",
+    "launched": "2006-01-01",
+    "closed": null
+  },
+  {
+    "id": "GolfChannelLatinAmerica.us",
+    "name": "Golf Channel Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Versant Media Group Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png",
+    "stream_url": "http://38.252.238.18:8000/play/a01i/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -38275,6 +38481,42 @@
     "logo": "https://i.imgur.com/i0Qexxd.png",
     "stream_url": "https://xyktmobile00.s.gy/PPV901_HOLA_TV",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HolaTVLatinAmerica.us",
+      "feed": "SD",
+      "site": "reportv.com.ar",
+      "site_id": "2669",
+      "site_name": "HOLA TV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.hola.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HolaTVLatinAmerica.us",
+    "name": "Hola! TV Latin America",
+    "alt_names": [
+      "¡Hola! TV Latin America"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/i0Qexxd.png",
+    "stream_url": "http://168.196.127.137:6001/play/a03q/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -44772,6 +45014,42 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
     "stream_url": "https://cdn1tlinkgo.tlink.cl/lifetime/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "LifetimeLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "893",
+      "site_name": "LIFETIME",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.historyplay.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "LifetimeLatinAmerica.us",
+    "name": "Lifetime Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "A&E Networks"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+    "stream_url": "http://187.102.208.209:8000/play/a0ad/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -52448,6 +52726,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",
+    "stream_url": "http://rezofoot.tv/NBATV/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NBATV.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "32281",
+      "site_name": "NBA TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.nba.com/nba_tv/",
+    "launched": "1999-11-02",
+    "closed": null
+  },
+  {
+    "id": "NBATV.us",
+    "name": "NBA TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "National Basketball Association"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",
     "stream_url": "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -55952,78 +56266,6 @@
     },
     "website": "https://pluto.tv/en/live-tv/nfl-channel",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NFLNetwork.us",
-    "name": "NFL Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "National Football League"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",
-    "stream_url": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NFLNetwork.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "102790",
-      "site_name": "NFL Network",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.nfl.com/network",
-    "launched": "2003-11-04",
-    "closed": null
-  },
-  {
-    "id": "NFLNetwork.us",
-    "name": "NFL Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "National Football League"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",
-    "stream_url": "https://tvsen6.aynaott.com/nfl/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NFLNetwork.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "102790",
-      "site_name": "NFL Network",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.nfl.com/network",
-    "launched": "2003-11-04",
     "closed": null
   },
   {
@@ -60076,44 +60318,6 @@
     "closed": null
   },
   {
-    "id": "ParamountNetwork.us",
-    "name": "Paramount Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Paramount Network Broadcasting Ltd",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series",
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
-    "stream_url": "http://4.30.180.36:8420/paramount/index.m3u8?token=test",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ParamountNetwork.us",
-      "feed": "East",
-      "site": "tvtv.us",
-      "site_id": "11163",
-      "site_name": "Paramount Network East",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.paramountnetwork.com/",
-    "launched": "1983-03-07",
-    "closed": null
-  },
-  {
     "id": "ParamountPlusPicks.us",
     "name": "Paramount+ Picks",
     "alt_names": [],
@@ -60398,6 +60602,42 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/VGnbWjO.png",
     "stream_url": "https://cdn1tlinkgo.tlink.cl/pasioneshd/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PasionesLatinAmerica.us",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch5701",
+      "site_name": "Pasiones HD",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://latam.tvpasiones.com/",
+    "launched": "2008-07-01",
+    "closed": null
+  },
+  {
+    "id": "PasionesLatinAmerica.us",
+    "name": "Pasiones Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Hemisphere Media Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/VGnbWjO.png",
+    "stream_url": "http://190.60.55.141:9083/play/a0ni/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -74268,41 +74508,6 @@
     "closed": null
   },
   {
-    "id": "Showtime.us",
-    "name": "Showtime",
-    "alt_names": [],
-    "network": "Paramount+ with SHOWTIME",
-    "owners": [
-      "Showtime Networks Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Or0LKsu.png",
-    "stream_url": "http://4.30.180.36:8420/showtime/mono.m3u8?token=test",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Showtime.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "11117",
-      "site_name": "Showtime West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.sho.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "ShowtimeFamilyZone.us",
     "name": "Showtime Family Zone",
     "alt_names": [],
@@ -74678,6 +74883,36 @@
     "tv_guide": null,
     "website": "https://sites.google.com/view/splusgroup",
     "launched": "2026-09-08",
+    "closed": null
+  },
+  {
+    "id": "SmithsonianChannelAsia.us",
+    "name": "Smithsonian Channel Asia",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "SNI/SI Networks L.L.C.",
+      "Smithsonian Institution",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "science"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/960px-SmithsonianChannellogo.png",
+    "stream_url": "https://xyktmobile00.s.gy/PPV940_SMITHSONIAN",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.smithsonianchannel.com/",
+    "launched": null,
     "closed": null
   },
   {
@@ -75264,6 +75499,40 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",
     "stream_url": "https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SonyMoviesLatinAmerica.us",
+      "feed": "SD",
+      "site": "programacion.tcc.com.uy",
+      "site_id": "468",
+      "site_name": "Sony Movies",
+      "lang": "es",
+      "sources": []
+    },
+    "website": null,
+    "launched": "2022-04-01",
+    "closed": null
+  },
+  {
+    "id": "SonyMoviesLatinAmerica.us",
+    "name": "Sony Movies Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",
+    "stream_url": "http://38.252.238.18:8000/play/a01e/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -76819,40 +77088,6 @@
       "site": "tvtv.us",
       "site_id": "34902",
       "site_name": "Starz Comedy West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.starz.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "StarzEdge.us",
-    "name": "Starz Edge",
-    "alt_names": [],
-    "network": "STARZ",
-    "owners": [
-      "Starz Entertainment Corp."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/MvH3Cz2.png",
-    "stream_url": "http://168.228.44.241:9998/play/a0e0/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarzEdge.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "17129",
-      "site_name": "Starz Edge West",
       "lang": "en",
       "sources": []
     },
@@ -79352,6 +79587,44 @@
     "logo": "https://www.mediamoves.com/wp-content/uploads/2012/11/Telemundo-logo-2012-e1358145354448.jpg",
     "stream_url": "http://168.228.44.241:9997/play/a07g/index.m3u8",
     "stream_quality": "2160p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Telemundo.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "73245",
+      "site_name": "Telemundo East (National Feed)",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.telemundo.com/",
+    "launched": "1984-06-19",
+    "closed": null
+  },
+  {
+    "id": "Telemundo.us",
+    "name": "Telemundo",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NBCUniversal Telemundo Enterprises",
+      "NBCUniversal",
+      "Comcast Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.mediamoves.com/wp-content/uploads/2012/11/Telemundo-logo-2012-e1358145354448.jpg",
+    "stream_url": "https://xyktmobile00.s.gy/PPV943_CANAL27_ESAL",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -87365,6 +87638,38 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/NpBJT6P.png",
+    "stream_url": "http://38.252.238.18:8000/play/a03e/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Univision.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "68049",
+      "site_name": "Univision East (National Feed)",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.univision.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Univision.us",
+    "name": "Univision",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NpBJT6P.png",
     "stream_url": "http://45.190.13.8/UnivisionHD/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -87893,123 +88198,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "USANetwork.us",
-    "name": "USA Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Versant Media Group Inc."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies",
-      "series",
-      "sports",
-      "comedy"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/960px-USA_Network_2025_logo.svg.png",
-    "stream_url": "http://190.11.225.124:5000/live/usa_hd/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "USANetwork.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "11208",
-      "site_name": "USA Network West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.usanetwork.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "USANetwork.us",
-    "name": "USA Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Versant Media Group Inc."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies",
-      "series",
-      "sports",
-      "comedy"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/960px-USA_Network_2025_logo.svg.png",
-    "stream_url": "https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "USANetwork.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "11208",
-      "site_name": "USA Network West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.usanetwork.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "USANetwork.us",
-    "name": "USA Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Versant Media Group Inc."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies",
-      "series",
-      "sports",
-      "comedy"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/960px-USA_Network_2025_logo.svg.png",
-    "stream_url": "http://4.30.180.36:8420/usa/index.m3u8?token=test",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "USANetwork.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "11208",
-      "site_name": "USA Network West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.usanetwork.com/",
     "launched": null,
     "closed": null
   },
@@ -89592,43 +89780,6 @@
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/vevo-true-school-hip-hop",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "VH1.us",
-    "name": "VH1",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png",
-    "stream_url": "http://4.30.180.36:8420/vh1/index.m3u8?token=test",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "VH1.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "16376",
-      "site_name": "VH1 West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.vh1.com/",
     "launched": null,
     "closed": null
   },

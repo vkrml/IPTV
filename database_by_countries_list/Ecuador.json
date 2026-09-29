@@ -450,6 +450,42 @@
     "closed": null
   },
   {
+    "id": "EcuadorTV.ec",
+    "name": "Ecuador TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Comunica EP"
+    ],
+    "country_code": "EC",
+    "country_name": "Ecuador",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/hj6EYwe.png",
+    "stream_url": "http://38.44.109.41:8003/play/a0e9/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EcuadorTV.ec",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "ecuador_tv",
+      "site_name": "Canal Ecuador TV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://ecuadortv.ec/",
+    "launched": "2007-11-29",
+    "closed": null
+  },
+  {
     "id": "EcuaMundoRadioTV.ec",
     "name": "EcuaMundo Radio TV",
     "alt_names": [],
@@ -769,6 +805,45 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",
     "stream_url": "https://stream.esradioecuador.com/hls/stream.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Gamavision.ec",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "gamavision",
+      "site_name": "Canal Gamavisión",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.gamavision.com.ec/",
+    "launched": "1977-04-18",
+    "closed": null
+  },
+  {
+    "id": "Gamavision.ec",
+    "name": "Gamavision",
+    "alt_names": [
+      "Gamavisión"
+    ],
+    "network": null,
+    "owners": [
+      "Comunica EP",
+      "Workers of the channel"
+    ],
+    "country_code": "EC",
+    "country_name": "Ecuador",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",
+    "stream_url": "http://181.78.211.244:8000/play/a0a2/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

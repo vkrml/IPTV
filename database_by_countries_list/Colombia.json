@@ -1441,6 +1441,44 @@
     "closed": null
   },
   {
+    "id": "CanalRCN.co",
+    "name": "Canal RCN",
+    "alt_names": [
+      "RCN Televisión"
+    ],
+    "network": "RCN Televisión",
+    "owners": [
+      "Organización Ardila Lülle"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5PhTaHp.png",
+    "stream_url": "http://190.60.55.141:9083/play/a0n5/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalRCN.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "399",
+      "site_name": "CANAL RCN",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.canalrcn.com/",
+    "launched": "1998-07-10",
+    "closed": null
+  },
+  {
     "id": "CanalTelefamilia.co",
     "name": "Canal Telefamilia",
     "alt_names": [],
@@ -4153,6 +4191,44 @@
     "logo": "https://i.imgur.com/Y9x16vl.png",
     "stream_url": "http://138.121.15.230:9002/SENAL-COLOMBIA/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SenalColombia.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "570",
+      "site_name": "SENAL COLOMBIA",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.senalcolombia.tv/",
+    "launched": "1970-02-09",
+    "closed": null
+  },
+  {
+    "id": "SenalColombia.co",
+    "name": "Senal Colombia",
+    "alt_names": [
+      "Señal Colombia"
+    ],
+    "network": "RTVC Sistema de Medios Públicos",
+    "owners": [
+      "Government of Colombia"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Y9x16vl.png",
+    "stream_url": "http://190.61.47.54:8000/play/a00w/index.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

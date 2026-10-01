@@ -14809,6 +14809,34 @@
     "closed": null
   },
   {
+    "id": "CanalInfantil.us",
+    "name": "Canal Infantil",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Latin Entertainment Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/WGk7MJ3.png",
+    "stream_url": "http://179.1.196.222:9000/play/a02y/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.latingroup.us/ci.html",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CanelaTV.us",
     "name": "Canela TV",
     "alt_names": [],
@@ -18583,34 +18611,6 @@
     "tv_guide": null,
     "website": "https://www.latingroup.us/ch.html",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CinemaxAction.us",
-    "name": "Cinemax Action",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Warner Bros. Discovery Inc."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/6JL79rbZ/IMG-2472.png",
-    "stream_url": "https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.cinemax.com/",
-    "launched": "2025-09-04",
     "closed": null
   },
   {
@@ -23691,6 +23691,42 @@
     "closed": null
   },
   {
+    "id": "DaystarTVEspanol.us",
+    "name": "Daystar TV Espanol",
+    "alt_names": [
+      "Daystar TV Español"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://espanol.daystar.com/hs-fs/hubfs/Logos/Daystar_Espanol_Logo_White-sm.png?width=300&height=116&name=Daystar_Espanol_Logo_White-sm.png",
+    "stream_url": "http://167.249.23.102:8000/play/a0ev/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DaystarTVEspanol.us",
+      "feed": "SD",
+      "site": "watch.whaletvplus.com",
+      "site_id": "999420644834214628",
+      "site_name": "Daystar Español",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://espanol.daystar.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "DCC.us",
     "name": "DCC",
     "alt_names": [],
@@ -24906,34 +24942,6 @@
     "closed": null
   },
   {
-    "id": "DiscoveryTurbo.us",
-    "name": "Discovery Turbo",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Warner Bros. Discovery Inc."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "auto"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Discovery_Turbo_2025.svg/1920px-Discovery_Turbo_2025.svg.png",
-    "stream_url": "https://sra72yz.s.gy/DISCOVERY_TURBO.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": "2026-01-09",
-    "closed": null
-  },
-  {
     "id": "DisneyChannel.us",
     "name": "Disney Channel",
     "alt_names": [],
@@ -25005,43 +25013,6 @@
     },
     "website": "https://www.disney.com/",
     "launched": "1983-04-18",
-    "closed": null
-  },
-  {
-    "id": "DisneyJunior.us",
-    "name": "Disney Junior",
-    "alt_names": [],
-    "network": "Disney Channels",
-    "owners": [
-      "The Walt Disney Company",
-      "Disney Kids & Family"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
-    "stream_url": "http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "DisneyJunior.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "75003",
-      "site_name": "Disney Junior West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://disney.go.com/disneyjunior/",
-    "launched": "2011-02-14",
     "closed": null
   },
   {
@@ -32861,6 +32832,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://static.wikia.nocookie.net/tvstations/images/8/8e/KBSIO6.png",
+    "stream_url": "http://190.197.41.183/Fox/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Fox.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "10212",
+      "site_name": "Fox East",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.fox.com/",
+    "launched": "1986-10-09",
+    "closed": null
+  },
+  {
+    "id": "Fox.us",
+    "name": "Fox",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Fox Entertainment"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/tvstations/images/8/8e/KBSIO6.png",
     "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -36913,36 +36920,6 @@
     "is_nsfw": false,
     "logo": "https://static.hbo.com/2025-09/HBO_Drama_Plex_Logo_bw.svg",
     "stream_url": "https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.hbo.com/",
-    "launched": "2025-09-04",
-    "closed": null
-  },
-  {
-    "id": "HBODrama.us",
-    "name": "HBO Drama",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Home Box Office Inc.",
-      "Warner Bros. Discovery"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies",
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://static.hbo.com/2025-09/HBO_Drama_Plex_Logo_bw.svg",
-    "stream_url": "https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -52725,6 +52702,43 @@
     "closed": null
   },
   {
+    "id": "NationalGeographicLatinAmerica.us",
+    "name": "National Geographic Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "National Geographic Partners LLC.",
+      "The Walt Disney Company"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "stream_url": "http://45.173.231.22:8000/play/a05z/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalGeographicLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "550",
+      "site_name": "NATIONAL GEOGRAPHIC",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.nationalgeographicla.com/",
+    "launched": "2001-01-07",
+    "closed": null
+  },
+  {
     "id": "NationalGeographicWild.us",
     "name": "National Geographic Wild",
     "alt_names": [],
@@ -54027,6 +54041,42 @@
     "logo": "https://i.imgur.com/B1qVjQN.png",
     "stream_url": "https://live.field59.com/wrde/wrde1/playlist.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NBC.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "10991",
+      "site_name": "NBC East",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.nbc.com/",
+    "launched": "1939-04-30",
+    "closed": null
+  },
+  {
+    "id": "NBC.us",
+    "name": "NBC",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NBC Entertainment"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/B1qVjQN.png",
+    "stream_url": "http://190.197.41.183/NBC/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -60785,6 +60835,42 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/VGnbWjO.png",
     "stream_url": "http://190.60.55.141:9083/play/a0ni/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PasionesLatinAmerica.us",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch5701",
+      "site_name": "Pasiones HD",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://latam.tvpasiones.com/",
+    "launched": "2008-07-01",
+    "closed": null
+  },
+  {
+    "id": "PasionesLatinAmerica.us",
+    "name": "Pasiones Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Hemisphere Media Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/VGnbWjO.png",
+    "stream_url": "http://45.173.231.22:8000/play/a06n/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -80233,6 +80319,82 @@
     "closed": null
   },
   {
+    "id": "TelemundoInternacional.us",
+    "name": "Telemundo Internacional",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NBCUniversal Telemundo Enterprises",
+      "NBCUniversal",
+      "Comcast Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/j2O4ndp.png",
+    "stream_url": "http://45.173.231.22:8000/play/a01h/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TelemundoInternacional.us",
+      "feed": "CentralAmerica",
+      "site": "siba.com.co",
+      "site_id": "697",
+      "site_name": "TELEMUNDO",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.telemundo.com/telemundo-internacional/telemundo-internacional",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TelemundoInternacional.us",
+    "name": "Telemundo Internacional",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NBCUniversal Telemundo Enterprises",
+      "NBCUniversal",
+      "Comcast Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/j2O4ndp.png",
+    "stream_url": "http://45.173.231.22:8000/play/a097/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TelemundoInternacional.us",
+      "feed": "CentralAmerica",
+      "site": "siba.com.co",
+      "site_id": "697",
+      "site_name": "TELEMUNDO",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.telemundo.com/telemundo-internacional/telemundo-internacional",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TelemundoTelenovelasClasicas.us",
     "name": "Telemundo Telenovelas Clasicas",
     "alt_names": [
@@ -80295,6 +80457,38 @@
     "referrer": null,
     "tv_guide": null,
     "website": "http://telepam.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TeleXitos.us",
+    "name": "TeleXitos",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "http://190.197.41.183/TELEXITOS/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TeleXitos.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "74299",
+      "site_name": "TeleXitos",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.telexitos.com/",
     "launched": null,
     "closed": null
   },
@@ -84802,6 +84996,40 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/aSjhZK7.png",
     "stream_url": "http://api.toonamiaftermath.com:3000/est/playlist.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ToonamiAftermath.us",
+      "feed": "West",
+      "site": "toonamiaftermath.com",
+      "site_id": "Toonami Aftermath EST+180",
+      "site_name": "Toonami Aftermath West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.toonamiaftermath.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ToonamiAftermath.us",
+    "name": "Toonami Aftermath",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/aSjhZK7.png",
+    "stream_url": "http://api.toonamiaftermath.com:3000/pst/playlist.m3u8",
     "stream_quality": "480p",
     "stream_format": null,
     "user_agent": null,

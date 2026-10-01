@@ -4251,6 +4251,34 @@
     "closed": null
   },
   {
+    "id": "LAMIL35TV.ar",
+    "name": "LAMIL35 TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "classic",
+      "entertainment",
+      "animation"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.appcreator24.com/srv/imgs/gen/3544498_ico.png",
+    "stream_url": "https://streamingvideo.com.ar/hls/eea3c96df781e0a3.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://lamil35.streamingvideo.com.ar/",
+    "tv_guide": null,
+    "website": "https://www.lamil35.com.ar/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "LitusTV.ar",
     "name": "Litus TV",
     "alt_names": [],
@@ -5503,6 +5531,42 @@
     "tv_guide": null,
     "website": "http://www.cablecanalriomayo.com.ar/telecinco-trelew/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Telefe.ar",
+    "name": "Telefe",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Televisión Litoral"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
+    "stream_url": "http://45.173.231.22:8000/play/a053/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Telefe.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#telefe",
+      "site_name": "Telefe",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://telefe.com/",
+    "launched": "1990-03-05",
     "closed": null
   },
   {

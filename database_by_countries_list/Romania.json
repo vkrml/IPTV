@@ -743,6 +743,32 @@
     "closed": null
   },
   {
+    "id": "CineMaraton.ro",
+    "name": "CineMaraton",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/BY8UZa0.png",
+    "stream_url": "https://dokagents.site/live/cinemaraton/mono.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.cinemaraton.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CinemaratonPlus.ro",
     "name": "Cinemaraton Plus",
     "alt_names": [],
@@ -1176,78 +1202,6 @@
     "closed": null
   },
   {
-    "id": "DigiSport2.ro",
-    "name": "Digi Sport 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "RCS & RDS"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/KWDUi3v.png",
-    "stream_url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2522/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "DigiSport2.ro",
-      "feed": "SD",
-      "site": "programetv.ro",
-      "site_id": "digi-sport-2",
-      "site_name": "Digi Sport 2",
-      "lang": "ro",
-      "sources": []
-    },
-    "website": "http://digisport.ro/",
-    "launched": "2012-08-11",
-    "closed": null
-  },
-  {
-    "id": "DigiSport3.ro",
-    "name": "Digi Sport 3",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "RCS & RDS"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/T1ci5UK.png",
-    "stream_url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2524/index.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "DigiSport3.ro",
-      "feed": "SD",
-      "site": "programetv.ro",
-      "site_id": "digi-sport-3",
-      "site_name": "Digi Sport 3",
-      "lang": "ro",
-      "sources": []
-    },
-    "website": "http://digisport.ro/",
-    "launched": "2012-08-11",
-    "closed": null
-  },
-  {
     "id": "DigiSport3.ro",
     "name": "Digi Sport 3",
     "alt_names": [],
@@ -1276,42 +1230,6 @@
       "site": "programetv.ro",
       "site_id": "digi-sport-3",
       "site_name": "Digi Sport 3",
-      "lang": "ro",
-      "sources": []
-    },
-    "website": "http://digisport.ro/",
-    "launched": "2012-08-11",
-    "closed": null
-  },
-  {
-    "id": "DigiSport4.ro",
-    "name": "Digi Sport 4",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "RCS & RDS"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Knj9I6f.png",
-    "stream_url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2538/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "DigiSport4.ro",
-      "feed": "SD",
-      "site": "programetv.ro",
-      "site_id": "digi-sport-4",
-      "site_name": "Digi Sport 4",
       "lang": "ro",
       "sources": []
     },
@@ -2922,6 +2840,44 @@
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PrimaTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "prima-tv",
+      "site_name": "Prima TV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.primatv.ro/",
+    "launched": "1997-12-17",
+    "closed": null
+  },
+  {
+    "id": "PrimaTV.ro",
+    "name": "Prima TV",
+    "alt_names": [
+      "Canal 38 Amerom Bucureşti"
+    ],
+    "network": null,
+    "owners": [
+      "Clever Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/p2umWAT.png",
+    "stream_url": "https://dokagents.site/live/primatv/mono.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "PrimaTV.ro",

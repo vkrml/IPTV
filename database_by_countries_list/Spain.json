@@ -897,6 +897,46 @@
     "closed": null
   },
   {
+    "id": "Antena3.es",
+    "name": "Antena 3",
+    "alt_names": [
+      "Antena Tres",
+      "A3",
+      "Antena 3 HD"
+    ],
+    "network": null,
+    "owners": [
+      "Atresmedia Corporación de Medios de Comunicación SA"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Antena_3_2025_%28Naranja%29.svg",
+    "stream_url": "https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Antena3.es",
+      "feed": null,
+      "site": "tvprofil.com",
+      "site_id": "es/programacion-tv#antena3",
+      "site_name": "Antena 3",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.antena3.com/",
+    "launched": "1990-01-25",
+    "closed": null
+  },
+  {
     "id": "Antena3Internacional.es",
     "name": "Antena 3 Internacional",
     "alt_names": [],
@@ -1103,6 +1143,44 @@
     "closed": null
   },
   {
+    "id": "AXN.es",
+    "name": "AXN",
+    "alt_names": [
+      "AXN España"
+    ],
+    "network": "Sony Networks",
+    "owners": [
+      "Sony Pictures Television"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "stream_url": "http://193.254.245.162/AXN/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXN.es",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "axn_espana",
+      "site_name": "Canal AXN (España)",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.axn.es/",
+    "launched": "1998-11-05",
+    "closed": null
+  },
+  {
     "id": "AXNCEE.es",
     "name": "AXN CEE",
     "alt_names": [],
@@ -1212,6 +1290,37 @@
     "tv_guide": null,
     "website": "https://antenna-group.com/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AXNMovies.es",
+    "name": "AXN Movies",
+    "alt_names": [
+      "AXN White Spain",
+      "Sony Entertainment Television Spain"
+    ],
+    "network": null,
+    "owners": [
+      "Sony Pictures Television"
+    ],
+    "country_code": "ES",
+    "country_name": "Spain",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512",
+    "stream_url": "https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.axn.es/axnmovies",
+    "launched": "2012-05-07",
     "closed": null
   },
   {

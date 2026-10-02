@@ -574,42 +574,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
-    "stream_url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_cbeebies.stream/playlist.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CBeebies.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "bbc-cbeebies-2",
-      "site_name": "BBC CBeebies",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "http://www.bbcpolska.com/channels/cbeebies/",
-    "launched": "2007-12-02",
-    "closed": null
-  },
-  {
-    "id": "CBeebies.pl",
-    "name": "CBeebies",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "BBC"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
     "stream_url": "https://xyktmobile00.s.gy/ticketview/49092",
     "stream_quality": null,
     "stream_format": null,
@@ -1006,80 +970,6 @@
       "site": "programtv.onet.pl",
       "site_id": "hip-hop-tv-511",
       "site_name": "Eska Rock TV",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "https://www.eska.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "EskaTV.pl",
-    "name": "Eska TV",
-    "alt_names": [],
-    "network": "Cyfrowy Polsat",
-    "owners": [
-      "Telewizja Polsat",
-      "Cyfrowy Polsat"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/N0eH0Cg.png",
-    "stream_url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_eskatv.stream/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "EskaTV.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "eska-tv-114",
-      "site_name": "Eska TV",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "https://www.eska.tv/",
-    "launched": "2008-08-08",
-    "closed": null
-  },
-  {
-    "id": "EskaTVExtra.pl",
-    "name": "Eska TV Extra",
-    "alt_names": [],
-    "network": "Cyfrowy Polsat",
-    "owners": [
-      "Telewizja Polsat",
-      "Cyfrowy Polsat"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/pZAFshQ.png",
-    "stream_url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_eskatvextra.stream/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "EskaTVExtra.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "eska-tv-extra-597",
-      "site_name": "Eska TV Extra",
       "lang": "pl",
       "sources": []
     },
@@ -2578,6 +2468,44 @@
     "closed": null
   },
   {
+    "id": "MTV.pl",
+    "name": "MTV",
+    "alt_names": [
+      "MTV Polska"
+    ],
+    "network": null,
+    "owners": [
+      "Paramount Networks EMEAA"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "stream_url": "http://57.128.231.171:8080/227/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MTV.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "mtv-polska-7",
+      "site_name": "MTV Polska",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://www.mtv.pl/",
+    "launched": "2000-07-07",
+    "closed": null
+  },
+  {
     "id": "MusicBoxPolska.pl",
     "name": "Music Box Polska",
     "alt_names": [],
@@ -2826,42 +2754,6 @@
     "closed": null
   },
   {
-    "id": "PolsatCafe.pl",
-    "name": "Polsat Cafe",
-    "alt_names": [
-      "Polsat Café"
-    ],
-    "network": null,
-    "owners": [
-      "Cyfrowy Polsat"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Polsat_Caf%C3%A9_2021_gradient.svg/500px-Polsat_Caf%C3%A9_2021_gradient.svg.png",
-    "stream_url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatCafe.stream/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PolsatCafe.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "polsat-caf-110",
-      "site_name": "Polsat Café",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "http://www.polsatcafe.pl/",
-    "launched": "2004-08-02",
-    "closed": null
-  },
-  {
     "id": "PolsatComedyCentralExtra.pl",
     "name": "Polsat Comedy Central Extra",
     "alt_names": [
@@ -2897,32 +2789,6 @@
     },
     "website": "http://comedycentral.pl/family",
     "launched": "2011-01-14",
-    "closed": null
-  },
-  {
-    "id": "PolsatFilm2.pl",
-    "name": "Polsat Film 2",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/19aDJjn.png",
-    "stream_url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatFilm2.stream/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.polsatfilm.pl/",
-    "launched": null,
     "closed": null
   },
   {
@@ -3164,67 +3030,6 @@
     "closed": null
   },
   {
-    "id": "PolsatPlay.pl",
-    "name": "Polsat Play",
-    "alt_names": [],
-    "network": "Cyfrowy Polsat",
-    "owners": [
-      "Telewizja Polsat",
-      "Cyfrowy Polsat"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Polsat_Play_2021_gradient.svg/500px-Polsat_Play_2021_gradient.svg.png",
-    "stream_url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatPlay.stream/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "PolsatPlay.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "polsat-play-21",
-      "site_name": "Polsat Play",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "http://www.polsatplay.pl/",
-    "launched": "2008-10-06",
-    "closed": null
-  },
-  {
-    "id": "PolsatReality.pl",
-    "name": "Polsat Reality",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/yBecqPa.png",
-    "stream_url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatReality.stream/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.polsat.pl/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "PolsatSport1.pl",
     "name": "Polsat Sport 1",
     "alt_names": [],
@@ -3288,30 +3093,6 @@
     },
     "website": "https://viasathistory.pl/",
     "launched": "2004-09-01",
-    "closed": null
-  },
-  {
-    "id": "PolsatX.pl",
-    "name": "Polsat X",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/8juCHsb.png",
-    "stream_url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatX.stream/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.polsat.pl/",
-    "launched": null,
     "closed": null
   },
   {
@@ -4089,6 +3870,38 @@
     "closed": null
   },
   {
+    "id": "TVC.pl",
+    "name": "TVC",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/1Wmib2f.png",
+    "stream_url": "http://57.128.231.171:8080/214/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVC.pl",
+      "feed": "SD",
+      "site": "m.tv.sms.cz",
+      "site_id": "TVC",
+      "site_name": "TVC",
+      "lang": "cs",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVKStella.pl",
     "name": "TVK Stella",
     "alt_names": [
@@ -4208,40 +4021,6 @@
     "closed": null
   },
   {
-    "id": "TVPHD.pl",
-    "name": "TVP HD",
-    "alt_names": [],
-    "network": "TVP",
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/960px-TVP_HD_logo.svg.png",
-    "stream_url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPHD.stream/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPHD.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-hd-101",
-      "site_name": "TVP HD",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "https://hd.tvp.pl/",
-    "launched": "2008-08-06",
-    "closed": null
-  },
-  {
     "id": "TVPInfo.pl",
     "name": "TVP Info",
     "alt_names": [],
@@ -4273,40 +4052,6 @@
     },
     "website": "https://www.tvp.info/",
     "launched": "2007-10-06",
-    "closed": null
-  },
-  {
-    "id": "TVPKultura.pl",
-    "name": "TVP Kultura",
-    "alt_names": [],
-    "network": "TVP",
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/JU858Es.png",
-    "stream_url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPKultura.stream/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPKultura.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-kultura-477",
-      "site_name": "TVP Kultura",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "https://tvpkultura.tvp.pl/",
-    "launched": "2005-04-24",
     "closed": null
   },
   {
@@ -4375,42 +4120,6 @@
     },
     "website": "https://tvprozrywka.tvp.pl/",
     "launched": "2013-04-15",
-    "closed": null
-  },
-  {
-    "id": "TVPSeriale.pl",
-    "name": "TVP Seriale",
-    "alt_names": [],
-    "network": "TVP",
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/MuRtvXk.png",
-    "stream_url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPSERIALE.stream/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPSeriale.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-seriale-130",
-      "site_name": "TVP Seriale",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "https://seriale.tvp.pl/",
-    "launched": "2010-12-06",
     "closed": null
   },
   {

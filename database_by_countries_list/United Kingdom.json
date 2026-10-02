@@ -7168,6 +7168,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",
+    "stream_url": "https://cdn.stmify.com/bbc/stream/BBC_TWO_NORTHERN_IRELAND/hevc_iptv_mse_v0.mpd",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BBCTwo.uk",
+      "feed": "England",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000041_019369",
+      "site_name": "BBC Two",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.bbc.co.uk/bbctwo/",
+    "launched": "1964-04-21",
+    "closed": null
+  },
+  {
+    "id": "BBCTwo.uk",
+    "name": "BBC Two",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BBC"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png",
     "stream_url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8",
     "stream_quality": "540p",
     "stream_format": null,
@@ -11266,6 +11302,44 @@
     },
     "website": "https://www.islamchannel.tv/",
     "launched": "2004-03-01",
+    "closed": null
+  },
+  {
+    "id": "ITV1.uk",
+    "name": "ITV1",
+    "alt_names": [
+      "ITV"
+    ],
+    "network": "ITV",
+    "owners": [
+      "ITV plc"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/xwPekCF.png",
+    "stream_url": "https://xyktmobile00.s.gy/TICK_44100",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ITV1.uk",
+      "feed": "London",
+      "site": "tv.blue.ch",
+      "site_id": "218",
+      "site_name": "ITV1",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.itv.com/hub/itv",
+    "launched": "1955-09-22",
     "closed": null
   },
   {
@@ -15711,6 +15785,34 @@
       "sources": []
     },
     "website": "https://www.sparkchannel.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "StarBharat.uk",
+    "name": "Star Bharat",
+    "alt_names": [],
+    "network": "JioStar",
+    "owners": [
+      "JioStar India Pvt. Ltd."
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Q8ajPij.png",
+    "stream_url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },

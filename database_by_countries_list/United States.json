@@ -24942,40 +24942,31 @@
     "closed": null
   },
   {
-    "id": "DisneyChannel.us",
-    "name": "Disney Channel",
+    "id": "DiscoveryTurbo.us",
+    "name": "Discovery Turbo",
     "alt_names": [],
-    "network": "Disney Channels",
+    "network": null,
     "owners": [
-      "The Walt Disney Company",
-      "Disney Kids & Family"
+      "Warner Bros. Discovery Inc."
     ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
     "city": null,
     "categories": [
-      "kids"
+      "auto"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
-    "stream_url": "http://212.5.144.156/disney/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Discovery_Turbo_2025.svg/1920px-Discovery_Turbo_2025.svg.png",
+    "stream_url": "http://41.205.93.154/ESPNNEWS/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "DisneyChannel.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "12510",
-      "site_name": "Disney Channel West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.disney.com/",
-    "launched": "1983-04-18",
+    "tv_guide": null,
+    "website": null,
+    "launched": "2026-01-09",
     "closed": null
   },
   {
@@ -24997,7 +24988,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
-    "stream_url": "http://4.30.180.36:8420/disneychannel/index.m3u8?token=test",
+    "stream_url": "http://212.5.144.156/disney/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -28245,6 +28236,42 @@
     "closed": null
   },
   {
+    "id": "ESNETV.us",
+    "name": "ESNE TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "El Sembrador Ministries"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/B50i65o.png",
+    "stream_url": "http://190.217.66.92:8000/play/a0fp/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ESNETV.us",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "486",
+      "site_name": "EL SEMBRADOR",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://elsembradorministries.com/",
+    "launched": "2002-01-01",
+    "closed": null
+  },
+  {
     "id": "ESPN8TheOcho.us",
     "name": "ESPN8: The Ocho",
     "alt_names": [],
@@ -28312,43 +28339,6 @@
     },
     "website": "https://espndeportes.espn.com/",
     "launched": "2001-07-01",
-    "closed": null
-  },
-  {
-    "id": "ESPNews.us",
-    "name": "ESPNews",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "ESPN Inc."
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports",
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png",
-    "stream_url": "http://41.205.93.154/ESPNNEWS/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ESPNews.us",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "59976",
-      "site_name": "ESPNEWS",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://espn.go.com/",
-    "launched": "1996-11-01",
     "closed": null
   },
   {
@@ -33409,6 +33399,44 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/O9BapV9.png",
     "stream_url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FoxSports1.us",
+      "feed": "HD",
+      "site": "tvguide.com",
+      "site_id": "9233008440",
+      "site_name": "FOX Sports 1",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.foxsports.com/",
+    "launched": "2013-08-17",
+    "closed": null
+  },
+  {
+    "id": "FoxSports1.us",
+    "name": "Fox Sports 1",
+    "alt_names": [
+      "FS1"
+    ],
+    "network": "Fox Sports",
+    "owners": [
+      "Fox Sports Media Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/O9BapV9.png",
+    "stream_url": "http://193.254.245.162/Fox_Sports_1/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -60512,6 +60540,44 @@
     },
     "website": "https://pluto.tv/en/live-tv/paramount-movie-channel",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ParamountNetwork.us",
+    "name": "Paramount Network",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Paramount Network Broadcasting Ltd",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series",
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
+    "stream_url": "http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8",
+    "stream_quality": "432p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ParamountNetwork.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "11163",
+      "site_name": "Paramount Network East",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.paramountnetwork.com/",
+    "launched": "1983-03-07",
     "closed": null
   },
   {
@@ -90257,6 +90323,43 @@
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/vevo-true-school-hip-hop",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VH1.us",
+    "name": "VH1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Viacom International Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png",
+    "stream_url": "http://193.254.245.162/VH1/index.m3u8",
+    "stream_quality": "432p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "VH1.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "16376",
+      "site_name": "VH1 West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.vh1.com/",
     "launched": null,
     "closed": null
   },

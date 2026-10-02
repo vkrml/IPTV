@@ -743,6 +743,34 @@
     "closed": null
   },
   {
+    "id": "Chefiro.ro",
+    "name": "Chefi.ro",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Intact Media Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "cooking"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1c/Chefi.ro_2026.png",
+    "stream_url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://chefi.ro/",
+    "launched": "2026-06-15",
+    "closed": null
+  },
+  {
     "id": "CineMaraton.ro",
     "name": "CineMaraton",
     "alt_names": [],
@@ -1493,6 +1521,68 @@
     "closed": null
   },
   {
+    "id": "EuronewsRomania.ro",
+    "name": "Euronews Romania",
+    "alt_names": [],
+    "network": "Euronews",
+    "owners": [
+      "Euronews SA"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/jUOVUXt.png",
+    "stream_url": "https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.euronews.ro/",
+    "launched": "2022-01-01",
+    "closed": null
+  },
+  {
+    "id": "FavoritTV.ro",
+    "name": "Favorit TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sTy4FHs.png",
+    "stream_url": "https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FavoritTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "favorit",
+      "site_name": "Favorit",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.favorittv.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "FilmNow.ro",
     "name": "Film Now",
     "alt_names": [],
@@ -1679,6 +1769,42 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://hellotaste.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "History.ro",
+    "name": "History",
+    "alt_names": [
+      "History România"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "stream_url": "https://dokagents.site/live/history/mono.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "History.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "history",
+      "site_name": "History",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.historytv.ro/",
     "launched": null,
     "closed": null
   },
@@ -2761,6 +2887,34 @@
     "closed": null
   },
   {
+    "id": "PartyMix.ro",
+    "name": "Party Mix",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "SC Best Mixmedia SRL"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/leF8AGo.png",
+    "stream_url": "https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.partymixtv.ro/",
+    "launched": "2019-12-01",
+    "closed": null
+  },
+  {
     "id": "PrimaNews.ro",
     "name": "Prima News",
     "alt_names": [],
@@ -3116,6 +3270,40 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/zVk3WlT.png",
+    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd?offsetSeconds=0",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PROTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "pro-tv",
+      "site_name": "PRO TV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.protv.ro/",
+    "launched": "1995-12-01",
+    "closed": null
+  },
+  {
+    "id": "PROTV.ro",
+    "name": "PRO TV",
+    "alt_names": [
+      "Canal 31"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/zVk3WlT.png",
     "stream_url": "https://dokagents.site/live/protv/mono.m3u8",
     "stream_quality": "576i",
     "stream_format": null,
@@ -3132,6 +3320,40 @@
     },
     "website": "http://www.protv.ro/",
     "launched": "1995-12-01",
+    "closed": null
+  },
+  {
+    "id": "PROTVInternational.ro",
+    "name": "PRO TV International",
+    "alt_names": [
+      "PRO TV Internațional"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/vfr1ZYw.png",
+    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PROTVInternational.ro",
+      "feed": "SD",
+      "site": "vodafone.pt",
+      "site_id": "2757",
+      "site_name": "PRO TV International",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "http://www.protv.ro/",
+    "launched": null,
     "closed": null
   },
   {
@@ -3574,6 +3796,38 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.supertv.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TarafTV.ro",
+    "name": "Taraf TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/0iuwjbK.png",
+    "stream_url": "https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TarafTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "taraf-tv",
+      "site_name": "Taraf TV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.taraftv.ro/",
     "launched": null,
     "closed": null
   },

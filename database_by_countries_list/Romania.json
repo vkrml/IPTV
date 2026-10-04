@@ -74,6 +74,46 @@
     "closed": null
   },
   {
+    "id": "Acasa.ro",
+    "name": "Acasa",
+    "alt_names": [
+      "Acasă",
+      "Pro 2",
+      "Acasă TV"
+    ],
+    "network": null,
+    "owners": [
+      "Central European Media Enterprises"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Acasa_2022_flat.png/960px-Acasa_2022_flat.png",
+    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-pro2/live_fullhd?offsetSeconds=0",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Acasa.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "acasa",
+      "site_name": "Acasa",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://acasatv.ro/",
+    "launched": "1998-02-02",
+    "closed": null
+  },
+  {
     "id": "AcasaGold.ro",
     "name": "Acasa Gold",
     "alt_names": [
@@ -98,6 +138,47 @@
     "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fb/Acasa_Gold_2022.svg/revision/latest/scale-to-width-down/512",
     "stream_url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AcasaGold.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "acasa-gold",
+      "site_name": "Acasa Gold",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.acasagold.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AcasaGold.ro",
+    "name": "Acasa Gold",
+    "alt_names": [
+      "Acasă Gold",
+      "Pro Gold",
+      "Acasă Clasic",
+      "Acasă 2"
+    ],
+    "network": null,
+    "owners": [
+      "Central European Media Enterprises"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fb/Acasa_Gold_2022.svg/revision/latest/scale-to-width-down/512",
+    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1809,6 +1890,44 @@
     "closed": null
   },
   {
+    "id": "HtMusicChannel.ro",
+    "name": "H!t Music Channel",
+    "alt_names": [
+      "Hit Music Channel"
+    ],
+    "network": "RCS-RDS",
+    "owners": [
+      "RCS-RDS"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sqC2hqV.png",
+    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HtMusicChannel.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "hit-music-channel",
+      "site_name": "H!T Music Channel",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.music-channel.ro/hit-music-channel",
+    "launched": "2012-01-18",
+    "closed": "2022-09-01"
+  },
+  {
     "id": "Hunedoara1.ro",
     "name": "Hunedoara 1",
     "alt_names": [],
@@ -2567,6 +2686,42 @@
     "closed": null
   },
   {
+    "id": "MusicChannel.ro",
+    "name": "Music Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RCS and RDS"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/nadVCxM.png",
+    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MusicChannel.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "music-channel",
+      "site_name": "Music Channel",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://1music.ro/",
+    "launched": "2008-05-28",
+    "closed": null
+  },
+  {
     "id": "NasulTV.ro",
     "name": "Nasul TV",
     "alt_names": [
@@ -3123,6 +3278,44 @@
     "closed": null
   },
   {
+    "id": "ProArena.ro",
+    "name": "Pro Arena",
+    "alt_names": [
+      "Pro X",
+      "Sport.ro",
+      "TV Sport"
+    ],
+    "network": "Pro TV",
+    "owners": [
+      "Pro TV SRL"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KQmB9Cc.png",
+    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=0",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ProArena.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "pro-arena-hd",
+      "site_name": "Pro Arena HD",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.proarena.ro/",
+    "launched": "2003-07-27",
+    "closed": null
+  },
+  {
     "id": "ProCinema.ro",
     "name": "Pro Cinema",
     "alt_names": [],
@@ -3180,6 +3373,42 @@
     "stream_quality": "576i",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ProCinema.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "pro-cinema-hd",
+      "site_name": "Pro Cinema HD",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://procinema.protv.ro/",
+    "launched": "2004-04-19",
+    "closed": null
+  },
+  {
+    "id": "ProCinema.ro",
+    "name": "Pro Cinema",
+    "alt_names": [],
+    "network": "Pro TV",
+    "owners": [
+      "Pro TV SRL"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TvHFGwZ.png",
+    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "ProCinema.ro",
@@ -3552,6 +3781,30 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.radiomures.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RapsodiaTV.ro",
+    "name": "Rapsodia TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/mwMG7BB.png",
+    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-rapsodia-tv/live_hq?offsetSeconds=0",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.rapsodiatv.ro/",
     "launched": null,
     "closed": null
   },

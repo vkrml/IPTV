@@ -1,5 +1,39 @@
 [
   {
+    "id": "4FunDance.pl",
+    "name": "4 Fun Dance",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ZEWHe1B.png",
+    "stream_url": "http://92.114.85.87:8018/play/a00k/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "4FunDance.pl",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#4fun-dance",
+      "site_name": "4Fun Dance",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "https://4fun.tv/dance",
+    "launched": "2004-02-14",
+    "closed": null
+  },
+  {
     "id": "4FunKids.pl",
     "name": "4 Fun Kids",
     "alt_names": [],
@@ -255,6 +289,44 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BelsatTV.pl",
+    "name": "Belsat TV",
+    "alt_names": [
+      "Белсат TV"
+    ],
+    "network": null,
+    "owners": [
+      "Telewizja Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/qJyjSR6.png",
+    "stream_url": "https://racitonsen.s.gy/BELSAT",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Enigma2",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BelsatTV.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "belsat-tv-289",
+      "site_name": "Belsat TV",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://belsat.eu/",
+    "launched": "2007-12-10",
     "closed": null
   },
   {
@@ -593,6 +665,42 @@
     "closed": null
   },
   {
+    "id": "CBeebies.pl",
+    "name": "CBeebies",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BBC"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
+    "stream_url": "http://92.114.85.87:8017/play/a004/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CBeebies.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "bbc-cbeebies-2",
+      "site_name": "BBC CBeebies",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://www.bbcpolska.com/channels/cbeebies/",
+    "launched": "2007-12-02",
+    "closed": null
+  },
+  {
     "id": "ComedyCentral.pl",
     "name": "Comedy Central",
     "alt_names": [],
@@ -716,6 +824,40 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ZZbuTv7.png",
     "stream_url": "http://185.227.34.179:8080/disco-polo-music/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DiscoPoloMusic.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "disco-polo-music-191",
+      "site_name": "Disco Polo Music",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://www.discopolomusic.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DiscoPoloMusic.pl",
+    "name": "Disco Polo Music",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ZZbuTv7.png",
+    "stream_url": "http://92.114.85.87:8014/play/a007/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -970,6 +1112,117 @@
       "site": "programtv.onet.pl",
       "site_id": "hip-hop-tv-511",
       "site_name": "Eska Rock TV",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://www.eska.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "EskaRockTV.pl",
+    "name": "Eska Rock TV",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/o0Fg19Q.png",
+    "stream_url": "http://92.114.85.87:8016/play/a005/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EskaRockTV.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "hip-hop-tv-511",
+      "site_name": "Eska Rock TV",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://www.eska.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "EskaTV.pl",
+    "name": "Eska TV",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/N0eH0Cg.png",
+    "stream_url": "http://92.114.85.87:8018/play/a00h/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EskaTV.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "eska-tv-114",
+      "site_name": "Eska TV",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://www.eska.tv/",
+    "launched": "2008-08-08",
+    "closed": null
+  },
+  {
+    "id": "EskaTVExtra.pl",
+    "name": "Eska TV Extra",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/pZAFshQ.png",
+    "stream_url": "http://92.114.85.87:8016/play/a008/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EskaTVExtra.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "eska-tv-extra-597",
+      "site_name": "Eska TV Extra",
       "lang": "pl",
       "sources": []
     },
@@ -2087,6 +2340,43 @@
     "closed": null
   },
   {
+    "id": "FokusTV.pl",
+    "name": "Fokus TV",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/emWWd5k.png",
+    "stream_url": "http://92.114.85.87:8018/play/a00i/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FokusTV.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "fokus-tv-46",
+      "site_name": "Fokus TV",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://www.fokus.tv/",
+    "launched": "2014-04-28",
+    "closed": null
+  },
+  {
     "id": "Fox.pl",
     "name": "Fox",
     "alt_names": [],
@@ -2630,6 +2920,73 @@
     "closed": null
   },
   {
+    "id": "NutaGold.pl",
+    "name": "Nuta Gold",
+    "alt_names": [
+      "Nuta Gold TV"
+    ],
+    "network": null,
+    "owners": [
+      "MWE Networks"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle",
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/BEs160o.png",
+    "stream_url": "http://92.114.85.87:8010/play/a00i/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.totv.com.pl/",
+    "launched": "2022-05-01",
+    "closed": null
+  },
+  {
+    "id": "NutaTV.pl",
+    "name": "Nuta TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "MWE Networks"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/JHFUxDu.png",
+    "stream_url": "http://92.114.85.87:8010/play/a00j/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NutaTV.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "nuta-tv-214",
+      "site_name": "Nuta.TV",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://nuta.tv/",
+    "launched": "2015-09-01",
+    "closed": null
+  },
+  {
     "id": "PixelTV.pl",
     "name": "Pixel TV",
     "alt_names": [],
@@ -2861,6 +3218,40 @@
     "closed": null
   },
   {
+    "id": "PolsatMusic.pl",
+    "name": "Polsat Music",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/uXygf1l.png",
+    "stream_url": "http://92.114.85.87:8001/play/a00z/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatMusic.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-music-564",
+      "site_name": "Polsat Music",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://www.polsatmusic.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PolsatNews2.pl",
     "name": "Polsat News 2",
     "alt_names": [],
@@ -3062,6 +3453,142 @@
     "closed": null
   },
   {
+    "id": "PolsatSportFight.pl",
+    "name": "Polsat Sport Fight",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/8x1FV3o.png",
+    "stream_url": "http://92.114.85.87:8016/play/a00b/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatSportFight.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-sport-fight-546",
+      "site_name": "Polsat Sport Fight",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://www.polsatsport.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PolsatSportPremium1.pl",
+    "name": "Polsat Sport Premium 1",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/hy1SKE0.png",
+    "stream_url": "https://racitonsen.s.gy/PSP1_SHD",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Enigma2",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatSportPremium1.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-sport-premium-1-643",
+      "site_name": "Polsat Sport Premium 1",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://www.polsatsport.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PolsatSportPremium2.pl",
+    "name": "Polsat Sport Premium 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/myyWeXY.png",
+    "stream_url": "https://racitonsen.s.gy/PSP2_SHD",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Enigma2",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatSportPremium2.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-sport-premium-2-644",
+      "site_name": "Polsat Sport Premium 2",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://www.polsatsport.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PolsatViasatExplore.pl",
+    "name": "Polsat Viasat Explore",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/gDlqO9h.png",
+    "stream_url": "http://92.114.85.87:8014/play/a00g/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatViasatExplore.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-viasat-explore-hd-82",
+      "site_name": "Polsat Viasat Explore HD",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://viasatexplore.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PolsatViasatHistory.pl",
     "name": "Polsat Viasat History",
     "alt_names": [],
@@ -3093,6 +3620,40 @@
     },
     "website": "https://viasathistory.pl/",
     "launched": "2004-09-01",
+    "closed": null
+  },
+  {
+    "id": "PolsatViasatNature.pl",
+    "name": "Polsat Viasat Nature",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TUcM0oS.png",
+    "stream_url": "http://92.114.85.87:8016/play/a004/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatViasatNature.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-viasat-nature-413",
+      "site_name": "Polsat Viasat Nature HD",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://viasatnature.pl/",
+    "launched": null,
     "closed": null
   },
   {
@@ -3386,6 +3947,43 @@
     },
     "website": "https://stopklatka.pl/",
     "launched": "2014-03-15",
+    "closed": null
+  },
+  {
+    "id": "SuperPolsat.pl",
+    "name": "Super Polsat",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6KXJRHc.png",
+    "stream_url": "http://92.114.85.87:8004/play/a00c/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SuperPolsat.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "super-polsat-541",
+      "site_name": "Super Polsat",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
     "closed": null
   },
   {
@@ -3964,6 +4562,30 @@
     "closed": null
   },
   {
+    "id": "TVCSuper.pl",
+    "name": "TVC Super",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://radiopolska.pl/files/thumb/32049b3594ccdd5/300",
+    "stream_url": "http://92.114.85.87:8010/play/a00n/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVKStella.pl",
     "name": "TVK Stella",
     "alt_names": [
@@ -4045,40 +4667,6 @@
       "sources": []
     },
     "website": "https://www.tvokazje.pl/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVP1.pl",
-    "name": "TVP1",
-    "alt_names": [],
-    "network": "TVP",
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ewpSjBs.png",
-    "stream_url": "https://cdn-s-lb2.pluscdn.pl/ch/1565219/2356/dash/312c7bf8/live.mpd",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVP1.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-1-321",
-      "site_name": "TVP 1",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "https://tvp1.tvp.pl/",
     "launched": null,
     "closed": null
   },
@@ -4234,6 +4822,40 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/gXA7pai.png",
+    "stream_url": "https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVPuls.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tv-puls-332",
+      "site_name": "TV Puls",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://tvpuls.pl/",
+    "launched": "1995-12-01",
+    "closed": null
+  },
+  {
+    "id": "TVPuls.pl",
+    "name": "TV Puls",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Telewizja Puls"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/gXA7pai.png",
     "stream_url": "https://lowa8026-cmyk.github.io/PL/PULSHD.php.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -4351,6 +4973,38 @@
       "sources": []
     },
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVRepublika.pl",
+    "name": "TV Republika",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ljpK6dZ.png",
+    "stream_url": "http://92.114.85.87:8018/play/a008/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVRepublika.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tv-republika-18",
+      "site_name": "TV Republika",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://telewizjarepublika.pl/",
     "launched": null,
     "closed": null
   },
@@ -4559,6 +5213,43 @@
     "referrer": "http://live.tvstitch.com/",
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VOXMusicTV.pl",
+    "name": "VOX Music TV",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/N993msF.png",
+    "stream_url": "http://92.114.85.87:8016/play/a00a/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "VOXMusicTV.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "vox-music-tv-193",
+      "site_name": "VOX Music TV",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://www.voxmusic.tv",
     "launched": null,
     "closed": null
   },

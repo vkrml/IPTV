@@ -279,42 +279,6 @@
     "closed": null
   },
   {
-    "id": "AzCinema.mx",
-    "name": "Az Cinema",
-    "alt_names": [
-      "Cinema"
-    ],
-    "network": "TV Azteca Internacional",
-    "owners": [],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/B5UN7C8.png",
-    "stream_url": "https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AzCinema.mx",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "cl#az-cinema",
-      "site_name": "Az Cinema",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.tvazteca.com/tvpaga/notas/cinema",
-    "launched": "2015-05-05",
-    "closed": null
-  },
-  {
     "id": "AzClic.mx",
     "name": "Az Clic",
     "alt_names": [
@@ -618,42 +582,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png",
     "stream_url": "http://167.249.23.102:8000/play/a0a3/index.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AztecaInternacional.mx",
-      "feed": "SD",
-      "site": "watch.whaletvplus.com",
-      "site_id": "877391518380856035",
-      "site_name": "Azteca Internacional",
-      "lang": "es",
-      "sources": []
-    },
-    "website": null,
-    "launched": "2007-06-01",
-    "closed": null
-  },
-  {
-    "id": "AztecaInternacional.mx",
-    "name": "Azteca Internacional",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "TV Azteca"
-    ],
-    "country_code": "MX",
-    "country_name": "Mexico",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png",
-    "stream_url": "https://jmp2.uk/plu-646cce4d1593940008a33f09.m3u8",
-    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -2124,6 +2052,42 @@
     "closed": null
   },
   {
+    "id": "ClaroCinema.mx",
+    "name": "Claro Cinema",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "America Movil"
+    ],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/SOLGQxQ.jpg",
+    "stream_url": "http://45.171.64.30:6060/play/a039/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ClaroCinema.mx",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "985",
+      "site_name": "CLARO CINEMA",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.claro.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ClaroSports.mx",
     "name": "Claro Sports",
     "alt_names": [],
@@ -2142,6 +2106,42 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/n0kd17r.png",
     "stream_url": "http://168.196.127.137:6001/play/a08r/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ClaroSports.mx",
+      "feed": "SD",
+      "site": "programacion.tcc.com.uy",
+      "site_id": "265",
+      "site_name": "Claro Sports HD",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.marca.com/claro-mx/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ClaroSports.mx",
+    "name": "Claro Sports",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "America Movil"
+    ],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/n0kd17r.png",
+    "stream_url": "http://45.171.64.30:6060/play/a00w/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

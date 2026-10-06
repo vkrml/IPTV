@@ -1349,6 +1349,78 @@
     "closed": null
   },
   {
+    "id": "CanalPlus.fr",
+    "name": "Canal+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vivendi"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5HcyMnW.png",
+    "stream_url": "http://tv.streambox.fr/live/testlivestream/testlivestream/41.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalPlus.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "82484954/canal",
+      "site_name": "Canal+",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.canalplus.com/",
+    "launched": "1984-11-04",
+    "closed": null
+  },
+  {
+    "id": "CanalPlus.fr",
+    "name": "Canal+",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vivendi"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5HcyMnW.png",
+    "stream_url": "http://151.80.18.177:86/Canal+_HD/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalPlus.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "82484954/canal",
+      "site_name": "Canal+",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.canalplus.com/",
+    "launched": "1984-11-04",
+    "closed": null
+  },
+  {
     "id": "CanalPlusCinemas.fr",
     "name": "Canal+ Cinemas",
     "alt_names": [
@@ -3230,45 +3302,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://a.jsrdn.com/hls/22886/euronews-spa/extras/1080_logo.png",
-    "stream_url": "https://cdn1tlinkgo.tlink.cl/euronews/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "EuronewsSpanish.fr",
-      "feed": "SD",
-      "site": "watch.whaletvplus.com",
-      "site_id": "756063841859148746",
-      "site_name": "euronews español",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://es.euronews.com/",
-    "launched": "1993-01-01",
-    "closed": null
-  },
-  {
-    "id": "EuronewsSpanish.fr",
-    "name": "Euronews Spanish",
-    "alt_names": [
-      "euronews en español",
-      "euronews español"
-    ],
-    "network": "Euronews",
-    "owners": [
-      "Euronews SA"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://a.jsrdn.com/hls/22886/euronews-spa/extras/1080_logo.png",
     "stream_url": "https://iptv.bitred.cl/euronews/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -3324,6 +3357,34 @@
     },
     "website": "https://es.euronews.com/",
     "launched": "1993-01-01",
+    "closed": null
+  },
+  {
+    "id": "Europe1TV.fr",
+    "name": "Europe 1 TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Lagardère Radios"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/rGqB5FcH/Europe1-TV.png",
+    "stream_url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.europe1.fr/",
+    "launched": "2025-12-08",
     "closed": null
   },
   {
@@ -5349,6 +5410,42 @@
     "closed": null
   },
   {
+    "id": "Franceinfo.fr",
+    "name": "Franceinfo",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "France Télévisions"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/eITXz6A.png",
+    "stream_url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Franceinfo.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "70827378/franceinfo",
+      "site_name": "Franceinfo",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.francetvinfo.fr/",
+    "launched": "2016-09-01",
+    "closed": null
+  },
+  {
     "id": "Francophonie24.fr",
     "name": "Francophonie24",
     "alt_names": [],
@@ -5834,6 +5931,44 @@
     },
     "website": "https://www.lci.fr/",
     "launched": "1994-06-24",
+    "closed": null
+  },
+  {
+    "id": "LCP.fr",
+    "name": "LCP",
+    "alt_names": [
+      "La Chaîne parlementaire",
+      "Canal Assemblées",
+      "Canal Assemblée nationale"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "legislative"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/k7UImOJ.png",
+    "stream_url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8",
+    "stream_quality": "477p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "LCP.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "82514953/lcp",
+      "site_name": "LCP",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "http://www.lcp.fr/",
+    "launched": "1999-12-30",
     "closed": null
   },
   {
@@ -6608,6 +6743,45 @@
     },
     "website": "https://www.nickelodeonjunior.fr/",
     "launched": "2010-01-26",
+    "closed": null
+  },
+  {
+    "id": "Nicktoons.fr",
+    "name": "Nicktoons",
+    "alt_names": [
+      "Nickelodeon Teen",
+      "Nickelodéon Teen"
+    ],
+    "network": "Nickelodeon",
+    "owners": [
+      "Paramount Networks EMEAA"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OWRUPA4.png",
+    "stream_url": "http://193.254.245.162/NICKELODEON/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Nicktoons.fr",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "1767",
+      "site_name": "Nicktoons F",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "http://www.nickelodeon.fr/",
+    "launched": "2014-11-19",
     "closed": null
   },
   {
@@ -11554,6 +11728,42 @@
     "logo": "https://i.imgur.com/reYeMuE.png",
     "stream_url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd720.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "W9.fr",
+      "feed": "SD",
+      "site": "tvcesoir.fr",
+      "site_id": "82515050/w9",
+      "site_name": "W9",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.6play.fr/w9",
+    "launched": "2005-03-31",
+    "closed": null
+  },
+  {
+    "id": "W9.fr",
+    "name": "W9",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Bertelsmann"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/reYeMuE.png",
+    "stream_url": "http://5.180.164.197:8080/W9/index.m3u8",
+    "stream_quality": "1086p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

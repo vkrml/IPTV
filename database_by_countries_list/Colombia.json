@@ -580,6 +580,52 @@
     "closed": null
   },
   {
+    "id": "Canal1.co",
+    "name": "Canal 1",
+    "alt_names": [
+      "Canal Uno",
+      "Inravisión Cadena Uno",
+      "Inravisión Cadena 1",
+      "Inravisión Primera Cadena Color",
+      "Inravisión Primera Cadena",
+      "Inravisión Canal Nacional",
+      "Televisora Nacional de Colombia",
+      "HJTV-2",
+      "HJRN-TV"
+    ],
+    "network": null,
+    "owners": [
+      "Government of Colombia"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/MiYlN0t.png",
+    "stream_url": "http://200.122.223.13:55000/play/canal-1-tdt/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Canal1.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "401",
+      "site_name": "CANAL 1",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://canal1.com.co/",
+    "launched": "1954-06-13",
+    "closed": null
+  },
+  {
     "id": "Canal2AlpavisionNeiva.co",
     "name": "Canal 2 Alpavision Neiva",
     "alt_names": [
@@ -829,6 +875,42 @@
     "logo": "https://i.imgur.com/zAYtbYi.png",
     "stream_url": "http://190.61.47.54:8000/play/a00x/index.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalCapital.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "393",
+      "site_name": "CANAL CAPITAL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.canalcapital.gov.co/",
+    "launched": "1997-11-03",
+    "closed": null
+  },
+  {
+    "id": "CanalCapital.co",
+    "name": "Canal Capital",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Capital Sistema de Comunicación Pública de Bogotá"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/zAYtbYi.png",
+    "stream_url": "http://200.122.223.13:55000/play/canal-capital-banda-ku/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1172,6 +1254,47 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/CKnf3Ua.png",
     "stream_url": "http://190.109.2.92:8000/play/a00z/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalInstitucional.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "398",
+      "site_name": "CANAL INSTITUCIONAL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.canalinstitucional.tv/",
+    "launched": "2004-02-02",
+    "closed": null
+  },
+  {
+    "id": "CanalInstitucional.co",
+    "name": "Canal Institucional",
+    "alt_names": [
+      "CITV Canal Institucional",
+      "Señal Institucional",
+      "Institucional",
+      "Señal Colombia Institucional"
+    ],
+    "network": null,
+    "owners": [
+      "Government of Colombia"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CKnf3Ua.png",
+    "stream_url": "http://200.122.223.13:55000/play/canal-institucional-tdt/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -1850,6 +1973,44 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/5PhTaHp.png",
     "stream_url": "http://190.109.2.92:8000/play/a00w/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CanalRCN.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "399",
+      "site_name": "CANAL RCN",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.canalrcn.com/",
+    "launched": "1998-07-10",
+    "closed": null
+  },
+  {
+    "id": "CanalRCN.co",
+    "name": "Canal RCN",
+    "alt_names": [
+      "RCN Televisión"
+    ],
+    "network": "RCN Televisión",
+    "owners": [
+      "Organización Ardila Lülle"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5PhTaHp.png",
+    "stream_url": "http://200.122.223.13:55000/play/rcn-hd-tdt/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -3248,6 +3409,42 @@
     "closed": null
   },
   {
+    "id": "CaracolTV.co",
+    "name": "Caracol TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Caracol Televisión S.A."
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/WbfdJbk.png",
+    "stream_url": "http://200.122.223.13:55000/play/caracol-tv-hd-tdt/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CaracolTV.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "394",
+      "site_name": "CANAL CARACOL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.caracoltv.com/",
+    "launched": "1998-07-10",
+    "closed": null
+  },
+  {
     "id": "CitytvBogota.co",
     "name": "Citytv Bogota",
     "alt_names": [
@@ -3344,6 +3541,44 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/h7K9EW9.png",
     "stream_url": "http://168.228.44.241:9999/play/a04v/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CitytvBogota.co",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "pe#citytv",
+      "site_name": "Citytv",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.citytv.com.co/",
+    "launched": "1999-03-19",
+    "closed": null
+  },
+  {
+    "id": "CitytvBogota.co",
+    "name": "Citytv Bogota",
+    "alt_names": [
+      "Citytv Bogotá"
+    ],
+    "network": "Citytv",
+    "owners": [
+      "El Tiempo Casa Editorial"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/h7K9EW9.png",
+    "stream_url": "http://200.122.223.13:55000/play/city-tv-banda-ku/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -3832,6 +4067,44 @@
     "closed": null
   },
   {
+    "id": "Cristovision.co",
+    "name": "Cristovision",
+    "alt_names": [
+      "Cristovisión"
+    ],
+    "network": null,
+    "owners": [
+      "Fundación Cristovisión"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/XIhCUY9.png",
+    "stream_url": "http://200.122.223.13:55000/play/cristovision-ses-6/index.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Cristovision.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "418",
+      "site_name": "CRISTOVISION",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://cristovision.tv/",
+    "launched": "2008-11-13",
+    "closed": null
+  },
+  {
     "id": "Eduvision.co",
     "name": "Eduvision",
     "alt_names": [
@@ -4097,6 +4370,34 @@
     "logo": "https://www.tdtparatodos.tv/sites/default/files/la_kalle.png",
     "stream_url": "https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://lakalle.bluradio.com/",
+    "launched": "2016-10-29",
+    "closed": null
+  },
+  {
+    "id": "LaKalle.co",
+    "name": "La Kalle",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Caracol Televisión S.A."
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.tdtparatodos.tv/sites/default/files/la_kalle.png",
+    "stream_url": "http://200.122.223.13:55000/play/la-kalle-tdt/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -4955,6 +5256,34 @@
     "closed": null
   },
   {
+    "id": "RaizalTV.co",
+    "name": "Raizal TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Televisión Regional de Islas y Providencia"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/qWNSxq8.png",
+    "stream_url": "http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://teleislas.gov.co/",
+    "launched": "2022-07-08",
+    "closed": null
+  },
+  {
     "id": "RCNHD2.co",
     "name": "RCN HD2",
     "alt_names": [],
@@ -5705,6 +6034,44 @@
     "closed": null
   },
   {
+    "id": "SenalColombia.co",
+    "name": "Senal Colombia",
+    "alt_names": [
+      "Señal Colombia"
+    ],
+    "network": "RTVC Sistema de Medios Públicos",
+    "owners": [
+      "Government of Colombia"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Y9x16vl.png",
+    "stream_url": "http://200.122.223.13:55000/play/senal-colombia-tdt/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SenalColombia.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "570",
+      "site_name": "SENAL COLOMBIA",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.senalcolombia.tv/",
+    "launched": "1970-02-09",
+    "closed": null
+  },
+  {
     "id": "SoonaTV.co",
     "name": "Soona TV",
     "alt_names": [],
@@ -5870,6 +6237,42 @@
     "stream_quality": "480p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TeleAmiga.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "579",
+      "site_name": "TELEAMIGA",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://teleamiga.tv/",
+    "launched": "2001-12-12",
+    "closed": null
+  },
+  {
+    "id": "TeleAmiga.co",
+    "name": "Tele Amiga",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Universidad La Gran Colombia"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "culture"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/gBZFZNv.png",
+    "stream_url": "http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "TeleAmiga.co",
@@ -7067,6 +7470,42 @@
     "closed": null
   },
   {
+    "id": "TeleVid.co",
+    "name": "Tele Vid",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Fundación Organización VID"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/kVHJU5V.png",
+    "stream_url": "http://200.122.223.13:55000/play/a01n/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TeleVid.co",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "co#televid-hd",
+      "site_name": "Tele Vid HD",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://televid.tv/",
+    "launched": "2000-10-26",
+    "closed": null
+  },
+  {
     "id": "TeveColombia.co",
     "name": "TeveColombia",
     "alt_names": [],
@@ -7746,6 +8185,44 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/euy5zp6.png",
     "stream_url": "http://190.217.66.92:8000/play/a0ej/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Zoom.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "611",
+      "site_name": "ZOOM TV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.zoomcanal.com.co/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Zoom.co",
+    "name": "Zoom",
+    "alt_names": [
+      "Canal Universitario de Colombia"
+    ],
+    "network": null,
+    "owners": [
+      "Asociación Colombiana de Universidades"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/euy5zp6.png",
+    "stream_url": "http://200.122.223.13:55000/play/zoom-banda-ku/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

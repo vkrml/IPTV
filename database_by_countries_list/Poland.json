@@ -697,6 +697,42 @@
     "closed": null
   },
   {
+    "id": "CBeebies.pl",
+    "name": "CBeebies",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "BBC"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
+    "stream_url": "https://gist.githubusercontent.com/xykt-fix/e01ce187bbad74d0a0c5a86e0fc1b885/raw/eb00491161b819c2321733e929a27aeb2972b416/cbeeb-stream.m3u8",
+    "stream_quality": "360p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CBeebies.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "bbc-cbeebies-2",
+      "site_name": "BBC CBeebies",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://www.bbcpolska.com/channels/cbeebies/",
+    "launched": "2007-12-02",
+    "closed": null
+  },
+  {
     "id": "ComedyCentral.pl",
     "name": "Comedy Central",
     "alt_names": [],
@@ -2268,6 +2304,36 @@
     },
     "website": "http://www.foxtv.pl/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "GolfZone.pl",
+    "name": "Golf Zone",
+    "alt_names": [
+      "Golf Channel Polska"
+    ],
+    "network": null,
+    "owners": [
+      "MWE Networks"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/ZR8cRj8d/Golf-Zone.png",
+    "stream_url": "http://57.128.231.171:8080/248/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://mwenetworks.pl/",
+    "launched": "2017-03-18",
     "closed": null
   },
   {

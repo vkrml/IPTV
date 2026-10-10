@@ -3938,6 +3938,42 @@
     "closed": null
   },
   {
+    "id": "ESPNPremium.ar",
+    "name": "ESPN Premium",
+    "alt_names": [
+      "Fox Sports Premium Argentina"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png",
+    "stream_url": "http://190.128.214.97:64333/play/a02i/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ESPNPremium.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#fox-sports-premium",
+      "site_name": "FOX Sports Premium",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://espn.com.ar/",
+    "launched": "2017-08-21",
+    "closed": null
+  },
+  {
     "id": "EuropaEuropa.ar",
     "name": "Europa Europa",
     "alt_names": [],
@@ -4866,6 +4902,42 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/GJbRWwH.png",
     "stream_url": "http://190.128.214.97:64333/play/a02r/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Pakapaka.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#pakapaka",
+      "site_name": "Pakapaka",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.pakapaka.gob.ar/",
+    "launched": "2010-09-17",
+    "closed": null
+  },
+  {
+    "id": "Pakapaka.ar",
+    "name": "Pakapaka",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Ministry of Education of Argentina"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/GJbRWwH.png",
+    "stream_url": "http://138.59.227.20:8000/play/a05t/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -6348,78 +6420,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
-    "stream_url": "https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TyCSports.ar",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "16275",
-      "site_name": "TyC Sports",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.tycsports.com/",
-    "launched": "1994-01-01",
-    "closed": null
-  },
-  {
-    "id": "TyCSports.ar",
-    "name": "TyC Sports",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Torneos Clarin Group"
-    ],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
-    "stream_url": "http://45.181.87.106/TYCSPORTSHD/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TyCSports.ar",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "16275",
-      "site_name": "TyC Sports",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.tycsports.com/",
-    "launched": "1994-01-01",
-    "closed": null
-  },
-  {
-    "id": "TyCSports.ar",
-    "name": "TyC Sports",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Torneos Clarin Group"
-    ],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
     "stream_url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -6456,46 +6456,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
-    "stream_url": "http://38.44.109.41:8003/play/a02l/index.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8",
+    "stream_quality": null,
     "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TyCSports.ar",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "16275",
-      "site_name": "TyC Sports",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.tycsports.com/",
-    "launched": "1994-01-01",
-    "closed": null
-  },
-  {
-    "id": "TyCSports.ar",
-    "name": "TyC Sports",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Torneos Clarin Group"
-    ],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
-    "stream_url": "http://168.228.44.241:9999/play/a02e/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "TyCSports.ar",

@@ -4488,36 +4488,6 @@
     "closed": null
   },
   {
-    "id": "Alhurra.us",
-    "name": "Alhurra",
-    "alt_names": [
-      "الحرة"
-    ],
-    "network": null,
-    "owners": [
-      "Middle East Broadcasting Network"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/tiQp2sR.png",
-    "stream_url": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.alhurra.com/",
-    "launched": "2004-02-14",
-    "closed": null
-  },
-  {
     "id": "AlientoVision.us",
     "name": "Aliento Vision",
     "alt_names": [],
@@ -6678,6 +6648,42 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
     "stream_url": "http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AnimalPlanetLatinAmerica.us",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "382",
+      "site_name": "ANIMAL PLANET",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.animalplanetlatino.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AnimalPlanetLatinAmerica.us",
+    "name": "Animal Planet Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+    "stream_url": "http://190.128.214.97:64333/play/a01n/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -18597,6 +18603,42 @@
     "closed": null
   },
   {
+    "id": "Cinecanal.us",
+    "name": "Cinecanal",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "The Walt Disney Company Latin America"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
+    "stream_url": "https://barinaslive1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Cinecanal.us",
+      "feed": "Pacific",
+      "site": "siba.com.co",
+      "site_id": "407",
+      "site_name": "CINECANAL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://foxplay.com/ar/brandingchannel/98d445b15e5f4d3ab92fdc1e84bbc45e",
+    "launched": "1993-04-01",
+    "closed": null
+  },
+  {
     "id": "Cineenespanol.us",
     "name": "Cine en espanol",
     "alt_names": [
@@ -18823,6 +18865,42 @@
     "logo": "https://i.imgur.com/cZWoJWD.png",
     "stream_url": "http://38.65.175.84:8000/play/a093/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CinemaxLatinAmerica.us",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "839",
+      "site_name": "CINEMAX",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.cinemax.tv/",
+    "launched": "1993-09-05",
+    "closed": null
+  },
+  {
+    "id": "CinemaxLatinAmerica.us",
+    "name": "Cinemax Latin America",
+    "alt_names": [],
+    "network": "HBO",
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/cZWoJWD.png",
+    "stream_url": "https://streaming.onnethn.com/CINEMAX/playlist.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -20600,6 +20678,80 @@
     },
     "website": "https://www.cnbc.com/",
     "launched": "1989-04-17",
+    "closed": null
+  },
+  {
+    "id": "CNN.us",
+    "name": "CNN",
+    "alt_names": [],
+    "network": "Cable News Network",
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png",
+    "stream_url": "https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CNN.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "58646",
+      "site_name": "CNN",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.cnn.com/",
+    "launched": "1980-06-01",
+    "closed": null
+  },
+  {
+    "id": "CNNenEspanol.us",
+    "name": "CNN en Espanol",
+    "alt_names": [
+      "CNN en Español"
+    ],
+    "network": "Cable News Network",
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",
+    "stream_url": "https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CNNenEspanol.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "58631",
+      "site_name": "CNN en Español",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://cnnespanol.cnn.com/",
+    "launched": "1997-03-19",
     "closed": null
   },
   {
@@ -25295,6 +25447,112 @@
     "closed": null
   },
   {
+    "id": "DiscoveryKidsLatinAmerica.us",
+    "name": "Discovery Kids Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "http://181.224.200.5:2277/play/a00o/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DiscoveryKidsLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "427",
+      "site_name": "DISCOVERY KIDS",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.discoverykidsplus.com/",
+    "launched": "1996-11-01",
+    "closed": null
+  },
+  {
+    "id": "DiscoveryScienceLatinAmerica.us",
+    "name": "Discovery Science Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Warner Bros. Discovery Americas"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "science"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png",
+    "stream_url": "http://45.171.64.30:6060/play/a007/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DiscoveryScienceLatinAmerica.us",
+      "feed": "SD",
+      "site": "reportv.com.ar",
+      "site_id": "493",
+      "site_name": "DISCOVERY SCIENCE",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.latamwbd.com/index/pt",
+    "launched": "2005-02-01",
+    "closed": null
+  },
+  {
+    "id": "DiscoveryTheaterLatinAmerica.us",
+    "name": "Discovery Theater Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/AqR0Jkn.png",
+    "stream_url": "http://181.224.200.5:2277/play/a0bj/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DiscoveryTheaterLatinAmerica.us",
+      "feed": "SD",
+      "site": "reportv.com.ar",
+      "site_id": "1181",
+      "site_name": "DISCOVERY HD THEATER",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.latam.discovery.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "DiscoveryTurbo.us",
     "name": "Discovery Turbo",
     "alt_names": [],
@@ -25323,6 +25581,42 @@
     "closed": null
   },
   {
+    "id": "DiscoveryTurboLatinAmerica.us",
+    "name": "Discovery Turbo Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "auto"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/1pQPxu3.png",
+    "stream_url": "http://38.134.250.110:8000/play/a01y/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DiscoveryTurboLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "429",
+      "site_name": "DISCOVERY TURBO",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.tudiscovery.com/turbo",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "DiscoveryWorld.us",
     "name": "Discovery World",
     "alt_names": [
@@ -25344,6 +25638,44 @@
     "logo": "https://i.imgur.com/yNFmUkE.png",
     "stream_url": "http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DiscoveryWorld.us",
+      "feed": "Brazil",
+      "site": "mi.tv",
+      "site_id": "br#discovery-world-hd",
+      "site_name": "Discovery World",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "http://www.latam.discovery.com/",
+    "launched": "2015-03-16",
+    "closed": null
+  },
+  {
+    "id": "DiscoveryWorld.us",
+    "name": "Discovery World",
+    "alt_names": [
+      "Discovery Civilisation Channel"
+    ],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/yNFmUkE.png",
+    "stream_url": "http://168.196.127.137:6001/play/a097/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -28778,6 +29110,35 @@
     "closed": null
   },
   {
+    "id": "ESPNExtraLatinAmerica.us",
+    "name": "ESPN Extra Latin America",
+    "alt_names": [
+      "ESPN Extra Norte",
+      "ESPN Extra Sur"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/8P8N2Ov.png",
+    "stream_url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://espn.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ESPNU.us",
     "name": "ESPNU",
     "alt_names": [],
@@ -32156,6 +32517,42 @@
     "closed": null
   },
   {
+    "id": "FoodNetworkLatinAmerica.us",
+    "name": "Food Network Latin America",
+    "alt_names": [],
+    "network": "Food Network",
+    "owners": [
+      "Warner Bros. Discovery Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "cooking"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",
+    "stream_url": "http://168.196.127.137:6001/play/a09v/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FoodNetworkLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "991",
+      "site_name": "FOOD NETWORK",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.tudiscovery.com/foodnetwork",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ForensicFiles.us",
     "name": "Forensic Files",
     "alt_names": [],
@@ -34732,6 +35129,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+    "stream_url": "https://barinaslive1.boldmss.com/FX/FX.isml/FX.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FXLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "mi.tv",
+      "site_id": "co#fx-hd",
+      "site_name": "FX HD",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.canalfx.tv/",
+    "launched": "2005-05-01",
+    "closed": null
+  },
+  {
+    "id": "FXLatinAmerica.us",
+    "name": "FX Latin America",
+    "alt_names": [],
+    "network": "FX Channels",
+    "owners": [
+      "The Walt Disney Company Latin America"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
     "stream_url": "http://72.1.184.5:8089/play/a05i/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -37200,6 +37633,116 @@
     "closed": null
   },
   {
+    "id": "HBO2LatinAmerica.us",
+    "name": "HBO 2 Latin America",
+    "alt_names": [],
+    "network": "HBO",
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png",
+    "stream_url": "http://45.171.64.30:6060/play/a00i/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HBO2LatinAmerica.us",
+      "feed": "SD",
+      "site": "reportv.com.ar",
+      "site_id": "2127",
+      "site_name": "HBO 2",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.hbolatam.com/",
+    "launched": "2010-06-01",
+    "closed": null
+  },
+  {
+    "id": "HBO2LatinAmerica.us",
+    "name": "HBO 2 Latin America",
+    "alt_names": [],
+    "network": "HBO",
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png",
+    "stream_url": "http://38.65.175.84:8000/play/a0ct/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HBO2LatinAmerica.us",
+      "feed": "SD",
+      "site": "reportv.com.ar",
+      "site_id": "2127",
+      "site_name": "HBO 2",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.hbolatam.com/",
+    "launched": "2010-06-01",
+    "closed": null
+  },
+  {
+    "id": "HBOFamilyLatinAmerica.us",
+    "name": "HBO Family Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "family"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png",
+    "stream_url": "http://45.171.64.30:6060/play/a00k/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HBOFamilyLatinAmerica.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "32933",
+      "site_name": "HBO Family Latinoamérica",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.hbolatam.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "HBOLatinAmerica.us",
     "name": "HBO Latin America",
     "alt_names": [],
@@ -37990,6 +38533,42 @@
     "tv_guide": null,
     "website": "https://pluto.tv/live-tv/hey-arnold/details",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HGTVLatinAmerica.us",
+    "name": "HGTV Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Warner Bros. Discovery Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png",
+    "stream_url": "http://38.87.224.19:2220/play/a01p/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HGTVLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "tv2go.t-2.net",
+      "site_id": "1000730",
+      "site_name": "HGTV",
+      "lang": "sl",
+      "sources": []
+    },
+    "website": "http://www.hgtv.com/",
+    "launched": "2019-03-01",
     "closed": null
   },
   {
@@ -39911,6 +40490,78 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.houstontx.gov/htv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HTV.us",
+    "name": "HTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NlKFNHS.png",
+    "stream_url": "http://45.171.64.30:6060/play/a012/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HTV.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "15969",
+      "site_name": "HTV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://linktr.ee/HTVmusica",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HTV.us",
+    "name": "HTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NlKFNHS.png",
+    "stream_url": "https://streaming.onnethn.com/HTV/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HTV.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "15969",
+      "site_name": "HTV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://linktr.ee/HTVmusica",
     "launched": null,
     "closed": null
   },
@@ -52944,6 +53595,43 @@
     "closed": null
   },
   {
+    "id": "NationalGeographicLatinAmerica.us",
+    "name": "National Geographic Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "National Geographic Partners LLC.",
+      "The Walt Disney Company"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "stream_url": "https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NationalGeographicLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "550",
+      "site_name": "NATIONAL GEOGRAPHIC",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.nationalgeographicla.com/",
+    "launched": "2001-01-07",
+    "closed": null
+  },
+  {
     "id": "NationalGeographicWild.us",
     "name": "National Geographic Wild",
     "alt_names": [],
@@ -57036,6 +57724,43 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/E84jnP8.png",
     "stream_url": "http://190.93.224.42/NICK/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NickelodeonLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "552",
+      "site_name": "NICKELODEON",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://nickelodeon.la/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NickelodeonLatinAmerica.us",
+    "name": "Nickelodeon Latin America",
+    "alt_names": [],
+    "network": "Nickelodeon",
+    "owners": [
+      "Viacom International Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "stream_url": "https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -74369,34 +75094,6 @@
     "closed": null
   },
   {
-    "id": "SFree.us",
-    "name": "S Free!",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "S Plus Group"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/DZ47qB39/In-Shot-20260816-210045369.png",
-    "stream_url": "https://vodcdn.bamboo-cloud.com/livehls/6a81c67306304414d27742d3/master.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://sites.google.com/view/splusgroup",
-    "launched": "2026-08-23",
-    "closed": null
-  },
-  {
     "id": "SGTN49.us",
     "name": "SGTN-49",
     "alt_names": [],
@@ -75011,35 +75708,6 @@
     "tv_guide": null,
     "website": "https://pluto.tv/live-tv/sketchy-af/details",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SKPop.us",
-    "name": "S KPop!",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "S Plus Group"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music",
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/521WRm5k/In-Shot-20260918-070004312.png",
-    "stream_url": "https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://sites.google.com/view/splusgroup",
-    "launched": "2026-09-18",
     "closed": null
   },
   {
@@ -76779,62 +77447,6 @@
     "closed": null
   },
   {
-    "id": "SPremium.us",
-    "name": "S Premium!",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "S Plus Group"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/Mp1TTWq0/In-Shot-20260818-135217619.png",
-    "stream_url": "https://vodcdn.bamboo-cloud.com/livehls/68d0876e06304461862415b2/master.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://sites.google.com/view/splusgroup",
-    "launched": "2026-08-18",
-    "closed": null
-  },
-  {
-    "id": "SPremium.us",
-    "name": "S Premium!",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "S Plus Group"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/Mp1TTWq0/In-Shot-20260818-135217619.png",
-    "stream_url": "https://vodcdn.bamboo-cloud.com/livehls/6aa1f82906304434d9688a53/master.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://sites.google.com/view/splusgroup",
-    "launched": "2026-08-18",
-    "closed": null
-  },
-  {
     "id": "SPTV.us",
     "name": "SPTV",
     "alt_names": [],
@@ -77241,6 +77853,40 @@
     "closed": null
   },
   {
+    "id": "Starz.us",
+    "name": "Starz",
+    "alt_names": [],
+    "network": "STARZ",
+    "owners": [
+      "Starz Entertainment Corp."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/N7oSm4d.png",
+    "stream_url": "http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Starz.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "12741",
+      "site_name": "Starz West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.starz.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "StarzCinema.us",
     "name": "Starz Cinema",
     "alt_names": [],
@@ -77470,34 +78116,6 @@
     "tv_guide": null,
     "website": "http://ww1.stocktonca.gov/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "STomSings.us",
-    "name": "S Tom Sings",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "S Plus Group"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/5tfB3Ktv/In-Shot-20260818-133542271.png",
-    "stream_url": "https://vodcdn.bamboo-cloud.com/livehls/6a8408ae0630440c2f39aec3/master.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://sites.google.com/view/splusgroup",
-    "launched": "2026-08-18",
     "closed": null
   },
   {
@@ -77854,34 +78472,6 @@
     },
     "website": "http://www.universalplus.com/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "STV.us",
-    "name": "STV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "S Plus Group"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/4dHXzBRr/In-Shot-20260816-223433608.png",
-    "stream_url": "https://vodcdn.bamboo-cloud.com/livehls/6a81edf1063044437202e65c/master.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://sites.google.com/view/splusgroup",
-    "launched": "2026-08-17",
     "closed": null
   },
   {
@@ -79451,6 +80041,43 @@
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/teen-mom",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TeenNick.us",
+    "name": "TeenNick",
+    "alt_names": [],
+    "network": "Nickelodeon",
+    "owners": [
+      "Viacom International Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/1280px-TeenNick_logo_2023_%28outline%29.svg.png",
+    "stream_url": "http://tvsen7.aynascope.net/teennick/index.m3u8",
+    "stream_quality": "432p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TeenNick.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "59036",
+      "site_name": "TeenNick",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.teennick.com/",
     "launched": null,
     "closed": null
   },
@@ -85149,6 +85776,43 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/3yXRbQy.png",
     "stream_url": "http://38.134.250.110:8000/play/a01t/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Tooncast.us",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch5652",
+      "site_name": "TOONCAST",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.tooncast.tv/",
+    "launched": "2008-12-01",
+    "closed": null
+  },
+  {
+    "id": "Tooncast.us",
+    "name": "Tooncast",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/3yXRbQy.png",
+    "stream_url": "https://streaming.onnethn.com/TOONCAST/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

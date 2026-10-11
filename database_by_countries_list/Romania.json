@@ -1192,42 +1192,6 @@
     "closed": null
   },
   {
-    "id": "DigiSport1.ro",
-    "name": "Digi Sport 1",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "RCS & RDS"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/5zMxDYq.png",
-    "stream_url": "https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "DigiSport1.ro",
-      "feed": "SD",
-      "site": "programetv.ro",
-      "site_id": "digi-sport-1",
-      "site_name": "Digi Sport 1",
-      "lang": "ro",
-      "sources": []
-    },
-    "website": "http://digisport.ro/",
-    "launched": "2012-08-11",
-    "closed": null
-  },
-  {
     "id": "DigiSport2.ro",
     "name": "Digi Sport 2",
     "alt_names": [],
@@ -1603,6 +1567,32 @@
       "sources": []
     },
     "website": "http://www.digi-film.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Formula1AntenaPlay.ro",
+    "name": "Formula 1 AntenaPlay",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://assets.antenaplay.ro/2024/02/23/XUKfJwir4MxNeP4nHtG7.png",
+    "stream_url": "https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://antenaplay.ro/live/formula-1-live",
     "launched": null,
     "closed": null
   },
@@ -2963,6 +2953,44 @@
     "closed": null
   },
   {
+    "id": "Nickelodeon.ro",
+    "name": "Nickelodeon",
+    "alt_names": [
+      "Nickelodeon România"
+    ],
+    "network": "Nickelodeon",
+    "owners": [
+      "Paramount Networks EMEAA"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
+    "stream_url": "http://178.76.68.60:7442/64/mpegts",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Nickelodeon.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "nickelodeon",
+      "site_name": "Nickelodeon",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.nickelodeon.ro/",
+    "launched": "1998-11-15",
+    "closed": null
+  },
+  {
     "id": "Nicktoons.ro",
     "name": "Nicktoons",
     "alt_names": [
@@ -2987,6 +3015,44 @@
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
     "referrer": "https://cool-tv.net/",
+    "tv_guide": {
+      "channel": "Nicktoons.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "nicktoons",
+      "site_name": "Nicktoons",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.nicktoons.ro/",
+    "launched": "2018-02-15",
+    "closed": null
+  },
+  {
+    "id": "Nicktoons.ro",
+    "name": "Nicktoons",
+    "alt_names": [
+      "Nicktoons România"
+    ],
+    "network": "Nickelodeon",
+    "owners": [
+      "Paramount Global"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",
+    "stream_url": "http://178.76.68.60:7442/80/mpegts",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
     "tv_guide": {
       "channel": "Nicktoons.ro",
       "feed": "SD",

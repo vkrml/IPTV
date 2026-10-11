@@ -2652,6 +2652,42 @@
     "closed": null
   },
   {
+    "id": "DMAX.de",
+    "name": "DMAX",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/960px-DMAX_BLACK.svg.png",
+    "stream_url": "http://5.180.164.197:8080/DMAX/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DMAX.de",
+      "feed": "SD",
+      "site": "web.magentatv.de",
+      "site_id": "429",
+      "site_name": "DMAX",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "http://www.dmax.de/",
+    "launched": "2006-09-01",
+    "closed": null
+  },
+  {
     "id": "DMF.de",
     "name": "DMF",
     "alt_names": [],
@@ -2854,44 +2890,6 @@
     "logo": "https://i.imgur.com/MNKkgfa.png",
     "stream_url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "DW.de",
-      "feed": "English",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000146",
-      "site_name": "DW",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://www.dw.com/",
-    "launched": "1953-05-03",
-    "closed": null
-  },
-  {
-    "id": "DW.de",
-    "name": "DW",
-    "alt_names": [
-      "Deutsche Welle"
-    ],
-    "network": null,
-    "owners": [
-      "Federal Government of Germany"
-    ],
-    "country_code": "DE",
-    "country_name": "Germany",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/MNKkgfa.png",
-    "stream_url": "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8",
-    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -13390,6 +13388,40 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png",
+    "stream_url": "https://lb.iptvnetwork.net/ls28/10828/playlist.m3u8",
+    "stream_quality": "360p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ProSiebenMaxx.de",
+      "feed": "SD",
+      "site": "web.magentatv.de",
+      "site_id": "396",
+      "site_name": "ProSieben MAXX",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "https://www.prosiebenmaxx.de/",
+    "launched": "2013-09-03",
+    "closed": null
+  },
+  {
+    "id": "ProSiebenMaxx.de",
+    "name": "ProSieben Maxx",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Seven.One Entertainment Group"
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png",
     "stream_url": "http://178.27.12.3:9981/stream/channelid/1567530044?profile=pass",
     "stream_quality": null,
     "stream_format": null,
@@ -14060,6 +14092,43 @@
     "logo": "https://i.imgur.com/4wMZ8Em.png",
     "stream_url": "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RiC.de",
+      "feed": "SD",
+      "site": "tv.magenta.at",
+      "site_id": "206965800445",
+      "site_name": "RiC",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "http://www.rictv.de/",
+    "launched": "2012-09-10",
+    "closed": null
+  },
+  {
+    "id": "RiC.de",
+    "name": "RiC",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Your Family Entertainment AG"
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids",
+      "family"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4wMZ8Em.png",
+    "stream_url": "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -15388,44 +15457,6 @@
     "tv_guide": null,
     "website": "https://pluto.tv/live-tv/spongebob-schwammkopf-de/details",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SportdigitalFUSSBALL.de",
-    "name": "Sportdigital FUSSBALL",
-    "alt_names": [
-      "Sportdigital"
-    ],
-    "network": null,
-    "owners": [
-      "Digital Sports"
-    ],
-    "country_code": "DE",
-    "country_name": "Germany",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/NDbWxqF.png",
-    "stream_url": "https://7nyaler.streamhostingcdn.top/stream/15/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SportdigitalFUSSBALL.de",
-      "feed": "SD",
-      "site": "web.magentatv.de",
-      "site_id": "194",
-      "site_name": "SPORTDIGITAL FUSSBALL",
-      "lang": "de",
-      "sources": []
-    },
-    "website": "https://start.sportdigital.de/",
-    "launched": "2008-01-01",
     "closed": null
   },
   {

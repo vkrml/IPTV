@@ -3496,43 +3496,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
-    "stream_url": "http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "DisneyJrLatinAmerica.ar",
-      "feed": "North",
-      "site": "reportv.com.ar",
-      "site_id": "1102",
-      "site_name": "DISNEY JR",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://www.disneylatino.com/",
-    "launched": "2011-04-01",
-    "closed": null
-  },
-  {
-    "id": "DisneyJrLatinAmerica.ar",
-    "name": "Disney Jr. Latin America",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Disney Media Network Latin America"
-    ],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "animation",
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
     "stream_url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -6395,6 +6358,36 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://tvpublicafueguina.com.ar/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVPublicaMarcosPaz.ar",
+    "name": "TV Publica Marcos Paz",
+    "alt_names": [
+      "TV Pública Marcos Paz"
+    ],
+    "network": null,
+    "owners": [
+      "Sistema Municipal de Medios y Contenidos Públicos"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CRmY4Oi.png",
+    "stream_url": "https://ca.centaurychile.com:2443/hls/mediospublicos.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.mediospublicos.marcospaz.net/",
     "launched": null,
     "closed": null
   },

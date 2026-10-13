@@ -1062,6 +1062,43 @@
     "closed": null
   },
   {
+    "id": "CartoonNetwork.it",
+    "name": "Cartoon Network",
+    "alt_names": [],
+    "network": "Cartoon Network",
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "stream_url": "https://bin.webhookrelay.com/v1/webhooks/c804ab58-63c4-427d-bd2e-4d774eb34073",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CartoonNetwork.it",
+      "feed": "Plus1",
+      "site": "superguidatv.it",
+      "site_id": "cn-1-/sky-bambini/136",
+      "site_name": "CN +1",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "http://www.cartoonnetwork.it/",
+    "launched": "1996-07-31",
+    "closed": null
+  },
+  {
     "id": "CasaItalia53.it",
     "name": "Casa Italia 53",
     "alt_names": [],
@@ -1407,6 +1444,42 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DiscoveryChannel.it",
+    "name": "Discovery Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance EMEA"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+    "stream_url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DiscoveryChannel.it",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "124",
+      "site_name": "Discovery Channel I",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "https://discoverychannel.it/",
+    "launched": "1997-09-01",
     "closed": null
   },
   {
@@ -1834,6 +1907,42 @@
     "closed": null
   },
   {
+    "id": "FoodNetwork.it",
+    "name": "Food Network",
+    "alt_names": [],
+    "network": "Food Network",
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "cooking"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",
+    "stream_url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FoodNetwork.it",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "1348",
+      "site_name": "Food Network IT",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "http://www.foodnetwork.it/",
+    "launched": "2017-05-08",
+    "closed": null
+  },
+  {
     "id": "GamberoRossoChannel.it",
     "name": "Gambero Rosso Channel",
     "alt_names": [
@@ -2067,33 +2176,40 @@
     "closed": null
   },
   {
-    "id": "HorrorChannel.it",
-    "name": "Horror Channel",
+    "id": "HGTV.it",
+    "name": "HGTV",
     "alt_names": [],
     "network": null,
     "owners": [
-      "AMC Networks Inc.",
-      "Paramount Global"
+      "Skydance Corporation"
     ],
     "country_code": "IT",
     "country_name": "Italy",
     "subdivision": null,
     "city": null,
     "categories": [
-      "movies"
+      "lifestyle"
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/VvNflYm.png",
-    "stream_url": "http://str2.iptvhd.ru:8080/Horror/index.m3u8",
+    "logo": "https://i.imgur.com/ejPii8T.png",
+    "stream_url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": "2011-09-06",
-    "closed": "2015-07-01"
+    "tv_guide": {
+      "channel": "HGTV.it",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "1646",
+      "site_name": "Home & Garden TV IT",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "https://homegardentv.it/",
+    "launched": "2020-02-02",
+    "closed": null
   },
   {
     "id": "HorseTV.it",
@@ -2459,6 +2575,34 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Italiana.it",
+    "name": "Italiana",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RAI"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/9/98/Italiana_%282026%29.svg/revision/latest?cb=20260824144626",
+    "stream_url": "https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2026-10-01",
     "closed": null
   },
   {
@@ -3655,42 +3799,6 @@
     },
     "website": "https://nauticalchannel.com/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Nickelodeon.it",
-    "name": "Nickelodeon",
-    "alt_names": [],
-    "network": "Nickelodeon",
-    "owners": [
-      "Paramount Global"
-    ],
-    "country_code": "IT",
-    "country_name": "Italy",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "stream_url": "https://zg9mhld.s.gy/HD-NICK-IT.ts",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Nickelodeon.it",
-      "feed": "SD",
-      "site": "superguidatv.it",
-      "site_id": "nickelodeon/sky-bambini/133",
-      "site_name": "Nickelodeon",
-      "lang": "it",
-      "sources": []
-    },
-    "website": "http://www.nicktv.it/",
-    "launched": "2004-11-01",
     "closed": null
   },
   {
@@ -5528,42 +5636,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png",
-    "stream_url": "https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RaiScuola.it",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "789",
-      "site_name": "RAI SCUOLA",
-      "lang": "fr",
-      "sources": []
-    },
-    "website": "http://www.raiscuola.rai.it/",
-    "launched": "2009-10-19",
-    "closed": null
-  },
-  {
-    "id": "RaiScuola.it",
-    "name": "Rai Scuola",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Rai"
-    ],
-    "country_code": "IT",
-    "country_name": "Italy",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "education"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png",
     "stream_url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011",
     "stream_quality": "576p",
     "stream_format": null,
@@ -5580,7 +5652,7 @@
     },
     "website": "http://www.raiscuola.rai.it/",
     "launched": "2009-10-19",
-    "closed": null
+    "closed": "2026-10-01"
   },
   {
     "id": "RaiStoria.it",

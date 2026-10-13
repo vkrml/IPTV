@@ -5341,6 +5341,35 @@
     "closed": null
   },
   {
+    "id": "PlusMaisUm.br",
+    "name": "+MaisUm",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general",
+      "entertainment",
+      "movies",
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
+    "stream_url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://maisumtv.com",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PrimerTV.br",
     "name": "Primer TV",
     "alt_names": [],
@@ -7440,6 +7469,42 @@
     "logo": "https://i.imgur.com/mP1qfp2.png",
     "stream_url": "https://cdn-5.nxplay.com.br/REDE_VIDA/index.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RedeVida.br",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "br#rede-vida",
+      "site_name": "Rede Vida",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "http://www.redevida.com.br/",
+    "launched": "1995-05-01",
+    "closed": null
+  },
+  {
+    "id": "RedeVida.br",
+    "name": "Rede Vida",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Instituto Brasileiro de Comunicação Cristã"
+    ],
+    "country_code": "BR",
+    "country_name": "Brazil",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/mP1qfp2.png",
+    "stream_url": "http://46.151.196.223:14244",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

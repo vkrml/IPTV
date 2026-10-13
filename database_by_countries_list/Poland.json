@@ -908,6 +908,78 @@
     "closed": null
   },
   {
+    "id": "DiscoveryChannel.pl",
+    "name": "Discovery Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+    "stream_url": "http://57.128.231.171:8080/282/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DiscoveryChannel.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "discovery-channel-202",
+      "site_name": "Discovery Channel",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://www.discoverychannel.pl/",
+    "launched": "1998-01-01",
+    "closed": null
+  },
+  {
+    "id": "DiscoveryHistoria.pl",
+    "name": "Discovery Historia",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CXqCG0G.png",
+    "stream_url": "http://57.128.231.171:8080/281/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DiscoveryHistoria.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "discovery-historia-54",
+      "site_name": "Discovery Historia",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://www.discoveryhistoria.pl/",
+    "launched": "2006-11-15",
+    "closed": null
+  },
+  {
     "id": "DisneyChannel.pl",
     "name": "Disney Channel",
     "alt_names": [],
@@ -2409,6 +2481,42 @@
     "closed": null
   },
   {
+    "id": "FoodNetwork.pl",
+    "name": "Food Network",
+    "alt_names": [],
+    "network": "Food Network",
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "cooking"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",
+    "stream_url": "http://57.128.231.171:8080/253/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FoodNetwork.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-food-157",
+      "site_name": "Food Network",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://www.foodnetwork.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Fox.pl",
     "name": "Fox",
     "alt_names": [],
@@ -2522,6 +2630,44 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HGTV.pl",
+    "name": "HGTV",
+    "alt_names": [
+      "HGTV Home&Garden"
+    ],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png",
+    "stream_url": "http://57.128.231.171:8080/241/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HGTV.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tvn-meteo-active-79",
+      "site_name": "HGTV",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://hgtv.pl/",
+    "launched": "2017-01-07",
     "closed": null
   },
   {
@@ -2912,6 +3058,43 @@
     },
     "website": "http://nuta.tv/",
     "launched": "2015-09-01",
+    "closed": null
+  },
+  {
+    "id": "Polsat2.pl",
+    "name": "Polsat 2",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/960px-Polsat_2_2021_gradient.svg.png",
+    "stream_url": "http://57.128.210.196:8080/208/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Polsat2.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-2-327",
+      "site_name": "Polsat 2",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://www.polsat2.pl/",
+    "launched": null,
     "closed": null
   },
   {
@@ -3481,6 +3664,38 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
+    "tv_guide": {
+      "channel": "PolsatSport2.pl",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "polsat-sport-extra",
+      "site_name": "Polsat Sport 2",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PolsatSport2.pl",
+    "name": "Polsat Sport 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Polsat_Sport_2_2024.svg/500px-Polsat_Sport_2_2024.svg.png",
+    "stream_url": "http://91.228.35.249:8001/1:0:1:C24:1E78:71:820000:0:0:0:",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "Enigma2",
     "tv_guide": {
       "channel": "PolsatSport2.pl",
       "feed": "SD",
@@ -5707,6 +5922,102 @@
     "referrer": "http://live.tvstitch.com/",
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VOD205.pl",
+    "name": "VOD 205",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "http://91.228.35.249:8001/1:0:1:3F:1964:13E:820000:0:0:0",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.cyfrowypolsat.pl/vod/tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VOD206.pl",
+    "name": "VOD 206",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "http://91.228.35.249:8001/1:0:1:40:1964:13E:820000:0:0:0",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.cyfrowypolsat.pl/vod/tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VOD207.pl",
+    "name": "VOD 207",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "http://91.228.35.249:8001/1:0:1:41:1964:13E:820000:0:0:0",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.cyfrowypolsat.pl/vod/tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VOD208.pl",
+    "name": "VOD 208",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "http://91.228.35.249:8001/1:0:1:42:1964:13E:820000:0:0:0",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.cyfrowypolsat.pl/vod/tv/",
     "launched": null,
     "closed": null
   },

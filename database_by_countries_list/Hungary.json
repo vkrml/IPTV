@@ -90,6 +90,32 @@
     "closed": null
   },
   {
+    "id": "AnimalPlanet.hu",
+    "name": "Animal Planet",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance EMEA"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/30/Animal_Planet_2018_II.svg/revision/latest?cb=20191206182106",
+    "stream_url": "http://88.212.15.17/live/animal_hun/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ApostolTV.hu",
     "name": "Apostol TV",
     "alt_names": [],
@@ -702,6 +728,42 @@
     },
     "website": "https://www.dikhtv.hu/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DiscoveryChannel.hu",
+    "name": "Discovery Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance EMEA"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+    "stream_url": "http://88.212.15.17/live/discovery_hungary/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DiscoveryChannel.hu",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "hu/tvmusor#discovery-channel-hu",
+      "site_name": "Discovery Channel HU",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "http://www.discoverychannel.hu/",
+    "launched": "2005-03-01",
     "closed": null
   },
   {
@@ -1570,6 +1632,34 @@
     "closed": null
   },
   {
+    "id": "HGTV.hu",
+    "name": "HGTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance EMEA"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KMcR9z9.png",
+    "stream_url": "http://88.212.15.17/live/hgtv_hun/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.hgtv.co.hu/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "History.hu",
     "name": "History",
     "alt_names": [
@@ -1627,6 +1717,42 @@
     "website": "http://hitmusic.hu/",
     "launched": null,
     "closed": "2022-09-01"
+  },
+  {
+    "id": "InvestigationDiscovery.hu",
+    "name": "Investigation Discovery",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance EMEA"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+    "stream_url": "http://88.212.15.17/live/id_hun/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "InvestigationDiscovery.hu",
+      "feed": "SD",
+      "site": "musor.tv",
+      "site_id": "ID",
+      "site_name": "ID (HD)",
+      "lang": "hu",
+      "sources": []
+    },
+    "website": "http://www.investigationdiscovery.com/",
+    "launched": "2009-04-01",
+    "closed": null
   },
   {
     "id": "IzauraTV.hu",
@@ -4055,6 +4181,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.tiszatv.hu/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TravelChannel.hu",
+    "name": "Travel Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance EMEA"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a3/Travel_Channel_2D_2014.svg/revision/latest?cb=20180112215118",
+    "stream_url": "http://88.212.15.17/live/travel_hun/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },

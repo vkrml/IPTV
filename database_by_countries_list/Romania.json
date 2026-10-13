@@ -450,6 +450,36 @@
     "closed": null
   },
   {
+    "id": "Antena3CNN.ro",
+    "name": "Antena 3 CNN",
+    "alt_names": [
+      "Antena 3"
+    ],
+    "network": "Antena Group",
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512",
+    "stream_url": "https://live3vox.antenaplay.ro/a3free/a3free.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.antena3.ro/",
+    "launched": "2005-06-27",
+    "closed": null
+  },
+  {
     "id": "AntenaInternational.ro",
     "name": "Antena International",
     "alt_names": [],
@@ -723,6 +753,43 @@
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
     "referrer": "https://cool-tv.net/",
+    "tv_guide": {
+      "channel": "BollywoodClassic.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "bollywood-classic",
+      "site_name": "Bollywood Classic",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://www.bollywoodtv.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BollywoodClassic.ro",
+    "name": "Bollywood Classic",
+    "alt_names": [
+      "Bollywood Clasic"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "classic"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ugPo6ca.png",
+    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-bollywood-classic/live_hq?offsetSeconds=0",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
     "tv_guide": {
       "channel": "BollywoodClassic.ro",
       "feed": "SD",
@@ -1173,6 +1240,45 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/qmRnD0M.png",
+    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tele-moldova-plus/live_hq?offsetSeconds=0",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Digi24.ro",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "1650",
+      "site_name": "Digi 24",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.digi24.ro/",
+    "launched": "2012-03-01",
+    "closed": null
+  },
+  {
+    "id": "Digi24.ro",
+    "name": "Digi 24",
+    "alt_names": [
+      "Digi News",
+      "10 TV"
+    ],
+    "network": null,
+    "owners": [
+      "RCS & RDS"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/qmRnD0M.png",
     "stream_url": "https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -1316,6 +1422,35 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://dottotv.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "EMITV.ro",
+    "name": "EMI TV",
+    "alt_names": [
+      "N Sat TV Regional",
+      "N Sat TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/B5zssCz.png",
+    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-emi/live_hq?offsetSeconds=0",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.emitv.ro/",
     "launched": null,
     "closed": null
   },
@@ -3928,6 +4063,30 @@
     "closed": null
   },
   {
+    "id": "SangeorzTV.ro",
+    "name": "Sangeorz TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://sangeorztv.ro/wp-content/uploads/2025/12/sangeorz-tv-3.png",
+    "stream_url": "https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SperantaTV.ro",
     "name": "SperantaTV",
     "alt_names": [
@@ -4285,6 +4444,40 @@
     "tv_guide": null,
     "website": "https://tv.tralala.ro/",
     "launched": "2021-10-20",
+    "closed": null
+  },
+  {
+    "id": "TravelMix.ro",
+    "name": "Travel Mix",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "travel"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4dMeEQO.png",
+    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-travel-mix/live_hq?offsetSeconds=0",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TravelMix.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "travel-mix",
+      "site_name": "Travel Mix",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.travelmix.ro/",
+    "launched": null,
     "closed": null
   },
   {
@@ -4979,6 +5172,38 @@
     "tv_guide": null,
     "website": "https://www.tvsud.ro/",
     "launched": "2011-06-20",
+    "closed": null
+  },
+  {
+    "id": "UTV.ro",
+    "name": "UTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/aBdz9IT.png",
+    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-kapital/live_hq?offsetSeconds=0",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "UTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "utv",
+      "site_name": "UTV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.utv.ro/",
+    "launched": null,
     "closed": null
   },
   {

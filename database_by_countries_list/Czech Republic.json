@@ -734,7 +734,7 @@
     "id": "FoodNetwork.cz",
     "name": "Food Network",
     "alt_names": [],
-    "network": null,
+    "network": "Food Network",
     "owners": [
       "Skydance EMEA"
     ],
@@ -2877,6 +2877,34 @@
     "logo": "https://i.imgur.com/4Wwptd3.png",
     "stream_url": "https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WarnerTV.cz",
+    "name": "Warner TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance EMEA"
+    ],
+    "country_code": "CZ",
+    "country_name": "Czech Republic",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c7/WarnerTV_2021.svg/revision/latest/scale-to-width-down/1000?cb=20230818123400",
+    "stream_url": "http://88.212.15.17/live/warner_tv/index.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

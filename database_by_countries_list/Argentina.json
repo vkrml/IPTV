@@ -276,6 +276,34 @@
     "closed": null
   },
   {
+    "id": "AllegroHD.ar",
+    "name": "Allegro HD",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Eurochannel"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/bRH34Rn.png",
+    "stream_url": "http://158.172.155.130:8000/play/a0dn/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://allegrohd.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AlternaTV.ar",
     "name": "AlternaTV",
     "alt_names": [
@@ -2404,30 +2432,6 @@
     "closed": null
   },
   {
-    "id": "ChacoTV.ar",
-    "name": "Chaco TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/b6RerDw.png",
-    "stream_url": "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.chaco.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "ChacraTV.ar",
     "name": "Chacra TV",
     "alt_names": [],
@@ -2772,6 +2776,40 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DeporTV.ar",
+    "name": "DeporTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/THk9ARS.png",
+    "stream_url": "http://158.172.155.130:8000/play/a09y/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DeporTV.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#dxtv",
+      "site_name": "DeporTV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://deportv.gov.ar/",
+    "launched": "2013-02-21",
     "closed": null
   },
   {
@@ -3204,6 +3242,43 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyChannelLatinAmerica.ar",
+      "feed": "Center",
+      "site": "siba.com.co",
+      "site_id": "430",
+      "site_name": "DISNEY CHANNEL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.disneylatino.com/tv",
+    "launched": "2000-07-27",
+    "closed": null
+  },
+  {
+    "id": "DisneyChannelLatinAmerica.ar",
+    "name": "Disney Channel Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Disney Entertainment"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "stream_url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
     "referrer": null,
     "tv_guide": {
       "channel": "DisneyChannelLatinAmerica.ar",
@@ -4253,6 +4328,42 @@
     "closed": null
   },
   {
+    "id": "FoxSports.ar",
+    "name": "Fox Sports",
+    "alt_names": [],
+    "network": "Fox Sports International",
+    "owners": [
+      "The Walt Disney Company"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
+    "stream_url": "http://158.172.155.130:8000/play/a09x/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FoxSports.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#fox-sports-hd",
+      "site_name": "FOX Sports HD",
+      "lang": "es",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "GarageTVLatinAmerica.ar",
     "name": "Garage TV Latin America",
     "alt_names": [
@@ -5123,6 +5234,40 @@
     "closed": null
   },
   {
+    "id": "QuieroMusicaenmiIdioma.ar",
+    "name": "Quiero Musica en mi Idioma",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/RO9Dz3X.png",
+    "stream_url": "http://158.172.155.130:8000/play/a00a/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "QuieroMusicaenmiIdioma.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#quiero",
+      "site_name": "Quiero",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.qmusica.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Radiocanal.ar",
     "name": "Radiocanal",
     "alt_names": [],
@@ -5658,6 +5803,40 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Space.ar",
+      "feed": "Alternate",
+      "site": "siba.com.co",
+      "site_id": "574",
+      "site_name": "SPACE",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://canalspacela.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Space.ar",
+    "name": "Space",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",
+    "stream_url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
     "referrer": null,
     "tv_guide": {
       "channel": "Space.ar",
@@ -6228,41 +6407,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/vFwPhPS.png",
-    "stream_url": "http://15.204.246.24:8080/TNHD/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TN.ar",
-      "feed": "SD",
-      "site": "nuevosiglo.com.uy",
-      "site_id": "TN",
-      "site_name": "TN",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "https://tn.com.ar/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TN.ar",
-    "name": "TN",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/vFwPhPS.png",
-    "stream_url": "http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8",
+    "stream_url": "http://158.172.155.130:8000/play/a0dp/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

@@ -8902,6 +8902,32 @@
     "closed": null
   },
   {
+    "id": "EnglishClubGlobal.uk",
+    "name": "English Club Global",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://img.apk.watch/pics:bz1kZmQ3bjImbD0zZmkmaD1wbmcmZj1HbGk5MCZpPTU",
+    "stream_url": "https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/english-club-global.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "EnglishClubTV.uk",
     "name": "English Club TV",
     "alt_names": [],
@@ -15540,6 +15566,80 @@
       "sources": []
     },
     "website": "https://news.sky.com/weather",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SkySportsF1.uk",
+    "name": "Sky Sports F1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sky Group"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png",
+    "stream_url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "referrer": "https://stmify.com/",
+    "tv_guide": {
+      "channel": "SkySportsF1.uk",
+      "feed": "HD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "1771",
+      "site_name": "Sky Sports Darts HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.skysports.com/f1",
+    "launched": "2012-03-09",
+    "closed": null
+  },
+  {
+    "id": "SkySportsNFL.uk",
+    "name": "Sky Sports NFL",
+    "alt_names": [
+      "Sky Sports Action",
+      "Sky Sports USA",
+      "Sky Sports 3"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png",
+    "stream_url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "referrer": "https://stmify.com/",
+    "tv_guide": {
+      "channel": "SkySportsNFL.uk",
+      "feed": "HD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "1769",
+      "site_name": "Sky Sports NFL HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.skysports.com/",
     "launched": null,
     "closed": null
   },

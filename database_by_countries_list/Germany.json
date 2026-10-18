@@ -2398,6 +2398,49 @@
     "closed": null
   },
   {
+    "id": "DasErste.de",
+    "name": "Das Erste",
+    "alt_names": [
+      "ARD",
+      "Erstes Deutsches Fernsehen",
+      "Deutsches Fernsehen",
+      "NWDR Fernsehen",
+      "NWD Fernsehrundfunk",
+      "Fernsehsender Paul Nipkow"
+    ],
+    "network": null,
+    "owners": [
+      "ARD"
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png",
+    "stream_url": "https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DasErste.de",
+      "feed": "SD",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000034_020027",
+      "site_name": "ARD",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "https://www.daserste.de/",
+    "launched": "1952-12-25",
+    "closed": null
+  },
+  {
     "id": "DaVinciAsia.de",
     "name": "Da Vinci Asia",
     "alt_names": [],
@@ -2414,6 +2457,40 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/iBx7K1M.png",
     "stream_url": "https://freem3u.xyz/api/live/play.m3u8?vid=214",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DaVinciAsia.de",
+      "feed": "SD",
+      "site": "maxstream.tv",
+      "site_id": "0_enfa8a2h",
+      "site_name": "Da Vinci Learning",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://www.davincikids.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "DaVinciAsia.de",
+    "name": "Da Vinci Asia",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "education"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/iBx7K1M.png",
+    "stream_url": "https://vmttv.dpdns.org/tv360/?id=davinci-hd",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -13532,6 +13609,40 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png",
     "stream_url": "http://178.27.12.3:9981/stream/channelid/1567530044?profile=pass",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ProSiebenMaxx.de",
+      "feed": "SD",
+      "site": "web.magentatv.de",
+      "site_id": "396",
+      "site_name": "ProSieben MAXX",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "https://www.prosiebenmaxx.de/",
+    "launched": "2013-09-03",
+    "closed": null
+  },
+  {
+    "id": "ProSiebenMaxx.de",
+    "name": "ProSieben Maxx",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Seven.One Entertainment Group"
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png",
+    "stream_url": "https://s6.hopslan.com/pro7maxxX/index.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

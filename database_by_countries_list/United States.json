@@ -8460,7 +8460,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Peo1QiZ.png",
-    "stream_url": "http://88.212.15.19/live/test_black/playlist.m3u8",
+    "stream_url": "http://88.212.15.17/live/test_black/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
@@ -8638,7 +8638,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://static.wikia.nocookie.net/logopedia/images/1/13/AXNCRIME_2026_V_WHITE_VIOLET_RGB_HERO_01.svg/revision/latest?cb=20260808120407",
-    "stream_url": "http://88.212.15.19/live/viasat_film/index.m3u8",
+    "stream_url": "http://88.212.15.17/live/viasat_film/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
@@ -9026,7 +9026,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/47IKxmt.png",
-    "stream_url": "http://88.212.15.19/live/test_white/playlist.m3u8",
+    "stream_url": "http://88.212.15.17/live/test_white/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
@@ -15387,6 +15387,43 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "stream_url": "http://45.162.64.114/CARTOON_NETWORK/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CartoonNetworkLatinAmerica.us",
+      "feed": "NorthAtlantic",
+      "site": "siba.com.co",
+      "site_id": "404",
+      "site_name": "CARTOON NETWORK",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.cartoonnetworkla.com/",
+    "launched": "1993-04-30",
+    "closed": null
+  },
+  {
+    "id": "CartoonNetworkLatinAmerica.us",
+    "name": "Cartoon Network Latin America",
+    "alt_names": [],
+    "network": "Cartoon Network",
+    "owners": [
+      "Skydance EMEA"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
     "stream_url": "http://38.252.238.18:8000/play/a053/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -21133,6 +21170,42 @@
     "closed": null
   },
   {
+    "id": "CNN.us",
+    "name": "CNN",
+    "alt_names": [],
+    "network": "Cable News Network",
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png",
+    "stream_url": "https://p13.usnlive.com/stream/cnn.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://usnewson.com",
+    "tv_guide": {
+      "channel": "CNN.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "58646",
+      "site_name": "CNN",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.cnn.com/",
+    "launched": "1980-06-01",
+    "closed": null
+  },
+  {
     "id": "CNNenEspanol.us",
     "name": "CNN en Espanol",
     "alt_names": [
@@ -26291,43 +26364,6 @@
     },
     "website": "http://www.latam.discovery.com/",
     "launched": "2015-03-16",
-    "closed": null
-  },
-  {
-    "id": "DisneyChannel.us",
-    "name": "Disney Channel",
-    "alt_names": [],
-    "network": "Disney Channels",
-    "owners": [
-      "The Walt Disney Company",
-      "Disney Kids & Family"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
-    "stream_url": "http://212.5.144.156/disney/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "DisneyChannel.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "12510",
-      "site_name": "Disney Channel West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.disney.com/",
-    "launched": "1983-04-18",
     "closed": null
   },
   {
@@ -35342,6 +35378,42 @@
     "closed": null
   },
   {
+    "id": "FoxNewsChannel.us",
+    "name": "Fox News Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Fox Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
+    "stream_url": "https://p14.usnlive.com/stream/foxnews.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://usnewson.com/",
+    "tv_guide": {
+      "channel": "FoxNewsChannel.us",
+      "feed": "SD",
+      "site": "webtv.delta.nl",
+      "site_id": "3116",
+      "site_name": "Fox News Channel",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.foxnews.com/",
+    "launched": "1996-10-07",
+    "closed": null
+  },
+  {
     "id": "FoxNewsRadio.us",
     "name": "Fox News Radio",
     "alt_names": [],
@@ -40645,40 +40717,6 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
     "stream_url": "https://freem3u.xyz/api/live/play.m3u8?vid=9856",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "HistoryAsia.us",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000104",
-      "site_name": "History",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "http://www.historyasia.com/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "HistoryAsia.us",
-    "name": "History Asia",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
-    "stream_url": "http://58.8.186.128:10005/bysid/2517",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -47478,42 +47516,6 @@
     "closed": null
   },
   {
-    "id": "LifetimeAsia.us",
-    "name": "Lifetime Asia",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "A&E Networks Asia"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
-    "stream_url": "http://58.8.186.128:10006/bysid/2615",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "LifetimeAsia.us",
-      "feed": "SD",
-      "site": "wavve.com",
-      "site_id": "C5902",
-      "site_name": "LIFETIME",
-      "lang": "ko",
-      "sources": []
-    },
-    "website": "http://www.lifetimeasia.com/",
-    "launched": "2013-06-14",
-    "closed": null
-  },
-  {
     "id": "LifetimeLatinAmerica.us",
     "name": "Lifetime Latin America",
     "alt_names": [],
@@ -48877,6 +48879,32 @@
     },
     "website": "https://watch.plex.tv/live-tv/channel/love-nature-en-espanol",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "LucasFriends.us",
+    "name": "Lucas & Friends",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.postimg.cc/cLft65S5/Dmin-CTnq-400x400.jpg",
+    "stream_url": "https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2026-10-15",
     "closed": null
   },
   {
@@ -52400,6 +52428,42 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
+    "tv_guide": {
+      "channel": "MSNOW.us",
+      "feed": "SD",
+      "site": "i.mjh.nz",
+      "site_id": "Foxtel/epg#MSN",
+      "site_name": "MS NOW",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.ms.now/live",
+    "launched": "2025-11-15",
+    "closed": null
+  },
+  {
+    "id": "MSNOW.us",
+    "name": "MS NOW",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Versant Media Group Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/960px-MS_NOW_logo.svg.png",
+    "stream_url": "https://p13.usnlive.com/stream/msnbc.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+    "referrer": "https://usnewson.com/",
     "tv_guide": {
       "channel": "MSNOW.us",
       "feed": "SD",
@@ -61714,6 +61778,42 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
+    "tv_guide": {
+      "channel": "OneAmericaNewsNetwork.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "82542",
+      "site_name": "One America News Network",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.oann.com/",
+    "launched": "2013-07-04",
+    "closed": null
+  },
+  {
+    "id": "OneAmericaNewsNetwork.us",
+    "name": "One America News Network",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Herring Networks"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/960px-One_America_News_Network_logo.svg.png",
+    "stream_url": "https://p14.usnlive.com/stream/oann.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
+    "referrer": "https://usnewson.com/",
     "tv_guide": {
       "channel": "OneAmericaNewsNetwork.us",
       "feed": "SD",
@@ -87999,43 +88099,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/3yXRbQy.png",
     "stream_url": "https://streaming.onnethn.com/TOONCAST/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Tooncast.us",
-      "feed": "SD",
-      "site": "tv.movistar.com.pe",
-      "site_id": "lch5652",
-      "site_name": "TOONCAST",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "http://www.tooncast.tv/",
-    "launched": "2008-12-01",
-    "closed": null
-  },
-  {
-    "id": "Tooncast.us",
-    "name": "Tooncast",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "animation",
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/3yXRbQy.png",
-    "stream_url": "http://200.62.239.170:830/play/a07n/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

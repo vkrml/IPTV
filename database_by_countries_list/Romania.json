@@ -3162,6 +3162,34 @@
     "closed": null
   },
   {
+    "id": "NHLAntenaPlay.ro",
+    "name": "NHL AntenaPlay",
+    "alt_names": [],
+    "network": "Antena TV Group",
+    "owners": [
+      "Antena TV Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://assets.antenaplay.ro/2024/10/25/SN0nevshXwKDcZ2Tw1jm.png",
+    "stream_url": "https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://antenaplay.ro/live/nhl-live",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "Nickelodeon.ro",
     "name": "Nickelodeon",
     "alt_names": [
@@ -3396,6 +3424,32 @@
     "closed": null
   },
   {
+    "id": "OrizontTV.ro",
+    "name": "Orizont TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8b/Orizont_TV.svg/revision/latest/scale-to-width-down/1000?cb=20241219232954",
+    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-orizont-tv/live_hq?offsetSeconds=0",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "PartyMix.ro",
     "name": "Party Mix",
     "alt_names": [],
@@ -3449,6 +3503,165 @@
     "tv_guide": null,
     "website": "https://www.primaplay.ro/live/primanews",
     "launched": "2022-11-28",
+    "closed": null
+  },
+  {
+    "id": "PrimaSport1.ro",
+    "name": "Prima Sport 1",
+    "alt_names": [
+      "LookSport+",
+      "LookPlus",
+      "Look Plus",
+      "Transilvania L!VE",
+      "NCN Cluj-Napoca"
+    ],
+    "network": null,
+    "owners": [
+      "Clever Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9XA1UpZ.png",
+    "stream_url": "https://dokagents.site/live/pr1/mono.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PrimaSport1.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "prima-sport-1",
+      "site_name": "Prima Sport 1",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://primasport.ro/",
+    "launched": "2000-01-01",
+    "closed": null
+  },
+  {
+    "id": "PrimaSport2.ro",
+    "name": "Prima Sport 2",
+    "alt_names": [
+      "LookSport",
+      "Look TV",
+      "Transilvania Look",
+      "TTV"
+    ],
+    "network": null,
+    "owners": [
+      "Clever Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/hROcepe.png",
+    "stream_url": "https://dokagents.site/live/pr2/mono.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PrimaSport2.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "prima-sport-2",
+      "site_name": "Prima Sport 2",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://primasport.ro/",
+    "launched": "2004-01-01",
+    "closed": null
+  },
+  {
+    "id": "PrimaSport3.ro",
+    "name": "Prima Sport 3",
+    "alt_names": [
+      "LookSport 3"
+    ],
+    "network": null,
+    "owners": [
+      "Clever Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ocvt5Va.png",
+    "stream_url": "https://dokagents.site/live/pr3/mono.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PrimaSport3.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "prima-sport-3",
+      "site_name": "Prima Sport 3",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://primasport.ro/",
+    "launched": "2019-07-22",
+    "closed": null
+  },
+  {
+    "id": "PrimaSport4.ro",
+    "name": "Prima Sport 4",
+    "alt_names": [
+      "LookSport 2"
+    ],
+    "network": null,
+    "owners": [
+      "Clever Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/lqaIIhc.png",
+    "stream_url": "https://dokagents.site/live/pr4/mono.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PrimaSport4.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "prima-sport-4",
+      "site_name": "Prima Sport 4",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "http://primasport.ro/",
+    "launched": "2019-07-22",
     "closed": null
   },
   {
@@ -4589,6 +4802,32 @@
       "sources": []
     },
     "website": "https://www.travelmix.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVAS.ro",
+    "name": "TV AS",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/TV_AS.png/revision/latest/scale-to-width-down/1000?cb=20241117150631",
+    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tv-as/live_hq?offsetSeconds=0",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
     "launched": null,
     "closed": null
   },

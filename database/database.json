@@ -17814,44 +17814,6 @@
     "closed": null
   },
   {
-    "id": "AlAlam.ir",
-    "name": "Al Alam",
-    "alt_names": [
-      "العالم"
-    ],
-    "network": null,
-    "owners": [
-      "Islamic Republic of Iran Broadcasting"
-    ],
-    "country_code": "IR",
-    "country_name": "Iran",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Zdi31dy.png",
-    "stream_url": "https://live2.alalam.ir/alalam.m3u8",
-    "stream_quality": "360p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AlAlam.ir",
-      "feed": "SD",
-      "site": "sky.com",
-      "site_id": "IT#5165",
-      "site_name": "Al Alam TV HD",
-      "lang": "it",
-      "sources": []
-    },
-    "website": "https://www.alalam.ir/",
-    "launched": "2003-02-23",
-    "closed": null
-  },
-  {
     "id": "AlAlamAlYawm.sa",
     "name": "Al Alam Al Yawm",
     "alt_names": [],
@@ -17919,7 +17881,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/WQKYPKD.png",
-    "stream_url": "http://live2.alalam.ir/live/Alalam/index.m3u8",
+    "stream_url": "http://live2.alalam.ir/alalam.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -29365,6 +29327,42 @@
     "closed": null
   },
   {
+    "id": "AnimalPlanet.pl",
+    "name": "Animal Planet",
+    "alt_names": [],
+    "network": "Skydance EMEA",
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+    "stream_url": "http://57.128.231.171:8080/317/index.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AnimalPlanet.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "animal-planet-hd-284",
+      "site_name": "Animal Planet HD",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://www.animalplanet.pl/",
+    "launched": "1997-10-01",
+    "closed": "2015-01-31"
+  },
+  {
     "id": "AnimalPlanet.ru",
     "name": "Animal Planet",
     "alt_names": [],
@@ -37215,11 +37213,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://astha.garuda.tv/assets/logo-DLGyXEGO.png",
-    "stream_url": "https://hgmtv.com:19360/asthatv/asthatv.m3u8",
+    "stream_url": "https://hgmtv.com:2020/hls/asthalive/asthalive.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
+    "referrer": "https://asthatv.com/",
     "tv_guide": null,
     "website": "https://asthatv.com",
     "launched": null,
@@ -43096,6 +43094,42 @@
     "tv_guide": null,
     "website": "https://www.azatvhdhn.com/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AzCinema.mx",
+    "name": "Az Cinema",
+    "alt_names": [
+      "Cinema"
+    ],
+    "network": "TV Azteca Internacional",
+    "owners": [],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/B5UN7C8.png",
+    "stream_url": "http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AzCinema.mx",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "cl#az-cinema",
+      "site_name": "Az Cinema",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.tvazteca.com/tvpaga/notas/cinema",
+    "launched": "2015-05-05",
     "closed": null
   },
   {
@@ -56426,7 +56460,7 @@
       "sources": []
     },
     "website": "https://beinsports.com.tr/",
-    "launched": "2000-09-04",
+    "launched": "2017-10-25",
     "closed": null
   },
   {
@@ -65462,36 +65496,6 @@
     "closed": null
   },
   {
-    "id": "BolivisionSantaCruz.bo",
-    "name": "Bolivision Santa Cruz",
-    "alt_names": [
-      "Bolivisión Santa Cruz"
-    ],
-    "network": null,
-    "owners": [
-      "Albavisión"
-    ],
-    "country_code": "BO",
-    "country_name": "Bolivia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/Kwvbyr0/unnamed.jpg",
-    "stream_url": "https://d1mws3umreue1g.cloudfront.net/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.redbolivision.tv.bo/",
-    "launched": "1998-03-18",
-    "closed": null
-  },
-  {
     "id": "Bollygold.in",
     "name": "Bollygold",
     "alt_names": [],
@@ -69141,6 +69145,42 @@
     "tv_guide": null,
     "website": "http://www.btv.hu/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BTV.id",
+    "name": "BTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "B Universe"
+    ],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png",
+    "stream_url": "https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BTV.id",
+      "feed": "SD",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000015",
+      "site_name": "BTV",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://www.beritasatu.tv/",
+    "launched": "2022-10-11",
     "closed": null
   },
   {
@@ -85488,6 +85528,186 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/WbfdJbk.png",
     "stream_url": "http://200.122.223.13:55000/play/canal-caracol-banda-ku/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CaracolTV.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "394",
+      "site_name": "CANAL CARACOL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.caracoltv.com/",
+    "launched": "1998-07-10",
+    "closed": null
+  },
+  {
+    "id": "CaracolTV.co",
+    "name": "Caracol TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Caracol Televisión S.A."
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/WbfdJbk.png",
+    "stream_url": "http://181.78.21.38:8000/play/a0b5/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CaracolTV.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "394",
+      "site_name": "CANAL CARACOL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.caracoltv.com/",
+    "launched": "1998-07-10",
+    "closed": null
+  },
+  {
+    "id": "CaracolTV.co",
+    "name": "Caracol TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Caracol Televisión S.A."
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/WbfdJbk.png",
+    "stream_url": "http://181.78.21.38:8000/play/a0cv/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CaracolTV.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "394",
+      "site_name": "CANAL CARACOL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.caracoltv.com/",
+    "launched": "1998-07-10",
+    "closed": null
+  },
+  {
+    "id": "CaracolTV.co",
+    "name": "Caracol TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Caracol Televisión S.A."
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/WbfdJbk.png",
+    "stream_url": "http://200.115.120.1:8000/play/ca070/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CaracolTV.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "394",
+      "site_name": "CANAL CARACOL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.caracoltv.com/",
+    "launched": "1998-07-10",
+    "closed": null
+  },
+  {
+    "id": "CaracolTV.co",
+    "name": "Caracol TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Caracol Televisión S.A."
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/WbfdJbk.png",
+    "stream_url": "http://181.78.8.199:8000/play/a0jz/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CaracolTV.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "394",
+      "site_name": "CANAL CARACOL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.caracoltv.com/",
+    "launched": "1998-07-10",
+    "closed": null
+  },
+  {
+    "id": "CaracolTV.co",
+    "name": "Caracol TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Caracol Televisión S.A."
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/WbfdJbk.png",
+    "stream_url": "http://181.78.64.206:10000/play/a0w4/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -108866,7 +109086,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png?lock=720x540",
+    "logo": "https://i.imgur.com/dfxefQw.png",
     "stream_url": "http://88.212.15.17/live/test_cnn_1200_atk/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -108904,7 +109124,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png?lock=720x540",
+    "logo": "https://i.imgur.com/dfxefQw.png",
     "stream_url": "https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -108942,7 +109162,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png?lock=720x540",
+    "logo": "https://i.imgur.com/dfxefQw.png",
     "stream_url": "https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -114802,6 +115022,34 @@
     "closed": null
   },
   {
+    "id": "CRTVSportsandEntertainment.cm",
+    "name": "CRTV Sports and Entertainment",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Government of Cameroon"
+    ],
+    "country_code": "CM",
+    "country_name": "Cameroon",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/DiIei9F.png",
+    "stream_url": "https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8",
+    "stream_quality": "360p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://crtv.cm/live/crtv-sport",
+    "tv_guide": null,
+    "website": "https://www.crtv.cm/",
+    "launched": "2019-06-06",
+    "closed": null
+  },
+  {
     "id": "Crunchyroll.us",
     "name": "Crunchyroll",
     "alt_names": [],
@@ -119665,40 +119913,6 @@
       "sources": []
     },
     "website": "https://viju.ru/telekanaly/da-vinci/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "DaVinciAsia.de",
-    "name": "Da Vinci Asia",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "DE",
-    "country_name": "Germany",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "education"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/iBx7K1M.png",
-    "stream_url": "https://freem3u.xyz/api/live/play.m3u8?vid=214",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "DaVinciAsia.de",
-      "feed": "SD",
-      "site": "maxstream.tv",
-      "site_id": "0_enfa8a2h",
-      "site_name": "Da Vinci Learning",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://www.davincikids.tv/",
     "launched": null,
     "closed": null
   },
@@ -124890,6 +125104,44 @@
     "closed": null
   },
   {
+    "id": "DePeliculaLatinAmerica.mx",
+    "name": "De Pelicula Latin America",
+    "alt_names": [
+      "De Película Latin America"
+    ],
+    "network": null,
+    "owners": [
+      "Televisa Networks"
+    ],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/aksM8pa.png",
+    "stream_url": "http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DePeliculaLatinAmerica.mx",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "mx#de-pelicula-hd",
+      "site_name": "De Película HD",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://televisa-networks.ioncom.mx/portfolio/de-pelicula/",
+    "launched": "1991-12-25",
+    "closed": null
+  },
+  {
     "id": "DePeliculaPlus.mx",
     "name": "De Pelicula Plus",
     "alt_names": [
@@ -127601,7 +127853,7 @@
     "alt_names": [],
     "network": null,
     "owners": [
-      "Warner Bros. Discovery Asia-Pacific"
+      "Skydance Corporation"
     ],
     "country_code": "TW",
     "country_name": "Taiwan",
@@ -127871,7 +128123,7 @@
     "alt_names": [],
     "network": null,
     "owners": [
-      "Warner Bros. Discovery Inc."
+      "Skydance Corporation"
     ],
     "country_code": "RU",
     "country_name": "Russia",
@@ -133965,6 +134217,68 @@
     "closed": null
   },
   {
+    "id": "DongNaiTV1.vn",
+    "name": "Dong Nai TV 1",
+    "alt_names": [
+      "Đồng Nai TV 1"
+    ],
+    "network": null,
+    "owners": [
+      "Dong Nai Radio - Television Station"
+    ],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news",
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/oQyioVa.png",
+    "stream_url": "https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/dongnai1tv/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://dnrtv.org.vn/",
+    "launched": "1976-11-19",
+    "closed": null
+  },
+  {
+    "id": "DongNaiTV1.vn",
+    "name": "Dong Nai TV 1",
+    "alt_names": [
+      "Đồng Nai TV 1"
+    ],
+    "network": null,
+    "owners": [
+      "Dong Nai Radio - Television Station"
+    ],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news",
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/oQyioVa.png",
+    "stream_url": "https://freem3u.xyz/api/live/play.m3u8?vid=53",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://dnrtv.org.vn/",
+    "launched": "1976-11-19",
+    "closed": null
+  },
+  {
     "id": "DongNaiTV2.vn",
     "name": "Dong Nai TV 2",
     "alt_names": [
@@ -133996,6 +134310,37 @@
     "closed": null
   },
   {
+    "id": "DongNaiTV2.vn",
+    "name": "Dong Nai TV 2",
+    "alt_names": [
+      "Đồng Nai TV 2"
+    ],
+    "network": null,
+    "owners": [
+      "Dong Nai Radio - Television Station"
+    ],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports",
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/tNKPSkO.png",
+    "stream_url": "https://freem3u.xyz/api/live/play.m3u8?vid=255",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://dnrtv.org.vn/",
+    "launched": "2003-01-26",
+    "closed": null
+  },
+  {
     "id": "DongNaiTV3.vn",
     "name": "Dong Nai TV 3",
     "alt_names": [
@@ -134014,6 +134359,34 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/6P39BiA.png",
     "stream_url": "https://dethich.pw/dongnai3/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://dnrtv.org.vn/",
+    "launched": "2009-01-01",
+    "closed": null
+  },
+  {
+    "id": "DongNaiTV3.vn",
+    "name": "Dong Nai TV 3",
+    "alt_names": [
+      "Đồng Nai TV 3"
+    ],
+    "network": null,
+    "owners": [
+      "Dong Nai Radio - Television Station"
+    ],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6P39BiA.png",
+    "stream_url": "https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3",
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
@@ -141055,7 +141428,9 @@
   {
     "id": "ELDEBER.bo",
     "name": "EL DEBER",
-    "alt_names": [],
+    "alt_names": [
+      "ED24"
+    ],
     "network": null,
     "owners": [
       "Grupo EL DEBER"
@@ -147102,7 +147477,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+    "logo": "https://imgx.fubo.tv/station_logos/espn-hd_c.png",
     "stream_url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -147138,7 +147513,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+    "logo": "https://imgx.fubo.tv/station_logos/espn-hd_c.png",
     "stream_url": "http://tvsen7.aynascope.net/espn/index.m3u8",
     "stream_quality": "432p",
     "stream_format": null,
@@ -147174,7 +147549,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+    "logo": "https://imgx.fubo.tv/station_logos/espn-hd_c.png",
     "stream_url": "http://212.5.144.156:8080/espn/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -147364,42 +147739,6 @@
     },
     "website": "https://espn.com/",
     "launched": "1989-03-31",
-    "closed": null
-  },
-  {
-    "id": "ESPNPremium.ar",
-    "name": "ESPN Premium",
-    "alt_names": [
-      "Fox Sports Premium Argentina"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png",
-    "stream_url": "http://190.128.214.97:64333/play/a02i/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ESPNPremium.ar",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "ar#fox-sports-premium",
-      "site_name": "FOX Sports Premium",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "http://espn.com.ar/",
-    "launched": "2017-08-21",
     "closed": null
   },
   {
@@ -160402,6 +160741,32 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png",
+    "stream_url": "http://88.212.15.17/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FILMBOXPlusLoveCrime.pl",
+    "name": "FILMBOX+ Love & Crime",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png",
     "stream_url": "https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -160506,10 +160871,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
-    "stream_url": "http://88.212.15.17/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8",
+    "stream_url": "http://88.212.15.17/live/filmbox_hungary/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "user_agent": null,
     "referrer": null,
     "tv_guide": null,
     "website": null,
@@ -169773,7 +170138,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png",
+    "logo": "https://i.ibb.co/Pz6Nqk7w/logo-futura-vazado.png",
     "stream_url": "http://168.197.104.22/FUTURA/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -169801,7 +170166,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png",
+    "logo": "https://i.ibb.co/Pz6Nqk7w/logo-futura-vazado.png",
     "stream_url": "http://170.83.49.66:8083/FUTURAHD/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -171624,42 +171989,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png",
-    "stream_url": "https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "GBNews.uk",
-      "feed": "SD",
-      "site": "virgintvgo.virginmedia.com",
-      "site_id": "2165",
-      "site_name": "GB News",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.gbnews.uk/",
-    "launched": "2021-06-13",
-    "closed": null
-  },
-  {
-    "id": "GBNews.uk",
-    "name": "GB News",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "All Perspectives Ltd."
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png",
     "stream_url": "https://live-gbnews.simplestreamcdn.com/s3/gbnews_subs/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -172016,66 +172345,6 @@
     "tv_guide": null,
     "website": "https://geekdot.live/",
     "launched": "2022-03-07",
-    "closed": null
-  },
-  {
-    "id": "geFast.br",
-    "name": "ge Fast",
-    "alt_names": [
-      "Globo Esporte FAST"
-    ],
-    "network": null,
-    "owners": [
-      "Canais Globo"
-    ],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/WGXHDnF/logo-ge-fast.png",
-    "stream_url": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://ge.globo.com/ge-fast/ao-vivo/ge-fast-assista-agora-ao-canal-com-24-horas-de-esporte.ghtml",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "geFast.br",
-    "name": "ge Fast",
-    "alt_names": [
-      "Globo Esporte FAST"
-    ],
-    "network": null,
-    "owners": [
-      "Canais Globo"
-    ],
-    "country_code": "BR",
-    "country_name": "Brazil",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/WGXHDnF/logo-ge-fast.png",
-    "stream_url": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://ge.globo.com/ge-fast/ao-vivo/ge-fast-assista-agora-ao-canal-com-24-horas-de-esporte.ghtml",
-    "launched": null,
     "closed": null
   },
   {
@@ -176013,6 +176282,40 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/NNd1lYl.png",
+    "stream_url": "http://15.204.196.147:22880/RECEPCION-GOLDEN_LAT-FHD/video.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Golden.mx",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "513",
+      "site_name": "GOLDEN",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://televisa-networks.ioncom.mx/portfolio/golden/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Golden.mx",
+    "name": "Golden",
+    "alt_names": [],
+    "network": "Televisa Networks",
+    "owners": [
+      "Grupo Televisa"
+    ],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NNd1lYl.png",
     "stream_url": "https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8",
     "stream_quality": "240p",
     "stream_format": null,
@@ -176334,6 +176637,40 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/SlSbcp3.png",
     "stream_url": "http://168.196.127.137:6001/play/a09p/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GoldenEdge.mx",
+      "feed": "Panregional",
+      "site": "reportv.com.ar",
+      "site_id": "4527",
+      "site_name": "GOLDEN EDGE HD",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://televisa-networks.com/portfolio/golden-edge/",
+    "launched": "2003-01-01",
+    "closed": null
+  },
+  {
+    "id": "GoldenEdge.mx",
+    "name": "Golden Edge",
+    "alt_names": [],
+    "network": "Televisa Networks",
+    "owners": [
+      "Televisa"
+    ],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/SlSbcp3.png",
+    "stream_url": "http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -179953,7 +180290,10 @@
     "name": "Guadalupe Media",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "SOLT",
+      "Roman Catholic Diocese of Belize"
+    ],
     "country_code": "BZ",
     "country_name": "Belize",
     "subdivision": null,
@@ -182665,34 +183005,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Je3K25E.png",
-    "stream_url": "https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://hanoitv.vn/",
-    "launched": "1954-10-14",
-    "closed": null
-  },
-  {
-    "id": "HanoiTV1.vn",
-    "name": "HanoiTV1",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Hanoi People's Committee"
-    ],
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Je3K25E.png",
     "stream_url": "https://liveh34.vtvprime.vn/hls/HANOI1TV/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -182701,34 +183013,6 @@
     "tv_guide": null,
     "website": "https://hanoitv.vn/",
     "launched": "1954-10-14",
-    "closed": null
-  },
-  {
-    "id": "HanoiTV2.vn",
-    "name": "HanoiTV2",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Hanoi People's Committee"
-    ],
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/szivqh2.png",
-    "stream_url": "https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://hanoitv.vn/",
-    "launched": null,
     "closed": null
   },
   {
@@ -184601,35 +184885,6 @@
     },
     "website": "https://www.hbo.com/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "HBOMovies.us",
-    "name": "HBO Movies",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies",
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://static.hbo.com/2025-09/HBO_Movies_Plex_Logo_bw.svg",
-    "stream_url": "http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.hbo.com/",
-    "launched": "2025-09-04",
     "closed": null
   },
   {
@@ -194847,6 +195102,32 @@
       "sources": []
     },
     "website": "https://www.hungry.live/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HungYenTV.vn",
+    "name": "Hung Yen TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/TH1DWdm.png",
+    "stream_url": "https://ott3.nethubtv.vn/live/hungyentv/playlist.m3u8",
+    "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.hungyentv.vn/",
     "launched": null,
     "closed": null
   },
@@ -206913,6 +207194,32 @@
     "closed": null
   },
   {
+    "id": "JEMRTV.hn",
+    "name": "JEMR TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "HN",
+    "country_name": "Honduras",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CnR2m66.png",
+    "stream_url": "https://tv.webmedialive.com/jmrtv/live/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "JeremiahTV.pk",
     "name": "Jeremiah TV",
     "alt_names": [],
@@ -216930,32 +217237,6 @@
     "closed": null
   },
   {
-    "id": "KhanhHoaTV.vn",
-    "name": "Khanh Hoa TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/qLMcGPT.png",
-    "stream_url": "https://cdnbaokhanhhoa.com/live/1332e3a79e27.m3u8?vhost=video",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://khanhhoa.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Khatlon.tj",
     "name": "Khatlon",
     "alt_names": [],
@@ -225740,32 +226021,6 @@
     "closed": null
   },
   {
-    "id": "LamDongTV.vn",
-    "name": "Lam Dong TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/lSMoGlv.png",
-    "stream_url": "http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://lamdongtv.vn/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "LaMelinkanaTV.cl",
     "name": "La Melinkana TV",
     "alt_names": [],
@@ -225998,6 +226253,34 @@
       "sources": []
     },
     "website": "https://www.laendletv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "LangSonTV.vn",
+    "name": "Lang Son TV",
+    "alt_names": [
+      "LSTV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Sj7EjYT.png",
+    "stream_url": "https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.langsontv.vn/",
     "launched": null,
     "closed": null
   },
@@ -253458,42 +253741,6 @@
     "closed": null
   },
   {
-    "id": "MNCTV.id",
-    "name": "MNCTV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Media Nusantara Citra"
-    ],
-    "country_code": "ID",
-    "country_name": "Indonesia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/SK8pjQy.png",
-    "stream_url": "http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MNCTV.id",
-      "feed": "SD",
-      "site": "visionplus.id",
-      "site_id": "00000000000000000002",
-      "site_name": "MNCTV",
-      "lang": "id",
-      "sources": []
-    },
-    "website": "https://m.rctiplus.com/tv/mnctv",
-    "launched": "1991-01-23",
-    "closed": null
-  },
-  {
     "id": "MNetHD.mk",
     "name": "M-Net HD",
     "alt_names": [],
@@ -278671,6 +278918,35 @@
     "closed": null
   },
   {
+    "id": "News24World.au",
+    "name": "News24 World",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Australian News Channel Pty Ltd",
+      "News Corp Australia"
+    ],
+    "country_code": "AU",
+    "country_name": "Australia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/mzc1nJS.png",
+    "stream_url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.news24.com.au/",
+    "launched": "2026-07-27",
+    "closed": null
+  },
+  {
     "id": "NewsCapitalGujarat.in",
     "name": "News Capital Gujarat",
     "alt_names": [],
@@ -280862,6 +281138,32 @@
     "logo": "https://i.imgur.com/d9YEEwC.png",
     "stream_url": "https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://truyenhinhnghean.vn/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NgheAnTV.vn",
+    "name": "Nghe An TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/d9YEEwC.png",
+    "stream_url": "https://67tz1gnwrvxic.cmccdn.net/hls/NGHEANTV/03.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -284611,36 +284913,6 @@
     },
     "website": "http://www.nxtv.com.cn/tv/ws/",
     "launched": "1970-10-01",
-    "closed": null
-  },
-  {
-    "id": "NinhThuanTV.vn",
-    "name": "Ninh Thuan TV",
-    "alt_names": [
-      "Thuan Hai TV",
-      "TNT Ninh Thuan",
-      "Khanh Hoa TV 1"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/HIyUzLM.png",
-    "stream_url": "https://cdnbaokhanhhoa.com/live/90405a889081.m3u8?vhost=video",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.ninhthuantv.vn/",
-    "launched": null,
     "closed": null
   },
   {
@@ -288626,78 +288898,6 @@
     },
     "website": "https://www.nowmusic.com/",
     "launched": "2010-11-23",
-    "closed": null
-  },
-  {
-    "id": "NOWTV.tr",
-    "name": "NOW TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Huzur Radyo TV A.Ş."
-    ],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/5EYjWK7.png",
-    "stream_url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NOWTV.tr",
-      "feed": "SD",
-      "site": "tvplus.com.tr",
-      "site_id": "93",
-      "site_name": "NOW",
-      "lang": "tr",
-      "sources": []
-    },
-    "website": "https://www.nowtv.com.tr",
-    "launched": "2024-02-12",
-    "closed": null
-  },
-  {
-    "id": "NOWTV.tr",
-    "name": "NOW TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Huzur Radyo TV A.Ş."
-    ],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/5EYjWK7.png",
-    "stream_url": "http://116.202.238.88/FOXTV_TR/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NOWTV.tr",
-      "feed": "SD",
-      "site": "tvplus.com.tr",
-      "site_id": "93",
-      "site_name": "NOW",
-      "lang": "tr",
-      "sources": []
-    },
-    "website": "https://www.nowtv.com.tr",
-    "launched": "2024-02-12",
     "closed": null
   },
   {
@@ -336143,6 +336343,40 @@
     "closed": null
   },
   {
+    "id": "PXSports.mx",
+    "name": "PX Sports",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/960px-PX_Sports_-_Logo.png",
+    "stream_url": "http://38.65.175.84:8000/play/a0ku/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PXSports.mx",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch6293",
+      "site_name": "PX SPORTS",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://pxsports.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "QafTV.tr",
     "name": "Qaf TV",
     "alt_names": [],
@@ -337748,6 +337982,30 @@
     },
     "website": "https://quadro.tv/",
     "launched": "2020-01-01",
+    "closed": null
+  },
+  {
+    "id": "QuangNamTV.vn",
+    "name": "Quang Nam TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/uWiOoVg.png",
+    "stream_url": "https://freem3u.xyz/api/live/play.m3u8?vid=80",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://qrt.vn/",
+    "launched": null,
     "closed": null
   },
   {
@@ -347791,6 +348049,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RBTVJogja.id",
+    "name": "RBTV Jogja",
+    "alt_names": [
+      "Reksa Birama TV"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/id/3/31/RBTV_Jogjakarta.png",
+    "stream_url": "https://official.rbtvjogja.tv/live/mychannel.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://official.rbtvjogja.tv/live.php",
+    "tv_guide": null,
+    "website": "http://www.rbtvjogja.tv/",
     "launched": null,
     "closed": null
   },
@@ -384750,30 +385036,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/8i5DXIg.png",
-    "stream_url": "https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "http://www.sctv.com.vn/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SCTV2.vn",
-    "name": "SCTV2",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/8i5DXIg.png",
     "stream_url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -393083,43 +393345,6 @@
     "website": "https://www.skynews.com.au/page/extra",
     "launched": null,
     "closed": null
-  },
-  {
-    "id": "SkyNewsExtra.au",
-    "name": "Sky News Extra",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Australian News Channel Pty Ltd",
-      "News Corp Australia"
-    ],
-    "country_code": "AU",
-    "country_name": "Australia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ZsPb8nL.png",
-    "stream_url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "SkyNewsExtra.au",
-      "feed": "SD",
-      "site": "i.mjh.nz",
-      "site_id": "Foxtel/epg#ASP",
-      "site_name": "Sky News Extra",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.skynews.com.au/page/extra",
-    "launched": "2009-01-20",
-    "closed": "2026-07-27"
   },
   {
     "id": "SkyNewsUrdu.pk",
@@ -413303,6 +413528,30 @@
     "closed": null
   },
   {
+    "id": "SurauTV.id",
+    "name": "Surau TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/CKoxcWL.png",
+    "stream_url": "https://surau-tv-rtmp-surautv.ltjafv.easypanel.host/hls/surautv.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://surau.tv/",
+    "tv_guide": null,
+    "website": "https://surautv.id/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SurenaTV.cl",
     "name": "Surena TV",
     "alt_names": [
@@ -419036,6 +419285,36 @@
     "closed": null
   },
   {
+    "id": "TBSTV.jp",
+    "name": "TBS TV",
+    "alt_names": [
+      "TBSテレビ"
+    ],
+    "network": "JNN/TBS Network",
+    "owners": [
+      "Tokyo Broadcasting System Television Inc."
+    ],
+    "country_code": "JP",
+    "country_name": "Japan",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/dUn2GRn.png",
+    "stream_url": "https://tbs5.mov3.co/hls/tbs.m3u8",
+    "stream_quality": "540p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "referrer": "https://mov3.co/tbs.html",
+    "tv_guide": null,
+    "website": "https://www.tbs.co.jp/",
+    "launched": "1955-04-01",
+    "closed": null
+  },
+  {
     "id": "TBSTV.kr",
     "name": "TBS TV",
     "alt_names": [],
@@ -421349,6 +421628,32 @@
     },
     "website": "https://www.teleantioquia.co/",
     "launched": "1985-08-11",
+    "closed": null
+  },
+  {
+    "id": "TeleantioquiaPlus.co",
+    "name": "Teleantioquia Plus",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b0/TeleantioquiaPlus.svg/revision/latest/scale-to-width-down/320?cb=20260826013823&path-prefix=es",
+    "stream_url": "http://200.122.223.13:55000/play/teleantioquia-go-tdt/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
     "closed": null
   },
   {
@@ -425028,6 +425333,42 @@
     "closed": null
   },
   {
+    "id": "Telemedellin.co",
+    "name": "Telemedellin",
+    "alt_names": [
+      "Telemedellín"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6NGOIhH.png",
+    "stream_url": "http://181.78.82.130:8000/play/a0ru/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Telemedellin.co",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "co#telemedellin-hd",
+      "site_name": "Telemedellín HD",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://telemedellin.tv/",
+    "launched": "1997-12-07",
+    "closed": null
+  },
+  {
     "id": "TelemediosCanal8.do",
     "name": "Telemedios Canal 8",
     "alt_names": [],
@@ -427133,7 +427474,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/88MVgwX.png",
+    "logo": "https://i.imgur.com/sfUBb7I.jpeg",
     "stream_url": "https://lbgo.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -427159,7 +427500,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/88MVgwX.png",
+    "logo": "https://i.imgur.com/sfUBb7I.jpeg",
     "stream_url": "https://iptv.ixfo.com.ar:30443/live/TelePosadasTv/playlist.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -483000,6 +483341,30 @@
     "closed": null
   },
   {
+    "id": "USMTV.id",
+    "name": "USM TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "ID",
+    "country_name": "Indonesia",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://usmtv.id/wp-content/uploads/2024/01/logo-large-1.png",
+    "stream_url": "https://play.fsa-stream.my.id/hls/siaran.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": "https://usmtv.id/live-tv/",
+    "tv_guide": null,
+    "website": "https://usmtv.id",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "UStad.nl",
     "name": "UStad",
     "alt_names": [],
@@ -494799,34 +495164,6 @@
     "closed": null
   },
   {
-    "id": "VTV5TayNamBo.vn",
-    "name": "VTV5 Tay Nam Bo",
-    "alt_names": [
-      "VTV5 Tây Nam Bộ"
-    ],
-    "network": null,
-    "owners": [
-      "Vietnam Television"
-    ],
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/xiuHjEQ.png",
-    "stream_url": "https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv5tnb-manifest.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://vtv.vn/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "VTV5TayNguyen.vn",
     "name": "VTV5 Tay Nguyen",
     "alt_names": [
@@ -494846,34 +495183,6 @@
     "logo": "https://i.imgur.com/Hlcnqqt.png",
     "stream_url": "https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/index.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://vtv.vn/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "VTV5TayNguyen.vn",
-    "name": "VTV5 Tay Nguyen",
-    "alt_names": [
-      "VTV5 Tây Nguyên"
-    ],
-    "network": null,
-    "owners": [
-      "Vietnam Television"
-    ],
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Hlcnqqt.png",
-    "stream_url": "https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv5tn-manifest.m3u8",
-    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -505756,6 +506065,37 @@
     "tv_guide": null,
     "website": "http://www.yementoday.tv/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "YerkirMedia.am",
+    "name": "Yerkir Media",
+    "alt_names": [
+      "Երկիր Մեդիա",
+      "Еркир Медиа"
+    ],
+    "network": null,
+    "owners": [
+      "Husaber"
+    ],
+    "country_code": "AM",
+    "country_name": "Armenia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KqkOz6H.png",
+    "stream_url": "http://yerkirmedia.am/yerkirmedia/live.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://yerkirmedia.am/",
+    "launched": "2004-05-28",
     "closed": null
   },
   {

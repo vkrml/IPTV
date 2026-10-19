@@ -310,6 +310,42 @@
     "closed": null
   },
   {
+    "id": "AnimalPlanet.pl",
+    "name": "Animal Planet",
+    "alt_names": [],
+    "network": "Skydance EMEA",
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+    "stream_url": "http://57.128.231.171:8080/317/index.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AnimalPlanet.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "animal-planet-hd-284",
+      "site_name": "Animal Planet HD",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://www.animalplanet.pl/",
+    "launched": "1997-10-01",
+    "closed": "2015-01-31"
+  },
+  {
     "id": "AntenaHD.pl",
     "name": "Antena HD",
     "alt_names": [
@@ -2959,6 +2995,32 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png",
+    "stream_url": "http://88.212.15.17/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "FILMBOXPlusLoveCrime.pl",
+    "name": "FILMBOX+ Love & Crime",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png",
     "stream_url": "https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -3063,10 +3125,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
-    "stream_url": "http://88.212.15.17/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8",
+    "stream_url": "http://88.212.15.17/live/filmbox_hungary/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "user_agent": null,
     "referrer": null,
     "tv_guide": null,
     "website": null,

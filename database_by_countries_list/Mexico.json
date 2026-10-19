@@ -279,6 +279,42 @@
     "closed": null
   },
   {
+    "id": "AzCinema.mx",
+    "name": "Az Cinema",
+    "alt_names": [
+      "Cinema"
+    ],
+    "network": "TV Azteca Internacional",
+    "owners": [],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/B5UN7C8.png",
+    "stream_url": "http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AzCinema.mx",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "cl#az-cinema",
+      "site_name": "Az Cinema",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.tvazteca.com/tvpaga/notas/cinema",
+    "launched": "2015-05-05",
+    "closed": null
+  },
+  {
     "id": "AzClic.mx",
     "name": "Az Clic",
     "alt_names": [
@@ -2370,6 +2406,44 @@
     "closed": null
   },
   {
+    "id": "DePeliculaLatinAmerica.mx",
+    "name": "De Pelicula Latin America",
+    "alt_names": [
+      "De Película Latin America"
+    ],
+    "network": null,
+    "owners": [
+      "Televisa Networks"
+    ],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/aksM8pa.png",
+    "stream_url": "http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DePeliculaLatinAmerica.mx",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "mx#de-pelicula-hd",
+      "site_name": "De Película HD",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://televisa-networks.ioncom.mx/portfolio/de-pelicula/",
+    "launched": "1991-12-25",
+    "closed": null
+  },
+  {
     "id": "DePeliculaPlus.mx",
     "name": "De Pelicula Plus",
     "alt_names": [
@@ -3021,6 +3095,40 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/NNd1lYl.png",
+    "stream_url": "http://15.204.196.147:22880/RECEPCION-GOLDEN_LAT-FHD/video.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Golden.mx",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "513",
+      "site_name": "GOLDEN",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://televisa-networks.ioncom.mx/portfolio/golden/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Golden.mx",
+    "name": "Golden",
+    "alt_names": [],
+    "network": "Televisa Networks",
+    "owners": [
+      "Grupo Televisa"
+    ],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NNd1lYl.png",
     "stream_url": "https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8",
     "stream_quality": "240p",
     "stream_format": null,
@@ -3226,6 +3334,40 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/SlSbcp3.png",
     "stream_url": "http://168.196.127.137:6001/play/a09p/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GoldenEdge.mx",
+      "feed": "Panregional",
+      "site": "reportv.com.ar",
+      "site_id": "4527",
+      "site_name": "GOLDEN EDGE HD",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://televisa-networks.com/portfolio/golden-edge/",
+    "launched": "2003-01-01",
+    "closed": null
+  },
+  {
+    "id": "GoldenEdge.mx",
+    "name": "Golden Edge",
+    "alt_names": [],
+    "network": "Televisa Networks",
+    "owners": [
+      "Televisa"
+    ],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/SlSbcp3.png",
+    "stream_url": "http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -4909,6 +5051,40 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/960px-PX_Sports_-_Logo.png",
     "stream_url": "http://38.252.238.18:8000/play/a02f/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PXSports.mx",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch6293",
+      "site_name": "PX SPORTS",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://pxsports.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PXSports.mx",
+    "name": "PX Sports",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/960px-PX_Sports_-_Logo.png",
+    "stream_url": "http://38.65.175.84:8000/play/a0ku/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

@@ -4412,6 +4412,34 @@
     "closed": null
   },
   {
+    "id": "SmartRadio.ro",
+    "name": "Smart Radio",
+    "alt_names": [
+      "Smart FM"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.smartradio.ro/wp-content/themes/smart-radio/img/Logo_SmartRadio.png",
+    "stream_url": "https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.smartradio.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SperantaTV.ro",
     "name": "SperantaTV",
     "alt_names": [
@@ -4445,6 +4473,42 @@
     },
     "website": "http://www.sperantatv.ro/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SportExtra.ro",
+    "name": "Sport Extra",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Mooz TV SRL"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fa/Sport_Extra_horizontal.svg/revision/latest/scale-to-width-down/1000?cb=20220425110755",
+    "stream_url": "https://tvextra-hls.b-cdn.net/sportextra/sportextra.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SportExtra.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "sport-extra",
+      "site_name": "Sport Extra",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.sportextra.ro/",
+    "launched": "2020-03-02",
     "closed": null
   },
   {
@@ -4656,6 +4720,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TequilaMusicTV.ro",
+    "name": "Tequila Music TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://tequilamusic.net/imagini/tv-logo.png",
+    "stream_url": "https://stream.tequilamusic.net/hls/tequila_tv.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://tequilamusic.net/",
     "launched": null,
     "closed": null
   },

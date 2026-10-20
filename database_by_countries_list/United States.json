@@ -5562,6 +5562,34 @@
     "closed": null
   },
   {
+    "id": "AMCSeriesLatinAmerica.us",
+    "name": "AMC Series Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "AMC Global Media"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png",
+    "stream_url": "https://streaming.onnethn.com/AMC/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.amcseries.com/",
+    "launched": "2025-11-01",
+    "closed": null
+  },
+  {
     "id": "AmericanHeroesChannel.us",
     "name": "American Heroes Channel",
     "alt_names": [],
@@ -8740,6 +8768,42 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "stream_url": "http://45.167.1.138:8000/play/a04s",
     "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AXNLatinAmerica.us",
+      "feed": "Andes",
+      "site": "siba.com.co",
+      "site_id": "384",
+      "site_name": "AXN",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://la.axn.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "AXNLatinAmerica.us",
+    "name": "AXN Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sony Pictures Television"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "stream_url": "https://streaming.onnethn.com/AXN_HD/playlist.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -26549,43 +26613,6 @@
     },
     "website": "http://disney.go.com/disneyjunior/",
     "launched": "2011-02-14",
-    "closed": null
-  },
-  {
-    "id": "DisneyXD.us",
-    "name": "Disney XD",
-    "alt_names": [],
-    "network": "Disney Channels",
-    "owners": [
-      "The Walt Disney Company",
-      "Disney Kids & Family"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
-    "stream_url": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "DisneyXD.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "18793",
-      "site_name": "Disney XD West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://disneynow.com/all-shows/disney-xd",
-    "launched": "2009-02-13",
     "closed": null
   },
   {
@@ -53579,6 +53606,43 @@
     "closed": null
   },
   {
+    "id": "MTVLatinAmerica.us",
+    "name": "MTV Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Viacom International Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "stream_url": "https://streaming.onnethn.com/MTV/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MTVLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "544",
+      "site_name": "MTV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.mtvla.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "MTVLive.us",
     "name": "MTV Live",
     "alt_names": [],
@@ -59554,6 +59618,43 @@
     "closed": null
   },
   {
+    "id": "NickelodeonLatinAmerica.us",
+    "name": "Nickelodeon Latin America",
+    "alt_names": [],
+    "network": "Nickelodeon",
+    "owners": [
+      "Viacom International Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "stream_url": "https://zapster.trapemn.tv:1936/CD-LATAM/Nickelodeon/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NickelodeonLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "552",
+      "site_name": "NICKELODEON",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://nickelodeon.la/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "NickelodeonPlutoTV.us",
     "name": "Nickelodeon Pluto TV",
     "alt_names": [],
@@ -59881,6 +59982,43 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://pluto.tv/en/live-tv/nick-jr-club-1",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "NickJrLatinAmerica.us",
+    "name": "Nick Jr. Latin America",
+    "alt_names": [],
+    "network": "Nickelodeon",
+    "owners": [
+      "Viacom International Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KT4tdQs.png",
+    "stream_url": "https://streaming.onnethn.com/NICK_JR/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NickJrLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "551",
+      "site_name": "NICK JR",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://la.nickjr.tv/",
     "launched": null,
     "closed": null
   },
@@ -81904,6 +82042,40 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/QpDkrmT.png",
+    "stream_url": "https://streaming.onnethn.com/TCM_HD/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TCMLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "reportv.com.ar",
+      "site_id": "910",
+      "site_name": "TCM",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.tcmla.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TCMLatinAmerica.us",
+    "name": "TCM Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/QpDkrmT.png",
     "stream_url": "http://45.171.64.30:6060/play/a014/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -88070,7 +88242,7 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/3yXRbQy.png",
     "stream_url": "https://streaming.onnethn.com/TOONCAST/playlist.m3u8",
-    "stream_quality": "1080p",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

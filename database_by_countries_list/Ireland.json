@@ -30,7 +30,18 @@
       "site_id": "6896595a58a6658b3d6a501a",
       "site_name": "F1 Channel",
       "lang": "en",
-      "sources": []
+      "sources": [
+        {
+          "host": "epg.kanya.io/us/",
+          "url": "https://epg.kanya.io/us/guide.xml",
+          "format": "XML"
+        },
+        {
+          "host": "epg.kanya.io/us/",
+          "url": "https://epg.kanya.io/us/guide.xml.gz",
+          "format": "GZIP"
+        }
+      ]
     },
     "website": "https://www.c15.studio/channels/formula-1-channel/",
     "launched": "2024-04-25",
@@ -242,6 +253,42 @@
     "tv_guide": null,
     "website": null,
     "launched": "2011-11-15",
+    "closed": null
+  },
+  {
+    "id": "RTEjr.ie",
+    "name": "RTEjr",
+    "alt_names": [
+      "RTÉjr"
+    ],
+    "network": null,
+    "owners": [
+      "Raidió Teilifís Éireann"
+    ],
+    "country_code": "IE",
+    "country_name": "Ireland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/E3jxqu9.png",
+    "stream_url": "http://etvhosts.site:55337/live/littlespiked/cam1gail2brian3/20641.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": "Win64",
+    "referrer": "https://www.rte.ie/",
+    "tv_guide": {
+      "channel": "RTEjr.ie",
+      "feed": "SD",
+      "site": "tvireland.ie",
+      "site_id": "1649/rte-jr",
+      "site_name": "RTE Jr",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.rte.ie/rtejr/",
+    "launched": null,
     "closed": null
   },
   {

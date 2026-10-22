@@ -3974,6 +3974,42 @@
     "closed": null
   },
   {
+    "id": "ESPNPremium.ar",
+    "name": "ESPN Premium",
+    "alt_names": [
+      "Fox Sports Premium Argentina"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png",
+    "stream_url": "http://158.172.155.130:8000/play/a0ao/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ESPNPremium.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#fox-sports-premium",
+      "site_name": "FOX Sports Premium",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://espn.com.ar/",
+    "launched": "2017-08-21",
+    "closed": null
+  },
+  {
     "id": "EuropaEuropa.ar",
     "name": "Europa Europa",
     "alt_names": [],
@@ -6198,7 +6234,7 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/sfUBb7I.jpeg",
     "stream_url": "https://lbgo.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8",
-    "stream_quality": "720p",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

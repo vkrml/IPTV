@@ -4671,6 +4671,46 @@
     "closed": null
   },
   {
+    "id": "AsianetNews.in",
+    "name": "Asianet News",
+    "alt_names": [
+      "ഏഷ്യാനെറ്റ് ന്യൂസ്‌"
+    ],
+    "network": "Asianet News",
+    "owners": [
+      "Asianxt Digital Technologies",
+      "Asianet News Network",
+      "Jupiter Capital"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s142679_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://cdn.pishow.tv/ott/live/1297/master.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AsianetNews.in",
+      "feed": "SD",
+      "site": "zee5.com",
+      "site_id": "0-9-200",
+      "site_name": "Asianet News",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.asianetnews.com/",
+    "launched": "1995-09-30",
+    "closed": null
+  },
+  {
     "id": "AsianetSuvarnaNews.in",
     "name": "Asianet Suvarna News",
     "alt_names": [
@@ -8054,7 +8094,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/108/1782291760108-h.jpg",
-    "stream_url": "http://66.102.126.10:8000/play/a00a/index.m3u8",
+    "stream_url": "http://103.151.60.162:2122/play/a02q/index.m3u8?hls",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -8092,7 +8132,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/108/1782291760108-h.jpg",
-    "stream_url": "http://103.151.60.162:2122/play/a02q/index.m3u8?hls",
+    "stream_url": "http://103.135.253.32:8080/Color-HD/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -8653,6 +8693,42 @@
     "logo": "https://dtil.tmsimg.com/assets/s142754_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://live.legitpro.co.in/ctvnakdplus/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CTVNAKDPlus.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "311",
+      "site_name": "CTVN AKD Plus",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://ctvn.co.in/",
+    "launched": "2016-02-14",
+    "closed": null
+  },
+  {
+    "id": "CTVNAKDPlus.in",
+    "name": "CTVN AKD Plus",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Calcutta Television Network"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s142754_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://cdn.pishow.tv/ott/live/448/master.m3u8",
+    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -11632,6 +11708,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png",
+    "stream_url": "https://cdn.pishow.tv/ott/live/1161/master.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DDSports.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "1191",
+      "site_name": "DD Sports HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://doordarshan.gov.in/ddsports",
+    "launched": "1998-03-18",
+    "closed": null
+  },
+  {
+    "id": "DDSports.in",
+    "name": "DD Sports",
+    "alt_names": [],
+    "network": "Doordarshan",
+    "owners": [
+      "Prasar Bharati"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png",
     "stream_url": "https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -14262,43 +14374,6 @@
     },
     "website": "http://www.etv.co.in/channels/home?channelId=2",
     "launched": "2014-05-01",
-    "closed": null
-  },
-  {
-    "id": "ETVTelugu.in",
-    "name": "ETV Telugu",
-    "alt_names": [],
-    "network": "ETV",
-    "owners": [
-      "Eenadu Television Private Limited (ETV)",
-      "Ramoji Group"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002EF2L0.png?lock=720x540",
-    "stream_url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ETVTelugu.in",
-      "feed": "SD",
-      "site": "tataplay.com",
-      "site_id": "145",
-      "site_name": "ETV Telugu",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.etv.co.in/channels/home?channelId=1",
-    "launched": null,
     "closed": null
   },
   {
@@ -20276,6 +20351,40 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/qfINs2r.png",
     "stream_url": "https://d1msejlow1t3l4.cloudfront.net/fta/kashishnews/playlist.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "KashishNews.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "838",
+      "site_name": "Kashish News",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.kashishnews.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "KashishNews.in",
+    "name": "Kashish News",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/qfINs2r.png",
+    "stream_url": "https://cdn.pishow.tv/ott/live/1471/master.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -28076,6 +28185,43 @@
     "closed": null
   },
   {
+    "id": "NewsX.in",
+    "name": "NewsX",
+    "alt_names": [],
+    "network": "iTV Network",
+    "owners": [
+      "Information TV Private Limited",
+      "Kartikeya Sharma"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dtil.tmsimg.com/assets/s143624_ld_h15_aa.png?lock=720x540",
+    "stream_url": "https://cdn.pishow.tv/ott/live/1765/master.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NewsX.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "189",
+      "site_name": "NewsX",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.newsx.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "NewsXWorld.in",
     "name": "NewsX World",
     "alt_names": [],
@@ -28095,6 +28241,43 @@
     "is_nsfw": false,
     "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/NewsX%20World_Transparent_f60e2692-58f4-43f7-b254-4a64c64cc253.png",
     "stream_url": "https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NewsXWorld.in",
+      "feed": "HD",
+      "site": "tataplay.com",
+      "site_id": "1487",
+      "site_name": "NewsX World",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.newsx.com/",
+    "launched": "2025-03-01",
+    "closed": null
+  },
+  {
+    "id": "NewsXWorld.in",
+    "name": "NewsX World",
+    "alt_names": [],
+    "network": "iTV Network",
+    "owners": [
+      "Information TV Private Limited",
+      "Kartikeya Sharma"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/NewsX%20World_Transparent_f60e2692-58f4-43f7-b254-4a64c64cc253.png",
+    "stream_url": "https://cdn.pishow.tv/ott/live/1049/master.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
@@ -29432,6 +29615,40 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/5PyJj2n.png",
+    "stream_url": "https://d1msejlow1t3l4.cloudfront.net/fta/peppers/playlist.m3u8",
+    "stream_quality": "396p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PeppersTV.in",
+      "feed": "SD",
+      "site": "tataplay.com",
+      "site_id": "421",
+      "site_name": "Peppers TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://pepperstv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PeppersTV.in",
+    "name": "Peppers TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/5PyJj2n.png",
     "stream_url": "https://cdn.pishow.tv/ott/live/1383/master.m3u8",
     "stream_quality": "751p",
     "stream_format": null,
@@ -30245,8 +30462,8 @@
     "closed": null
   },
   {
-    "id": "PrarthanaTV.in",
-    "name": "Prarthana TV",
+    "id": "PrarthanaLife.in",
+    "name": "Prarthana Life",
     "alt_names": [],
     "network": "Odisha Television Network",
     "owners": [
@@ -30259,7 +30476,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/gj7dtNF.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Prarthana_Life.png",
     "stream_url": "https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -30267,12 +30484,12 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.tarangplus.in/all-channels/prarthana-tv",
-    "launched": "2010-04-14",
+    "launched": null,
     "closed": null
   },
   {
-    "id": "PrarthanaTV.in",
-    "name": "Prarthana TV",
+    "id": "PrarthanaLife.in",
+    "name": "Prarthana Life",
     "alt_names": [],
     "network": "Odisha Television Network",
     "owners": [
@@ -30285,7 +30502,7 @@
     "categories": [],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://i.imgur.com/gj7dtNF.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Prarthana_Life.png",
     "stream_url": "https://cdn.pishow.tv/ott/live/1500/master.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -30293,7 +30510,7 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.tarangplus.in/all-channels/prarthana-tv",
-    "launched": "2010-04-14",
+    "launched": null,
     "closed": null
   },
   {
@@ -42210,6 +42427,32 @@
     "closed": null
   },
   {
+    "id": "Tunes6.in",
+    "name": "Tunes 6",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/VUzMQ9S.png",
+    "stream_url": "https://stream.d6-pro.com/Tunes6music/live/video.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TV5Kannada.in",
     "name": "TV5 Kannada",
     "alt_names": [],
@@ -47022,7 +47265,7 @@
     "is_nsfw": false,
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022S299.png?lock=720x540",
     "stream_url": "http://107.167.16.138/zeetalkies/index.m3u8?token=test",
-    "stream_quality": "576p",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -47431,6 +47674,32 @@
       "sources": []
     },
     "website": "http://www.zingtv.in/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Zingabad.in",
+    "name": "Zingabad",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/zingabad.png",
+    "stream_url": "https://stream.ottlive.co.in/zingabad/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://zingabad.com/",
     "launched": null,
     "closed": null
   },

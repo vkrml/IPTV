@@ -27910,44 +27910,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
-    "stream_url": "http://31.148.48.15/Rossiya_1_HD/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Russia1.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1271",
-      "site_name": "Россия 1",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://russia.tv/",
-    "launched": "1991-05-13",
-    "closed": null
-  },
-  {
-    "id": "Russia1.ru",
-    "name": "Russia-1",
-    "alt_names": [
-      "Россия-1"
-    ],
-    "network": "VGTRK",
-    "owners": [
-      "Government of the Russian Federation"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png",
     "stream_url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8",
     "stream_quality": "450p",
     "stream_format": null,
@@ -42678,6 +42640,40 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://vitrinatv.ru/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VIVARussia.ru",
+    "name": "VIVA Russia",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/OFhQQCD.png",
+    "stream_url": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "VIVARussia.ru",
+      "feed": "SD",
+      "site": "epg.iptvx.one",
+      "site_id": "viva-rus",
+      "site_name": "VIVA Russia",
+      "lang": "ru",
+      "sources": []
+    },
+    "website": "https://viva-russia.ru/",
     "launched": null,
     "closed": null
   },

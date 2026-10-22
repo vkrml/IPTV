@@ -5117,7 +5117,18 @@
       "site_id": "68a8ddec619a0c342c8d6181",
       "site_name": "RCN Noticias",
       "lang": "es",
-      "sources": []
+      "sources": [
+        {
+          "host": "epg.kanya.io/us/",
+          "url": "https://epg.kanya.io/us/guide.xml",
+          "format": "XML"
+        },
+        {
+          "host": "epg.kanya.io/us/",
+          "url": "https://epg.kanya.io/us/guide.xml.gz",
+          "format": "GZIP"
+        }
+      ]
     },
     "website": "https://www.noticiasrcn.com/",
     "launched": null,

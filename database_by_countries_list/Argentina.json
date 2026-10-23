@@ -2070,33 +2070,6 @@
     "closed": null
   },
   {
-    "id": "CanalE.ar",
-    "name": "Canal E",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "business",
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg",
-    "stream_url": "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.perfil.com/canal-e",
-    "launched": "2023-05-30",
-    "closed": "2026-08-05"
-  },
-  {
     "id": "CanalLuz.ar",
     "name": "Canal Luz",
     "alt_names": [],
@@ -4654,6 +4627,34 @@
     "closed": null
   },
   {
+    "id": "MultivisionFederal.ar",
+    "name": "Multivision Federal",
+    "alt_names": [
+      "Multivisión Federal"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/jX0lqy3.png",
+    "stream_url": "https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://multivision.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "MusicTop.ar",
     "name": "MusicTop",
     "alt_names": [],
@@ -6002,40 +6003,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/HNcCX3h.png",
     "stream_url": "http://200.115.120.1:8000/play/ca016/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TelefeInternacional.ar",
-      "feed": "SD",
-      "site": "reportv.com.ar",
-      "site_id": "149",
-      "site_name": "TELEFE INTERNACIONAL",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "http://telefeinternacional.com.ar/",
-    "launched": "1998-01-01",
-    "closed": null
-  },
-  {
-    "id": "TelefeInternacional.ar",
-    "name": "Telefe Internacional",
-    "alt_names": [],
-    "network": "Telefe",
-    "owners": [
-      "Grupo Televisión Litoral"
-    ],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/HNcCX3h.png",
-    "stream_url": "http://190.60.55.141:9083/play/a0pb/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

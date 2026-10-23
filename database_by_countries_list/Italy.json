@@ -322,40 +322,6 @@
     "closed": null
   },
   {
-    "id": "ACISportTV.it",
-    "name": "ACI Sport TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IT",
-    "country_name": "Italy",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/U8cHMOt.png",
-    "stream_url": "http://145.239.5.177/564a/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ACISportTV.it",
-      "feed": "SD",
-      "site": "superguidatv.it",
-      "site_id": "aci-sport-tv/sky-sport/599",
-      "site_name": "ACI Sport Tv",
-      "lang": "it",
-      "sources": []
-    },
-    "website": "https://www.acisport.it/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Adnkronos.it",
     "name": "Adnkronos",
     "alt_names": [],
@@ -713,6 +679,43 @@
     "tv_guide": null,
     "website": "https://bergamotv.it/",
     "launched": "1976-01-01",
+    "closed": null
+  },
+  {
+    "id": "Boing.it",
+    "name": "Boing",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Boing SpA",
+      "Skydance Corporation"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/rabKj9i.png",
+    "stream_url": "https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Boing.it",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "51",
+      "site_name": "Boing I",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "https://www.boingtv.it/",
+    "launched": "2004-11-20",
     "closed": null
   },
   {
@@ -1265,6 +1268,42 @@
     },
     "website": "https://video.milanofinanza.it/",
     "launched": "2000-06-14",
+    "closed": null
+  },
+  {
+    "id": "ComedyCentral.it",
+    "name": "Comedy Central",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Paramount Networks EMEAA"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+    "stream_url": "http://team-tv.co:81/comedy/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ComedyCentral.it",
+      "feed": "SD",
+      "site": "superguidatv.it",
+      "site_id": "comedy-central/sky-intrattenimento/15",
+      "site_name": "Comedy Central",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "http://www.comedycentral.it/",
+    "launched": "2004-12-01",
     "closed": null
   },
   {
@@ -3738,6 +3777,44 @@
     "closed": null
   },
   {
+    "id": "MilanTV.it",
+    "name": "Milan TV",
+    "alt_names": [
+      "Milan Channel"
+    ],
+    "network": null,
+    "owners": [
+      "AC Milan"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/gAMQfUw.png",
+    "stream_url": "http://team-tv.co:81/milan/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MilanTV.it",
+      "feed": "SD",
+      "site": "superguidatv.it",
+      "site_id": "milan-tv/sky-sport/55",
+      "site_name": "Milan TV",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "http://www.acmilan.com/",
+    "launched": "1999-12-16",
+    "closed": null
+  },
+  {
     "id": "MinformoTV.it",
     "name": "Minformo TV",
     "alt_names": [],
@@ -5429,6 +5506,40 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/sEY21rg.png",
+    "stream_url": "http://team-tv.co:81/rai4/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Rai4.it",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "330",
+      "site_name": "Rai 4",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "https://www.rai.it/rai4/",
+    "launched": "2008-07-14",
+    "closed": null
+  },
+  {
+    "id": "Rai4.it",
+    "name": "Rai 4",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rai"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sEY21rg.png",
     "stream_url": "https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966",
     "stream_quality": "576p",
     "stream_format": null,
@@ -5445,6 +5556,40 @@
     },
     "website": "https://www.rai.it/rai4/",
     "launched": "2008-07-14",
+    "closed": null
+  },
+  {
+    "id": "Rai5.it",
+    "name": "Rai 5",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rai"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/960px-Rai_5_-_Logo_2017.svg.png",
+    "stream_url": "http://team-tv.co:81/rai5/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Rai5.it",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "331",
+      "site_name": "Rai 5",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "http://www.rai.it/rai5/",
+    "launched": "2010-11-26",
     "closed": null
   },
   {
@@ -5535,40 +5680,6 @@
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RaiItalia.it",
-      "feed": "EuropeAfrica",
-      "site": "tv.blue.ch",
-      "site_id": "2028",
-      "site_name": "RAI Italia",
-      "lang": "it",
-      "sources": []
-    },
-    "website": "http://www.raitalia.it/",
-    "launched": "1992-01-01",
-    "closed": null
-  },
-  {
-    "id": "RaiItalia.it",
-    "name": "Rai Italia",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Rai"
-    ],
-    "country_code": "IT",
-    "country_name": "Italy",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/1nN4rEP.png",
-    "stream_url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/19093/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "RaiItalia.it",
@@ -5798,6 +5909,43 @@
     },
     "website": "https://www.rainews.it/",
     "launched": "1999-04-26",
+    "closed": null
+  },
+  {
+    "id": "RaiPremium.it",
+    "name": "Rai Premium",
+    "alt_names": [
+      "Rai Sat Prem1um",
+      "Rai Sat Fiction"
+    ],
+    "network": null,
+    "owners": [
+      "Rai"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/40g5Urz.png",
+    "stream_url": "http://team-tv.co:81/raipremium/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RaiPremium.it",
+      "feed": "SD",
+      "site": "tv.blue.ch",
+      "site_id": "336",
+      "site_name": "Rai Premium",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "http://www.rai.it/raipremium/",
+    "launched": "2003-07-31",
     "closed": null
   },
   {

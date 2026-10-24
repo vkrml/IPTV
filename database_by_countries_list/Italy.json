@@ -3981,6 +3981,42 @@
     "closed": null
   },
   {
+    "id": "NickJr.it",
+    "name": "Nick Jr.",
+    "alt_names": [],
+    "network": "Nickelodeon",
+    "owners": [
+      "Paramount Networks EMEAA"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/6p3eFgf.png",
+    "stream_url": "https://streamer-jv9.pages.dev/italy/nickjr.m3u",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NickJr.it",
+      "feed": "SD",
+      "site": "superguidatv.it",
+      "site_id": "nick-junior/sky-bambini/131",
+      "site_name": "Nick Junior",
+      "lang": "it",
+      "sources": []
+    },
+    "website": "http://www.nickjr.it/",
+    "launched": "2009-08-01",
+    "closed": null
+  },
+  {
     "id": "Nove.it",
     "name": "Nove",
     "alt_names": [
@@ -5610,6 +5646,40 @@
     "logo": "https://i.imgur.com/irAhPJM.png",
     "stream_url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RaiGulp.it",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "al/programacioni#rai-gulp",
+      "site_name": "RAI Gulp",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "http://www.raigulp.rai.it/",
+    "launched": "2007-06-01",
+    "closed": null
+  },
+  {
+    "id": "RaiGulp.it",
+    "name": "Rai Gulp",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Rai"
+    ],
+    "country_code": "IT",
+    "country_name": "Italy",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/irAhPJM.png",
+    "stream_url": "http://5.180.164.197:8080/RAIGULP/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

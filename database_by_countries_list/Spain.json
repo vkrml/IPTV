@@ -1376,7 +1376,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "AXNMovies.es",
+      "feed": "SD",
+      "site": "movistarplus.es",
+      "site_id": "SET",
+      "site_name": "AXN Movies",
+      "lang": "es",
+      "sources": []
+    },
     "website": "https://www.axn.es/axnmovies",
     "launched": "2012-05-07",
     "closed": null
@@ -2908,7 +2916,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "ClanInternacional.es",
+      "feed": "SD",
+      "site": "movistarplus.es",
+      "site_id": "CLANTV",
+      "site_name": "Clan TVE",
+      "lang": "es",
+      "sources": []
+    },
     "website": "http://www.rtve.es/infantil/",
     "launched": null,
     "closed": null
@@ -2937,7 +2953,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "ClanInternacional.es",
+      "feed": "SD",
+      "site": "movistarplus.es",
+      "site_id": "CLANTV",
+      "site_name": "Clan TVE",
+      "lang": "es",
+      "sources": []
+    },
     "website": "http://www.rtve.es/infantil/",
     "launched": null,
     "closed": null
@@ -3898,7 +3922,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "ETB1On.es",
+      "feed": "HD",
+      "site": "movistarplus.es",
+      "site_id": "ETB3",
+      "site_name": "etb1ON",
+      "lang": "es",
+      "sources": []
+    },
     "website": "http://www.eitb.eus/es/television",
     "launched": "2026-03-18",
     "closed": null
@@ -3927,7 +3959,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "ETB1On.es",
+      "feed": "HD",
+      "site": "movistarplus.es",
+      "site_id": "ETB3",
+      "site_name": "etb1ON",
+      "lang": "es",
+      "sources": []
+    },
     "website": "http://www.eitb.eus/es/television",
     "launched": "2026-03-18",
     "closed": null
@@ -3993,7 +4033,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "ETB2On.es",
+      "feed": "HD",
+      "site": "movistarplus.es",
+      "site_id": "ETB",
+      "site_name": "etb2ON",
+      "lang": "es",
+      "sources": []
+    },
     "website": "http://www.eitb.eus/es/television",
     "launched": "2026-03-18",
     "closed": null
@@ -4021,7 +4069,15 @@
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": null,
+    "tv_guide": {
+      "channel": "ETB2On.es",
+      "feed": "HD",
+      "site": "movistarplus.es",
+      "site_id": "ETB",
+      "site_name": "etb2ON",
+      "lang": "es",
+      "sources": []
+    },
     "website": "http://www.eitb.eus/es/television",
     "launched": "2026-03-18",
     "closed": null
@@ -5228,18 +5284,7 @@
       "site_id": "150#99951328",
       "site_name": "Love The Planet",
       "lang": "en",
-      "sources": [
-        {
-          "host": "epg.kanya.io/us/",
-          "url": "https://epg.kanya.io/us/guide.xml",
-          "format": "XML"
-        },
-        {
-          "host": "epg.kanya.io/us/",
-          "url": "https://epg.kanya.io/us/guide.xml.gz",
-          "format": "GZIP"
-        }
-      ]
+      "sources": []
     },
     "website": "https://lovetvchannels.com/en/our-channels/#planet",
     "launched": null,
@@ -5275,18 +5320,7 @@
       "site_id": "150#99951328",
       "site_name": "Love The Planet",
       "lang": "en",
-      "sources": [
-        {
-          "host": "epg.kanya.io/us/",
-          "url": "https://epg.kanya.io/us/guide.xml",
-          "format": "XML"
-        },
-        {
-          "host": "epg.kanya.io/us/",
-          "url": "https://epg.kanya.io/us/guide.xml.gz",
-          "format": "GZIP"
-        }
-      ]
+      "sources": []
     },
     "website": "https://lovetvchannels.com/en/our-channels/#planet",
     "launched": null,
@@ -5322,18 +5356,7 @@
       "site_id": "150#99951328",
       "site_name": "Love The Planet",
       "lang": "en",
-      "sources": [
-        {
-          "host": "epg.kanya.io/us/",
-          "url": "https://epg.kanya.io/us/guide.xml",
-          "format": "XML"
-        },
-        {
-          "host": "epg.kanya.io/us/",
-          "url": "https://epg.kanya.io/us/guide.xml.gz",
-          "format": "GZIP"
-        }
-      ]
+      "sources": []
     },
     "website": "https://lovetvchannels.com/en/our-channels/#planet",
     "launched": null,
@@ -5369,18 +5392,7 @@
       "site_id": "150#99951328",
       "site_name": "Love The Planet",
       "lang": "en",
-      "sources": [
-        {
-          "host": "epg.kanya.io/us/",
-          "url": "https://epg.kanya.io/us/guide.xml",
-          "format": "XML"
-        },
-        {
-          "host": "epg.kanya.io/us/",
-          "url": "https://epg.kanya.io/us/guide.xml.gz",
-          "format": "GZIP"
-        }
-      ]
+      "sources": []
     },
     "website": "https://lovetvchannels.com/en/our-channels/#planet",
     "launched": null,
@@ -5416,18 +5428,7 @@
       "site_id": "150#99951328",
       "site_name": "Love The Planet",
       "lang": "en",
-      "sources": [
-        {
-          "host": "epg.kanya.io/us/",
-          "url": "https://epg.kanya.io/us/guide.xml",
-          "format": "XML"
-        },
-        {
-          "host": "epg.kanya.io/us/",
-          "url": "https://epg.kanya.io/us/guide.xml.gz",
-          "format": "GZIP"
-        }
-      ]
+      "sources": []
     },
     "website": "https://lovetvchannels.com/en/our-channels/#planet",
     "launched": null,
@@ -7372,18 +7373,7 @@
       "site_id": "50#99951381",
       "site_name": "Real Madrid TV",
       "lang": "en",
-      "sources": [
-        {
-          "host": "epg.kanya.io/us/",
-          "url": "https://epg.kanya.io/us/guide.xml",
-          "format": "XML"
-        },
-        {
-          "host": "epg.kanya.io/us/",
-          "url": "https://epg.kanya.io/us/guide.xml.gz",
-          "format": "GZIP"
-        }
-      ]
+      "sources": []
     },
     "website": "https://www.realmadrid.com/real-madrid-tv",
     "launched": "1999-02-14",
@@ -7419,18 +7409,7 @@
       "site_id": "50#99951381",
       "site_name": "Real Madrid TV",
       "lang": "en",
-      "sources": [
-        {
-          "host": "epg.kanya.io/us/",
-          "url": "https://epg.kanya.io/us/guide.xml",
-          "format": "XML"
-        },
-        {
-          "host": "epg.kanya.io/us/",
-          "url": "https://epg.kanya.io/us/guide.xml.gz",
-          "format": "GZIP"
-        }
-      ]
+      "sources": []
     },
     "website": "https://www.realmadrid.com/real-madrid-tv",
     "launched": "1999-02-14",

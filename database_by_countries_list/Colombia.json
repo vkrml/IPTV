@@ -626,6 +626,52 @@
     "closed": null
   },
   {
+    "id": "Canal1.co",
+    "name": "Canal 1",
+    "alt_names": [
+      "Canal Uno",
+      "Inravisión Cadena Uno",
+      "Inravisión Cadena 1",
+      "Inravisión Primera Cadena Color",
+      "Inravisión Primera Cadena",
+      "Inravisión Canal Nacional",
+      "Televisora Nacional de Colombia",
+      "HJTV-2",
+      "HJRN-TV"
+    ],
+    "network": null,
+    "owners": [
+      "Government of Colombia"
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/MiYlN0t.png",
+    "stream_url": "https://barinaslive1.boldmss.com/CANAL1/CANAL1.isml/CANAL1.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Canal1.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "401",
+      "site_name": "CANAL 1",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://canal1.com.co/",
+    "launched": "1954-06-13",
+    "closed": null
+  },
+  {
     "id": "Canal2AlpavisionNeiva.co",
     "name": "Canal 2 Alpavision Neiva",
     "alt_names": [
@@ -3841,6 +3887,42 @@
     "closed": null
   },
   {
+    "id": "CaracolTV.co",
+    "name": "Caracol TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Caracol Televisión S.A."
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/WbfdJbk.png",
+    "stream_url": "http://190.121.140.222:8081/CARACOL/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CaracolTV.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "394",
+      "site_name": "CANAL CARACOL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.caracoltv.com/",
+    "launched": "1998-07-10",
+    "closed": null
+  },
+  {
     "id": "CitytvBogota.co",
     "name": "Citytv Bogota",
     "alt_names": [
@@ -5079,18 +5161,7 @@
       "site_id": "68a8ddec619a0c342c8d6181",
       "site_name": "RCN Noticias",
       "lang": "es",
-      "sources": [
-        {
-          "host": "epg.kanya.io/us/",
-          "url": "https://epg.kanya.io/us/guide.xml",
-          "format": "XML"
-        },
-        {
-          "host": "epg.kanya.io/us/",
-          "url": "https://epg.kanya.io/us/guide.xml.gz",
-          "format": "GZIP"
-        }
-      ]
+      "sources": []
     },
     "website": "https://www.noticiasrcn.com/",
     "launched": null,

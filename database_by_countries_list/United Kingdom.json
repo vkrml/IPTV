@@ -672,6 +672,42 @@
     "closed": null
   },
   {
+    "id": "BabyTV.uk",
+    "name": "BabyTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "The Walt Disney Company Limited"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4BDJ5FT.png",
+    "stream_url": "https://saran-live.ercdn.net/babytv/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BabyTV.uk",
+      "feed": "UK",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000091_019490",
+      "site_name": "BabyTV",
+      "lang": "nl",
+      "sources": []
+    },
+    "website": "http://www.babytv.com/",
+    "launched": "2005-07-04",
+    "closed": null
+  },
+  {
     "id": "BBCAlba.uk",
     "name": "BBC Alba",
     "alt_names": [],
@@ -1982,42 +2018,6 @@
     "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
     "stream_url": "https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
     "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BBCNews.uk",
-      "feed": "Africa",
-      "site": "ziggogo.tv",
-      "site_id": "NL_000116_019005",
-      "site_name": "BBC News",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.bbc.co.uk/tv/bbcnews",
-    "launched": "1997-11-09",
-    "closed": null
-  },
-  {
-    "id": "BBCNews.uk",
-    "name": "BBC News",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "BBC Studios"
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
-    "stream_url": "https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8",
-    "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

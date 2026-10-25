@@ -1024,40 +1024,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://cdn.gamma.app/tfnglu66dwji8hw/d36b2d5c45a544749b3739d46fb119cc/original/CineWow.png",
-    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-aleph-news/live_hq?offsetSeconds=0",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CineWow.ro",
-      "feed": null,
-      "site": "tvprofil.com",
-      "site_id": "ro/program-tv#cinewow",
-      "site_name": "CineWow",
-      "lang": "ro",
-      "sources": []
-    },
-    "website": "https://cinewow.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "CineWow.ro",
-    "name": "CineWow",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://cdn.gamma.app/tfnglu66dwji8hw/d36b2d5c45a544749b3739d46fb119cc/original/CineWow.png",
     "stream_url": "https://hls02ns.antenaplay.ro/hls/bollywood-clasic-sd/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -1830,6 +1796,34 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://antenaplay.ro/live/formula-1-live",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HalloweenNonStop.ro",
+    "name": "Halloween Non Stop",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Antena TV Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://assets.antenaplay.ro/2026/10/18/ODGTMKI8mciV9cmCOxgn.png",
+    "stream_url": "https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://antenaplay.ro/live/halloween-non-stop",
     "launched": null,
     "closed": null
   },
@@ -3828,6 +3822,36 @@
     "closed": null
   },
   {
+    "id": "RadioRomaniaIasi.ro",
+    "name": "Radio Romania Iasi",
+    "alt_names": [
+      "RRI",
+      "Radio România Iași"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general",
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.radioiasi.ro/wp-content/themes/radioiasi/images/custom/logo-iasi.svg",
+    "stream_url": "https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.radioiasi.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RadioRomaniaOlteniaCraiova.ro",
     "name": "Radio Romania Oltenia-Craiova",
     "alt_names": [
@@ -4667,6 +4691,32 @@
     "closed": null
   },
   {
+    "id": "TVArad.ro",
+    "name": "TV Arad",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/4yZV72X.png",
+    "stream_url": "https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://tvarad.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVAS.ro",
     "name": "TV AS",
     "alt_names": [],
@@ -4682,8 +4732,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/TV_AS.png/revision/latest/scale-to-width-down/1000?cb=20241117150631",
-    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tv-as/live_hq?offsetSeconds=0",
-    "stream_quality": "576p",
+    "stream_url": "https://hls01ns.antenaplay.ro/hls/tv-as-sd/index.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -5400,8 +5450,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/aBdz9IT.png",
-    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-kapital/live_hq?offsetSeconds=0",
-    "stream_quality": "576p",
+    "stream_url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8",
+    "stream_quality": "1080i",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

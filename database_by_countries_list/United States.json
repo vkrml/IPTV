@@ -8592,7 +8592,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Peo1QiZ.png",
-    "stream_url": "http://88.212.15.17/live/test_black/playlist.m3u8",
+    "stream_url": "http://88.212.15.50/live/test_black/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
@@ -8734,7 +8734,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://static.wikia.nocookie.net/logopedia/images/1/13/AXNCRIME_2026_V_WHITE_VIOLET_RGB_HERO_01.svg/revision/latest?cb=20260808120407",
-    "stream_url": "http://88.212.15.17/live/viasat_film/index.m3u8",
+    "stream_url": "http://88.212.7.14/live/viasat_film/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
@@ -9122,7 +9122,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/47IKxmt.png",
-    "stream_url": "http://88.212.15.17/live/test_white/playlist.m3u8",
+    "stream_url": "http://88.212.15.50/live/test_white/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
@@ -21378,7 +21378,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/dfxefQw.png",
-    "stream_url": "http://88.212.15.17/live/test_cnn_1200_atk/playlist.m3u8",
+    "stream_url": "http://88.212.15.50/live/test_cnn_1200_atk/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -26702,6 +26702,43 @@
     },
     "website": "http://disney.go.com/disneyjunior/",
     "launched": "2011-02-14",
+    "closed": null
+  },
+  {
+    "id": "DisneyXD.us",
+    "name": "Disney XD",
+    "alt_names": [],
+    "network": "Disney Channels",
+    "owners": [
+      "The Walt Disney Company",
+      "Disney Kids & Family"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
+    "stream_url": "http://89.187.179.148:826/1368/gXwiagaXda/1672",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyXD.us",
+      "feed": "West",
+      "site": "tvtv.us",
+      "site_id": "18793",
+      "site_name": "Disney XD West",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://disneynow.com/all-shows/disney-xd",
+    "launched": "2009-02-13",
     "closed": null
   },
   {
@@ -88031,6 +88068,43 @@
     "logo": "https://i.imgur.com/3yXRbQy.png",
     "stream_url": "http://190.61.42.218:9000/play/a06i/index.m3u8",
     "stream_quality": "480p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Tooncast.us",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch5652",
+      "site_name": "TOONCAST",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.tooncast.tv/",
+    "launched": "2008-12-01",
+    "closed": null
+  },
+  {
+    "id": "Tooncast.us",
+    "name": "Tooncast",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/3yXRbQy.png",
+    "stream_url": "http://45.173.231.22:8000/play/a01i/index.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

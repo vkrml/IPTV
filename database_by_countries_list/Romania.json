@@ -1043,6 +1043,40 @@
     "closed": null
   },
   {
+    "id": "CineWow.ro",
+    "name": "CineWow",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://cdn.gamma.app/tfnglu66dwji8hw/d36b2d5c45a544749b3739d46fb119cc/original/CineWow.png",
+    "stream_url": "https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CineWow.ro",
+      "feed": null,
+      "site": "tvprofil.com",
+      "site_id": "ro/program-tv#cinewow",
+      "site_name": "CineWow",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://cinewow.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ColumnaTV.ro",
     "name": "Columna TV",
     "alt_names": [],
@@ -1376,32 +1410,6 @@
     "closed": null
   },
   {
-    "id": "DiscoMix.ro",
-    "name": "Disco Mix",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.discomix.ro/wp-content/uploads/2023/03/Disco-Mix-1.png",
-    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-disco-mix/live_hq?offsetSeconds=0",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.discomix.ro/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "DisneyChannel.ro",
     "name": "Disney Channel",
     "alt_names": [],
@@ -1512,8 +1520,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/B5zssCz.png",
-    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-emi/live_hq?offsetSeconds=0",
-    "stream_quality": "1080i",
+    "stream_url": "https://astra.emitv.ro/hls/emi/index.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1541,8 +1549,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/B5zssCz.png",
-    "stream_url": "https://astra.emitv.ro/hls/emi/index.m3u8",
-    "stream_quality": null,
+    "stream_url": "https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8",
+    "stream_quality": "576i",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1943,44 +1951,6 @@
     "tv_guide": null,
     "website": "https://hellotaste.ro/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "HtMusicChannel.ro",
-    "name": "H!t Music Channel",
-    "alt_names": [
-      "Hit Music Channel"
-    ],
-    "network": "RCS-RDS",
-    "owners": [
-      "RCS-RDS"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/sqC2hqV.png",
-    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "HtMusicChannel.ro",
-      "feed": "SD",
-      "site": "programetv.ro",
-      "site_id": "hit-music-channel",
-      "site_name": "H!T Music Channel",
-      "lang": "ro",
-      "sources": []
-    },
-    "website": "https://www.music-channel.ro/hit-music-channel",
-    "launched": "2012-01-18",
     "closed": null
   },
   {
@@ -2898,42 +2868,6 @@
     "closed": null
   },
   {
-    "id": "MusicChannel.ro",
-    "name": "Music Channel",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "RCS and RDS"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1f/Music_Channel_2016.svg/revision/latest/scale-to-width-down/1000?cb=20220521103337",
-    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MusicChannel.ro",
-      "feed": "SD",
-      "site": "programetv.ro",
-      "site_id": "music-channel",
-      "site_name": "Music Channel",
-      "lang": "ro",
-      "sources": []
-    },
-    "website": "https://1music.ro/",
-    "launched": "2008-05-28",
-    "closed": null
-  },
-  {
     "id": "NasulTV.ro",
     "name": "Nasul TV",
     "alt_names": [
@@ -3081,30 +3015,6 @@
     },
     "website": "http://www.natgeowild.ro/",
     "launched": "2009-07-01",
-    "closed": null
-  },
-  {
-    "id": "NationalTV2.ro",
-    "name": "National TV2",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a8/National_TV_2_2026.png/revision/latest/scale-to-width-down/1000?cb=20260611184456",
-    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-telestar1/live_hq?offsetSeconds=0",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
     "closed": null
   },
   {
@@ -3423,8 +3333,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8b/Orizont_TV.svg/revision/latest/scale-to-width-down/1000?cb=20241219232954",
-    "stream_url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-orizont-tv/live_hq?offsetSeconds=0",
-    "stream_quality": "576p",
+    "stream_url": "https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8",
+    "stream_quality": "576i",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -4691,6 +4601,38 @@
     "closed": null
   },
   {
+    "id": "TrinitasTV.ro",
+    "name": "Trinitas TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/mOPEttN.png",
+    "stream_url": "https://hls01ns.antenaplay.ro/hls/trinitas-tv-sd/index.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TrinitasTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "trinitas-tv",
+      "site_name": "Trinitas TV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.trinitas.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVArad.ro",
     "name": "TV Arad",
     "alt_names": [],
@@ -5544,6 +5486,32 @@
     "tv_guide": null,
     "website": "https://viasatnature.ro",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VoyoSport1.ro",
+    "name": "Voyo Sport 1",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a3/VoyoSport1.svg",
+    "stream_url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://voyo.protv.ro/live/183-voyo-sport-1",
+    "launched": "2026-08-01",
     "closed": null
   },
   {

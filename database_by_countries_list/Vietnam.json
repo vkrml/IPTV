@@ -153,6 +153,34 @@
     "closed": null
   },
   {
+    "id": "AnNinhTV.vn",
+    "name": "An Ninh TV",
+    "alt_names": [
+      "ANTV"
+    ],
+    "network": null,
+    "owners": [
+      "Ministry of Public Security of Vietnam"
+    ],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi",
+    "stream_url": "https://live.tvon.vn/g2/vtv1/video_hd_compat/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.antv.gov.vn/",
+    "launched": "2011-12-01",
+    "closed": null
+  },
+  {
     "id": "BinhThuanTV.vn",
     "name": "Binh Thuan TV",
     "alt_names": [
@@ -424,32 +452,6 @@
     "logo": "https://i.imgur.com/u308o8q.png",
     "stream_url": "https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://dienbientv.vn/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "DienBienTV.vn",
-    "name": "Dien Bien TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/u308o8q.png",
-    "stream_url": "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=",
-    "stream_quality": "406p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1076,7 +1078,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": null,
+    "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/HTVC%20Phim%20HD.png",
     "stream_url": "https://dethich.pw/htvcphim/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -1200,32 +1202,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.hungyentv.vn/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "KonTumTV.vn",
-    "name": "Kon Tum TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/lLlu6ZA.png",
-    "stream_url": "https://247.dpdns.org/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://kontumtv.vn/",
     "launched": null,
     "closed": null
   },
@@ -1527,6 +1503,36 @@
     "tv_guide": null,
     "website": "https://vtvcab.vn",
     "launched": "2008-08-08",
+    "closed": null
+  },
+  {
+    "id": "ONPhimViet.vn",
+    "name": "ON Phim Viet",
+    "alt_names": [
+      "ON Phim Việt"
+    ],
+    "network": null,
+    "owners": [
+      "Vietnam Cable Television Corporation Joint Stock Company"
+    ],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/Swvp1vwM/IMG-2525.jpg",
+    "stream_url": "https://vmttv.dpdns.org/tv360/?id=175",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://vtvcab.vn",
+    "launched": "1996-03-30",
     "closed": null
   },
   {
@@ -2352,6 +2358,32 @@
     "closed": null
   },
   {
+    "id": "VietnamToday.vn",
+    "name": "Vietnam Today",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "VTV"
+    ],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/xW9rY7s.png",
+    "stream_url": "https://live.tvon.vn/s8/hls/vntoday/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://vietnamtoday.vtv.vn/",
+    "launched": "2025-09-07",
+    "closed": null
+  },
+  {
     "id": "VinhLongTV1.vn",
     "name": "Vinh Long TV 1",
     "alt_names": [],
@@ -2563,6 +2595,32 @@
     "logo": "https://i.imgur.com/vZYlGIW.png",
     "stream_url": "https://dethich.pw/vtv1/index.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://vtv.vn/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "VTV1.vn",
+    "name": "VTV1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Vietnam Television"
+    ],
+    "country_code": "VN",
+    "country_name": "Vietnam",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/vZYlGIW.png",
+    "stream_url": "https://livesct.vtvprime.vn/Live_DASHDRM1/VTV1_HD/manifest.mpd",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

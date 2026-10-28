@@ -10942,44 +10942,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/V562tpO.png",
-    "stream_url": "http://201.190.41.246:9060/play/a03y/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "beINSPORTSXTRAenEspanol.us",
-      "feed": "SD",
-      "site": "xumo.tv",
-      "site_id": "250#99991785",
-      "site_name": "beIN SPORTS XTRA en Español",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://beinxtraespanol.com/",
-    "launched": "2012-08-16",
-    "closed": null
-  },
-  {
-    "id": "beINSPORTSXTRAenEspanol.us",
-    "name": "beIN SPORTS XTRA en Espanol",
-    "alt_names": [
-      "beIN SPORTS XTRA en Español"
-    ],
-    "network": null,
-    "owners": [
-      "beIN Media Group"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/V562tpO.png",
     "stream_url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -15295,6 +15257,42 @@
     "closed": null
   },
   {
+    "id": "CarsTV.us",
+    "name": "Cars.TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Allen Media Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "auto"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/JLSHiTp.png",
+    "stream_url": "https://a-cdn.klowdtv.com/live2/carstv_720p/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CarsTV.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "71302",
+      "site_name": "Cars.TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://cars.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CartoonitoLatinAmerica.us",
     "name": "Cartoonito Latin America",
     "alt_names": [
@@ -15331,43 +15329,6 @@
     },
     "website": "https://cartoonitola.com/",
     "launched": "2001-07-02",
-    "closed": null
-  },
-  {
-    "id": "CartoonNetwork.us",
-    "name": "Cartoon Network",
-    "alt_names": [],
-    "network": "Cartoon Network",
-    "owners": [
-      "Skydance TV Media"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "animation",
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
-    "stream_url": "http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CartoonNetwork.us",
-      "feed": "East",
-      "site": "tvtv.us",
-      "site_id": "60048",
-      "site_name": "Cartoon Network East",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.cartoonnetwork.com/",
-    "launched": "1992-10-01",
     "closed": null
   },
   {
@@ -22191,6 +22152,40 @@
     "closed": null
   },
   {
+    "id": "ComedyTV.us",
+    "name": "Comedy TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KLfXnba.png",
+    "stream_url": "https://a-cdn.klowdtv.com/live2/comedytv_720p/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ComedyTV.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "80740",
+      "site_name": "Comedy.TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://entertainmentstudios.com/network/comedy-tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ComercioTV.us",
     "name": "Comercio TV",
     "alt_names": [],
@@ -26074,6 +26069,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+    "stream_url": "http://45.162.64.114/DISCOVERY_CHANNEL/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DiscoveryChannelLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "423",
+      "site_name": "DISCOVERY CHANNEL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.latam.discovery.com/",
+    "launched": "1996-11-01",
+    "closed": null
+  },
+  {
+    "id": "DiscoveryChannelLatinAmerica.us",
+    "name": "Discovery Channel Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
     "stream_url": "http://45.171.64.30:6060/play/a032/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -26307,6 +26338,42 @@
     },
     "website": "http://www.discoverykidsplus.com/",
     "launched": "1996-11-01",
+    "closed": null
+  },
+  {
+    "id": "DiscoveryScienceLatinAmerica.us",
+    "name": "Discovery Science Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "science"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png",
+    "stream_url": "http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DiscoveryScienceLatinAmerica.us",
+      "feed": "SD",
+      "site": "reportv.com.ar",
+      "site_id": "493",
+      "site_name": "DISCOVERY SCIENCE",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.latamwbd.com/index/pt",
+    "launched": "2005-02-01",
     "closed": null
   },
   {
@@ -31624,6 +31691,42 @@
     "logo": "https://i.imgur.com/sua70RO.png",
     "stream_url": "http://187.102.208.209:8000/play/a0ac/index.m3u8",
     "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "EWTN.us",
+      "feed": "AsiaPacific",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000154",
+      "site_name": "EWTN",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "https://www.ewtn.com/tv/",
+    "launched": "1981-08-15",
+    "closed": null
+  },
+  {
+    "id": "EWTN.us",
+    "name": "EWTN",
+    "alt_names": [],
+    "network": "EWTN",
+    "owners": [
+      "Eternal Word Television Network"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "religious"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/sua70RO.png",
+    "stream_url": "http://45.228.234.9:8000/play/a06v/index.m3u8",
+    "stream_quality": "480p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -38604,42 +38707,6 @@
     "closed": null
   },
   {
-    "id": "HallmarkChannel.us",
-    "name": "Hallmark Channel",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Hallmark Cards"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "family"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png",
-    "stream_url": "http://41.205.93.154/HALLMARK/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "HallmarkChannel.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "19933",
-      "site_name": "Hallmark Channel West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.hallmarkchannel.com/",
-    "launched": "1992-09-01",
-    "closed": null
-  },
-  {
     "id": "HallmarkMoviesMore.us",
     "name": "Hallmark Movies & More",
     "alt_names": [],
@@ -38744,6 +38811,35 @@
       "sources": []
     },
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HallmarkMystery.us",
+    "name": "Hallmark Mystery",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Hallmark Cards"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Hallmark_Mystery_2024.svg",
+    "stream_url": "http://41.205.93.154/HALLMARK/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.hallmarkmystery.com/",
     "launched": null,
     "closed": null
   },
@@ -42143,6 +42239,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/NlKFNHS.png",
+    "stream_url": "http://45.134.141.161:2200/ARG/HTV/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HTV.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "15969",
+      "site_name": "HTV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://linktr.ee/HTVmusica",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HTV.us",
+    "name": "HTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/NlKFNHS.png",
     "stream_url": "http://45.171.64.30:6060/play/a012/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -43244,6 +43376,42 @@
     },
     "website": "https://pluto.tv/en/live-tv/inside-crime-uk-gb",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "INSP.us",
+    "name": "INSP",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "INSP LLC"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/YgOC51j.png",
+    "stream_url": "https://a-cdn.klowdtv.com/live2/insp_720p/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "INSP.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "11066",
+      "site_name": "INSP",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.insp.com/",
+    "launched": "1978-01-01",
     "closed": null
   },
   {
@@ -45114,6 +45282,32 @@
       "sources": []
     },
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "JusticeCentralTV.us",
+    "name": "Justice Central TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/peuHszg.png",
+    "stream_url": "https://a-cdn.klowdtv.com/live2/justicecentral_720p/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://entertainmentstudios.com/network/justicecentral-tv/",
     "launched": null,
     "closed": null
   },
@@ -51253,6 +51447,42 @@
     "closed": null
   },
   {
+    "id": "MNT.us",
+    "name": "MNT",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Fox Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/8JZhkbA.png",
+    "stream_url": "https://live-streaming-mcdn.api.graylive.quickplay.com/woio-xos1-input-1/woio-xos1-input-1.isml/woio-xos1-input-1-audio_eng=96000-video=388000.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MNT.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "51307",
+      "site_name": "MNT East",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.mynetworktv.com/",
+    "launched": "2006-09-05",
+    "closed": null
+  },
+  {
     "id": "MohabatTV.us",
     "name": "Mohabat TV",
     "alt_names": [],
@@ -54098,6 +54328,40 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.muslimnetwork.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MyDestinationTV.us",
+    "name": "MyDestination.TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "travel"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/VJndl0m.png",
+    "stream_url": "https://a-cdn.klowdtv.com/live2/mydestinationtv_720p/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MyDestinationTV.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "71303",
+      "site_name": "MyDestination.TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://mydestination.tv/contact-v1/",
     "launched": null,
     "closed": null
   },
@@ -63274,6 +63538,44 @@
     "closed": null
   },
   {
+    "id": "ParamountNetwork.us",
+    "name": "Paramount Network",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Paramount Network Broadcasting Ltd",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "series",
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
+    "stream_url": "http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ParamountNetwork.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "11163",
+      "site_name": "Paramount Network East",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.paramountnetwork.com/",
+    "launched": "1983-03-07",
+    "closed": null
+  },
+  {
     "id": "ParamountPlusPicks.us",
     "name": "Paramount+ Picks",
     "alt_names": [],
@@ -65424,6 +65726,42 @@
       "sources": []
     },
     "website": "https://pluto.tv/en/live-tv/perry-mason",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PetsTV.us",
+    "name": "Pets.TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Allen Media Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/qPqQmYo.png",
+    "stream_url": "https://a-cdn.klowdtv.com/live2/petstv_720p/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PetsTV.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "71297",
+      "site_name": "Pets.TV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://pets.tv/contact-v1/",
     "launched": null,
     "closed": null
   },
@@ -74193,6 +74531,40 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/l7tmTjX.png",
+    "stream_url": "https://a-cdn.klowdtv.com/live2/rav_720p/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RealAmericasVoice.us",
+      "feed": "SD",
+      "site": "i.mjh.nz",
+      "site_id": "SamsungTVPlus/us#USBB1900002KF",
+      "site_name": "Real America's Voice",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://americasvoice.news/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RealAmericasVoice.us",
+    "name": "Real America's Voice",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Robert J. Sigg"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/l7tmTjX.png",
     "stream_url": "https://d2jiqiw4g5lj5k.cloudfront.net/AVSamsung/AVSamsung.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -74242,6 +74614,30 @@
       "sources": []
     },
     "website": "https://americasvoice.news/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RecipeTV.us",
+    "name": "Recipe TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/HcL4a8z.png",
+    "stream_url": "https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://entertainmentstudios.com/network/recipe-tv/",
     "launched": null,
     "closed": null
   },
@@ -84674,6 +85070,40 @@
     "closed": null
   },
   {
+    "id": "TheGrioTV.us",
+    "name": "TheGrio TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Allen Media Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/g43K0EE.png",
+    "stream_url": "https://a-cdn.klowdtv.com/live2/thegrio_720p/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TheGrioTV.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "101752",
+      "site_name": "The Grio",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://thegriotv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TheHillTV.us",
     "name": "The Hill TV",
     "alt_names": [],
@@ -87394,6 +87824,40 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
+    "stream_url": "http://45.134.141.161:2200/ARG/TNT/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TNTLatinAmerica.us",
+      "feed": "Chile",
+      "site": "siba.com.co",
+      "site_id": "589",
+      "site_name": "TNT",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.tntla.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TNTLatinAmerica.us",
+    "name": "TNT Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
     "stream_url": "http://15.204.246.24:8080/TNTHD/index.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -87971,6 +88435,43 @@
     },
     "website": "https://www.toonamiaftermath.com/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Tooncast.us",
+    "name": "Tooncast",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/3yXRbQy.png",
+    "stream_url": "http://45.134.141.161:2200/ARG/Tooncast/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Tooncast.us",
+      "feed": "SD",
+      "site": "tv.movistar.com.pe",
+      "site_id": "lch5652",
+      "site_name": "TOONCAST",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.tooncast.tv/",
+    "launched": "2008-12-01",
     "closed": null
   },
   {
@@ -94627,6 +95128,40 @@
     "logo": "https://i.imgur.com/XP817GN.png",
     "stream_url": "https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "WeatherNation.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "72413",
+      "site_name": "WeatherNation",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.weathernationtv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WeatherNation.us",
+    "name": "WeatherNation",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "weather"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/XP817GN.png",
+    "stream_url": "https://a-cdn.klowdtv.com/live3/weathernation_720p/playlist.m3u8",
+    "stream_quality": "720p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

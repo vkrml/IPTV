@@ -379,6 +379,40 @@
     "closed": null
   },
   {
+    "id": "AzMundo.mx",
+    "name": "Az Mundo",
+    "alt_names": [
+      "Mundo"
+    ],
+    "network": "TV Azteca Internacional",
+    "owners": [],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/a7Ejid0.png",
+    "stream_url": "http://15.204.142.109:22880/DIRECTV-ARGENTINA-AZMUNDO/INTERNACIONAL/video.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "AzMundo.mx",
+      "feed": "SD",
+      "site": "tvhebdo.com",
+      "site_id": "azmu/AZMU",
+      "site_name": "AZ Mundo",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://www.tvazteca.com/tvpaga/notas/mundo",
+    "launched": null,
+    "closed": "2023-06-02"
+  },
+  {
     "id": "Azteca7.mx",
     "name": "Azteca 7",
     "alt_names": [],
@@ -2082,6 +2116,42 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/n0kd17r.png",
     "stream_url": "http://45.171.64.30:6060/play/a00w/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ClaroSports.mx",
+      "feed": "SD",
+      "site": "programacion.tcc.com.uy",
+      "site_id": "265",
+      "site_name": "Claro Sports HD",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.marca.com/claro-mx/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ClaroSports.mx",
+    "name": "Claro Sports",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "America Movil"
+    ],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/n0kd17r.png",
+    "stream_url": "http://45.228.234.9:8000/play/a06i/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -5217,6 +5287,40 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.sistemamichoacano.tv/television",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SkySports1.mx",
+    "name": "Sky Sports 1",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "MX",
+    "country_name": "Mexico",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/9onSfMi.png",
+    "stream_url": "http://45.228.234.9:8000/play/a06b/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SkySports1.mx",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "sky_sports_1_mexico",
+      "site_name": "Canal Sky Sports 1 (México)",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.sky.com.mx/",
     "launched": null,
     "closed": null
   },

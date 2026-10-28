@@ -1313,44 +1313,6 @@
     "closed": null
   },
   {
-    "id": "CanalPlusCinemas.fr",
-    "name": "Canal+ Cinemas",
-    "alt_names": [
-      "Canal+ Cinéma(s)"
-    ],
-    "network": null,
-    "owners": [
-      "Vivendi"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/fvPoNEa.jpeg",
-    "stream_url": "http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "CanalPlusCinemas.fr",
-      "feed": "SD",
-      "site": "tv.blue.ch",
-      "site_id": "58",
-      "site_name": "CANAL+ Cinema(s)",
-      "lang": "fr",
-      "sources": []
-    },
-    "website": "http://www.canalplus.fr/pid1748-c-cinema.html",
-    "launched": "1996-04-27",
-    "closed": null
-  },
-  {
     "id": "CanalPlusSport.fr",
     "name": "Canal+ Sport",
     "alt_names": [],
@@ -3216,6 +3178,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/olQJgm7.png",
+    "stream_url": "http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Eurosport1.fr",
+      "feed": "Netherlands",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000020_019432",
+      "site_name": "Eurosport 1",
+      "lang": "nl",
+      "sources": []
+    },
+    "website": "https://www.eurosport.fr/",
+    "launched": "1989-02-05",
+    "closed": null
+  },
+  {
+    "id": "Eurosport1.fr",
+    "name": "Eurosport 1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/olQJgm7.png",
     "stream_url": "https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -3289,6 +3287,42 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/f56dHgR.png",
     "stream_url": "http://stream.mcquack.net/192/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Eurosport2.fr",
+      "feed": "Netherlands",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000103_019581",
+      "site_name": "Eurosport 2",
+      "lang": "nl",
+      "sources": []
+    },
+    "website": "https://www.eurosport.fr/",
+    "launched": "2005-01-10",
+    "closed": null
+  },
+  {
+    "id": "Eurosport2.fr",
+    "name": "Eurosport 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/f56dHgR.png",
+    "stream_url": "http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -5318,10 +5352,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/eITXz6A.png",
-    "stream_url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8",
+    "stream_url": "http://149.62.177.107:9999/franceinfo:/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "Franceinfo.fr",
@@ -10520,44 +10554,6 @@
     "logo": "https://i.imgur.com/WmRbudc.png",
     "stream_url": "https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8",
     "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TV5MondeFranceBelgiumSwitzerlandMonaco.fr",
-      "feed": "SD",
-      "site": "tv.sfr.fr",
-      "site_id": "205",
-      "site_name": "TV5 Monde",
-      "lang": "fr",
-      "sources": []
-    },
-    "website": "https://live.tv5monde.com/fbs.html",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TV5MondeFranceBelgiumSwitzerlandMonaco.fr",
-    "name": "TV5Monde France Belgium Switzerland Monaco",
-    "alt_names": [
-      "TV5Monde France Belgique Suisse Monaco",
-      "TV5Monde France Belgium Switzerland",
-      "TV5Monde"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/WmRbudc.png",
-    "stream_url": "http://5.78.65.164/TV5Monde/index.m3u8",
-    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

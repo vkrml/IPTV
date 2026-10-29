@@ -12162,7 +12162,7 @@
     "tv_guide": null,
     "website": null,
     "launched": "2020-02-10",
-    "closed": null
+    "closed": "2022-08-01"
   },
   {
     "id": "BlackNewsChannel.us",
@@ -12190,7 +12190,7 @@
     "tv_guide": null,
     "website": null,
     "launched": "2020-02-10",
-    "closed": null
+    "closed": "2022-08-01"
   },
   {
     "id": "BlackNewsChannel.us",
@@ -12218,7 +12218,7 @@
     "tv_guide": null,
     "website": null,
     "launched": "2020-02-10",
-    "closed": null
+    "closed": "2022-08-01"
   },
   {
     "id": "BlazeLive.us",
@@ -26587,6 +26587,44 @@
     "closed": null
   },
   {
+    "id": "DiscoveryWorld.us",
+    "name": "Discovery World",
+    "alt_names": [
+      "Discovery Civilisation Channel"
+    ],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/yNFmUkE.png",
+    "stream_url": "http://209.61.12.77:9000/play/a08v/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DiscoveryWorld.us",
+      "feed": "Brazil",
+      "site": "mi.tv",
+      "site_id": "br#discovery-world-hd",
+      "site_name": "Discovery World",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "http://www.latam.discovery.com/",
+    "launched": "2015-03-16",
+    "closed": null
+  },
+  {
     "id": "DisneyJunior.us",
     "name": "Disney Junior",
     "alt_names": [],
@@ -39476,6 +39514,40 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png",
     "stream_url": "http://15.204.246.24:8080/HBOPlusHD/index.m3u8",
     "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HBOPlusLatinAmerica.us",
+      "feed": "SD",
+      "site": "reportv.com.ar",
+      "site_id": "2165",
+      "site_name": "HBO PLUS",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.hbolatam.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HBOPlusLatinAmerica.us",
+    "name": "HBO+ Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png",
+    "stream_url": "http://45.134.141.161:2200/ARG/HBO_HD/index.m3u8",
+    "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -53788,6 +53860,43 @@
     "closed": null
   },
   {
+    "id": "MTVLatinAmerica.us",
+    "name": "MTV Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Viacom International Inc.",
+      "Paramount Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "stream_url": "http://181.78.79.131:8000/play/a0nc",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MTVLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "544",
+      "site_name": "MTV",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.mtvla.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "MTVLive.us",
     "name": "MTV Live",
     "alt_names": [],
@@ -56700,6 +56809,42 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/B1qVjQN.png",
     "stream_url": "https://linear-694.frequency.stream/dist/stirr/694/hls/master/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NBC.us",
+      "feed": "East",
+      "site": "tvtv.us",
+      "site_id": "10991",
+      "site_name": "NBC East",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "http://www.nbc.com/",
+    "launched": "1939-04-30",
+    "closed": null
+  },
+  {
+    "id": "NBC.us",
+    "name": "NBC",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NBC Entertainment"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/B1qVjQN.png",
+    "stream_url": "https://video.tegnaone.com/wkyc/live/v1/manifest/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WKYC-Production/d39cf8a9-40a6-4cba-85f7-6c9d633843b3/2.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -76804,36 +76949,6 @@
     "closed": null
   },
   {
-    "id": "SCorbyTV.us",
-    "name": "S Corby TV",
-    "alt_names": [
-      "playout.video"
-    ],
-    "network": null,
-    "owners": [
-      "S Plus Group"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/432q9g12/In-Shot-20260908-063951605.png",
-    "stream_url": "https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8",
-    "stream_quality": "480p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://sites.google.com/view/splusgroup",
-    "launched": "2026-09-04",
-    "closed": null
-  },
-  {
     "id": "ScottsdaleChannel11.us",
     "name": "Scottsdale Channel 11",
     "alt_names": [],
@@ -79444,34 +79559,6 @@
     "tv_guide": null,
     "website": "https://myspirit.tv/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "SPlayEvent.us",
-    "name": "S Play Event",
-    "alt_names": [],
-    "network": "S Play",
-    "owners": [
-      "S Plus Group"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.postimg.cc/5y6t70Mz/In-Shot-20260908-113231556.png",
-    "stream_url": "https://vodcdn.bamboo-cloud.com/livehls/6a9f929f0630443af52c7162/master.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://splay.bamboo-cloud.com/channel/6aa1fc1f063044342e102703",
-    "tv_guide": null,
-    "website": "https://sites.google.com/view/splusgroup",
-    "launched": "2026-09-08",
     "closed": null
   },
   {
@@ -83292,6 +83379,37 @@
     "tv_guide": null,
     "website": "http://telepam.tv/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TelevisionCaribe.us",
+    "name": "Television Caribe",
+    "alt_names": [
+      "CubanitoTv"
+    ],
+    "network": null,
+    "owners": [
+      "Television Caribe"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general",
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://televisioncaribe.com/logo.png",
+    "stream_url": "https://televisioncaribe.com/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://televisioncaribe.com",
+    "launched": "2022-01-01",
     "closed": null
   },
   {

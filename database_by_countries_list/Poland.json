@@ -276,32 +276,6 @@
     "closed": null
   },
   {
-    "id": "ATMRozrywkaREWORK.pl",
-    "name": "ATM Rozrywka REWORK",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/B5BfmQNs/ATM.jpg",
-    "stream_url": "https://grupaatmrr.org.pl:8888/fallback/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://grupaatmrr.org.pl/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "AXNBlack.pl",
     "name": "AXN Black",
     "alt_names": [],
@@ -404,6 +378,44 @@
     "tv_guide": null,
     "website": null,
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "BelsatTV.pl",
+    "name": "Belsat TV",
+    "alt_names": [
+      "Белсат TV"
+    ],
+    "network": null,
+    "owners": [
+      "Telewizja Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/qJyjSR6.png",
+    "stream_url": "http://78.62.9.23:55555/Belsat",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "BelsatTV.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "belsat-tv-289",
+      "site_name": "Belsat TV",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://belsat.eu/",
+    "launched": "2007-12-10",
     "closed": null
   },
   {
@@ -2631,6 +2643,82 @@
     "website": null,
     "launched": null,
     "closed": null
+  },
+  {
+    "id": "HBO2.pl",
+    "name": "HBO 2",
+    "alt_names": [
+      "HBO 2 Polska"
+    ],
+    "network": "HBO Europe",
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/2e3muOJ.png",
+    "stream_url": "http://185.227.34.179:8080/hbo-2-hd/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HBO2.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "hbo2-24",
+      "site_name": "HBO2",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://www.hbo.pl/HBO2.aspx",
+    "launched": "2002-12-01",
+    "closed": null
+  },
+  {
+    "id": "HBO3.pl",
+    "name": "HBO 3",
+    "alt_names": [
+      "HBO 3 Polska",
+      "HBO Comedy"
+    ],
+    "network": null,
+    "owners": [
+      "Skydance EMEA"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/3QIHh2V.png",
+    "stream_url": "http://185.227.34.179:8080/hbo-3-hd/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HBO3.pl",
+      "feed": "HD",
+      "site": "programtv.onet.pl",
+      "site_id": "hbo-3-hd-28",
+      "site_name": "HBO3 HD",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "http://www.hbo.pl/HBOComedy.aspx",
+    "launched": "2016-03-21",
+    "closed": "2019-09-05"
   },
   {
     "id": "History.pl",

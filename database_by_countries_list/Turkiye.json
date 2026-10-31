@@ -1040,6 +1040,43 @@
     "closed": null
   },
   {
+    "id": "CartoonNetwork.tr",
+    "name": "Cartoon Network",
+    "alt_names": [],
+    "network": "Cartoon Network",
+    "owners": [
+      "Skydance EMEA"
+    ],
+    "country_code": "TR",
+    "country_name": "Turkiye",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "stream_url": "http://176.65.153.40:6002/play/a013/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CartoonNetwork.tr",
+      "feed": "SD",
+      "site": "tvplus.com.tr",
+      "site_id": "20",
+      "site_name": "CARTOON NETWORK",
+      "lang": "tr",
+      "sources": []
+    },
+    "website": "http://www.cartoonnetwork.com.tr/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "CayTV.tr",
     "name": "Cay TV",
     "alt_names": [
@@ -5968,42 +6005,6 @@
     "closed": null
   },
   {
-    "id": "TRTBelgesel.tr",
-    "name": "TRT Belgesel",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "TRT"
-    ],
-    "country_code": "TR",
-    "country_name": "Turkiye",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png",
-    "stream_url": "http://hls127.freeott.top:8080/TRT_BELGESEL_TR/video.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TRTBelgesel.tr",
-      "feed": "SD",
-      "site": "tvplus.com.tr",
-      "site_id": "21",
-      "site_name": "TRT BELGESEL",
-      "lang": "tr",
-      "sources": []
-    },
-    "website": "https://www.trtbelgesel.com.tr/",
-    "launched": "2009-10-17",
-    "closed": null
-  },
-  {
     "id": "TRTCocuk.tr",
     "name": "TRT Cocuk",
     "alt_names": [
@@ -6587,6 +6588,42 @@
     "stream_quality": "576p",
     "stream_format": null,
     "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TRTWorld.tr",
+      "feed": "SD",
+      "site": "watch.whaletvplus.com",
+      "site_id": "945087649944309085",
+      "site_name": "TRT World",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.trtworld.com/",
+    "launched": "2015-05-18",
+    "closed": null
+  },
+  {
+    "id": "TRTWorld.tr",
+    "name": "TRT World",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "TRT"
+    ],
+    "country_code": "TR",
+    "country_name": "Turkiye",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png",
+    "stream_url": "https://fta.ektv.in/live/416/master.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
     "referrer": null,
     "tv_guide": {
       "channel": "TRTWorld.tr",

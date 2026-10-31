@@ -377,42 +377,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-    "stream_url": "http://hls127.freeott.top:8080/BG_AMC/video.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "AMCEurope.uk",
-      "feed": "Hungary",
-      "site": "tvprofil.com",
-      "site_id": "hu/tvmusor#amc-hu",
-      "site_name": "AMC HU",
-      "lang": "hr",
-      "sources": []
-    },
-    "website": "https://uk.amc.com/",
-    "launched": "2015-08-28",
-    "closed": null
-  },
-  {
-    "id": "AMCEurope.uk",
-    "name": "AMC Europe",
-    "alt_names": [],
-    "network": "AMC Networks International UK",
-    "owners": [
-      "AMC Networks Inc."
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
     "stream_url": "http://88.212.7.14/live/test_amc_25p/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -1194,42 +1158,6 @@
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
     "referrer": "https://cool-tv.net/",
-    "tv_guide": {
-      "channel": "BBCEarth.uk",
-      "feed": "US",
-      "site": "xumo.tv",
-      "site_id": "150#99951231",
-      "site_name": "BBC Earth",
-      "lang": "en",
-      "sources": []
-    },
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BBCEarth.uk",
-    "name": "BBC Earth",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "BBC Studios"
-    ],
-    "country_code": "UK",
-    "country_name": "United Kingdom",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/nGSsUd4.png",
-    "stream_url": "http://hls127.freeott.top:8080/BG_The_World/video.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
     "tv_guide": {
       "channel": "BBCEarth.uk",
       "feed": "US",
@@ -17258,6 +17186,164 @@
     },
     "website": "https://www.tjc.co.uk/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TNTSports1.uk",
+    "name": "TNT Sports 1",
+    "alt_names": [
+      "BT Sport 1"
+    ],
+    "network": null,
+    "owners": [
+      "Skydance Corporation",
+      "BT Group"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true",
+    "stream_url": "http://37.49.224.5:80/stream/1/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TNTSports1.uk",
+      "feed": "HD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "1744",
+      "site_name": "TNT Sports 1 HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.tntsports.co.uk/",
+    "launched": "2013-08-01",
+    "closed": null
+  },
+  {
+    "id": "TNTSports2.uk",
+    "name": "TNT Sports 2",
+    "alt_names": [
+      "BT Sport 2"
+    ],
+    "network": null,
+    "owners": [
+      "Skydance Corporation",
+      "BT Group"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true",
+    "stream_url": "http://37.49.224.5:80/stream/2/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TNTSports2.uk",
+      "feed": "HD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "1745",
+      "site_name": "TNT Sports 2 HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.tntsports.co.uk/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TNTSports3.uk",
+    "name": "TNT Sports 3",
+    "alt_names": [
+      "BT Sport 3"
+    ],
+    "network": null,
+    "owners": [
+      "Skydance Corporation",
+      "BT Group"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true",
+    "stream_url": "http://37.49.224.5:80/stream/3/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TNTSports3.uk",
+      "feed": "HD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "1837",
+      "site_name": "TNT Sports 3 HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.tntsports.co.uk/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TNTSports4.uk",
+    "name": "TNT Sports 4",
+    "alt_names": [
+      "BT Sport 4",
+      "BT Sport ESPN",
+      "ESPN"
+    ],
+    "network": null,
+    "owners": [
+      "Skydance Corporation",
+      "BT Group"
+    ],
+    "country_code": "UK",
+    "country_name": "United Kingdom",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true",
+    "stream_url": "http://37.49.224.5:80/stream/4/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TNTSports4.uk",
+      "feed": "HD",
+      "site": "virgintvgo.virginmedia.com",
+      "site_id": "1405",
+      "site_name": "TNT Sports 4 HD",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.tntsports.co.uk/",
+    "launched": "2009-08-03",
     "closed": null
   },
   {

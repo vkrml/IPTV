@@ -427,6 +427,32 @@
     "closed": null
   },
   {
+    "id": "Antena3Suceava.ro",
+    "name": "Antena 3 Suceava",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/6/65/Antena_3_Suceava_slogan.svg/revision/latest/scale-to-width-down/1000?cb=20240522203102",
+    "stream_url": "https://livestream.a3sv.ro/master.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://antena3suceava.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "AntenaInternational.ro",
     "name": "Antena International",
     "alt_names": [],
@@ -1277,6 +1303,32 @@
     },
     "website": "https://www.digi24.ro/",
     "launched": "2012-03-01",
+    "closed": null
+  },
+  {
+    "id": "DiscoMix.ro",
+    "name": "Disco Mix",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://www.discomix.ro/wp-content/uploads/2023/03/Disco-Mix-1.png",
+    "stream_url": "https://vs2129.vcdn.biz/781da550c3e711e56f17de33318050f9_megogo/live/hls/b/700_2490_4000/u_sid/0/o/183395021/rsid/39f910cb-e9d4-46a0-b2fb-a12bfc104baf/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.discomix.ro/",
+    "launched": null,
     "closed": null
   },
   {
@@ -2143,7 +2195,8 @@
     "alt_names": [],
     "network": null,
     "owners": [
-      "Dogan Media International SA"
+      "Dogan Media International SA",
+      "Clever Group"
     ],
     "country_code": "RO",
     "country_name": "Romania",
@@ -2171,7 +2224,8 @@
     ],
     "network": null,
     "owners": [
-      "Dogan Media International SA"
+      "Dogan Media International SA",
+      "Clever Group"
     ],
     "country_code": "RO",
     "country_name": "Romania",
@@ -2486,6 +2540,42 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://misatv.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MoozDance.ro",
+    "name": "Mooz Dance",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Cristinal Popa and Ionut Samoila"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/aX70RD2.png",
+    "stream_url": "https://meta.vcdn.biz/bb45aeed3156b62f01b6ca222920d46b_megogo/live/hls/b/700_2500/u_sid/0/o/183161921/rsid/20877e0c-fb47-4c47-a29d-19fadadbccb7/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8",
+    "stream_quality": "1080i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MoozDance.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "mooz-dance",
+      "site_name": "Mooz Dance",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://mooz.tv/mooz-dance/",
     "launched": null,
     "closed": null
   },
@@ -3633,6 +3723,30 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://www.radiomures.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "RapsodiaTV.ro",
+    "name": "Rapsodia TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/mwMG7BB.png",
+    "stream_url": "http://hls02ns.antenaplay.ro/hls/rapsoida-tv-sd/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.rapsodiatv.ro/",
     "launched": null,
     "closed": null
   },

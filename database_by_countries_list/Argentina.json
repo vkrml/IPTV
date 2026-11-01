@@ -3837,6 +3837,44 @@
     "closed": null
   },
   {
+    "id": "ElTreceInternacionalLatinAmerica.ar",
+    "name": "El Trece Internacional Latin America",
+    "alt_names": [
+      "Canal 13"
+    ],
+    "network": null,
+    "owners": [
+      "Grupo Clarin"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Vo6prbh.png",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ElTreceInternacionalLatinAmerica.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#el-trece-satelital",
+      "site_name": "Canal 13 (Satelital)",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.eltrecetv.com.ar/",
+    "launched": "2009-04-01",
+    "closed": null
+  },
+  {
     "id": "Encuentro.ar",
     "name": "Encuentro",
     "alt_names": [],
@@ -3928,6 +3966,42 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png",
     "stream_url": "http://158.172.155.130:8000/play/a0ao/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ESPNPremium.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#fox-sports-premium",
+      "site_name": "FOX Sports Premium",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://espn.com.ar/",
+    "launched": "2017-08-21",
+    "closed": null
+  },
+  {
+    "id": "ESPNPremium.ar",
+    "name": "ESPN Premium",
+    "alt_names": [
+      "Fox Sports Premium Argentina"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -4257,6 +4331,42 @@
     "website": "http://www.foxsportsla.com/",
     "launched": "2009-10-12",
     "closed": "2024-12-15"
+  },
+  {
+    "id": "FoxSports.ar",
+    "name": "Fox Sports",
+    "alt_names": [],
+    "network": "Fox Sports International",
+    "owners": [
+      "The Walt Disney Company"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "FoxSports.ar",
+      "feed": "SD",
+      "site": "mi.tv",
+      "site_id": "ar#fox-sports-hd",
+      "site_name": "FOX Sports HD",
+      "lang": "es",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
   },
   {
     "id": "FoxSports.ar",
@@ -6409,6 +6519,78 @@
       "sources": []
     },
     "website": "https://tn.com.ar/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TNTSports.ar",
+    "name": "TNT Sports",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TNTSports.ar",
+      "feed": "HD",
+      "site": "mi.tv",
+      "site_id": "ar#tnt-sports",
+      "site_name": "TNT Sports",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://tntsports.com.ar/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TNTSports.ar",
+    "name": "TNT Sports",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "AR",
+    "country_name": "Argentina",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "stream_url": "http://181.78.79.131:8000/play/a0mo",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TNTSports.ar",
+      "feed": "HD",
+      "site": "mi.tv",
+      "site_id": "ar#tnt-sports",
+      "site_name": "TNT Sports",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://tntsports.com.ar/",
     "launched": null,
     "closed": null
   },

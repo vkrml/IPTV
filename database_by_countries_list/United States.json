@@ -8942,10 +8942,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-    "stream_url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/chunks.m3u8",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "AXNLatinAmerica.us",
@@ -19023,10 +19023,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
-    "stream_url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Cinecanal-key/chunks.m3u8",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "Cinecanal.us",
@@ -22045,10 +22045,12 @@
   },
   {
     "id": "ComedyTV.us",
-    "name": "Comedy TV",
+    "name": "Comedy.TV",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Allen Media Group"
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -25999,6 +26001,42 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
     "stream_url": "http://45.171.64.30:6060/play/a032/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DiscoveryChannelLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "423",
+      "site_name": "DISCOVERY CHANNEL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.latam.discovery.com/",
+    "launched": "1996-11-01",
+    "closed": null
+  },
+  {
+    "id": "DiscoveryChannelLatinAmerica.us",
+    "name": "Discovery Channel Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -31356,6 +31394,42 @@
       "sources": []
     },
     "website": "https://estrellatv.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ESTV.us",
+    "name": "ES.TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Allen Media Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ihY01ao.png",
+    "stream_url": "https://a-cdn.klowdtv.com/live2/estv_720p/playlist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ESTV.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "120205",
+      "site_name": "ESTV",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://es.tv/",
     "launched": null,
     "closed": null
   },
@@ -38914,7 +38988,7 @@
     "alt_names": [],
     "network": null,
     "owners": [
-      "Skydance Corporation"
+      "Allen Media Group"
     ],
     "country_code": "US",
     "country_name": "United States",
@@ -40348,6 +40422,42 @@
     "closed": null
   },
   {
+    "id": "HGTVLatinAmerica.us",
+    "name": "HGTV Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "lifestyle"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png",
+    "stream_url": "https://streaming.onnethn.com/HGTV/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HGTVLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "tv2go.t-2.net",
+      "site_id": "1000730",
+      "site_name": "HGTV",
+      "lang": "sl",
+      "sources": []
+    },
+    "website": "http://www.hgtv.com/",
+    "launched": "2019-03-01",
+    "closed": null
+  },
+  {
     "id": "HighVisionTV.us",
     "name": "High Vision TV",
     "alt_names": [],
@@ -40821,6 +40931,40 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
     "stream_url": "http://190.93.224.42/HISTORY/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HistoryLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "521",
+      "site_name": "HISTORY CHANNEL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.historyplay.tv/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HistoryLatinAmerica.us",
+    "name": "History Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -43600,6 +43744,42 @@
     "closed": null
   },
   {
+    "id": "InvestigationDiscoveryLatinAmerica.us",
+    "name": "Investigation Discovery Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "InvestigationDiscoveryLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "528",
+      "site_name": "INVESTIGATION DISCOVERY",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://id.tudiscovery.com/",
+    "launched": "1996-10-07",
+    "closed": null
+  },
+  {
     "id": "IONPlus.us",
     "name": "ION Plus",
     "alt_names": [],
@@ -45233,10 +45413,12 @@
   },
   {
     "id": "JusticeCentralTV.us",
-    "name": "Justice Central TV",
+    "name": "Justice Central.TV",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Allen Media Group"
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -45253,7 +45435,7 @@
     "user_agent": null,
     "referrer": null,
     "tv_guide": null,
-    "website": "https://entertainmentstudios.com/network/justicecentral-tv/",
+    "website": "https://justicecentral.tv/",
     "launched": null,
     "closed": null
   },
@@ -50745,6 +50927,36 @@
     "closed": null
   },
   {
+    "id": "MiMusicaHits.us",
+    "name": "Mi Musica Hits",
+    "alt_names": [
+      "Mi Música Hits"
+    ],
+    "network": null,
+    "owners": [
+      "Latin Entertainment Group"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/z9MlLFL.png",
+    "stream_url": "http://38.188.186.47:4000/play/a04n/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.latingroup.us/mmh.html",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "MiMusicaReggaeton.us",
     "name": "Mi Musica Reggaeton",
     "alt_names": [
@@ -54283,7 +54495,9 @@
     "name": "MyDestination.TV",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Allen Media Group"
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
@@ -65744,7 +65958,7 @@
       "lang": "en",
       "sources": []
     },
-    "website": "https://pets.tv/contact-v1/",
+    "website": "https://pets.tv/",
     "launched": null,
     "closed": null
   },
@@ -74602,15 +74816,19 @@
   },
   {
     "id": "RecipeTV.us",
-    "name": "Recipe TV",
+    "name": "Recipe.TV",
     "alt_names": [],
     "network": null,
-    "owners": [],
+    "owners": [
+      "Allen Media Group"
+    ],
     "country_code": "US",
     "country_name": "United States",
     "subdivision": null,
     "city": null,
-    "categories": [],
+    "categories": [
+      "cooking"
+    ],
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/HcL4a8z.png",
@@ -79790,10 +80008,10 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
-    "stream_url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/chunks.m3u8",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8",
     "stream_quality": null,
     "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "StarChannelLatinAmerica.us",
@@ -80621,6 +80839,38 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",
     "stream_url": "http://190.93.224.42/STUDIO-UNIVERSAL/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "StudioUniversalLatinAmerica.us",
+      "feed": "Brazil",
+      "site": "visionplus.id",
+      "site_id": "00000000000000000054",
+      "site_name": "Studio Universal",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "http://www.universalplus.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "StudioUniversalLatinAmerica.us",
+    "name": "Studio Universal Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -83174,6 +83424,44 @@
     "logo": "https://i.imgur.com/j2O4ndp.png",
     "stream_url": "http://45.173.231.22:8000/play/a097/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TelemundoInternacional.us",
+      "feed": "CentralAmerica",
+      "site": "siba.com.co",
+      "site_id": "697",
+      "site_name": "TELEMUNDO",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.telemundo.com/telemundo-internacional/telemundo-internacional",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TelemundoInternacional.us",
+    "name": "Telemundo Internacional",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NBCUniversal Telemundo Enterprises",
+      "NBCUniversal",
+      "Comcast Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/j2O4ndp.png",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/54.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -94705,6 +94993,42 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png",
     "stream_url": "http://38.134.250.110:8000/play/a029/index.m3u8",
     "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "WarnerChannel.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "608",
+      "site_name": "WARNER CHANNEL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.warnerchannel.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WarnerChannel.us",
+    "name": "Warner Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,

@@ -255,6 +255,35 @@
     "closed": null
   },
   {
+    "id": "CartoonitoAsia.sg",
+    "name": "Cartoonito Asia",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png",
+    "stream_url": "http://202.150.165.66:8088/play/201-Cartoonito/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": "2023-07-28",
+    "closed": null
+  },
+  {
     "id": "CartoonNetworkAsia.sg",
     "name": "Cartoon Network Asia",
     "alt_names": [],
@@ -277,6 +306,43 @@
     "stream_quality": "720p",
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CartoonNetworkAsia.sg",
+      "feed": "SD",
+      "site": "starhubtvplus.com",
+      "site_id": "753cf54a-a4a2-4723-8709-c8ce14ec8254",
+      "site_name": "Cartoon Network",
+      "lang": "zh",
+      "sources": []
+    },
+    "website": "http://www.cartoonnetworkasia.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CartoonNetworkAsia.sg",
+    "name": "Cartoon Network Asia",
+    "alt_names": [],
+    "network": "Cartoon Network",
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "stream_url": "http://202.150.165.66:8088/play/200-CartoonNetwork/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "CartoonNetworkAsia.sg",
@@ -424,6 +490,44 @@
     "is_nsfw": false,
     "logo": "https://freem3u.xyz/static/images/global/cinemax.png",
     "stream_url": "http://125.227.210.55:1001/VideoInput/play.ts",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CinemaxAsia.sg",
+      "feed": "SD",
+      "site": "tivie.id",
+      "site_id": "cinemax",
+      "site_name": "Cinemax",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "http://www.cinemaxasia.com/",
+    "launched": "1996-11-15",
+    "closed": null
+  },
+  {
+    "id": "CinemaxAsia.sg",
+    "name": "Cinemax Asia",
+    "alt_names": [
+      "Max Asia"
+    ],
+    "network": "HBO Asia",
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://freem3u.xyz/static/images/global/cinemax.png",
+    "stream_url": "http://202.150.165.66:8088/play/104-Cinemax/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -760,6 +864,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://freem3u.xyz/static/images/global/hbo.png",
+    "stream_url": "http://202.150.165.66:8088/play/100-HBO/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HBOAsia.sg",
+      "feed": "SD",
+      "site": "tivie.id",
+      "site_id": "hbo",
+      "site_name": "HBO",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "http://hboasia.com/HBO/",
+    "launched": "1992-05-01",
+    "closed": null
+  },
+  {
+    "id": "HBOAsia.sg",
+    "name": "HBO Asia",
+    "alt_names": [],
+    "network": "HBO Asia",
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://freem3u.xyz/static/images/global/hbo.png",
     "stream_url": "https://tinyurl.com/yn3d3rmd",
     "stream_quality": "720p",
     "stream_format": null,
@@ -812,6 +952,114 @@
     },
     "website": "http://hboasia.com/HBO/",
     "launched": "1992-05-01",
+    "closed": null
+  },
+  {
+    "id": "HBOFamilyAsia.sg",
+    "name": "HBO Family Asia",
+    "alt_names": [],
+    "network": "HBO Asia",
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "family"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/960px-HBO_Family_Asia_logo.svg.png",
+    "stream_url": "http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HBOFamilyAsia.sg",
+      "feed": "SD",
+      "site": "tivie.id",
+      "site_id": "hbofamily",
+      "site_name": "HBO Family",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "http://www.hboasia.com/family/",
+    "launched": "2006-03-16",
+    "closed": null
+  },
+  {
+    "id": "HBOHitsAsia.sg",
+    "name": "HBO Hits Asia",
+    "alt_names": [],
+    "network": "HBO Asia",
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.ibb.co/Mkzs7g3J/IMG-2195.png",
+    "stream_url": "http://202.150.165.66:8088/play/102-HBOHits/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HBOHitsAsia.sg",
+      "feed": "SD",
+      "site": "tivie.id",
+      "site_id": "hbohits",
+      "site_name": "HBO Hits",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "http://www.hboasia.com/hits",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "HBOSignatureAsia.sg",
+    "name": "HBO Signature Asia",
+    "alt_names": [],
+    "network": "HBO Asia",
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "SG",
+    "country_name": "Singapore",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/960px-HBO_Signature_Asia.png",
+    "stream_url": "http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HBOSignatureAsia.sg",
+      "feed": "SD",
+      "site": "tivie.id",
+      "site_id": "hbosignature",
+      "site_name": "HBO Signature",
+      "lang": "id",
+      "sources": []
+    },
+    "website": "http://www.hboasia.com/signature",
+    "launched": "2005-01-01",
     "closed": null
   },
   {

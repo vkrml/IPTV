@@ -28,6 +28,36 @@
     "closed": null
   },
   {
+    "id": "5DiasTV.py",
+    "name": "5Dias TV",
+    "alt_names": [
+      "5Días TV"
+    ],
+    "network": null,
+    "owners": [
+      "Editorial de Negocios SA"
+    ],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "business"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/AX25tmv.png",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://5dias.com.py/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ABCTVParaguay.py",
     "name": "ABC-TV Paraguay",
     "alt_names": [],
@@ -45,8 +75,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/OqfBMGy.png",
-    "stream_url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(vig4KUMvzIpvL_0CGgNPG2QFE6DukpwGhRZzGj8aqOyedNaDjlOwv-qe03N1Bk5-7nB-V7Uv8gBwwy2h-0TCL_WRE6IWeUWiVcnYm587YcdKpnqvQZ3tYg9iGdqpySyX)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a",
-    "stream_quality": "1080p",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -153,8 +183,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/0COKxet.png",
-    "stream_url": "http://45.170.130.224:8000/play/a02o/index.m3u8?hls",
-    "stream_quality": "720p",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -1273,6 +1303,46 @@
     "closed": null
   },
   {
+    "id": "Paravision.py",
+    "name": "Paravision",
+    "alt_names": [
+      "Paravisión",
+      "Canal 5"
+    ],
+    "network": null,
+    "owners": [
+      "Albavisión",
+      "Grupo SNT"
+    ],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/yd9Dw2G.png",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Paravision.py",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "paravision",
+      "site_name": "Canal Paravisión",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.paravision.com.py/",
+    "launched": "2004-10-07",
+    "closed": null
+  },
+  {
     "id": "PopuTV.py",
     "name": "Popu TV",
     "alt_names": [],
@@ -1722,6 +1792,43 @@
     "closed": null
   },
   {
+    "id": "SNT.py",
+    "name": "SNT",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Albavisión",
+      "Grupo SNT"
+    ],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SNT.py",
+      "feed": "SD",
+      "site": "gatotv.com",
+      "site_id": "snt",
+      "site_name": "Canal SNT (Paraguay)",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.snt.com.py/",
+    "launched": "1965-09-29",
+    "closed": null
+  },
+  {
     "id": "SucesoTV.py",
     "name": "Suceso TV",
     "alt_names": [],
@@ -1957,7 +2064,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/cgIv5QK.png",
-    "stream_url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -1973,6 +2080,34 @@
     },
     "website": "http://www.trece.com.py/",
     "launched": "1981-02-11",
+    "closed": null
+  },
+  {
+    "id": "Tropicalia939FM.py",
+    "name": "Tropicalia 93.9 FM",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Grupo Vázquez"
+    ],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/oMML5Ue.png",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.tropicalia.com.py/",
+    "launched": null,
     "closed": null
   },
   {
@@ -2088,6 +2223,36 @@
     "closed": null
   },
   {
+    "id": "TVCamara.py",
+    "name": "TV Camara",
+    "alt_names": [
+      "TV Cámara"
+    ],
+    "network": null,
+    "owners": [
+      "Honorable Cámara de Diputados de la República del Paraguay"
+    ],
+    "country_code": "PY",
+    "country_name": "Paraguay",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "legislative"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/8Jl0h8F.jpeg",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://tv.diputados.gov.py/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TVCanindeyu.py",
     "name": "TV Canindeyu",
     "alt_names": [
@@ -2133,7 +2298,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/cgTD2TW.png",
-    "stream_url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
+    "stream_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,

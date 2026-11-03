@@ -17751,38 +17751,6 @@
     "closed": null
   },
   {
-    "id": "OceanTV.ru",
-    "name": "Ocean-TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/zswzDZS.png",
-    "stream_url": "http://hls127.freeott.top:8080/Ocean_TV/video.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "OceanTV.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1309",
-      "site_name": "Ocean TV",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://ocean-tv.media/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Ohotnikirybolov.ru",
     "name": "Ohotnik i rybolov",
     "alt_names": [
@@ -19300,42 +19268,6 @@
       "sources": []
     },
     "website": "https://radostmoya.ru/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "RBKTV.ru",
-    "name": "RBK-TV",
-    "alt_names": [
-      "РБК-ТВ"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "business"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/CwhmJby.png",
-    "stream_url": "http://hls127.freeott.top:8080/RBK/video.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "RBKTV.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1126",
-      "site_name": "РБК",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://tv.rbc.ru/",
     "launched": null,
     "closed": null
   },
@@ -27228,6 +27160,44 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png",
+    "stream_url": "https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Russia24.ru",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "ba/tvprogram#rossija24",
+      "site_name": "Россиᴙ 24",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "http://vesti.ru/",
+    "launched": "2006-07-01",
+    "closed": null
+  },
+  {
+    "id": "Russia24.ru",
+    "name": "Russia-24",
+    "alt_names": [
+      "Россия-24"
+    ],
+    "network": "VGTRK",
+    "owners": [
+      "Government of the Russian Federation"
+    ],
+    "country_code": "RU",
+    "country_name": "Russia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png",
     "stream_url": "https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -32744,42 +32714,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://shanson.tv/wp-content/uploads/2025/12/pics.31.png",
-    "stream_url": "http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ShansonTV.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1129",
-      "site_name": "Шансон-TB",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://shanson.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ShansonTV.ru",
-    "name": "Shanson TV",
-    "alt_names": [
-      "Шансон ТВ"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://shanson.tv/wp-content/uploads/2025/12/pics.31.png",
     "stream_url": "https://uiptv.do.am/1ufc/602079679/playlist.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -33100,40 +33034,6 @@
       "sources": []
     },
     "website": "https://www.shoppinglive.ru/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "ShotTV.ru",
-    "name": "Shot TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/MLSG7tA.png",
-    "stream_url": "http://hls127.freeott.top:8080/SHOT_TV/video.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ShotTV.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1561",
-      "site_name": "SHOT TV",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "http://www.shot-tv.com/",
     "launched": null,
     "closed": null
   },
@@ -35167,46 +35067,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/o9kLpAL.png",
-    "stream_url": "http://hls127.freeott.top:8080/STS_Kids/video.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "STSkids.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "2383",
-      "site_name": "СТС Kids",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://ctckids.ru/",
-    "launched": "2018-07-06",
-    "closed": null
-  },
-  {
-    "id": "STSkids.ru",
-    "name": "STS kids",
-    "alt_names": [
-      "CTC kids",
-      "СТС kids"
-    ],
-    "network": null,
-    "owners": [
-      "STS Media",
-      "Media Telecom"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/o9kLpAL.png",
     "stream_url": "http://stream.mcquack.net/197/index.m3u8",
     "stream_quality": "576p",
     "stream_format": null,
@@ -36069,44 +35929,6 @@
     "tv_guide": null,
     "website": null,
     "launched": "2022-08-18",
-    "closed": null
-  },
-  {
-    "id": "Teatr.ru",
-    "name": "Teatr",
-    "alt_names": [
-      "Театр"
-    ],
-    "network": null,
-    "owners": [
-      "Signal Media"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "culture"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/nc2ijCH.png",
-    "stream_url": "http://hls127.freeott.top:8080/Teatr/video.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Teatr.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1567",
-      "site_name": "Театр",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "http://www.telekanalteatr.ru/",
-    "launched": "2011-03-27",
     "closed": null
   },
   {
@@ -37884,44 +37706,6 @@
     "closed": null
   },
   {
-    "id": "TopSecret.ru",
-    "name": "Top Secret",
-    "alt_names": [
-      "Совершенно секретно"
-    ],
-    "network": null,
-    "owners": [
-      "Sovershenno sekretno"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "documentary"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/HM4xy4G.png",
-    "stream_url": "http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TopSecret.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "1008",
-      "site_name": "Совершенно секретно",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "https://sovsekretno.tv/",
-    "launched": "2006-11-01",
-    "closed": null
-  },
-  {
     "id": "TravelChannel.ru",
     "name": "Travel Channel",
     "alt_names": [],
@@ -38556,44 +38340,6 @@
       "sources": []
     },
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVCentr.ru",
-    "name": "TV Centr",
-    "alt_names": [
-      "ТВ Центр",
-      "ТВЦ",
-      "TV Tsentr"
-    ],
-    "network": null,
-    "owners": [
-      "Government of Moscow"
-    ],
-    "country_code": "RU",
-    "country_name": "Russia",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://www.moscow-telecom.ru/img/logo_channels/tvc_hd.svg",
-    "stream_url": "http://hls127.freeott.top:8080/Tv_Center/video.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVCentr.ru",
-      "feed": "SD",
-      "site": "tv.mail.ru",
-      "site_id": "948",
-      "site_name": "ТВ Центр",
-      "lang": "ru",
-      "sources": []
-    },
-    "website": "http://www.tvc.ru/",
     "launched": null,
     "closed": null
   },

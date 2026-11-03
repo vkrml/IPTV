@@ -342,7 +342,8 @@
     "id": "Antena3CNN.ro",
     "name": "Antena 3 CNN",
     "alt_names": [
-      "Antena 3"
+      "Antena 3",
+      "3FM"
     ],
     "network": "Antena Group",
     "owners": [
@@ -372,7 +373,8 @@
     "id": "Antena3CNN.ro",
     "name": "Antena 3 CNN",
     "alt_names": [
-      "Antena 3"
+      "Antena 3",
+      "3FM"
     ],
     "network": "Antena Group",
     "owners": [
@@ -543,6 +545,34 @@
     "closed": null
   },
   {
+    "id": "AntenaSport.ro",
+    "name": "AntenaSport",
+    "alt_names": [],
+    "network": "Antena Group",
+    "owners": [
+      "Antena TV Group S.A"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",
+    "stream_url": "https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://as.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ArgesTV.ro",
     "name": "Arges TV",
     "alt_names": [
@@ -595,6 +625,35 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://antenaplay.ro/live/asia-express-nonstop",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ASTV.ro",
+    "name": "AS TV",
+    "alt_names": [
+      "AS TV Bistrita",
+      "AS TV Bistrița"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1d/AS_TV_2025.png/revision/latest?cb=20250412121320",
+    "stream_url": "https://s2.netstreaming.eu/astv.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://astv.ro/",
     "launched": null,
     "closed": null
   },
@@ -809,41 +868,6 @@
       "site": "programetv.ro",
       "site_id": "bollywood-classic",
       "site_name": "Bollywood Classic",
-      "lang": "ro",
-      "sources": []
-    },
-    "website": "http://www.bollywoodtv.ro/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "BollywoodFilm.ro",
-    "name": "Bollywood Film",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies",
-      "classic"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/bEMUpHZ.png",
-    "stream_url": "https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "BollywoodFilm.ro",
-      "feed": "SD",
-      "site": "programetv.ro",
-      "site_id": "bollywood-film",
-      "site_name": "Bollywood FILM",
       "lang": "ro",
       "sources": []
     },
@@ -2580,114 +2604,6 @@
     "closed": null
   },
   {
-    "id": "MoozDance.ro",
-    "name": "Mooz Dance",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Cristinal Popa and Ionut Samoila"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/aX70RD2.png",
-    "stream_url": "https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MoozDance.ro",
-      "feed": "SD",
-      "site": "programetv.ro",
-      "site_id": "mooz-dance",
-      "site_name": "Mooz Dance",
-      "lang": "ro",
-      "sources": []
-    },
-    "website": "https://mooz.tv/mooz-dance/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "MoozHits.ro",
-    "name": "Mooz Hits",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Cristinal Popa and Ionut Samoila"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/GwATd3Y.png",
-    "stream_url": "https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MoozHits.ro",
-      "feed": "SD",
-      "site": "programetv.ro",
-      "site_id": "mooz-hits",
-      "site_name": "Mooz Hits",
-      "lang": "ro",
-      "sources": []
-    },
-    "website": "https://mooz.tv/mooz-hits/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "MoozRo.ro",
-    "name": "Mooz Ro!",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Cristinal Popa and Ionut Samoila"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "music"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Ft24x5T.png",
-    "stream_url": "https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "MoozRo.ro",
-      "feed": "SD",
-      "site": "programetv.ro",
-      "site_id": "mooz-ro",
-      "site_name": "Mooz Ro",
-      "lang": "ro",
-      "sources": []
-    },
-    "website": "https://mooz.tv/mooz-ro/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "MuscelTV.ro",
     "name": "Muscel TV",
     "alt_names": [],
@@ -3727,6 +3643,36 @@
     "closed": null
   },
   {
+    "id": "RadioZU.ro",
+    "name": "Radio ZU",
+    "alt_names": [
+      "ZU Radio"
+    ],
+    "network": null,
+    "owners": [
+      "Digital Antena Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://radiozu.ro/img/logo-zu.png",
+    "stream_url": "https://stream1.antenaplay.ro/zurtv/zurtv/chunklist.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://radiozu.ro/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "RapsodiaTV.ro",
     "name": "Rapsodia TV",
     "alt_names": [],
@@ -3907,6 +3853,32 @@
     "closed": null
   },
   {
+    "id": "RomanticFM.ro",
+    "name": "Romantic FM",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://assets.antenaplay.ro/2023/08/16/u0AuO3YCe1bdz3xSHgeK.png",
+    "stream_url": "https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://antenaplay.ro/live/romantic-fm",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "SangeorzTV.ro",
     "name": "Sangeorz TV",
     "alt_names": [],
@@ -3927,6 +3899,32 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "SensTV.ro",
+    "name": "Sens TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a9/Sens_TV.png/revision/latest?cb=20231211141523",
+    "stream_url": "https://live.senstv.ro/live/senstv_1080p/chunklist.m3u8",
+    "stream_quality": "576i",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://senstv.ro/",
     "launched": null,
     "closed": null
   },
@@ -3995,13 +3993,14 @@
     "closed": null
   },
   {
-    "id": "SportExtra.ro",
-    "name": "Sport Extra",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Mooz TV SRL"
+    "id": "SportTotalFM.ro",
+    "name": "Sport Total FM",
+    "alt_names": [
+      "Sport Total",
+      "sptfm"
     ],
+    "network": null,
+    "owners": [],
     "country_code": "RO",
     "country_name": "Romania",
     "subdivision": null,
@@ -4011,23 +4010,15 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fa/Sport_Extra_horizontal.svg/revision/latest/scale-to-width-down/1000?cb=20220425110755",
-    "stream_url": "https://tvextra-hls.b-cdn.net/sportextra/sportextra.m3u8",
-    "stream_quality": null,
+    "logo": "https://sptfm.ro/wp-content/uploads/2021/05/logo-sport-total-fm-01.png",
+    "stream_url": "https://livesptfm.com/SPTFM/Live/playlist.m3u8",
+    "stream_quality": "576i",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
-    "tv_guide": {
-      "channel": "SportExtra.ro",
-      "feed": "SD",
-      "site": "programetv.ro",
-      "site_id": "sport-extra",
-      "site_name": "Sport Extra",
-      "lang": "ro",
-      "sources": []
-    },
-    "website": "https://www.sportextra.ro/",
-    "launched": "2020-03-02",
+    "tv_guide": null,
+    "website": "https://sptfm.ro/",
+    "launched": null,
     "closed": null
   },
   {

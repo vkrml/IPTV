@@ -559,6 +559,78 @@
     "closed": null
   },
   {
+    "id": "Cinemax2CentralEurope.hu",
+    "name": "Cinemax 2 Central Europe",
+    "alt_names": [],
+    "network": "HBO Europe",
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png",
+    "stream_url": "http://193.33.39.108:9009/play/a024",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Cinemax2CentralEurope.hu",
+      "feed": "HD",
+      "site": "tv.dir.bg",
+      "site_id": "14",
+      "site_name": "Cinemax 2",
+      "lang": "bg",
+      "sources": []
+    },
+    "website": "http://www.cinemax.eu/",
+    "launched": "2005-02-01",
+    "closed": "2019-01-01"
+  },
+  {
+    "id": "CinemaxCentralEurope.hu",
+    "name": "Cinemax Central Europe",
+    "alt_names": [],
+    "network": "HBO Europe",
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png",
+    "stream_url": "http://193.33.39.108:9023/play/a01b",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CinemaxCentralEurope.hu",
+      "feed": "HD",
+      "site": "tvmusor.hu",
+      "site_id": "47",
+      "site_name": "Cinemax",
+      "lang": "hu",
+      "sources": []
+    },
+    "website": "http://www.cinemax.eu/",
+    "launched": "2005-02-01",
+    "closed": "2019-01-01"
+  },
+  {
     "id": "CityTV.hu",
     "name": "City TV",
     "alt_names": [],
@@ -788,6 +860,42 @@
     "stream_quality": null,
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DisneyChannel.hu",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "hu/tvmusor#disney-channel-hu",
+      "site_name": "Disney Channel HU",
+      "lang": "hr",
+      "sources": []
+    },
+    "website": "http://www.disney.hu/DisneyChannel",
+    "launched": "2009-09-19",
+    "closed": null
+  },
+  {
+    "id": "DisneyChannel.hu",
+    "name": "Disney Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Disney Entertainment"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/aOa73uT.png",
+    "stream_url": "http://193.33.39.108:9019/play/a00n",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "DisneyChannel.hu",
@@ -2926,6 +3034,42 @@
     "closed": null
   },
   {
+    "id": "Nickelodeon.hu",
+    "name": "Nickelodeon",
+    "alt_names": [],
+    "network": "Nickelodeon",
+    "owners": [
+      "Paramount Networks EMEAA"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/fXs8f6a.png",
+    "stream_url": "http://193.33.39.108:9011/play/a017",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Nickelodeon.hu",
+      "feed": "SD",
+      "site": "tvmusor.hu",
+      "site_id": "41",
+      "site_name": "Nickelodeon",
+      "lang": "hu",
+      "sources": []
+    },
+    "website": "http://www.nickelodeon.hu/",
+    "launched": "1998-11-15",
+    "closed": null
+  },
+  {
     "id": "NickJr.hu",
     "name": "Nick Jr.",
     "alt_names": [],
@@ -4763,6 +4907,78 @@
     },
     "website": "https://www.viasat6.hu/",
     "launched": "2008-01-28",
+    "closed": null
+  },
+  {
+    "id": "ViasatHistory.hu",
+    "name": "Viasat History",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Viasat World LTD"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/wRP9XA7.png",
+    "stream_url": "http://193.33.39.108:9007/play/a00p",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ViasatHistory.hu",
+      "feed": "SD",
+      "site": "musor.tv",
+      "site_id": "VIASATHIST",
+      "site_name": "Viasat History (HD)",
+      "lang": "hu",
+      "sources": []
+    },
+    "website": "http://viasat-history.hu/",
+    "launched": "2004-05-03",
+    "closed": null
+  },
+  {
+    "id": "ViasatNature.hu",
+    "name": "Viasat Nature",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Viasat World LTD"
+    ],
+    "country_code": "HU",
+    "country_name": "Hungary",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ousRqqD.png",
+    "stream_url": "http://193.33.39.108:9000/play/a05r",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "ViasatNature.hu",
+      "feed": "SD",
+      "site": "musor.tv",
+      "site_id": "VIASATNAT",
+      "site_name": "Viasat Nature (HD)",
+      "lang": "hu",
+      "sources": []
+    },
+    "website": "http://viasat-nature.hu/",
+    "launched": "2010-05-05",
     "closed": null
   },
   {

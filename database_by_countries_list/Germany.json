@@ -5443,44 +5443,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/v4kj8pI.png",
-    "stream_url": "http://hls127.freeott.top:8080/Motorvision/video.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Motorvision.de",
-      "feed": "SD",
-      "site": "zap.co.ao",
-      "site_id": "2357",
-      "site_name": "Motorvision",
-      "lang": "pt",
-      "sources": []
-    },
-    "website": "https://motorvision.tv/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Motorvision.de",
-    "name": "Motorvision",
-    "alt_names": [
-      "Motorvision TV"
-    ],
-    "network": null,
-    "owners": [
-      "German Car TV Programm GmbH"
-    ],
-    "country_code": "DE",
-    "country_name": "Germany",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "auto"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/v4kj8pI.png",
     "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535",
     "stream_quality": "720p",
     "stream_format": null,
@@ -5980,42 +5942,6 @@
     },
     "website": "https://lovetvchannels.com/en/our-channels/#actualidad",
     "launched": "2025-12-15",
-    "closed": null
-  },
-  {
-    "id": "NashKinomir.de",
-    "name": "Nash Kinomir",
-    "alt_names": [
-      "Наш Киномир"
-    ],
-    "network": null,
-    "owners": [],
-    "country_code": "DE",
-    "country_name": "Germany",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/7M1J42A.png",
-    "stream_url": "http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NashKinomir.de",
-      "feed": "SD",
-      "site": "web.magentatv.de",
-      "site_id": "472",
-      "site_name": "Kinomir",
-      "lang": "de",
-      "sources": []
-    },
-    "website": "http://www.kinomir.tv/",
-    "launched": null,
     "closed": null
   },
   {
@@ -7614,43 +7540,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "OstWest.de",
-    "name": "Ost West",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "RTV Broadcast & Content Mangement GmbH"
-    ],
-    "country_code": "DE",
-    "country_name": "Germany",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news",
-      "culture"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/nSQWo49.png",
-    "stream_url": "http://hls127.freeott.top:8080/OstWest/video.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "OstWest.de",
-      "feed": "SD",
-      "site": "web.magentatv.de",
-      "site_id": "476",
-      "site_name": "OstWest",
-      "lang": "de",
-      "sources": []
-    },
-    "website": "https://ostwest.tv/",
     "launched": null,
     "closed": null
   },
@@ -13643,6 +13532,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/KbdK8t9.png",
+    "stream_url": "https://s6.hopslan.com/superX/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RTLSuper.de",
+      "feed": "SD",
+      "site": "web.magentatv.de",
+      "site_id": "403",
+      "site_name": "Super RTL",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "https://www.superrtl.de/",
+    "launched": "1995-04-28",
+    "closed": null
+  },
+  {
+    "id": "RTLSuper.de",
+    "name": "RTL Super",
+    "alt_names": [
+      "Super RTL"
+    ],
+    "network": null,
+    "owners": [
+      "RTL Disney Fernsehen GmbH & Co. KG"
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/KbdK8t9.png",
     "stream_url": "https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -13659,6 +13584,40 @@
     },
     "website": "https://www.superrtl.de/",
     "launched": "1995-04-28",
+    "closed": null
+  },
+  {
+    "id": "RTLZwei.de",
+    "name": "RTL Zwei",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "RTL Group S.A."
+    ],
+    "country_code": "DE",
+    "country_name": "Germany",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png",
+    "stream_url": "https://s6.hopslan.com/rtl2q/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "RTLZwei.de",
+      "feed": "SD",
+      "site": "web.magentatv.de",
+      "site_id": "382",
+      "site_name": "RTLZWEI",
+      "lang": "de",
+      "sources": []
+    },
+    "website": "https://www.rtl2.de/",
+    "launched": "1993-03-06",
     "closed": null
   },
   {

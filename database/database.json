@@ -31846,37 +31846,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512",
-    "stream_url": "https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.antena3.ro/",
-    "launched": "2005-06-27",
-    "closed": null
-  },
-  {
-    "id": "Antena3CNN.ro",
-    "name": "Antena 3 CNN",
-    "alt_names": [
-      "Antena 3",
-      "3FM"
-    ],
-    "network": "Antena Group",
-    "owners": [
-      "Skydance Corporation"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512",
     "stream_url": "https://live3vox.antenaplay.ro/a3free/a3free.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -32202,32 +32171,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://antenaplay.ro/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "AntenaPlayEvents.ro",
-    "name": "AntenaPlay Events",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/87/Antena_Play_symbol_white_2022.svg/revision/latest/scale-to-width-down/1000?cb=20251128201145",
-    "stream_url": "https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8",
-    "stream_quality": "576p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
     "launched": null,
     "closed": null
   },
@@ -37786,34 +37729,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "AsiaExpressNonStop.ro",
-    "name": "Asia Express NonStop",
-    "alt_names": [],
-    "network": "Antena TV Group",
-    "owners": [
-      "Antena TV Group"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://assets.antenaplay.ro/2026/08/25/00keSCoSw0EaWnICcuYB.png",
-    "stream_url": "https://live4dai.antenaplay.ro/live2_sport05/live2_sport05_600k.m3u8",
-    "stream_quality": "576i",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://antenaplay.ro/live/asia-express-nonstop",
     "launched": null,
     "closed": null
   },
@@ -70644,6 +70559,40 @@
     "closed": null
   },
   {
+    "id": "bTV.bg",
+    "name": "bTV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BG",
+    "country_name": "Bulgaria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/l47z7gw.png",
+    "stream_url": "http://85.11.189.178:8080/bTV/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "bTV.bg",
+      "feed": "SD",
+      "site": "tvprofil.com",
+      "site_id": "bg/tv-programa#btv-bg",
+      "site_name": "bTV BG",
+      "lang": "bg",
+      "sources": []
+    },
+    "website": "https://www.btv.bg/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "BTV.hu",
     "name": "BTV",
     "alt_names": [
@@ -87084,6 +87033,42 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/WbfdJbk.png",
     "stream_url": "http://181.78.12.119:16123/play/ch58a/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "CaracolTV.co",
+      "feed": "SD",
+      "site": "siba.com.co",
+      "site_id": "394",
+      "site_name": "CANAL CARACOL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.caracoltv.com/",
+    "launched": "1998-07-10",
+    "closed": null
+  },
+  {
+    "id": "CaracolTV.co",
+    "name": "Caracol TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Caracol Televisión S.A."
+    ],
+    "country_code": "CO",
+    "country_name": "Colombia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/WbfdJbk.png",
+    "stream_url": "http://181.225.190.242:8000/play/a00q",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -105126,6 +105111,32 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/t9vVTLH.png",
     "stream_url": "http://213.91.179.28:8000/play/a05h",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "CineStarActionBulgaria.bg",
+    "name": "CineStar Action Bulgaria",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BG",
+    "country_name": "Bulgaria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/bTf7A9J.png",
+    "stream_url": "http://213.91.179.28:8000/play/a06b",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -163343,42 +163354,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/vlKPZHR.png",
-    "stream_url": "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FightNetwork.ca",
-      "feed": "SD",
-      "site": "tvtv.us",
-      "site_id": "48099",
-      "site_name": "Fight Network",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "https://www.fightnetwork.com/",
-    "launched": "2005-09-22",
-    "closed": null
-  },
-  {
-    "id": "FightNetwork.ca",
-    "name": "Fight Network",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Anthem Sports & Entertainment"
-    ],
-    "country_code": "CA",
-    "country_name": "Canada",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/vlKPZHR.png",
     "stream_url": "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -169294,42 +169269,6 @@
     "website": "https://www.foxsports.com/",
     "launched": "2013-08-17",
     "closed": null
-  },
-  {
-    "id": "FoxSports2.ar",
-    "name": "Fox Sports 2",
-    "alt_names": [],
-    "network": "Fox Sports International",
-    "owners": [
-      "Mediapro"
-    ],
-    "country_code": "AR",
-    "country_name": "Argentina",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/oG7HzEf.png",
-    "stream_url": "https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8",
-    "stream_quality": "576i",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": "https://mi.tv/ar/canales/fox-sports-2",
-    "tv_guide": {
-      "channel": "FoxSports2.ar",
-      "feed": "SD",
-      "site": "mi.tv",
-      "site_id": "ar#fox-sports-2",
-      "site_name": "FOX Sports 2",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "http://www.foxsportsla.com/",
-    "launched": "2009-10-12",
-    "closed": "2024-12-15"
   },
   {
     "id": "FoxSports2.us",
@@ -186813,34 +186752,6 @@
     "closed": null
   },
   {
-    "id": "HalloweenNonStop.ro",
-    "name": "Halloween Non Stop",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Antena TV Group"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://assets.antenaplay.ro/2026/10/18/ODGTMKI8mciV9cmCOxgn.png",
-    "stream_url": "https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://antenaplay.ro/live/halloween-non-stop",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "HalomTV.hu",
     "name": "Halom TV",
     "alt_names": [],
@@ -192429,6 +192340,40 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
     "stream_url": "http://190.93.224.42/HISTORY-2/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "History2LatinAmerica.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "894",
+      "site_name": "H2",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.historyplay.tv/history-2",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "History2LatinAmerica.us",
+    "name": "History 2 Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
+    "stream_url": "http://181.225.190.242:8000/play/a023",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -206196,34 +206141,6 @@
     "closed": null
   },
   {
-    "id": "Insulanonstop.ro",
-    "name": "Insula non stop",
-    "alt_names": [],
-    "network": "Antena TV Group",
-    "owners": [
-      "Antena TV Group"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "entertainment"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://assets.antenaplay.ro/2026/08/20/DlZIyQ0kSAH3YYj30Ovi.png",
-    "stream_url": "https://live4dai.antenaplay.ro/live2_sdi05/live2_sdi05_600k.m3u8",
-    "stream_quality": "576i",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "Insync.in",
     "name": "Insync",
     "alt_names": [],
@@ -219038,6 +218955,34 @@
       "sources": []
     },
     "website": "https://www.kanal7avrupa.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Kanal8.mk",
+    "name": "Kanal 8",
+    "alt_names": [
+      "Канал 8"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "MK",
+    "country_name": "North Macedonia",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/jHbTDhH.png",
+    "stream_url": "https://tv.kanal8.mk/live/kanal8.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://www.kanal8.mk/",
     "launched": null,
     "closed": null
   },
@@ -251202,6 +251147,42 @@
     "website": "http://www.mcm.fr/mcm-pop/",
     "launched": "2003-11-28",
     "closed": "2014-10-01"
+  },
+  {
+    "id": "MCMTop.fr",
+    "name": "MCM Top",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Groupe M6"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "music"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/EVtWQLd.png",
+    "stream_url": "http://185.228.163.146:8000/play/a00g/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MCMTop.fr",
+      "feed": "SD",
+      "site": "zap.co.ao",
+      "site_id": "2034",
+      "site_name": "MCM TOP",
+      "lang": "pt",
+      "sources": []
+    },
+    "website": "http://www.mcm.fr/mcm-top/",
+    "launched": "2003-11-28",
+    "closed": null
   },
   {
     "id": "MCMTop.ru",
@@ -288398,32 +288379,6 @@
     "closed": null
   },
   {
-    "id": "NHBollyGold.in",
-    "name": "NH BollyGold",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.ibb.co/x9PsrMy/NH-BOLLYGOLD.png",
-    "stream_url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.nhstudioz.tv/",
-    "launched": "2025-04-22",
-    "closed": null
-  },
-  {
     "id": "NHBollyRaga.in",
     "name": "NH BollyRaga",
     "alt_names": [],
@@ -288867,34 +288822,6 @@
     },
     "website": "http://www.nhkworldpremium.com/",
     "launched": "1998-04-01",
-    "closed": null
-  },
-  {
-    "id": "NHLAntenaPlay.ro",
-    "name": "NHL AntenaPlay",
-    "alt_names": [],
-    "network": "Antena TV Group",
-    "owners": [
-      "Antena TV Group"
-    ],
-    "country_code": "RO",
-    "country_name": "Romania",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://assets.antenaplay.ro/2024/10/25/SN0nevshXwKDcZ2Tw1jm.png",
-    "stream_url": "https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://antenaplay.ro/live/nhl-live",
-    "launched": null,
     "closed": null
   },
   {
@@ -290289,43 +290216,6 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/E84jnP8.png",
     "stream_url": "https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NickelodeonLatinAmerica.us",
-      "feed": "Panregional",
-      "site": "siba.com.co",
-      "site_id": "552",
-      "site_name": "NICKELODEON",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "http://nickelodeon.la/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NickelodeonLatinAmerica.us",
-    "name": "Nickelodeon Latin America",
-    "alt_names": [],
-    "network": "Nickelodeon",
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "stream_url": "https://zapster.trapemn.tv:1936/CD-LATAM/Nickelodeon/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -334751,6 +334641,43 @@
     "closed": null
   },
   {
+    "id": "Polsat.pl",
+    "name": "Polsat",
+    "alt_names": [],
+    "network": "Cyfrowy Polsat",
+    "owners": [
+      "Telewizja Polsat",
+      "Cyfrowy Polsat"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/xff6zGN.png",
+    "stream_url": "https://srv7.flussonic111.com/PL_POLSAT_HD/tracks-v1a1/mono.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Polsat.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "polsat-38",
+      "site_name": "Polsat",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://www.polsat.pl/",
+    "launched": "1992-12-05",
+    "closed": null
+  },
+  {
     "id": "PolsatFilm.pl",
     "name": "Polsat Film",
     "alt_names": [],
@@ -338762,6 +338689,44 @@
     "tv_guide": null,
     "website": "https://www.primatv.tv/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "PrimaTV.ro",
+    "name": "Prima TV",
+    "alt_names": [
+      "Canal 38 Amerom Bucureşti"
+    ],
+    "network": null,
+    "owners": [
+      "Clever Group"
+    ],
+    "country_code": "RO",
+    "country_name": "Romania",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/p2umWAT.png",
+    "stream_url": "http://89.44.231.73:7000/primatv",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "PrimaTV.ro",
+      "feed": "SD",
+      "site": "programetv.ro",
+      "site_id": "prima-tv",
+      "site_name": "Prima TV",
+      "lang": "ro",
+      "sources": []
+    },
+    "website": "https://www.primatv.ro/",
+    "launched": "1997-12-17",
     "closed": null
   },
   {
@@ -414166,44 +414131,6 @@
     "closed": null
   },
   {
-    "id": "StarMovies.in",
-    "name": "Star Movies",
-    "alt_names": [],
-    "network": "JioStar",
-    "owners": [
-      "JioStar India Pvt. Ltd.",
-      "Reliance Industries(RIL)",
-      "The Walt Disney Company"
-    ],
-    "country_code": "IN",
-    "country_name": "India",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540",
-    "stream_url": "http://103.151.60.162:2122/play/a02k/index.m3u8?hls",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "StarMovies.in",
-      "feed": "HD",
-      "site": "tataplay.com",
-      "site_id": "560",
-      "site_name": "STAR Movies HD",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.starmovies.in/",
-    "launched": "1991-04-01",
-    "closed": null
-  },
-  {
     "id": "StarMovies.pt",
     "name": "Star Movies",
     "alt_names": [],
@@ -427617,7 +427544,7 @@
     ],
     "languages": [],
     "is_nsfw": false,
-    "logo": "https://tayninhtv.vn/static/images/logo.png",
+    "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Logo%20kh%C3%A1c/TTV11%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20T%C3%A2y%20Ninh%20HD/TTV11%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20T%C3%A2y%20Ninh.png",
     "stream_url": "https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8",
     "stream_quality": "720p",
     "stream_format": null,
@@ -439079,6 +439006,34 @@
     "closed": null
   },
   {
+    "id": "TelevisionTarapoto.pe",
+    "name": "Television Tarapoto",
+    "alt_names": [
+      "Televisión Tarapoto"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "PE",
+    "country_name": "Peru",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Dzen7sh.png",
+    "stream_url": "http://45.5.57.58:8000/play/a038/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.televisiontarapoto.pe/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TelevisoradeOriente.ve",
     "name": "Televisora de Oriente",
     "alt_names": [
@@ -443360,32 +443315,6 @@
     "tv_guide": null,
     "website": "https://thedove.us/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TheFilmDetective.us",
-    "name": "The Film Detective",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/yfOwmsP.png",
-    "stream_url": "https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": null,
-    "launched": "2013-01-01",
     "closed": null
   },
   {
@@ -453817,8 +453746,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/3yXRbQy.png",
-    "stream_url": "http://38.134.250.110:8000/play/a01t/index.m3u8",
-    "stream_quality": "1080p",
+    "stream_url": "http://181.224.255.210:8001/play/a0ou/index.m3u8?hls",
+    "stream_quality": "480p",
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -458386,6 +458315,42 @@
     },
     "website": "http://tv.traveltv.bg/",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "Travelxp.in",
+    "name": "Travelxp",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Celebrities Management Private Limited"
+    ],
+    "country_code": "IN",
+    "country_name": "India",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "travel"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/HUWEnc5.png",
+    "stream_url": "http://88.212.7.14/live/travel_xp_4k/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Travelxp.in",
+      "feed": "FR",
+      "site": "watch.whaletvplus.com",
+      "site_id": "639890171416281521",
+      "site_name": "Travelxp (FR)",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "http://www.travelxp.tv/",
+    "launched": "2011-02-02",
     "closed": null
   },
   {
@@ -479252,6 +479217,40 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ewpSjBs.png",
+    "stream_url": "https://srv7.flussonic111.com/PL_TVP1_HD/tracks-v1a1/mono.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVP1.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tvp-1-321",
+      "site_name": "TVP 1",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://tvp1.tvp.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVP1.pl",
+    "name": "TVP1",
+    "alt_names": [],
+    "network": "TVP",
+    "owners": [
+      "Telewizja Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/ewpSjBs.png",
     "stream_url": "http://92.114.85.87:8009/play/a009/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -479301,6 +479300,40 @@
       "sources": []
     },
     "website": "https://tvp1.tvp.pl/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TVP2.pl",
+    "name": "TVP2",
+    "alt_names": [],
+    "network": "TVP",
+    "owners": [
+      "Telewizja Polska"
+    ],
+    "country_code": "PL",
+    "country_name": "Poland",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/XxCc32B.png",
+    "stream_url": "https://srv7.flussonic111.com/PL_TVP2_HD/tracks-v1a1/mono.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TVP2.pl",
+      "feed": "SD",
+      "site": "programtv.onet.pl",
+      "site_id": "tvp-2-323",
+      "site_name": "TVP 2",
+      "lang": "pl",
+      "sources": []
+    },
+    "website": "https://tvp2.tvp.pl/",
     "launched": null,
     "closed": null
   },

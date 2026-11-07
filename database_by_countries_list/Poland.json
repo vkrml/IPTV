@@ -541,7 +541,7 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/Z193940.png",
-    "stream_url": "https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8",
+    "stream_url": "https://emisja3.btb.j00r.us/iptv/session/3/live.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -3106,44 +3106,6 @@
     "closed": null
   },
   {
-    "id": "Nickelodeon.pl",
-    "name": "Nickelodeon",
-    "alt_names": [
-      "Nickelodeon Polska"
-    ],
-    "network": "Nickelodeon",
-    "owners": [
-      "Paramount Networks EMEAA"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "stream_url": "http://92.114.85.87:8013/play/a005/index.m3u8",
-    "stream_quality": "576i",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Nickelodeon.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "nickelodeon-42",
-      "site_name": "Nickelodeon",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "http://www.nick.com.pl/",
-    "launched": "1998-11-15",
-    "closed": null
-  },
-  {
     "id": "NickJr.pl",
     "name": "Nick Jr.",
     "alt_names": [
@@ -3352,43 +3314,6 @@
     },
     "website": "https://www.polsat2.pl/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Polsat.pl",
-    "name": "Polsat",
-    "alt_names": [],
-    "network": "Cyfrowy Polsat",
-    "owners": [
-      "Telewizja Polsat",
-      "Cyfrowy Polsat"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "general"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/xff6zGN.png",
-    "stream_url": "https://srv7.flussonic111.com/PL_POLSAT_HD/tracks-v1a1/mono.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Polsat.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "polsat-38",
-      "site_name": "Polsat",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "https://www.polsat.pl/",
-    "launched": "1992-12-05",
     "closed": null
   },
   {
@@ -5637,74 +5562,6 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/ewpSjBs.png",
-    "stream_url": "https://srv7.flussonic111.com/PL_TVP1_HD/tracks-v1a1/mono.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVP1.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-1-321",
-      "site_name": "TVP 1",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "https://tvp1.tvp.pl/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVP1.pl",
-    "name": "TVP1",
-    "alt_names": [],
-    "network": "TVP",
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ewpSjBs.png",
-    "stream_url": "http://57.128.210.196:8080/144/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVP1.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-1-321",
-      "site_name": "TVP 1",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "https://tvp1.tvp.pl/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVP1.pl",
-    "name": "TVP1",
-    "alt_names": [],
-    "network": "TVP",
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/ewpSjBs.png",
     "stream_url": "http://92.114.85.87:8009/play/a009/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
@@ -5721,212 +5578,6 @@
     },
     "website": "https://tvp1.tvp.pl/",
     "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVP2.pl",
-    "name": "TVP2",
-    "alt_names": [],
-    "network": "TVP",
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/XxCc32B.png",
-    "stream_url": "https://srv7.flussonic111.com/PL_TVP2_HD/tracks-v1a1/mono.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVP2.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-2-323",
-      "site_name": "TVP 2",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "https://tvp2.tvp.pl/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVP2.pl",
-    "name": "TVP2",
-    "alt_names": [],
-    "network": "TVP",
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/XxCc32B.png",
-    "stream_url": "http://57.128.210.196:8080/143/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVP2.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-2-323",
-      "site_name": "TVP 2",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "https://tvp2.tvp.pl/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVP3Warszawa.pl",
-    "name": "TVP 3 Warszawa",
-    "alt_names": [],
-    "network": "TVP",
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/AfZOO8U.jpg",
-    "stream_url": "http://92.114.85.87:8010/play/a006/index.m3u8",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVP3Warszawa.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-3-warszawa-446",
-      "site_name": "TVP 3 Warszawa",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "http://warszawa.tvp.pl/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TVPABC.pl",
-    "name": "TVP ABC",
-    "alt_names": [],
-    "network": "TVP",
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/wP2mpfM.png",
-    "stream_url": "http://92.114.85.87:8002/play/a00b/index.m3u8",
-    "stream_quality": "576i",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPABC.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-abc-182",
-      "site_name": "TVP ABC",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "https://abc.tvp.pl/",
-    "launched": "2014-02-15",
-    "closed": null
-  },
-  {
-    "id": "TVPHD.pl",
-    "name": "TVP HD",
-    "alt_names": [],
-    "network": "TVP",
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/960px-TVP_HD_logo.svg.png",
-    "stream_url": "http://57.128.210.196:8080/141/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPHD.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-hd-101",
-      "site_name": "TVP HD",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "https://hd.tvp.pl/",
-    "launched": "2008-08-06",
-    "closed": null
-  },
-  {
-    "id": "TVPHistoria.pl",
-    "name": "TVP Historia",
-    "alt_names": [],
-    "network": "TVP",
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/Bc4QZiy.png",
-    "stream_url": "http://92.114.85.87:8002/play/a00d/index.m3u8",
-    "stream_quality": "576i",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPHistoria.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-historia-74",
-      "site_name": "TVP Historia",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "https://historia.tvp.pl/",
-    "launched": "2007-05-03",
     "closed": null
   },
   {
@@ -5961,40 +5612,6 @@
     },
     "website": "https://www.tvp.info/",
     "launched": "2007-10-06",
-    "closed": null
-  },
-  {
-    "id": "TVPKultura.pl",
-    "name": "TVP Kultura",
-    "alt_names": [],
-    "network": "TVP",
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/JU858Es.png",
-    "stream_url": "http://92.114.85.87:8006/play/a007/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPKultura.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-kultura-477",
-      "site_name": "TVP Kultura",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "https://tvpkultura.tvp.pl/",
-    "launched": "2005-04-24",
     "closed": null
   },
   {
@@ -6066,78 +5683,6 @@
     "closed": null
   },
   {
-    "id": "TVPSeriale.pl",
-    "name": "TVP Seriale",
-    "alt_names": [],
-    "network": "TVP",
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "series"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/MuRtvXk.png",
-    "stream_url": "http://92.114.85.87:8019/play/a00a/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPSeriale.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-seriale-130",
-      "site_name": "TVP Seriale",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "https://seriale.tvp.pl/",
-    "launched": "2010-12-06",
-    "closed": null
-  },
-  {
-    "id": "TVPSport.pl",
-    "name": "TVP Sport",
-    "alt_names": [],
-    "network": "TVP",
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "sports"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/JUZDOCO.png",
-    "stream_url": "http://57.128.210.196:8080/134/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPSport.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-sport-40",
-      "site_name": "TVP Sport",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "https://sport.tvp.pl/",
-    "launched": null,
-    "closed": null
-  },
-  {
     "id": "TVPuls.pl",
     "name": "TV Puls",
     "alt_names": [],
@@ -6203,42 +5748,6 @@
     },
     "website": "https://tvpuls.pl/",
     "launched": "1995-12-01",
-    "closed": null
-  },
-  {
-    "id": "TVPWilno.pl",
-    "name": "TVP Wilno",
-    "alt_names": [],
-    "network": "TVP",
-    "owners": [
-      "Telewizja Polska"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/8oORLGF.png",
-    "stream_url": "http://78.62.9.23:55555/TVP%20Wilno%20HD",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "TVPWilno.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "tvp-wilno",
-      "site_name": "TVP Wilno",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "https://wilno.tvp.pl/",
-    "launched": null,
     "closed": null
   },
   {
@@ -6833,69 +6342,6 @@
       "sources": []
     },
     "website": "https://www.wp.pl/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "Wydarzenia24.pl",
-    "name": "Wydarzenia 24",
-    "alt_names": [
-      "Wydarzenia",
-      "Wydarzenia24"
-    ],
-    "network": "Polsat",
-    "owners": [
-      "Telewizja Polsat"
-    ],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/uYpUnHP.png",
-    "stream_url": "http://92.114.85.87:8016/play/a007/index.m3u8",
-    "stream_quality": "576i",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://www.wydarzenia24.pl/",
-    "launched": "2021-09-01",
-    "closed": null
-  },
-  {
-    "id": "ZoomTV.pl",
-    "name": "Zoom TV",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "PL",
-    "country_name": "Poland",
-    "subdivision": null,
-    "city": null,
-    "categories": [],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/UtZM4zm.png",
-    "stream_url": "http://92.114.85.87:8001/play/a00y/index.m3u8",
-    "stream_quality": "576i",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "ZoomTV.pl",
-      "feed": "SD",
-      "site": "programtv.onet.pl",
-      "site_id": "zoom-tv-526",
-      "site_name": "ZOOM TV",
-      "lang": "pl",
-      "sources": []
-    },
-    "website": "http://zoomtv.pl/",
     "launched": null,
     "closed": null
   }

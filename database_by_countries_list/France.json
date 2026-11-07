@@ -3214,6 +3214,42 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/olQJgm7.png",
+    "stream_url": "http://185.228.163.146:8000/play/a03z/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Eurosport1.fr",
+      "feed": "Netherlands",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000020_019432",
+      "site_name": "Eurosport 1",
+      "lang": "nl",
+      "sources": []
+    },
+    "website": "https://www.eurosport.fr/",
+    "launched": "1989-02-05",
+    "closed": null
+  },
+  {
+    "id": "Eurosport1.fr",
+    "name": "Eurosport 1",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/olQJgm7.png",
     "stream_url": "https://s7.iptv-24.net/1439/playlist.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
@@ -3359,6 +3395,42 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/f56dHgR.png",
     "stream_url": "http://88.212.7.14/live/esp2_hun/index.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "Eurosport2.fr",
+      "feed": "Netherlands",
+      "site": "ziggogo.tv",
+      "site_id": "NL_000103_019581",
+      "site_name": "Eurosport 2",
+      "lang": "nl",
+      "sources": []
+    },
+    "website": "https://www.eurosport.fr/",
+    "launched": "2005-01-10",
+    "closed": null
+  },
+  {
+    "id": "Eurosport2.fr",
+    "name": "Eurosport 2",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/f56dHgR.png",
+    "stream_url": "http://185.228.163.146:8000/play/a048/index.m3u8",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -6200,8 +6272,8 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://i.imgur.com/j31lBL7.png",
-    "stream_url": "http://188.115.15.121:8000/play/a014",
-    "stream_quality": "580p",
+    "stream_url": "http://176.65.153.78:8201/play/a070/index.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
     "referrer": null,
@@ -6666,82 +6738,6 @@
     },
     "website": "https://www.myzen.tv/",
     "launched": "2008-01-23",
-    "closed": null
-  },
-  {
-    "id": "Nickelodeon.fr",
-    "name": "Nickelodeon",
-    "alt_names": [
-      "Nickelodéon"
-    ],
-    "network": "Nickelodeon",
-    "owners": [
-      "Paramount Networks France"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "stream_url": "http://151.80.18.177:86/Nickelodeon_FR/index.m3u8",
-    "stream_quality": "504p",
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Nickelodeon.fr",
-      "feed": "SD",
-      "site": "tvcesoir.fr",
-      "site_id": "83495351/nickelodeon",
-      "site_name": "Nickelodéon",
-      "lang": "fr",
-      "sources": []
-    },
-    "website": "http://www.nickelodeon.fr/",
-    "launched": "2005-11-16",
-    "closed": null
-  },
-  {
-    "id": "NickelodeonJunior.fr",
-    "name": "Nickelodeon Junior",
-    "alt_names": [
-      "Nickelodéon Junior"
-    ],
-    "network": "Nickelodeon",
-    "owners": [
-      "Paramount Networks France"
-    ],
-    "country_code": "FR",
-    "country_name": "France",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png",
-    "stream_url": "http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NickelodeonJunior.fr",
-      "feed": "SD",
-      "site": "tvcesoir.fr",
-      "site_id": "78677478/nickelodeon-junior",
-      "site_name": "Nickelodéon Junior",
-      "lang": "fr",
-      "sources": []
-    },
-    "website": "https://www.nickelodeonjunior.fr/",
-    "launched": "2010-01-26",
     "closed": null
   },
   {
@@ -10801,6 +10797,74 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/AJx5Fy2.png",
     "stream_url": "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TV5MondeInfo.fr",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "68a799722895f21006e758e4",
+      "site_name": "TV5MONDE Info",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://maghreb-orient.tv5monde.com/en/direct-tv5monde-info",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TV5MondeInfo.fr",
+    "name": "TV5Monde Info",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/AJx5Fy2.png",
+    "stream_url": "https://tvf-tvfm.otteravision.com/tvf/tvfm/tvfm_720.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TV5MondeInfo.fr",
+      "feed": "SD",
+      "site": "plex.tv",
+      "site_id": "68a799722895f21006e758e4",
+      "site_name": "TV5MONDE Info",
+      "lang": "fr",
+      "sources": []
+    },
+    "website": "https://maghreb-orient.tv5monde.com/en/direct-tv5monde-info",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TV5MondeInfo.fr",
+    "name": "TV5Monde Info",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "FR",
+    "country_name": "France",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/AJx5Fy2.png",
+    "stream_url": "http://91.235.255.32:8001/1:0:1:2CA:14B4:13E:820000:0:0:0",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

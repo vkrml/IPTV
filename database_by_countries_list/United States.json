@@ -27711,6 +27711,33 @@
     "closed": null
   },
   {
+    "id": "Doraemon.us",
+    "name": "Doraemon",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/Doraemon_Merch_EN_Logo.svg",
+    "stream_url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "DoraTV.us",
     "name": "Dora TV",
     "alt_names": [
@@ -28033,6 +28060,34 @@
     },
     "website": "http://dreamworks-asia.com/",
     "launched": "2015-08-01",
+    "closed": null
+  },
+  {
+    "id": "DreamWorksChannelLatinAmerica.us",
+    "name": "DreamWorks Channel Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "NBCUniversal Media LLC"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "https://barinaslive1.boldmss.com/DREAMWORKS/DREAMWORKS.isml/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+    "referrer": null,
+    "tv_guide": null,
+    "website": "http://dreamworkstv.com/",
+    "launched": "2022-04-01",
     "closed": null
   },
   {
@@ -35556,47 +35611,11 @@
     "languages": [],
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
-    "stream_url": "http://138.121.15.230:9002/FOX-NEWS/index.m3u8",
-    "stream_quality": "720p",
+    "stream_url": "https://p14.usnlive.com/stream/foxnews.m3u8",
+    "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "FoxNewsChannel.us",
-      "feed": "SD",
-      "site": "webtv.delta.nl",
-      "site_id": "3116",
-      "site_name": "Fox News Channel",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.foxnews.com/",
-    "launched": "1996-10-07",
-    "closed": null
-  },
-  {
-    "id": "FoxNewsChannel.us",
-    "name": "Fox News Channel",
-    "alt_names": [],
-    "network": null,
-    "owners": [
-      "Fox Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "news"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
-    "stream_url": "http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8",
-    "stream_quality": "144p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
+    "referrer": "https://usnewson.com",
     "tv_guide": {
       "channel": "FoxNewsChannel.us",
       "feed": "SD",
@@ -38113,6 +38132,42 @@
     "closed": null
   },
   {
+    "id": "GolfChannel.us",
+    "name": "Golf Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Versant Media Group Inc."
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/Lgux6Ik.png",
+    "stream_url": "https://tvsen6.aynaott.com/golfchannel/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "GolfChannel.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "61854",
+      "site_name": "Golf Channel",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.golfchannel.com/",
+    "launched": "1995-01-17",
+    "closed": null
+  },
+  {
     "id": "GolfChannelLatinAmerica.us",
     "name": "Golf Channel Latin America",
     "alt_names": [],
@@ -39648,6 +39703,42 @@
     "closed": null
   },
   {
+    "id": "HBOPopLatinAmerica.us",
+    "name": "HBO Pop Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "comedy"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png",
+    "stream_url": "http://15.204.246.24:8080/HBOPOPHD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HBOPopLatinAmerica.us",
+      "feed": "SD",
+      "site": "reportv.com.ar",
+      "site_id": "3422",
+      "site_name": "HBO POP PANAMERICANO",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.hbolatam.com/",
+    "launched": "2015-01-10",
+    "closed": null
+  },
+  {
     "id": "HBOSignatureLatinAmerica.us",
     "name": "HBO Signature Latin America",
     "alt_names": [],
@@ -39704,6 +39795,43 @@
     "stream_quality": null,
     "stream_format": null,
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18",
+    "referrer": null,
+    "tv_guide": {
+      "channel": "HBOXtremeLatinAmerica.us",
+      "feed": "SD",
+      "site": "reportv.com.ar",
+      "site_id": "334",
+      "site_name": "HBO XTREME",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "https://www.hbolatam.com/",
+    "launched": "2020-02-01",
+    "closed": null
+  },
+  {
+    "id": "HBOXtremeLatinAmerica.us",
+    "name": "HBO Xtreme Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies",
+      "series"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png",
+    "stream_url": "http://15.204.246.24:8080/HBOXTREMEHD/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
     "referrer": null,
     "tv_guide": {
       "channel": "HBOXtremeLatinAmerica.us",
@@ -49699,6 +49827,42 @@
     "closed": null
   },
   {
+    "id": "MarqueeSportsNetwork.us",
+    "name": "Marquee Sports Network",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Sinclair Broadcast Group Chicago Cubs"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/960px-Marquee_Sports_Network_Logo.svg.png",
+    "stream_url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "MarqueeSportsNetwork.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "113776",
+      "site_name": "Marquee Sports Network",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.marqueesportsnetwork.com/",
+    "launched": "2020-02-22",
+    "closed": null
+  },
+  {
     "id": "MarriedwithChildren.us",
     "name": "Married with Children",
     "alt_names": [],
@@ -50619,6 +50783,35 @@
     "tv_guide": null,
     "website": "https://new.opencaster.com/player?user=MetaleitorTv",
     "launched": null,
+    "closed": null
+  },
+  {
+    "id": "MeTVToons.us",
+    "name": "MeTV Toons",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Weigel Broadcasting"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://imageio.forbes.com/specials-images/imageserve/66324b9df74b11c48a2f3be5/0x0.jpg?format=jpg&height=512&fit=bounds",
+    "stream_url": "https://sr-live-weigel1.akamaized.net/out/v1/0d1dbf29e64e47bc991796cc24fbeb97/index_2.m3u8",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://metvtoons.com/",
+    "launched": "2024-06-25",
     "closed": null
   },
   {
@@ -59779,6 +59972,42 @@
     "closed": null
   },
   {
+    "id": "NFLNetwork.us",
+    "name": "NFL Network",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "National Football League"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "sports"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",
+    "stream_url": "https://tvsen6.aynaott.com/nfl/index.m3u8",
+    "stream_quality": "576p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "NFLNetwork.us",
+      "feed": "SD",
+      "site": "tvtv.us",
+      "site_id": "102790",
+      "site_name": "NFL Network",
+      "lang": "en",
+      "sources": []
+    },
+    "website": "https://www.nfl.com/network",
+    "launched": "2003-11-04",
+    "closed": null
+  },
+  {
     "id": "NHLNetwork.us",
     "name": "NHL Network",
     "alt_names": [],
@@ -59919,43 +60148,6 @@
     "closed": null
   },
   {
-    "id": "Nickelodeon.us",
-    "name": "Nickelodeon",
-    "alt_names": [],
-    "network": "Nickelodeon",
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "stream_url": "http://198.58.104.90:8989/nickelodeon/index.m3u8",
-    "stream_quality": "720p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "Nickelodeon.us",
-      "feed": "West",
-      "site": "tvtv.us",
-      "site_id": "11007",
-      "site_name": "Nickelodeon West",
-      "lang": "en",
-      "sources": []
-    },
-    "website": "http://www.nick.com/",
-    "launched": "1979-04-01",
-    "closed": null
-  },
-  {
     "id": "NickelodeonClasico.us",
     "name": "Nickelodeon Clasico",
     "alt_names": [
@@ -60048,43 +60240,6 @@
     "referrer": null,
     "tv_guide": null,
     "website": "https://pluto.tv/live-tv/nick-en-espanol/details",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "NickelodeonLatinAmerica.us",
-    "name": "Nickelodeon Latin America",
-    "alt_names": [],
-    "network": "Nickelodeon",
-    "owners": [
-      "Viacom International Inc.",
-      "Paramount Skydance Corporation"
-    ],
-    "country_code": "US",
-    "country_name": "United States",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "kids"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/E84jnP8.png",
-    "stream_url": "http://15.204.246.24:8080/NickHD/index.m3u8",
-    "stream_quality": "1080p",
-    "stream_format": null,
-    "user_agent": null,
-    "referrer": null,
-    "tv_guide": {
-      "channel": "NickelodeonLatinAmerica.us",
-      "feed": "Panregional",
-      "site": "siba.com.co",
-      "site_id": "552",
-      "site_name": "NICKELODEON",
-      "lang": "es",
-      "sources": []
-    },
-    "website": "http://nickelodeon.la/",
     "launched": null,
     "closed": null
   },
@@ -77976,6 +78131,33 @@
     "closed": null
   },
   {
+    "id": "Shinchan.us",
+    "name": "Shin-chan",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "animation",
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://image.tmdb.org/t/p/original/fIYWvHIeqc1A9D4PyayFkgjRxCh.png",
+    "stream_url": "https://live20.bozztv.com/giatvplayout7/giatv-210780/index.m3u8",
+    "stream_quality": "720p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "ShopLC.us",
     "name": "Shop LC",
     "alt_names": [],
@@ -82607,6 +82789,40 @@
     "is_nsfw": false,
     "logo": "https://i.imgur.com/QpDkrmT.png",
     "stream_url": "https://streaming.onnethn.com/TCM_HD/playlist.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "TCMLatinAmerica.us",
+      "feed": "Panregional",
+      "site": "reportv.com.ar",
+      "site_id": "910",
+      "site_name": "TCM",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.tcmla.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "TCMLatinAmerica.us",
+    "name": "TCM Latin America",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/QpDkrmT.png",
+    "stream_url": "http://181.78.14.26:4000/play/a04d/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,
@@ -95237,6 +95453,42 @@
     "is_nsfw": false,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png",
     "stream_url": "http://38.134.250.110:8000/play/a029/index.m3u8",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "WarnerChannel.us",
+      "feed": "Panregional",
+      "site": "siba.com.co",
+      "site_id": "608",
+      "site_name": "WARNER CHANNEL",
+      "lang": "es",
+      "sources": []
+    },
+    "website": "http://www.warnerchannel.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "WarnerChannel.us",
+    "name": "Warner Channel",
+    "alt_names": [],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "US",
+    "country_name": "United States",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "movies"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png",
+    "stream_url": "http://15.204.246.24:8080/WarnerChannelHD/index.m3u8",
     "stream_quality": "1080p",
     "stream_format": null,
     "user_agent": null,

@@ -960,6 +960,44 @@
     "closed": null
   },
   {
+    "id": "DiscoveryChannel.bg",
+    "name": "Discovery Channel",
+    "alt_names": [
+      "Discovery Channel България"
+    ],
+    "network": null,
+    "owners": [
+      "Skydance Corporation"
+    ],
+    "country_code": "BG",
+    "country_name": "Bulgaria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "entertainment"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+    "stream_url": "http://213.91.179.28:8000/play/a044",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "DiscoveryChannel.bg",
+      "feed": "SD",
+      "site": "tv.dir.bg",
+      "site_id": "4",
+      "site_name": "Discovery Channel",
+      "lang": "bg",
+      "sources": []
+    },
+    "website": null,
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "DisneyChannel.bg",
     "name": "Disney Channel",
     "alt_names": [],
@@ -1287,6 +1325,35 @@
     "is_nsfw": false,
     "logo": null,
     "stream_url": "http://213.91.179.28:8000/play/a0cf",
+    "stream_quality": null,
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": null,
+    "website": "https://www.wbd.com/",
+    "launched": null,
+    "closed": null
+  },
+  {
+    "id": "ID.bg",
+    "name": "ID",
+    "alt_names": [
+      "ID България",
+      "Investigation Discovery Bulgaria"
+    ],
+    "network": null,
+    "owners": [],
+    "country_code": "BG",
+    "country_name": "Bulgaria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "documentary"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": null,
+    "stream_url": "http://213.91.179.28:8000/play/a0c0",
     "stream_quality": null,
     "stream_format": null,
     "user_agent": null,
@@ -2058,6 +2125,40 @@
     "closed": null
   },
   {
+    "id": "SuperToons.bg",
+    "name": "Super Toons",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country_code": "BG",
+    "country_name": "Bulgaria",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "kids"
+    ],
+    "languages": [],
+    "is_nsfw": false,
+    "logo": "https://i.imgur.com/e5fdQZl.png",
+    "stream_url": "https://d3bxvshzgfq6in.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8a0c583l9gryw/feed/samsung/streams/SUPERTOONS_EN/master.m3u8?token=737aa2c3f17862a448f403cd2ac2b5ef1a0c413e1cf080a13a19cea99119221f",
+    "stream_quality": "1080p",
+    "stream_format": null,
+    "user_agent": null,
+    "referrer": null,
+    "tv_guide": {
+      "channel": "SuperToons.bg",
+      "feed": "SD",
+      "site": "tv.dir.bg",
+      "site_id": "27",
+      "site_name": "Super Toons",
+      "lang": "bg",
+      "sources": []
+    },
+    "website": "https://supertoons.bg/",
+    "launched": null,
+    "closed": null
+  },
+  {
     "id": "TheVoice.bg",
     "name": "The Voice",
     "alt_names": [],
@@ -2204,32 +2305,6 @@
       "sources": []
     },
     "website": "http://tv.traveltv.bg/",
-    "launched": null,
-    "closed": null
-  },
-  {
-    "id": "TV1000.bg",
-    "name": "TV1000",
-    "alt_names": [],
-    "network": null,
-    "owners": [],
-    "country_code": "BG",
-    "country_name": "Bulgaria",
-    "subdivision": null,
-    "city": null,
-    "categories": [
-      "movies"
-    ],
-    "languages": [],
-    "is_nsfw": false,
-    "logo": "https://i.imgur.com/GHNsctR.png",
-    "stream_url": "http://85.14.32.26:8800/udp/239.100.10.100:5000",
-    "stream_quality": null,
-    "stream_format": null,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",
-    "referrer": null,
-    "tv_guide": null,
-    "website": "https://tv1000.bg/",
     "launched": null,
     "closed": null
   },
